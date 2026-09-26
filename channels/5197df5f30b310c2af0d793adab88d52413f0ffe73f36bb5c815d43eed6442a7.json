@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "engine": 1,
+  "baseId": "5197df5f30b310c2af0d793adab88d52413f0ffe73f36bb5c815d43eed6442a7",
+  "version": 1,
+  "label": "Full-screen battle background",
+  "files": [
+    {
+      "path": "content/game-data.json",
+      "sha256": "f07eeee00251ca6bc8026e72ff3666afa6fd3f169a38f3f02385bc35e55e2f53",
+      "bytes": 312
+    }
+  ]
+}
