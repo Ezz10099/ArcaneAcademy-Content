@@ -1,0 +1,1 @@
+{"schema":1,"message":"Live battle layout update: larger battlefield and fighters.","presentation":{"battle":{"deckMinHeight":94,"deckViewportHeight":11,"deckMaxHeight":106,"fieldDeckGap":4},"combat":{"characterScale":0.49,"bossScale":0.52}}}
