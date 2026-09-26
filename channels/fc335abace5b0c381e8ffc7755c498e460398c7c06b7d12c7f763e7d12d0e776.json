@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "engine": 1,
+  "baseId": "fc335abace5b0c381e8ffc7755c498e460398c7c06b7d12c7f763e7d12d0e776",
+  "version": 1,
+  "label": "First live content proof",
+  "files": [
+    {
+      "path": "content/game-data.json",
+      "sha256": "497d0b04090389252e4e2a8d8333c16f5b908ad199f5343ec74b4c5a9d5152d7",
+      "bytes": 98
+    }
+  ]
+}
