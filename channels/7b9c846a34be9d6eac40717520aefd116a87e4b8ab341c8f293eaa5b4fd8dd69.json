@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "engine": 1,
+  "baseId": "7b9c846a34be9d6eac40717520aefd116a87e4b8ab341c8f293eaa5b4fd8dd69",
+  "version": 2,
+  "label": "Visible live update test 2",
+  "files": [
+    {
+      "path": "content/game-data.json",
+      "sha256": "11abc340f428c04a67823c647508cf6543cac910edcdf85261ef3fb37f3acd20",
+      "bytes": 151
+    }
+  ]
+}
