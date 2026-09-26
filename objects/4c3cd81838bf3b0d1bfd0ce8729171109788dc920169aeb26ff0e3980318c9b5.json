@@ -1,0 +1,1 @@
+{"schema":1,"message":"Battle layout update: slightly larger trainee bar; full-screen background cover is queued for the next renderer capability.","presentation":{"battle":{"deckMinHeight":112,"deckViewportHeight":14,"deckMaxHeight":126,"fieldDeckGap":4},"combat":{"characterScale":0.49,"bossScale":0.52}}}
