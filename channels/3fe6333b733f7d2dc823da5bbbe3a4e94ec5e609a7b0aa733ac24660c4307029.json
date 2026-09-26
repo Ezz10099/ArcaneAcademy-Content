@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "engine": 1,
+  "baseId": "3fe6333b733f7d2dc823da5bbbe3a4e94ec5e609a7b0aa733ac24660c4307029",
+  "version": 1,
+  "label": "Larger live battle layout",
+  "files": [
+    {
+      "path": "content/game-data.json",
+      "sha256": "54ef2e025bfbe9b234e2a694355c95235d60734fba88f77b58ac2312551d3798",
+      "bytes": 242
+    }
+  ]
+}
