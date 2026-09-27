@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#061725">
+  <style>
+    /* Preserve authored game artwork when Android WebView Auto Dark is enabled. */
+    :root { color-scheme: only light; }
+  </style>
+  <meta name="application-name" content="Arcane Academy">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Arcane Academy">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>Arcane Academy</title>
+  <link rel="manifest" href="./manifest.webmanifest?v=20260624-forest-map-v2">
+  <link rel="icon" href="./app-icon.svg?v=20260624-forest-map-v2" type="image/svg+xml">
+  <link rel="preload" as="image" href="./final-assets/expedition/location-backgrounds/forest-gate-1-1.jpg?v=20260731-resilient-v2" fetchpriority="high">
+  <link rel="preload" as="image" href="./final-assets/expedition/location-backgrounds/forest-gate-emissive-1.svg?v=20260804-emissive-restored-v1">
+  <link rel="preload" as="image" href="./final-assets/expedition/location-backgrounds/forest-gate-emissive-2.svg?v=20260804-emissive-restored-v1">
+  <link rel="preload" as="image" href="./final-assets/expedition/location-backgrounds/forest-gate-emissive-3.svg?v=20260804-emissive-restored-v1">
+  <link rel="stylesheet" href="style.css?v=20260818-trainers-balance-v1">
+  <link rel="stylesheet" href="expedition-mobile.css?v=20260812-battle-entry-v1">
+  <link rel="stylesheet" href="shared-upper-hud.css?v=20260623-shared-hud-v1">
+  <link rel="stylesheet" href="forest-gate-map.css?v=20260812-battle-entry-v1">
+<link rel="stylesheet" href="./services-update-proof.css">
+</head>
+<body>
+  <div id="game-root" class="game-root" aria-label="Arcane Academy browser preview">
+    <div class="preview-loading">Loading preview... If this stays on screen, open http://localhost:4173/ instead.</div>
+  </div>
+  <script type="module" src="main.js?v=20260818-trainers-balance-v1"></script>
+  <script type="module" src="expedition-asset-paths.js?v=20260623-organized-assets-v1"></script>
+  <script type="module" src="shared-upper-hud.js?v=20260623-shared-hud-v1"></script>
+  <script type="module" src="expedition-mobile.js?v=20260812-battle-entry-v1"></script>
+  <script type="module" src="forest-gate-map.js?v=20260812-battle-entry-v1"></script>
+  <script>
+    (() => {
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations()
+          .then((registrations) => Promise.all(
+            registrations.map((registration) => registration.unregister())
+          ))
+          .catch((error) => console.warn('Service worker cleanup failed:', error));
+      }
+
+      if ('caches' in window) {
+        caches.keys()
+          .then((keys) => Promise.all(
+            keys
+              .filter((key) => key.startsWith('arcane-academy-'))
+              .map((key) => caches.delete(key))
+          ))
+          .catch((error) => console.warn('Preview cache cleanup failed:', error));
+      }
+    })();
+  </script>
+  <script nomodule>
+    document.getElementById('game-root').innerHTML = '<div class="preview-loading">This preview needs a modern browser.</div>';
+  </script>
+  <script src="./apk-build-info.js"></script>
+</body>
+</html>
