@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 3,
-  "label": "Distinct trainee basic attack SFX",
+  "version": 4,
+  "label": "Fix trainee basic attack cue playback",
   "entry": "index.html",
   "files": [
     {
@@ -703,8 +703,8 @@
     },
     {
       "path": "src/platform/game-audio.js",
-      "sha256": "5794e783befe952b05e1ac7a20a7aef5c99097f2fc54a589c67c077647002d41",
-      "bytes": 12164
+      "sha256": "884fc42ffd956dc04d21e0197c5c2c5065a401368e86ee85c6a526bd1dc768c5",
+      "bytes": 12615
     },
     {
       "path": "src/platform/game-settings.js",
