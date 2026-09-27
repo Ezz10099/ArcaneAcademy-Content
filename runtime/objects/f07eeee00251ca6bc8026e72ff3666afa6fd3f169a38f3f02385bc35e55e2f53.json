@@ -1,0 +1,1 @@
+{"schema":1,"message":"Full-screen battle background + slightly wider trainee bar.","presentation":{"battle":{"deckMinHeight":112,"deckViewportHeight":14,"deckMaxHeight":126,"fieldDeckGap":4,"backgroundCover":true,"backgroundZoom":100,"backgroundPositionY":50},"combat":{"characterScale":0.49,"bossScale":0.52}}}
