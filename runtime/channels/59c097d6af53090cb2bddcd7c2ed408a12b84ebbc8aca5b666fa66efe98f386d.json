@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "59c097d6af53090cb2bddcd7c2ed408a12b84ebbc8aca5b666fa66efe98f386d",
-  "version": 1,
-  "label": "Live update proof - full game runtime",
+  "version": 2,
+  "label": "Live update works - full runtime proof",
   "entry": "index.html",
   "files": [
     {
@@ -638,13 +638,13 @@
     },
     {
       "path": "runtime-proof/live.css",
-      "sha256": "87a831e5d4472d5b52c82b8e517bfba11ecdb5422a3a7b2e3620a65ee3bebbca",
-      "bytes": 114
+      "sha256": "55de49ada3f8fb0f47c34ba5d1ec749c097dee5063b367fbb3a7701c46ad46d0",
+      "bytes": 220
     },
     {
       "path": "runtime-proof/live.js",
-      "sha256": "7963d4f3ed1679adcc8048209122f57a90c832ff5f7f02913f0fa5dbcab38866",
-      "bytes": 344
+      "sha256": "e830d933717b7154cdd295ebbc7e1c9040ed5bc47c1b27efc45f2dde5fb91dac",
+      "bytes": 53
     },
     {
       "path": "shared-upper-hud.css",

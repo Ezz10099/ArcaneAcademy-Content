@@ -1,0 +1,2 @@
+html[data-runtime-proof="1"] [data-action="content-updates"] { outline: 2px solid #56df9b; outline-offset: 1px; }
+html[data-runtime-proof="1"] #content-title::after { content: " — Live update works"; color: #56df9b; }
