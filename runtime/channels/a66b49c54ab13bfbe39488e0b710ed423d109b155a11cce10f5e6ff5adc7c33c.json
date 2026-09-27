@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 1,
-  "label": "Settings live-update proof",
+  "version": 2,
+  "label": "Save backup compatibility",
   "entry": "index.html",
   "files": [
     {
@@ -693,8 +693,8 @@
     },
     {
       "path": "src/platform/game-settings.js",
-      "sha256": "3acf0e827fe1d7252620744260764db03f7e73b4346d5ca62f23e24360d82e69",
-      "bytes": 15902
+      "sha256": "ab0ba926d500401c88a496df3e4b64caf59075150964bef12238a70bcea8dc8f",
+      "bytes": 16249
     },
     {
       "path": "src/platform/persistent-storage.js",
