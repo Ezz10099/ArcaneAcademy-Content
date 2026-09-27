@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 2,
-  "label": "Save backup compatibility",
+  "version": 3,
+  "label": "Distinct trainee basic attack SFX",
   "entry": "index.html",
   "files": [
     {
@@ -97,9 +97,19 @@
       "bytes": 4573
     },
     {
-      "path": "final-assets/audio/README.md",
-      "sha256": "127e8c382d4d1ac5052dfc8fedd883c9205f7e232f8f961f4d2cf43607fea8ba",
-      "bytes": 2577
+      "path": "final-assets/audio/12_cinder_basic.wav",
+      "sha256": "c9690c4b1357f5f9c6aac4dc4cff49e600aa9550f5d9786c6775910bced0167b",
+      "bytes": 192770
+    },
+    {
+      "path": "final-assets/audio/13_yssa_basic.wav",
+      "sha256": "3eafebcc576ad7473c10fb7c5c93e5dfd7140555522fc033d5ee1c137650e931",
+      "bytes": 192770
+    },
+    {
+      "path": "final-assets/audio/14_lumen_basic.wav",
+      "sha256": "edc19e0ac9c51b27253275b3dc234e359ffd2e9d516e5501f23a9f178382f61f",
+      "bytes": 192770
     },
     {
       "path": "final-assets/audio/academy.ogg",
@@ -115,6 +125,11 @@
       "path": "final-assets/audio/expedition.ogg",
       "sha256": "b92f23c4b80ff9abc870c97ba29cc971e89d36457967d482a290e3406e0f60ce",
       "bytes": 423158
+    },
+    {
+      "path": "final-assets/audio/README.md",
+      "sha256": "127e8c382d4d1ac5052dfc8fedd883c9205f7e232f8f961f4d2cf43607fea8ba",
+      "bytes": 2577
     },
     {
       "path": "final-assets/battle/backgrounds/forest-gate-battlefield.jpg",
@@ -542,11 +557,6 @@
       "bytes": 511496
     },
     {
-      "path": "final-assets/navigation/bottom-tabs/README.md",
-      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
-      "bytes": 1071
-    },
-    {
       "path": "final-assets/navigation/bottom-tabs/academy-tab.png",
       "sha256": "1bba8a315a811ffa28baf637fd586458584204449cfb45e4e6f0c435bd708899",
       "bytes": 77465
@@ -565,6 +575,11 @@
       "path": "final-assets/navigation/bottom-tabs/expedition-tab.png",
       "sha256": "1c9e700104923abceedf07e372db45ef0e89c80d0b50acd67d7378d4a5185aaa",
       "bytes": 74676
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/README.md",
+      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
+      "bytes": 1071
     },
     {
       "path": "final-assets/navigation/bottom-tabs/summon-tab.png",
@@ -688,8 +703,8 @@
     },
     {
       "path": "src/platform/game-audio.js",
-      "sha256": "b3fae4a40edf2a6a217265ed0489b2bdd0354e5878d424f279b2a6b5654f2dd5",
-      "bytes": 11270
+      "sha256": "5794e783befe952b05e1ac7a20a7aef5c99097f2fc54a589c67c077647002d41",
+      "bytes": 12164
     },
     {
       "path": "src/platform/game-settings.js",
@@ -702,14 +717,14 @@
       "bytes": 6352
     },
     {
-      "path": "src/vendor/PHASER-LICENSE.txt",
-      "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
-      "bytes": 1100
-    },
-    {
       "path": "src/vendor/phaser-4.2.1.min.js",
       "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
       "bytes": 1375976
+    },
+    {
+      "path": "src/vendor/PHASER-LICENSE.txt",
+      "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
+      "bytes": 1100
     },
     {
       "path": "style.css",
