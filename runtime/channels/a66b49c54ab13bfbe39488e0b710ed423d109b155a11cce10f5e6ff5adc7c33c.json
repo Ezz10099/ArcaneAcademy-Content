@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 7,
-  "label": "Trainee portraits and upgrade button",
+  "version": 8,
+  "label": "Trainees screen spacing polish",
   "entry": "index.html",
   "files": [
     {
@@ -783,8 +783,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "aa584edc4392bc00124b11d0e2f872047094a86723f94f5e1c20e21efaf65114",
-      "bytes": 285071
+      "sha256": "996ea039ce607c5956d540876adf0ab5c553636da598acc7d116f15714f766af",
+      "bytes": 287121
     }
   ]
 }
