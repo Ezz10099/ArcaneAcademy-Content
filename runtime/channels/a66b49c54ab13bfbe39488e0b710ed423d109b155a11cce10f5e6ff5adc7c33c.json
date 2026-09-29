@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 6,
-  "label": "Dedicated trainee ultimate and healing SFX",
+  "version": 7,
+  "label": "Trainee portraits and upgrade button",
   "entry": "index.html",
   "files": [
     {
@@ -708,8 +708,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "805372e7d214b3d6c6d4c8451bb48e85fbd38a6b1fdc2c7cee6e9c686d37c69e",
-      "bytes": 88387
+      "sha256": "fd45b1c2bdfce6768c8861ca03de0c01accd08eed43c91ccc587fafb051213d1",
+      "bytes": 89579
     },
     {
       "path": "manifest.webmanifest",
@@ -783,8 +783,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "32c788cc322fdb04aadcf3302b68461dd37392ef733279f817b4b686cb8c202c",
-      "bytes": 283683
+      "sha256": "aa584edc4392bc00124b11d0e2f872047094a86723f94f5e1c20e21efaf65114",
+      "bytes": 285071
     }
   ]
 }
