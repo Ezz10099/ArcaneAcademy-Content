@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 10,
-  "label": "Pre-battle spacing and grounding",
+  "version": 11,
+  "label": "Battlefield grounding fix b252273",
   "entry": "index.html",
   "files": [
     {
@@ -728,8 +728,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "6b80926f0e230979b9812ae6d707c3203016d4661d18e8aa478c9f51c9a78e04",
-      "bytes": 99312
+      "sha256": "33666322cd9ec943ea17926776b08e52bdb9edb31f0bc3beaaa6b8c6a20621ce",
+      "bytes": 99458
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
