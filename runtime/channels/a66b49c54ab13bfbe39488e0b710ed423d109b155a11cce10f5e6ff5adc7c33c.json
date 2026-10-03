@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 13,
-  "label": "Eight-trainee animations and final battle cue timing",
+  "version": 14,
+  "label": "Combat courtyard spacing and readable unit bars",
   "entry": "index.html",
   "files": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "path": "content/base.json",
-      "sha256": "163b1eb5f192339d1d28c5ca7ade79d612a63eb44323ece5a18a749674414586",
+      "sha256": "b0b8c09cd1d7094fc74c12c0e29a18bdcb95d11fb1d189fa0e674c40bb087b3b",
       "bytes": 26234
     },
     {
@@ -883,8 +883,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "ea13697a9f00ad924b923e67f87654d6a50dcc04475ec86f5739831ec2ae0143",
-      "bytes": 94145
+      "sha256": "dc5c47ce92ff03049aaf9b81f887353749b5fd9782d9092ac4a2a3b694f81ce1",
+      "bytes": 94229
     },
     {
       "path": "manifest.webmanifest",
@@ -903,8 +903,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "9e12ef40fdd16b3f655332f64c2e268d2696a1b433ba2c3321d3270f9f13863f",
-      "bytes": 103328
+      "sha256": "943885eac6e78b171ba5c5fae7abec8e0f7b8babda0a88915c71260024a9e66d",
+      "bytes": 105104
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -918,7 +918,7 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "5517d00be0d57b35d8c6cd85f0ab163a5214ccee71f59926a5beb9fb7cb0056f",
+      "sha256": "3725a9ad34305205e6af1f2dbf4617730dc2dd3d75af63de9d1eb145479df0d4",
       "bytes": 28175
     },
     {
@@ -958,8 +958,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "ebf381e21a24d78fd8d90914149d4205e0d68a24db68c30a6b1ecb4f6c0aed29",
-      "bytes": 289728
+      "sha256": "2045383774f21153725c0785d36b3adaeeede5b889ab0f13f71265c4fe2a1dd1",
+      "bytes": 290414
     }
   ]
 }
