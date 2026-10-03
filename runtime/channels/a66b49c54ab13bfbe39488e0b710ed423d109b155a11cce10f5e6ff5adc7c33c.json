@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 12,
-  "label": "Eight-trainee animations and five-versus-five",
+  "version": 13,
+  "label": "Eight-trainee animations and final battle cue timing",
   "entry": "index.html",
   "files": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "path": "content/base.json",
-      "sha256": "164c363af87b4110b303c65072080c3b02c4150cda2bf481df429f076de8e191",
+      "sha256": "163b1eb5f192339d1d28c5ca7ade79d612a63eb44323ece5a18a749674414586",
       "bytes": 26234
     },
     {
@@ -883,8 +883,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "00622dc815af64aaf54bb0223a0ce5ff1a1196f1a3253154712e2b944bb2a308",
-      "bytes": 93744
+      "sha256": "ea13697a9f00ad924b923e67f87654d6a50dcc04475ec86f5739831ec2ae0143",
+      "bytes": 94145
     },
     {
       "path": "manifest.webmanifest",
@@ -903,8 +903,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "28eced6f7c3c3eee3f4c4271a6ea9f7c5f2b5d76556202201d13f892c453549b",
-      "bytes": 101877
+      "sha256": "9e12ef40fdd16b3f655332f64c2e268d2696a1b433ba2c3321d3270f9f13863f",
+      "bytes": 103328
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -933,8 +933,8 @@
     },
     {
       "path": "src/platform/game-audio.js",
-      "sha256": "672f7f4cb11dd8ceba951f5732dc6bf3eb6e7e7904fe6c020b774c4dc3b29cf0",
-      "bytes": 15059
+      "sha256": "9d924be91832bc623c247cc85328478936606a8460e44d137e4db53cacd77ee9",
+      "bytes": 15175
     },
     {
       "path": "src/platform/game-settings.js",
