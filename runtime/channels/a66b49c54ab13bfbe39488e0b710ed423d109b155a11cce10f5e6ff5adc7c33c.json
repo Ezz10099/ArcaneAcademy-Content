@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 11,
-  "label": "Battlefield grounding fix b252273",
+  "version": 12,
+  "label": "Eight-trainee animations and five-versus-five",
   "entry": "index.html",
   "files": [
     {
@@ -18,8 +18,8 @@
     },
     {
       "path": "content/base.json",
-      "sha256": "8dd738e008dc5f6ad021fea2cd309452cce28b7d350ebaf62c2579691050ba95",
-      "bytes": 18240
+      "sha256": "164c363af87b4110b303c65072080c3b02c4150cda2bf481df429f076de8e191",
+      "bytes": 26234
     },
     {
       "path": "content/game-data.json",
@@ -232,6 +232,76 @@
       "bytes": 115185
     },
     {
+      "path": "final-assets/battle/characters/dusk/dusk-attack-right.webp",
+      "sha256": "c4d121f4b0a3e258b11c97f9e10bc51c9133af8100f94a520f06e4902e6ec336",
+      "bytes": 62980
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-defeat-right.webp",
+      "sha256": "c5214b28640a0f9b34503c410aa94afe75ad8500d6c35566d8057c3aa28b9c4e",
+      "bytes": 51388
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-hit-right.webp",
+      "sha256": "40e2eae0239b2fdf11a06ac81d76b86f8c2b7e540309138aa939d91be67cba5b",
+      "bytes": 53102
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-idle-right.webp",
+      "sha256": "4a0a84d17dbf06424c8ba5b9272f09f683f1d1ca183a130995914f0c7e10979f",
+      "bytes": 66338
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-move-right.webp",
+      "sha256": "b6162e382089f122bf383d355a9effca3d1789123e07f1a985e61a6683ae5a76",
+      "bytes": 60636
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-skill-right.webp",
+      "sha256": "28a1666380b5707ac6fd6e0e8d5bcbe9ddb83d7b993925fcc7fc974331fde0a7",
+      "bytes": 59948
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-ultimate-right.webp",
+      "sha256": "02d2e809004909c7ce8ebd115f025d5075d3c5c21eb9659f647daf6dd3c993f2",
+      "bytes": 65470
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-attack-right.webp",
+      "sha256": "31eadd8b7568dd6f471340ee605db7b11028aa09d1985b2c26e2d5ff38724770",
+      "bytes": 97460
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-defeat-right.webp",
+      "sha256": "375ef140cd2648232675f0cf98a6aaa619d4d7a950d237f6a2c562f5f595b70c",
+      "bytes": 69928
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-hit-right.webp",
+      "sha256": "886ae56a44319b76b167787fcced517c6c94689c2db13371bf88429b9f1b40fd",
+      "bytes": 76832
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-idle-right.webp",
+      "sha256": "c758b7e850372baf9ae15220a22c266c8ffbf7114ec40e492f662b2b1b89f580",
+      "bytes": 86250
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-move-right.webp",
+      "sha256": "967a78d337b681e152bfe8d01453170bfb01b31649ad81b416ec8ae51c6f0cca",
+      "bytes": 85210
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-skill-right.webp",
+      "sha256": "62c470abc9d647d53bb429d2c1ac26f3873990ae5798dfe69de200202263e59b",
+      "bytes": 89744
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-ultimate-right.webp",
+      "sha256": "3a8217272f3e1a4e79acb5d76c6032dbd758f96ad661239f109d3d727ff9778e",
+      "bytes": 98228
+    },
+    {
       "path": "final-assets/battle/characters/lumen-solis/lumen-solis-attack-right.webp",
       "sha256": "da479b91993573399f90de01c2636b7b582181a9e3040397e9da1bdc58ad4e06",
       "bytes": 112638
@@ -265,6 +335,111 @@
       "path": "final-assets/battle/characters/lumen-solis/lumen-solis-ultimate-right.webp",
       "sha256": "0f3fcdb69e84a8924ff552fae956d01779c5b20a4f9ebf38885dcec44702039a",
       "bytes": 151524
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-attack-right.webp",
+      "sha256": "0fc987fc5b36b175bf12b3e3c5044cccc583ad9c031ade26d365759ec273b874",
+      "bytes": 79490
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-defeat-right.webp",
+      "sha256": "efd33b29c2e41cb5e44cd79f9e738907169a1c3b6f71228f5d7a7eedc0e4b7e2",
+      "bytes": 48774
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-hit-right.webp",
+      "sha256": "cf8f20121f28413cfbb3158ef8d34b7aeea99db9600a991c6b040cc1c55f4ea1",
+      "bytes": 61726
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-idle-right.webp",
+      "sha256": "bb735fb0d39c423c9fc24fea428c7e4bd1ffbed140aaf1f2bfb3ea026984cb7c",
+      "bytes": 68952
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-move-right.webp",
+      "sha256": "588eaeb874523186571e786fab691370236d635d9d34ff66a4c72ae9f69520ea",
+      "bytes": 73426
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-skill-right.webp",
+      "sha256": "09735914dbe9dfaa2de9cfaa392aae8c2ec831ab92400e683220806ab70af62c",
+      "bytes": 64812
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-ultimate-right.webp",
+      "sha256": "322a6ceefc29e10840bdec8069752eba144d871cd19ce1374ecd7317951cf7ba",
+      "bytes": 83542
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-attack-right.webp",
+      "sha256": "166b26c28ede60fc9351b4a13415a112ee84e374e2ce7aedb2894822f39c60b1",
+      "bytes": 97244
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-defeat-right.webp",
+      "sha256": "23ffd23e5cd8d3fe51c95cc9da0f0946fcf2360193f76fe153a42e162b094907",
+      "bytes": 56024
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-hit-right.webp",
+      "sha256": "8eacca48b691e1ed7154b60ece0b04f73d8a03476ec03d5abea30c4a9f05d7a0",
+      "bytes": 78146
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-idle-right.webp",
+      "sha256": "d7f1f7000c0272159a2fc98a2125adeebaf5170f7135b3adedf17ac34a2f1560",
+      "bytes": 77354
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-move-right.webp",
+      "sha256": "d6935beff59f712f791dfa7605d33fa004494388d2234e02b57a39a36e84fa8e",
+      "bytes": 82782
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-skill-right.webp",
+      "sha256": "0979cce81ebee1f1e851f3ac77bb6ad915d79a02d667e02d6ee7837e734eb47c",
+      "bytes": 80424
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-ultimate-right.webp",
+      "sha256": "ce22d280e4ce8d9a1c16c62798d0119552aa15c8e36cb172608b31064fa98c1c",
+      "bytes": 94924
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-attack-right.webp",
+      "sha256": "e98b18b2213b208c7fd456df856b547089b7a3a27d3b8901bfd4fb89bb4cfd07",
+      "bytes": 77756
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-defeat-right.webp",
+      "sha256": "bc4ed4c5b21e198c5720c03c951ce4475197358f8126ca599e5834ce57b75088",
+      "bytes": 55314
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-hit-right.webp",
+      "sha256": "868455c6b657a32d370798e1a04bdd68d3cf3c773579cc5b640bf53b073c5557",
+      "bytes": 63968
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-idle-right.webp",
+      "sha256": "8e951e78e3a90075c98cc321e37c1e32d6f9fd5fb0889431fef20cba8743a79c",
+      "bytes": 65638
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-move-right.webp",
+      "sha256": "07e3db9fbc170c9dc6e93435e694cb2a40b93175d04712843df95f5943a8a74d",
+      "bytes": 70698
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-skill-right.webp",
+      "sha256": "dcca7292d3c448bd69505ba2da2a18df4be46bf5523acbd2dfe428aa642db064",
+      "bytes": 62416
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-ultimate-right.webp",
+      "sha256": "d4fb40f3e597f855d11b606ecb332722f09e155e6328dcddae1e31722902a095",
+      "bytes": 72490
     },
     {
       "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-attack-right.webp",
@@ -708,8 +883,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "12e8a6628062e4cdeffd46095c8a3416934ed54c84501517490e1b315ffc08c9",
-      "bytes": 93677
+      "sha256": "00622dc815af64aaf54bb0223a0ce5ff1a1196f1a3253154712e2b944bb2a308",
+      "bytes": 93744
     },
     {
       "path": "manifest.webmanifest",
@@ -728,8 +903,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "33666322cd9ec943ea17926776b08e52bdb9edb31f0bc3beaaa6b8c6a20621ce",
-      "bytes": 99458
+      "sha256": "28eced6f7c3c3eee3f4c4271a6ea9f7c5f2b5d76556202201d13f892c453549b",
+      "bytes": 101877
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -743,13 +918,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "d1fda6aa5e97194a2042fc04a3c4c0d5a5e6a24bbb248e0fcfb24f14a6826bc5",
-      "bytes": 27337
+      "sha256": "5517d00be0d57b35d8c6cd85f0ab163a5214ccee71f59926a5beb9fb7cb0056f",
+      "bytes": 28175
     },
     {
       "path": "src/game/game.js",
-      "sha256": "4a5b62f6b8cc2a89f3b7ecc575275229271c46f0554a3f101e762cbf593f37fb",
-      "bytes": 58327
+      "sha256": "a7f9b821b9202b163deafcfdcc5aab2ae35406b22761e576516330886cc7bb46",
+      "bytes": 59441
     },
     {
       "path": "src/platform/content-updates.js",
