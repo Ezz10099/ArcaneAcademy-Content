@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 15,
-  "label": "Six formation slots, five deployed trainees",
+  "version": 16,
+  "label": "Shorter and wider battle courtyard",
   "entry": "index.html",
   "files": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "path": "content/base.json",
-      "sha256": "19c6e4c0c8cd17958f957765b50fb3d58ad08d2c54c8c8adeee39c53bd7b4dc7",
+      "sha256": "1022d7ef0ea31c8b8386a4872b34701cdf1c3271a0450386eefb780901b965ff",
       "bytes": 26234
     },
     {
@@ -883,7 +883,7 @@
     },
     {
       "path": "main.js",
-      "sha256": "dc5c47ce92ff03049aaf9b81f887353749b5fd9782d9092ac4a2a3b694f81ce1",
+      "sha256": "9e65d5367653c3256b733b3ad5fd91f18212697460e315d486fedd2c860b3277",
       "bytes": 94229
     },
     {
@@ -903,8 +903,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "43ea5fd672252820b87f0425e22c82c8e60dba756c354b2c9e9c9a07b6a22349",
-      "bytes": 105463
+      "sha256": "63477cb26195a2b8e7af72c493fc46ec3d98134ea55ba3205a643b7c2e876fb7",
+      "bytes": 105573
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -918,7 +918,7 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "3725a9ad34305205e6af1f2dbf4617730dc2dd3d75af63de9d1eb145479df0d4",
+      "sha256": "dc2696eebd5b295057cbd865502119bcdcd6677602a645e6dd6040bdca9fde35",
       "bytes": 28175
     },
     {
@@ -958,8 +958,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "2045383774f21153725c0785d36b3adaeeede5b889ab0f13f71265c4fe2a1dd1",
-      "bytes": 290414
+      "sha256": "ef5b07cf6a9e0d052d35383b42bfb7734c15763a1ef69590c35b76772d4a16b6",
+      "bytes": 290964
     }
   ]
 }
