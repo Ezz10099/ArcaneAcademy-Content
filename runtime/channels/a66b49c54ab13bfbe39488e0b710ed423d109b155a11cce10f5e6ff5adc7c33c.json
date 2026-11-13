@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 16,
-  "label": "Shorter and wider battle courtyard",
+  "version": 17,
+  "label": "Cinder Vale cutout animation test",
   "entry": "index.html",
   "files": [
     {
@@ -637,6 +637,31 @@
       "bytes": 35394
     },
     {
+      "path": "final-assets/battle/rigs/cinder-vale/back_arm.webp",
+      "sha256": "69654b33e4b079dcc9ee99b3a3bae6dfb0845f51980d2756f55b916da891dc14",
+      "bytes": 14602
+    },
+    {
+      "path": "final-assets/battle/rigs/cinder-vale/front_arm.webp",
+      "sha256": "663498d82c33b16de01e8f8db6fad528979d373f73bc206da28f40eb439f1c7b",
+      "bytes": 11026
+    },
+    {
+      "path": "final-assets/battle/rigs/cinder-vale/head.webp",
+      "sha256": "85ba70aa57a015475f0b6d2d3c4625ad482f27578048709560ed6760b6e5db57",
+      "bytes": 6378
+    },
+    {
+      "path": "final-assets/battle/rigs/cinder-vale/legs.webp",
+      "sha256": "1a405974a08ab39bf6be259dc5a2579da2545fcbd1357167642d67a06695f3b5",
+      "bytes": 38474
+    },
+    {
+      "path": "final-assets/battle/rigs/cinder-vale/torso.webp",
+      "sha256": "638fe6a1ac3ca4c89c25cc6b7bc2ea260fda25b6539f3939a23ed5fd63981b4e",
+      "bytes": 12944
+    },
+    {
       "path": "final-assets/expedition/academy-master-portrait-v1.png",
       "sha256": "bc4428fe1b55e925e7f8ff7b5da77e962c0d927438dba92cbc0bfbdcaab51bb0",
       "bytes": 72712
@@ -903,13 +928,18 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "63477cb26195a2b8e7af72c493fc46ec3d98134ea55ba3205a643b7c2e876fb7",
-      "bytes": 105573
+      "sha256": "14b6ee09eb894955e62ebcf3c42cd0b75c7de8c5a0d886dad13bd107b4c083df",
+      "bytes": 107237
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
       "sha256": "c3b6e90b97f9a94244e98968b82d9c16680a9bdf54ae5c017f8493c7ff127e6a",
       "bytes": 11500
+    },
+    {
+      "path": "src/battle/vfx/CharacterRig.js",
+      "sha256": "0575e22d47065da729d8ee0208d2a09e2fb23f4e0ddd613391010fcfb99647f4",
+      "bytes": 2401
     },
     {
       "path": "src/game/content-schema.js",
