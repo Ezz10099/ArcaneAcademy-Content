@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 36,
-  "label": "Forest Gate battle balance",
+  "version": 37,
+  "label": "Rime Scout and Ember Moth",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "6733c7e3f06173e5e51686c026eac8e31706dca2fb848b1167da0f62b6442989",
-      "bytes": 123221
+      "sha256": "4ca3e32c20dd0805c268ff075001ff9735f59635c76ac055e0e8a1726ab13ae8",
+      "bytes": 123795
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -953,8 +953,8 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "add4023c0113ef7493c4ab4b15b7992a8a95719604be6db458e2ab792e5acf22",
-      "bytes": 29985
+      "sha256": "ce0a311bfa28caf3c592884a36e9023b0835c068eded9b885546857e5e71e46a",
+      "bytes": 30897
     },
     {
       "path": "src/game/game.js",
