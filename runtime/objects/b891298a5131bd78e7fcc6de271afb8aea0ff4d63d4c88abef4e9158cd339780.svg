@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><radialGradient id="core"><stop stop-color="#e4ffff" stop-opacity=".85"/><stop offset=".13" stop-color="#9bcaff" stop-opacity=".55"/><stop offset=".55" stop-color="#7353ca" stop-opacity=".18"/><stop offset="1" stop-color="#7353ca" stop-opacity="0"/></radialGradient><linearGradient id="arc"><stop stop-color="#f0d392"/><stop offset=".5" stop-color="#78e0f5"/><stop offset="1" stop-color="#ba9aff"/></linearGradient></defs>
+<circle cx="256" cy="256" r="246" fill="url(#core)"/>
+<g fill="none" stroke="url(#arc)">
+<circle cx="256" cy="256" r="218" stroke-width="3" stroke-dasharray="3 10"/>
+<circle cx="256" cy="256" r="200" stroke-width="5"/>
+<circle cx="256" cy="256" r="178" stroke-width="1.6"/>
+<circle cx="256" cy="256" r="157" stroke-width="2.5" stroke-dasharray="11 9"/>
+<circle cx="256" cy="256" r="126" stroke-width="1.5"/>
+<path d="M256 51V461M51 256H461M111 111L401 401M111 401L401 111" stroke-width="1.2" opacity=".6"/>
+<path d="M256 66L436 360L76 360Z M256 446L76 152L436 152Z" stroke-width="3" opacity=".75"/>
+<path d="M256 142L370 256L256 370L142 256Z" stroke-width="3" opacity=".8"/>
+</g><g fill="#dcd4f7" stroke="#c9a0ff" stroke-width="3"><path d="M256 207L269 243L305 256L269 269L256 305L243 269L207 256L243 243Z"/><path d="M256 10L270 32L256 54L242 32Z"/><path d="M256 458L270 480L256 502L242 480Z"/><path d="M10 256L32 242L54 256L32 270Z"/><path d="M458 256L480 242L502 256L480 270Z"/></g>
+<circle cx="256" cy="256" r="38" fill="url(#core)"/>
+</svg>
