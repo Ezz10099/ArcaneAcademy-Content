@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 19,
-  "label": "Grounded combatants and foot shadows",
+  "version": 20,
+  "label": "Forest Gate opening stages",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "770fb4ff925fff871a3fb7dc97c07c9e56be900b1dfffdb847673229b027a655",
-      "bytes": 94424
+      "sha256": "5140adbda57ad709c9e599cabd3b8b770597314ee767e00f4802e092cf2d7b52",
+      "bytes": 95544
     },
     {
       "path": "manifest.webmanifest",
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "3988d7e8e0b81e80cf69a443228c8bca0ed2fbba93ffe69a46f47f9b6cbbb9c1",
-      "bytes": 109991
+      "sha256": "ef28b86fe59c55407ac47f23fc1e7bcfddefcb0787f96f15b754d16f055aa8ae",
+      "bytes": 112364
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -948,13 +948,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "dc2696eebd5b295057cbd865502119bcdcd6677602a645e6dd6040bdca9fde35",
-      "bytes": 28175
+      "sha256": "80a928b840d4ec1a73d3e324ff6171691e657c94205dd9e2dcc1955550ea799e",
+      "bytes": 28842
     },
     {
       "path": "src/game/game.js",
-      "sha256": "0925e7faa0f0c32fc86ffcd46f2a8c5defd1e69d614ac913b7f60a05c8cc27f9",
-      "bytes": 59441
+      "sha256": "7663b88a554b2a2d3ac71959e17c378d67e70c3c2d4d67b9658bfeaeb2e21a73",
+      "bytes": 61744
     },
     {
       "path": "src/platform/content-updates.js",
@@ -988,8 +988,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "e5a6a103394309a9ace4ee6cbc2277528004e3fa9af35e0d4d2ff3c244964ee6",
-      "bytes": 293004
+      "sha256": "1f5475473bab78789a7494b34a282cd6a1e392099a909193b2e673df7f8443b1",
+      "bytes": 293104
     }
   ]
 }
