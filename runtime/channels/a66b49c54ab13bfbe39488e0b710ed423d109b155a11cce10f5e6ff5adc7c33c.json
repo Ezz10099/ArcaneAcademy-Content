@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 40,
-  "label": "Longer Forest Gate battles",
+  "version": 41,
+  "label": "Clearer battle targeting",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "86c1f58a504f7c7f1cd2a3ce44cbe7ca2500eb3bac541a38ca58cbbc613c8b85",
-      "bytes": 97800
+      "sha256": "a5d19e8846bae558d3f196d4f0b1414de2bc3d13306626ae8955536a27d4d3f8",
+      "bytes": 97835
     },
     {
       "path": "manifest.webmanifest",
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "4ca3e32c20dd0805c268ff075001ff9735f59635c76ac055e0e8a1726ab13ae8",
-      "bytes": 123795
+      "sha256": "1b6f75d81531a096c971680f19848e137ecfaafded68c6d57ceb7580447be8e8",
+      "bytes": 124283
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -958,8 +958,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "595e9aa3713752f9fbbfe83411bca1241448ea2d4f9c23d25fb342ec0bfe2961",
-      "bytes": 66765
+      "sha256": "04e6f153187c17ce4d54b66048b9617c32b47d1df073478fefc06cf23285adf5",
+      "bytes": 67274
     },
     {
       "path": "src/platform/content-updates.js",
