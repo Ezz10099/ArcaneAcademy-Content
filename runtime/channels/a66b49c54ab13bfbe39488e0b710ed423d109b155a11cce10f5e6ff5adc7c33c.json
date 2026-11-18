@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 29,
-  "label": "Independent melee advance",
+  "version": 30,
+  "label": "Immediate retarget on knockout",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "80e87633c810472f2cc2fec55cd511692ff9c5134685fbd789315be57efffd17",
-      "bytes": 116412
+      "sha256": "3cca3ba75bd9e93c47ab01cc61689dfa5ae5861400147326ea02cf26682798b2",
+      "bytes": 117535
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
