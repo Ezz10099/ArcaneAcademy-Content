@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 31,
-  "label": "Individual ranged attack reach",
+  "version": 32,
+  "label": "Forest Gate Stages 4–6",
   "entry": "index.html",
   "files": [
     {
@@ -953,8 +953,8 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "836dd7081e566fb058cde0d5c7d42fe5d6349fa7095c2d7b29a4d39d76c814c8",
-      "bytes": 29600
+      "sha256": "dd28ae93bb64e9fefd0f030487e7cf7d918f739e6b88931f9d1268b135cafe35",
+      "bytes": 29985
     },
     {
       "path": "src/game/game.js",
