@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 18,
-  "label": "Pre-battle framing and grounded trainees",
+  "version": 19,
+  "label": "Grounded combatants and foot shadows",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "7c1735a5f713932b00079a5723c40291b14531b6271f311cf20caca63d18483b",
-      "bytes": 107431
+      "sha256": "3988d7e8e0b81e80cf69a443228c8bca0ed2fbba93ffe69a46f47f9b6cbbb9c1",
+      "bytes": 109991
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
