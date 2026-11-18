@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 44,
-  "label": "Wider battle and deployment fields",
+  "version": 45,
+  "label": "Restore the pre-battle field",
   "entry": "index.html",
   "files": [
     {
@@ -993,8 +993,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "f1f126a4eb2f098065ea18b5c978bc1947259a6b15f9e298608dbf0003d81475",
-      "bytes": 292236
+      "sha256": "4b48288d5002c3a24de1bcb6731d8a7c8f20d769f82cbb983180cf0db08d63df",
+      "bytes": 292278
     }
   ]
 }
