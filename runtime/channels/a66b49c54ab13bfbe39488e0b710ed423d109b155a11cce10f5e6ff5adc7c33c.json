@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 46,
-  "label": "Matching Forest Gate backdrops",
+  "version": 47,
+  "label": "Quicker last-enemy attack playback",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "b140ad26534e34b797e25ec20ca125a940eed20da9804b200ef2fbefc62cb423",
-      "bytes": 124012
+      "sha256": "2be22f256531762fcc9a7c8c3fe9ebdd235bc42555d813f35f8455158487da9f",
+      "bytes": 124981
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
