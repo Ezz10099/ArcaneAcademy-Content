@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 17,
-  "label": "Cinder Vale cutout animation test",
+  "version": 18,
+  "label": "Pre-battle framing and grounded trainees",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "9e65d5367653c3256b733b3ad5fd91f18212697460e315d486fedd2c860b3277",
-      "bytes": 94229
+      "sha256": "770fb4ff925fff871a3fb7dc97c07c9e56be900b1dfffdb847673229b027a655",
+      "bytes": 94424
     },
     {
       "path": "manifest.webmanifest",
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "14b6ee09eb894955e62ebcf3c42cd0b75c7de8c5a0d886dad13bd107b4c083df",
-      "bytes": 107237
+      "sha256": "7c1735a5f713932b00079a5723c40291b14531b6271f311cf20caca63d18483b",
+      "bytes": 107431
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -988,8 +988,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "ef5b07cf6a9e0d052d35383b42bfb7734c15763a1ef69590c35b76772d4a16b6",
-      "bytes": 290964
+      "sha256": "e5a6a103394309a9ace4ee6cbc2277528004e3fa9af35e0d4d2ff3c244964ee6",
+      "bytes": 293004
     }
   ]
 }
