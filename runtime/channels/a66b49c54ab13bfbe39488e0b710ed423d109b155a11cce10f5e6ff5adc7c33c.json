@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 23,
-  "label": "Melee running animation",
+  "version": 24,
+  "label": "Individual attack speeds",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "264e7f5d8ca21698e99d4e6c107f82ab31c123e4ed06b8e3ebcaa197003e9fb3",
-      "bytes": 95511
+      "sha256": "a0e1e7217efe168d0f119fb3a404e818adb269cedfff8751ff7c6cc381902cca",
+      "bytes": 96026
     },
     {
       "path": "manifest.webmanifest",
@@ -953,13 +953,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "80a928b840d4ec1a73d3e324ff6171691e657c94205dd9e2dcc1955550ea799e",
-      "bytes": 28842
+      "sha256": "bd7533f75a6f7501713c9bde96a5e6d7d483749ad34175fc7c8b23afd307b1a3",
+      "bytes": 29599
     },
     {
       "path": "src/game/game.js",
-      "sha256": "7663b88a554b2a2d3ac71959e17c378d67e70c3c2d4d67b9658bfeaeb2e21a73",
-      "bytes": 61744
+      "sha256": "9314def14e7fac4fc2395b4d8dedf99394d8ec3b3b4950f3d64edfd7a0393283",
+      "bytes": 62710
     },
     {
       "path": "src/platform/content-updates.js",
