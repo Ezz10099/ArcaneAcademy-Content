@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 43,
-  "label": "Wider battlefield and longer range",
+  "version": 44,
+  "label": "Wider battle and deployment fields",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "fa9271b9367cce9109f862c5b396a2c89352348ac77219ad092792b53b2593c6",
-      "bytes": 98058
+      "sha256": "62a033548dcf10b549c4976d27ce4fe2a9b966a862fdcbe368ca8cd9913797c4",
+      "bytes": 97953
     },
     {
       "path": "manifest.webmanifest",
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "9d9cb1b5ce8ddfd10d336da19d380e579053073b08b96ce370d5f1f5cda7b36d",
-      "bytes": 124132
+      "sha256": "b140ad26534e34b797e25ec20ca125a940eed20da9804b200ef2fbefc62cb423",
+      "bytes": 124012
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -993,8 +993,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "2f472624ae5afc30dbbf522a78a7270a214353f6ffba3db0cfb41227aaae4f92",
-      "bytes": 293063
+      "sha256": "f1f126a4eb2f098065ea18b5c978bc1947259a6b15f9e298608dbf0003d81475",
+      "bytes": 292236
     }
   ]
 }
