@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 26,
-  "label": "Cinder Vale combat poses",
+  "version": 27,
+  "label": "Cinder Vale running gait",
   "entry": "index.html",
   "files": [
     {
@@ -943,8 +943,8 @@
     },
     {
       "path": "src/battle/vfx/MeleeRun.js",
-      "sha256": "7b6bc9984d1558287e1421a1e1e17c1ca32af9db9cfbb224a860b4980b010e07",
-      "bytes": 9107
+      "sha256": "d06955a49b3b63cd3b1f19bc422bc7094fc08447c2502be897eb9ddd6a05bd12",
+      "bytes": 10539
     },
     {
       "path": "src/game/content-schema.js",
