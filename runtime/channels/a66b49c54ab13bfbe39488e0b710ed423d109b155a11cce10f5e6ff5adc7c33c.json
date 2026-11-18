@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 37,
-  "label": "Rime Scout and Ember Moth",
+  "version": 38,
+  "label": "Forest Gate training and summons",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "4b19a6a7ba03b3cefd196c7e5189e544147516cc8955560e0f4ea825f6323a6d",
-      "bytes": 95983
+      "sha256": "285c22573dcc5bfcc4fcfcb3764b6cb698e29efc581cd03975d4e647c614285a",
+      "bytes": 97472
     },
     {
       "path": "manifest.webmanifest",
@@ -953,13 +953,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "ce0a311bfa28caf3c592884a36e9023b0835c068eded9b885546857e5e71e46a",
+      "sha256": "59b4f89c5ed5ff7b38913a417d898e2a8874d740cd40f57c2c4da6454fa1ab0f",
       "bytes": 30897
     },
     {
       "path": "src/game/game.js",
-      "sha256": "1c4b3bce00f51117ca01a0856b5d332d96b95dbab407b80c92cdc53eba2815c1",
-      "bytes": 63989
+      "sha256": "6849b467b00ef9e255f79919e11bff3ab418199ee04cc0dfdf175e5f510d8378",
+      "bytes": 65633
     },
     {
       "path": "src/platform/content-updates.js",
