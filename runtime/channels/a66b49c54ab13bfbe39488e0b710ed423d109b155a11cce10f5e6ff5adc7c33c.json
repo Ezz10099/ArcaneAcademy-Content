@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 41,
-  "label": "Clearer battle targeting",
+  "version": 42,
+  "label": "Frontline opening matchups",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "1b6f75d81531a096c971680f19848e137ecfaafded68c6d57ceb7580447be8e8",
-      "bytes": 124283
+      "sha256": "1a721c3846d34e8257cec4ceebb6b424d8c9fcfd96b43d0f120439655dd332c9",
+      "bytes": 123557
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -953,13 +953,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "5c8b4a73be5c58c06a99d9d5ac5cb5f12c6591b8d316a995b8b9ca8de296b80c",
-      "bytes": 31017
+      "sha256": "a8dac22e3c69089c4e0415671a1c8ba0cf5c31ad302b99b7a7e22b02f3a1848b",
+      "bytes": 32117
     },
     {
       "path": "src/game/game.js",
-      "sha256": "04e6f153187c17ce4d54b66048b9617c32b47d1df073478fefc06cf23285adf5",
-      "bytes": 67274
+      "sha256": "610533034c13025d475d3a90fa7c74da687a112f8a23826f3a64f78aca214449",
+      "bytes": 68346
     },
     {
       "path": "src/platform/content-updates.js",
