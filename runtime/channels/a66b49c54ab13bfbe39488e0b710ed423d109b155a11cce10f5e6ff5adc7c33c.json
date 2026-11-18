@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 38,
-  "label": "Forest Gate training and summons",
+  "version": 39,
+  "label": "Briar Ward and Forest Gate balance",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "285c22573dcc5bfcc4fcfcb3764b6cb698e29efc581cd03975d4e647c614285a",
-      "bytes": 97472
+      "sha256": "86c1f58a504f7c7f1cd2a3ce44cbe7ca2500eb3bac541a38ca58cbbc613c8b85",
+      "bytes": 97800
     },
     {
       "path": "manifest.webmanifest",
@@ -953,13 +953,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "59b4f89c5ed5ff7b38913a417d898e2a8874d740cd40f57c2c4da6454fa1ab0f",
-      "bytes": 30897
+      "sha256": "e3e5fda492ad7c718da377e8ed97795074ea97d768f8b56d245358b8d429fc32",
+      "bytes": 31011
     },
     {
       "path": "src/game/game.js",
-      "sha256": "6849b467b00ef9e255f79919e11bff3ab418199ee04cc0dfdf175e5f510d8378",
-      "bytes": 65633
+      "sha256": "595e9aa3713752f9fbbfe83411bca1241448ea2d4f9c23d25fb342ec0bfe2961",
+      "bytes": 66765
     },
     {
       "path": "src/platform/content-updates.js",
