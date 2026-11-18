@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 30,
-  "label": "Immediate retarget on knockout",
+  "version": 31,
+  "label": "Individual ranged attack reach",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "3cca3ba75bd9e93c47ab01cc61689dfa5ae5861400147326ea02cf26682798b2",
-      "bytes": 117535
+      "sha256": "d3def2eb8962b8e0f14c18a52fe62ffaefddb446e1b318342b377e09f7601593",
+      "bytes": 122042
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
