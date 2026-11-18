@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 39,
-  "label": "Briar Ward and Forest Gate balance",
+  "version": 40,
+  "label": "Longer Forest Gate battles",
   "entry": "index.html",
   "files": [
     {
@@ -953,8 +953,8 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "e3e5fda492ad7c718da377e8ed97795074ea97d768f8b56d245358b8d429fc32",
-      "bytes": 31011
+      "sha256": "5c8b4a73be5c58c06a99d9d5ac5cb5f12c6591b8d316a995b8b9ca8de296b80c",
+      "bytes": 31017
     },
     {
       "path": "src/game/game.js",
