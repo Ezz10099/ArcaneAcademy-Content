@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 48,
-  "label": "Ally battle card portraits",
+  "version": 49,
+  "label": "Trainee portraits in formation and roster",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "fec8b456851d04466e9bace6a525e5595e2c3977427fdd5ef5055a89bbbbdc30",
-      "bytes": 98242
+      "sha256": "8ff98c569e60f5f33e8bca09a7a83d2514e5b21097b2123a35f00a69e983f7b3",
+      "bytes": 98080
     },
     {
       "path": "manifest.webmanifest",
@@ -993,8 +993,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "a0d44dd2eec920026142079ddf901cbb0d716af13e1275bbefe45eca24dced5c",
-      "bytes": 291981
+      "sha256": "165c6b9f4645947290b4fb8558852c9dcca91974048cc76f75677c70509b9206",
+      "bytes": 290921
     }
   ]
 }
