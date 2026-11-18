@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 33,
-  "label": "Ranged positioning and target lock",
+  "version": 34,
+  "label": "Battle cadence and target continuity",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "a0e1e7217efe168d0f119fb3a404e818adb269cedfff8751ff7c6cc381902cca",
-      "bytes": 96026
+      "sha256": "ca5c3f84f4cbb751ef2e270c144e9e9839996f13e2b0bc96c0339a766c332043",
+      "bytes": 96101
     },
     {
       "path": "manifest.webmanifest",
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "68649410438f77a8e78e285706ac552adb592886a8ac21ef8feb8be17c49ac60",
-      "bytes": 122954
+      "sha256": "d40ff380dac8733829d8c345e88608fe6d198d48d0246ff5b66c634cb9b221f0",
+      "bytes": 122648
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -958,8 +958,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "e83f6466efcf1948eb32d7670b49bef55d68fd180266f0c7359061ee50dfc526",
-      "bytes": 63548
+      "sha256": "1c4b3bce00f51117ca01a0856b5d332d96b95dbab407b80c92cdc53eba2815c1",
+      "bytes": 63989
     },
     {
       "path": "src/platform/content-updates.js",
