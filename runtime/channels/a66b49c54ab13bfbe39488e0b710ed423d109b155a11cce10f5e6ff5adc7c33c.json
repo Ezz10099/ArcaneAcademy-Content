@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 24,
-  "label": "Individual attack speeds",
+  "version": 25,
+  "label": "Melee running strides",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "d11e7d873516de0d51c0194c50a1237c2b03655b62512fb0f4d775fd79c85ef7",
-      "bytes": 114824
+      "sha256": "e6482f58ab6f59fba7ab37604f997c650c101189ddfe2f3c988d52a4b134703c",
+      "bytes": 114986
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -943,8 +943,8 @@
     },
     {
       "path": "src/battle/vfx/MeleeRun.js",
-      "sha256": "f92dbc67be564ecf2ce11a9be4d3f2bca24f521296ea3eedf20e9ec37a6a9d93",
-      "bytes": 8075
+      "sha256": "7b6bc9984d1558287e1421a1e1e17c1ca32af9db9cfbb224a860b4980b010e07",
+      "bytes": 9107
     },
     {
       "path": "src/game/content-schema.js",
