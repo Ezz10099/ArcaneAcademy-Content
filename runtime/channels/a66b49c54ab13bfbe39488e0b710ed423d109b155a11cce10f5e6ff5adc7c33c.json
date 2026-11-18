@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 22,
-  "label": "Walk into melee range",
+  "version": 23,
+  "label": "Melee running animation",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "bab86956c17a66b009d7811ecc3100ebec02730bbb6ee3b4c488d53530806a29",
-      "bytes": 114263
+      "sha256": "d11e7d873516de0d51c0194c50a1237c2b03655b62512fb0f4d775fd79c85ef7",
+      "bytes": 114824
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -940,6 +940,11 @@
       "path": "src/battle/vfx/CharacterRig.js",
       "sha256": "0575e22d47065da729d8ee0208d2a09e2fb23f4e0ddd613391010fcfb99647f4",
       "bytes": 2401
+    },
+    {
+      "path": "src/battle/vfx/MeleeRun.js",
+      "sha256": "f92dbc67be564ecf2ce11a9be4d3f2bca24f521296ea3eedf20e9ec37a6a9d93",
+      "bytes": 8075
     },
     {
       "path": "src/game/content-schema.js",
