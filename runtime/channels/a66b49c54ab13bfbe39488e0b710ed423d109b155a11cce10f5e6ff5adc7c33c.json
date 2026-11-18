@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 28,
-  "label": "Cinder Vale running stride",
+  "version": 29,
+  "label": "Independent melee advance",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "d348432b303ead6a72db00aad175a7daba149a7ac9c6934d714a1e904d2cb35d",
-      "bytes": 114016
+      "sha256": "80e87633c810472f2cc2fec55cd511692ff9c5134685fbd789315be57efffd17",
+      "bytes": 116412
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
