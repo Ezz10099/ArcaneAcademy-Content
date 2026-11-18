@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 32,
-  "label": "Forest Gate Stages 4–6",
+  "version": 33,
+  "label": "Ranged positioning and target lock",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "d3def2eb8962b8e0f14c18a52fe62ffaefddb446e1b318342b377e09f7601593",
-      "bytes": 122042
+      "sha256": "68649410438f77a8e78e285706ac552adb592886a8ac21ef8feb8be17c49ac60",
+      "bytes": 122954
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -958,8 +958,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "9314def14e7fac4fc2395b4d8dedf99394d8ec3b3b4950f3d64edfd7a0393283",
-      "bytes": 62710
+      "sha256": "e83f6466efcf1948eb32d7670b49bef55d68fd180266f0c7359061ee50dfc526",
+      "bytes": 63548
     },
     {
       "path": "src/platform/content-updates.js",
