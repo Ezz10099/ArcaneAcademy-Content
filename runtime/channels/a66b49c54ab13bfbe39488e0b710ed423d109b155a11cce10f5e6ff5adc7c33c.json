@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 47,
-  "label": "Quicker last-enemy attack playback",
+  "version": 48,
+  "label": "Ally battle card portraits",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "90bdd64fffa3e186341f9ccbdb6391c3a8bc8f50bd2ae1ebc64d9802af5c1e15",
-      "bytes": 98006
+      "sha256": "fec8b456851d04466e9bace6a525e5595e2c3977427fdd5ef5055a89bbbbdc30",
+      "bytes": 98242
     },
     {
       "path": "manifest.webmanifest",
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "2be22f256531762fcc9a7c8c3fe9ebdd235bc42555d813f35f8455158487da9f",
-      "bytes": 124981
+      "sha256": "cc86743cf28f52ab34e656276fc59c5f062701429cb2757f8fc0c0ff89d5b288",
+      "bytes": 125640
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -953,7 +953,7 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "d2f83468fb81792fedf18a279839e9d0a36cf5d78488baa423a869b88cb1a67d",
+      "sha256": "da5be48217694794674c11ee5b7fb41c97f63e605d76c0c36bfbaf2b4da380dd",
       "bytes": 32116
     },
     {
@@ -993,8 +993,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "ffe7217bd0ee9e5747832bf084daff4813e3f800f8e67fb137fe9ae0ec3f8bb0",
-      "bytes": 291762
+      "sha256": "a0d44dd2eec920026142079ddf901cbb0d716af13e1275bbefe45eca24dced5c",
+      "bytes": 291981
     }
   ]
 }
