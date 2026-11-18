@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 51,
-  "label": "Show real trainee action portraits in Summon",
+  "version": 52,
+  "label": "Fix overlapping summon reward notice",
   "entry": "index.html",
   "files": [
     {
@@ -923,8 +923,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "470509ac1ae1210bd29d12a705ff865db08d2926503ce916b2d46c2bad3510de",
-      "bytes": 99955
+      "sha256": "c71bfb45af1960531d3016f67f9c6d47594539c5fe9d6edd3cad6a49d71997a8",
+      "bytes": 100893
     },
     {
       "path": "manifest.webmanifest",
@@ -1008,8 +1008,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "58857106122ae9ad59a9c9ea94bb772dbd0785dc606b63032f50e6061a637204",
-      "bytes": 304308
+      "sha256": "87093eef96bb7247219c4afdcd3b6f76fa0e627deeb84ccbc64acdabaf5e886a",
+      "bytes": 307778
     }
   ]
 }
