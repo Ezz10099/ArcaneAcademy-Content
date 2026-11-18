@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 20,
-  "label": "Forest Gate opening stages",
+  "version": 21,
+  "label": "Melee approach and ranged projectiles",
   "entry": "index.html",
   "files": [
     {
@@ -908,8 +908,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "5140adbda57ad709c9e599cabd3b8b770597314ee767e00f4802e092cf2d7b52",
-      "bytes": 95544
+      "sha256": "264e7f5d8ca21698e99d4e6c107f82ab31c123e4ed06b8e3ebcaa197003e9fb3",
+      "bytes": 95511
     },
     {
       "path": "manifest.webmanifest",
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "ef28b86fe59c55407ac47f23fc1e7bcfddefcb0787f96f15b754d16f055aa8ae",
-      "bytes": 112364
+      "sha256": "b70d6b4ec89b0b73bb999f64dfccb2de0e023bfcdb3b6e9a0e7ecf9d4a1c86f1",
+      "bytes": 112982
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -988,8 +988,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "1f5475473bab78789a7494b34a282cd6a1e392099a909193b2e673df7f8443b1",
-      "bytes": 293104
+      "sha256": "9d5c13ba40b2727ce3a8302441cb1720059db1df8b976aa30f0e1fa687e1d978",
+      "bytes": 292898
     }
   ]
 }
