@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 21,
-  "label": "Melee approach and ranged projectiles",
+  "version": 22,
+  "label": "Walk into melee range",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "b70d6b4ec89b0b73bb999f64dfccb2de0e023bfcdb3b6e9a0e7ecf9d4a1c86f1",
-      "bytes": 112982
+      "sha256": "bab86956c17a66b009d7811ecc3100ebec02730bbb6ee3b4c488d53530806a29",
+      "bytes": 114263
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
