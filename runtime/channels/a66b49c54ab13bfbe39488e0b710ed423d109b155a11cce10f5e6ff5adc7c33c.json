@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 25,
-  "label": "Melee running strides",
+  "version": 26,
+  "label": "Cinder Vale combat poses",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "e6482f58ab6f59fba7ab37604f997c650c101189ddfe2f3c988d52a4b134703c",
-      "bytes": 114986
+      "sha256": "d348432b303ead6a72db00aad175a7daba149a7ac9c6934d714a1e904d2cb35d",
+      "bytes": 114016
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -953,8 +953,8 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "bd7533f75a6f7501713c9bde96a5e6d7d483749ad34175fc7c8b23afd307b1a3",
-      "bytes": 29599
+      "sha256": "836dd7081e566fb058cde0d5c7d42fe5d6349fa7095c2d7b29a4d39d76c814c8",
+      "bytes": 29600
     },
     {
       "path": "src/game/game.js",
