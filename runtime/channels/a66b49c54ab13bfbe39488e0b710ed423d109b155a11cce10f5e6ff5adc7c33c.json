@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 35,
-  "label": "Independent attack presentation",
+  "version": 36,
+  "label": "Forest Gate battle balance",
   "entry": "index.html",
   "files": [
     {
@@ -953,7 +953,7 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "dd28ae93bb64e9fefd0f030487e7cf7d918f739e6b88931f9d1268b135cafe35",
+      "sha256": "add4023c0113ef7493c4ab4b15b7992a8a95719604be6db458e2ab792e5acf22",
       "bytes": 29985
     },
     {
