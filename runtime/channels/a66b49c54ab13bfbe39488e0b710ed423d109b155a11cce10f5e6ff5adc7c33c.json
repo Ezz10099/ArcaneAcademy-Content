@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 50,
-  "label": "Arcane Summon screen polish",
+  "version": 51,
+  "label": "Show real trainee action portraits in Summon",
   "entry": "index.html",
   "files": [
     {
@@ -923,8 +923,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "9cceea8ba9d999ac1b463a7e8435ff6dcf7720f0a7c3c326fd4b71fa8c30d9de",
-      "bytes": 98701
+      "sha256": "470509ac1ae1210bd29d12a705ff865db08d2926503ce916b2d46c2bad3510de",
+      "bytes": 99955
     },
     {
       "path": "manifest.webmanifest",
@@ -1008,8 +1008,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "a9bb3831177726aa294b5a1b25276e89a84c81fe66110008924bca54f3350615",
-      "bytes": 301006
+      "sha256": "58857106122ae9ad59a9c9ea94bb772dbd0785dc606b63032f50e6061a637204",
+      "bytes": 304308
     }
   ]
 }
