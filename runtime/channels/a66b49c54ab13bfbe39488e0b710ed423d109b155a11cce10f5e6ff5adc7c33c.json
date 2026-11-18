@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 49,
-  "label": "Trainee portraits in formation and roster",
+  "version": 50,
+  "label": "Arcane Summon screen polish",
   "entry": "index.html",
   "files": [
     {
@@ -852,6 +852,21 @@
       "bytes": 69605
     },
     {
+      "path": "final-assets/summon/aether-crystal.svg",
+      "sha256": "86b5c2fe881e58f076abfdcc249b8792c0940ce1d5e7dabff28ce1626b2017cb",
+      "bytes": 583
+    },
+    {
+      "path": "final-assets/summon/ritual-chamber.svg",
+      "sha256": "289e00e9c6c90f9b86113bd13b673fa12815b2e8d575594406d8d793bc79eca8",
+      "bytes": 4375
+    },
+    {
+      "path": "final-assets/summon/ritual-sigil.svg",
+      "sha256": "b891298a5131bd78e7fcc6de271afb8aea0ff4d63d4c88abef4e9158cd339780",
+      "bytes": 1536
+    },
+    {
       "path": "final-assets/upper-hud/blue-crystal.png",
       "sha256": "5f479735f3866a49c9c80ea7c8149737e030bb98787d393fafef90bca0851ec1",
       "bytes": 38088
@@ -908,8 +923,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "8ff98c569e60f5f33e8bca09a7a83d2514e5b21097b2123a35f00a69e983f7b3",
-      "bytes": 98080
+      "sha256": "9cceea8ba9d999ac1b463a7e8435ff6dcf7720f0a7c3c326fd4b71fa8c30d9de",
+      "bytes": 98701
     },
     {
       "path": "manifest.webmanifest",
@@ -993,8 +1008,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "165c6b9f4645947290b4fb8558852c9dcca91974048cc76f75677c70509b9206",
-      "bytes": 290921
+      "sha256": "a9bb3831177726aa294b5a1b25276e89a84c81fe66110008924bca54f3350615",
+      "bytes": 301006
     }
   ]
 }
