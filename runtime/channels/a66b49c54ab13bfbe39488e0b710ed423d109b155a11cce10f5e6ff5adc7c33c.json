@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 55,
-  "label": "Show combat power and strengthen Forest Gate Stage 6",
+  "version": 56,
+  "label": "Forest Gate Level 4 training and opening rewards",
   "entry": "index.html",
   "files": [
     {
@@ -923,8 +923,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "eac137feedc44294c88e0e5c0a71919ffba9fc0ebdd59b9c5ac7ceecdd652aea",
-      "bytes": 100535
+      "sha256": "12f462a194547cd56869be9d0c19a879c569666af4d9932101c6cceb8702adb1",
+      "bytes": 100596
     },
     {
       "path": "manifest.webmanifest",
@@ -968,13 +968,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "07f3c4c099037e27e1460310a45b80b685f818945a920a9f1bbbf28cf277e17e",
-      "bytes": 32116
+      "sha256": "652a30adc751291da7f01a7ba95c6f21248e079132dadf06172c056b18dc63f4",
+      "bytes": 32387
     },
     {
       "path": "src/game/game.js",
-      "sha256": "d238ffb730c4daa541cf6207ebe287c67da9c2fa024ac7a1190a84521e77dc37",
-      "bytes": 68353
+      "sha256": "b80c0f835bd5360a6863389e37ba78caccf84bdbe94df612840ef3ced33eca2e",
+      "bytes": 69017
     },
     {
       "path": "src/platform/content-updates.js",
