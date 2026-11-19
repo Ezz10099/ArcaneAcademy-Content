@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 63,
-  "label": "Remove battle target markers",
+  "version": 64,
+  "label": "Faster Stage 2 Briar Guard",
   "entry": "index.html",
   "files": [
     {
@@ -973,8 +973,8 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "570f4e50801f77c3f38ff070565c81d47f2a3a329fa09f5b5535bdfa7036f159",
-      "bytes": 33539
+      "sha256": "7c5482c4f60b07d9c4ba45038f3f7c2337b395ec67da53344f9fa9bb7f0f5c57",
+      "bytes": 33594
     },
     {
       "path": "src/game/game.js",
