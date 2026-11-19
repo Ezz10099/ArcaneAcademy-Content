@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 71,
-  "label": "Trainees portraits and interface artwork",
+  "version": 72,
+  "label": "Level 10 trainee skill unlock",
   "entry": "index.html",
   "files": [
     {
@@ -1073,8 +1073,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "861eccc2f89ad35f0ac91c01174a3e68370b146634bdbd971a54539cc668f667",
-      "bytes": 104864
+      "sha256": "dbaa98c726963dad37dc16fc8b9afa52afa1939232b207d7e0c66e6b4e4b0fe9",
+      "bytes": 105339
     },
     {
       "path": "manifest.webmanifest",
@@ -1118,13 +1118,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "c3c4a115d15f7d426a003a6ccb9f17c076a38820f87602fd9ba76761b82f9fc5",
-      "bytes": 34420
+      "sha256": "0b42478a95e6e4a7e5950443972c33ee351cd87a6cb6d54312e1790eda2dd5c7",
+      "bytes": 34466
     },
     {
       "path": "src/game/game.js",
-      "sha256": "5d7f6a1c2ec5efcfc226704a10c1b4a31f696e582d8b3d698736b3a79b2acc7a",
-      "bytes": 70990
+      "sha256": "b0fc917bc7d5d84204d0211e560e739be2dbe039b35b514b74a1a5564f15b5e4",
+      "bytes": 71296
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1158,8 +1158,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "91c6e664476accc7b3bc2ca76eab8879633c835dc07305ea521aecce88a8d3f3",
-      "bytes": 310166
+      "sha256": "28b24116d638b0c8b7250359b906e94287ca2c6668f6c2ea6f726b7409fb9de8",
+      "bytes": 310254
     }
   ]
 }
