@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 62,
-  "label": "Gatewood Warden level 10",
+  "version": 63,
+  "label": "Remove battle target markers",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "76970785bf288af37dc06ddf5b34c3b3e2902827f4944dcbca2915365231c7d0",
-      "bytes": 100500
+      "sha256": "f6888370d3c1b80240e3a20c111f3623cbc12ef4a0af5ae88f10189a1109a051",
+      "bytes": 100406
     },
     {
       "path": "manifest.webmanifest",
@@ -948,8 +948,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "eb3165d16246c1e750d437e596c1ba270a2fe895dafdc185b01d98c05f2b425c",
-      "bytes": 126160
+      "sha256": "6780015928232e015aefb68b592208aa37ba5a18406ff90b6ef921e39374a4bd",
+      "bytes": 122842
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
