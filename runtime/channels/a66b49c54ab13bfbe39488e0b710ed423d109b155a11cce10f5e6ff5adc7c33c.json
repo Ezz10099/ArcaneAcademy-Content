@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 57,
-  "label": "Make Forest Gate training matter in Stages 4–6",
+  "version": 58,
+  "label": "Show deployment badges above combatants",
   "entry": "index.html",
   "files": [
     {
@@ -923,8 +923,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "12f462a194547cd56869be9d0c19a879c569666af4d9932101c6cceb8702adb1",
-      "bytes": 100596
+      "sha256": "b190f9cc268c07c4834f6fd873c525963bba684d3ecd352e030c5ecf56bd8a57",
+      "bytes": 100717
     },
     {
       "path": "manifest.webmanifest",
@@ -943,8 +943,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "cc86743cf28f52ab34e656276fc59c5f062701429cb2757f8fc0c0ff89d5b288",
-      "bytes": 125640
+      "sha256": "eb3165d16246c1e750d437e596c1ba270a2fe895dafdc185b01d98c05f2b425c",
+      "bytes": 126160
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1008,8 +1008,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "13e7fe720ec7e6cfe9e7d673346410e945ac531d7724c2bde21e6615aa3cf9cf",
-      "bytes": 294735
+      "sha256": "7e5e40e1aae0d41dec26de513ce85846712dcbf508113f8fd42b27f50d0eba22",
+      "bytes": 294816
     }
   ]
 }
