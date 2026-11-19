@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 66,
-  "label": "Rear-line attack targeting",
+  "version": 67,
+  "label": "Stage defeat guidance",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "3181e527337dfa8897221b8246220c883b99ec1e3b3f70c446f71b867c6e9e46",
-      "bytes": 100566
+      "sha256": "49a5d6c901d94c349de361d1ed75017b5a451db85ae6202d7b7ccda3c54e3e2e",
+      "bytes": 101384
     },
     {
       "path": "manifest.webmanifest",
