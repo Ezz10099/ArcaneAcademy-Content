@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 60,
-  "label": "Show ally and enemy levels above fighters",
+  "version": 61,
+  "label": "Forest Gate stages 1–10 rebalance",
   "entry": "index.html",
   "files": [
     {
@@ -968,18 +968,18 @@
     },
     {
       "path": "src/game/content-schema.js",
-      "sha256": "5a8b50cd358fb46e5b34962510a889e060c307d31c73ff140dbfae695f5be222",
-      "bytes": 10779
+      "sha256": "313c6f5a6a3dd37b9b88e518a32bab384e3bb3223212766218554e3dc24840eb",
+      "bytes": 10910
     },
     {
       "path": "src/game/data.js",
-      "sha256": "673fe6f4af8b4fc95efd9affe48b03b39780e7a33c29ecee949d0f6bf85020d8",
-      "bytes": 32623
+      "sha256": "390bfe97500125f9db424ba9cc83221624a06f14b3a10e64d12df61bfe724def",
+      "bytes": 33538
     },
     {
       "path": "src/game/game.js",
-      "sha256": "9779163e6aec5c0b62e890d2e16b24f6fa3175d0e5f3975b1f919dd74805e6e8",
-      "bytes": 69756
+      "sha256": "961d94972c88d0821d951c44f200a8e924882659c22a8e40f2afd548363430b8",
+      "bytes": 69899
     },
     {
       "path": "src/platform/content-updates.js",
