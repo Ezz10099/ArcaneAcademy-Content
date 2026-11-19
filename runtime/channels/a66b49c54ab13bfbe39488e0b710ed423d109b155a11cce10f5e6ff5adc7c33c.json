@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 65,
-  "label": "Clean battle preparation",
+  "version": 66,
+  "label": "Rear-line attack targeting",
   "entry": "index.html",
   "files": [
     {
@@ -948,8 +948,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "2b5ecd01b5bc1de0e2ebd7dac9e5f8c615a4307a52720e57d705856f45d996d9",
-      "bytes": 121874
+      "sha256": "d9682336409bdc13ef6fadabf50bd716b2ca6c0727222e7afc460b755a9c1b61",
+      "bytes": 121386
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -973,13 +973,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "7c5482c4f60b07d9c4ba45038f3f7c2337b395ec67da53344f9fa9bb7f0f5c57",
-      "bytes": 33594
+      "sha256": "c3c4a115d15f7d426a003a6ccb9f17c076a38820f87602fd9ba76761b82f9fc5",
+      "bytes": 34420
     },
     {
       "path": "src/game/game.js",
-      "sha256": "961d94972c88d0821d951c44f200a8e924882659c22a8e40f2afd548363430b8",
-      "bytes": 69899
+      "sha256": "5d7f6a1c2ec5efcfc226704a10c1b4a31f696e582d8b3d698736b3a79b2acc7a",
+      "bytes": 70990
     },
     {
       "path": "src/platform/content-updates.js",
