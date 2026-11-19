@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 54,
-  "label": "Show levels on the pre-battle field",
+  "version": 55,
+  "label": "Show combat power and strengthen Forest Gate Stage 6",
   "entry": "index.html",
   "files": [
     {
@@ -923,8 +923,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 100286,
-      "sha256": "8a80d9fbdd80878920549dbe5cc006f4342d15b2d754ef4465c9489bd926e98b"
+      "sha256": "eac137feedc44294c88e0e5c0a71919ffba9fc0ebdd59b9c5ac7ceecdd652aea",
+      "bytes": 100535
     },
     {
       "path": "manifest.webmanifest",
@@ -968,13 +968,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "da5be48217694794674c11ee5b7fb41c97f63e605d76c0c36bfbaf2b4da380dd",
+      "sha256": "07f3c4c099037e27e1460310a45b80b685f818945a920a9f1bbbf28cf277e17e",
       "bytes": 32116
     },
     {
       "path": "src/game/game.js",
-      "sha256": "610533034c13025d475d3a90fa7c74da687a112f8a23826f3a64f78aca214449",
-      "bytes": 68346
+      "sha256": "d238ffb730c4daa541cf6207ebe287c67da9c2fa024ac7a1190a84521e77dc37",
+      "bytes": 68353
     },
     {
       "path": "src/platform/content-updates.js",
