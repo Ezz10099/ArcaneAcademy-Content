@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 72,
-  "label": "Level 10 trainee skill unlock",
+  "version": 73,
+  "label": "Archive field guide and artwork",
   "entry": "index.html",
   "files": [
     {
@@ -40,6 +40,61 @@
       "path": "expedition-mobile.js",
       "sha256": "bb975524134183289186dca68d19ea288022a84652a8d36bf0aade3a231bdf24",
       "bytes": 2107
+    },
+    {
+      "path": "final-assets/archive/archive-crest.webp",
+      "sha256": "f45165abd5bcf7732ffac32bf9d00894cc096a640565040cec710b25c58eaf41",
+      "bytes": 18194
+    },
+    {
+      "path": "final-assets/archive/briar-guard.webp",
+      "sha256": "5d261705ffceb16485fed155c10dd0e5c8aef146dfc21e0438c98143bc76f0d1",
+      "bytes": 44140
+    },
+    {
+      "path": "final-assets/archive/codex-library.webp",
+      "sha256": "ce78c636dcc2bd6152248cd684afecce11bc3072d54210e56d84ac3dcda0db88",
+      "bytes": 133998
+    },
+    {
+      "path": "final-assets/archive/ember-moth.webp",
+      "sha256": "aa93987f2c0018f2254a3c29e6b0c167b5164231601e786cb7bf5a7ec82c3aa6",
+      "bytes": 32346
+    },
+    {
+      "path": "final-assets/archive/forest-scout.webp",
+      "sha256": "69fb4e4bacd4883e16da7e563a13db1fabae80921c0d0e55985f207d6349e6e3",
+      "bytes": 38330
+    },
+    {
+      "path": "final-assets/archive/gatewood-warden.webp",
+      "sha256": "f156dd7c1be9313cc7cd7086350aec62476862964e083acda6809b42b1a9720d",
+      "bytes": 44184
+    },
+    {
+      "path": "final-assets/archive/lantern-moth.webp",
+      "sha256": "66547212c906c631276183cdbc7e7e28382347706e385a4d7b428624868ab670",
+      "bytes": 32480
+    },
+    {
+      "path": "final-assets/archive/rime-scout.webp",
+      "sha256": "f4b28fc3d581991f3976fbe41a323de5f0bba3dc6f49eb195e7fa0f89f1447c9",
+      "bytes": 43988
+    },
+    {
+      "path": "final-assets/archive/tab-creatures.webp",
+      "sha256": "b3c625a5c0a524be6e7517cad9ed94abacc4811e8e8d346a196e1149b77c06b6",
+      "bytes": 4570
+    },
+    {
+      "path": "final-assets/archive/tab-records.webp",
+      "sha256": "ef941636e6b877116750970a6c2ecaba9ab16e6ca8c5cc2dab734774aa73fa43",
+      "bytes": 3554
+    },
+    {
+      "path": "final-assets/archive/tab-regions.webp",
+      "sha256": "225382443bb7534f643ec721948913534456828998e76a32fc33c1d7afc54ca7",
+      "bytes": 4394
     },
     {
       "path": "final-assets/audio/01_ui_select.ogg",
@@ -1073,8 +1128,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "dbaa98c726963dad37dc16fc8b9afa52afa1939232b207d7e0c66e6b4e4b0fe9",
-      "bytes": 105339
+      "sha256": "ef71eba52d7dbeba7d8b5ee194b206c3db178e307c5a21d10533e5e03ee58f93",
+      "bytes": 110397
     },
     {
       "path": "manifest.webmanifest",
@@ -1110,6 +1165,11 @@
       "path": "src/battle/vfx/MeleeRun.js",
       "sha256": "8e7fea0eb17da43b218c64b3a2fe34b2fddc1cc84286b990dc015225e9a4e4c8",
       "bytes": 11642
+    },
+    {
+      "path": "src/game/archive.js",
+      "sha256": "ab463e45b060ac6950b7e0029fb0d68ebfc75a99a3ba1996b8f7666297e61609",
+      "bytes": 4156
     },
     {
       "path": "src/game/content-schema.js",
@@ -1158,8 +1218,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "28b24116d638b0c8b7250359b906e94287ca2c6668f6c2ea6f726b7409fb9de8",
-      "bytes": 310254
+      "sha256": "c28cfc7152689ac145724f1aa9db15c41caa27fcaa858d6e0c2b925bda1e48ff",
+      "bytes": 311767
     }
   ]
 }
