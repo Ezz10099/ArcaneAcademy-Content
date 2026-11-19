@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 56,
-  "label": "Forest Gate Level 4 training and opening rewards",
+  "version": 57,
+  "label": "Make Forest Gate training matter in Stages 4–6",
   "entry": "index.html",
   "files": [
     {
@@ -968,7 +968,7 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "652a30adc751291da7f01a7ba95c6f21248e079132dadf06172c056b18dc63f4",
+      "sha256": "ad85225fb0b1ba501fe42687c3a77d7aa049fe416d6bbd3b93b8959099fccb19",
       "bytes": 32387
     },
     {
