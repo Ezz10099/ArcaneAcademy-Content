@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 53,
-  "label": "Full-screen Arcane Summon chamber",
+  "version": 54,
+  "label": "Show levels on the pre-battle field",
   "entry": "index.html",
   "files": [
     {
@@ -923,8 +923,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "85acb84447157a8b4c2bd1f98fc8202ce34b271595e64b7067a0df7aa241e59f",
-      "bytes": 99612
+      "bytes": 100286,
+      "sha256": "8a80d9fbdd80878920549dbe5cc006f4342d15b2d754ef4465c9489bd926e98b"
     },
     {
       "path": "manifest.webmanifest",
@@ -1008,8 +1008,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "8c0e6b0e153b6aae141caf2e61fb18649cd3fe5d48be20c2917a9b80e67af964",
-      "bytes": 294325
+      "sha256": "13e7fe720ec7e6cfe9e7d673346410e945ac531d7724c2bde21e6615aa3cf9cf",
+      "bytes": 294735
     }
   ]
 }
