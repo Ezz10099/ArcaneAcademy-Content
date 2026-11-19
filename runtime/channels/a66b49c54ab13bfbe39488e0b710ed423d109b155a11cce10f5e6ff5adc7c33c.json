@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 67,
-  "label": "Stage defeat guidance",
+  "version": 68,
+  "label": "Trainees screen polish",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "49a5d6c901d94c349de361d1ed75017b5a451db85ae6202d7b7ccda3c54e3e2e",
-      "bytes": 101384
+      "sha256": "f6e4f68a6e3a367442f1235256ca5f17e48699f6ce272a2b8ae16429b3fbb923",
+      "bytes": 99895
     },
     {
       "path": "manifest.webmanifest",
@@ -1013,8 +1013,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "7e5e40e1aae0d41dec26de513ce85846712dcbf508113f8fd42b27f50d0eba22",
-      "bytes": 294816
+      "sha256": "61c6f2aaca717f2d2441209ea5368d45cce901e6059f34d8bfdda8069d6067bc",
+      "bytes": 299820
     }
   ]
 }
