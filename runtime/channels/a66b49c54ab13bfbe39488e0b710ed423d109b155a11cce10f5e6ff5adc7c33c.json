@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 69,
-  "label": "Trainees chamber and roster",
+  "version": 70,
+  "label": "Trainees reference artwork",
   "entry": "index.html",
   "files": [
     {
@@ -872,6 +872,46 @@
       "bytes": 1536
     },
     {
+      "path": "final-assets/trainees/cinder-vale-card.webp",
+      "sha256": "cc12e8b0bba9e84ffd018632cacfc23efb54ace50c6ec6a89c0d57c23336bc2f",
+      "bytes": 20248
+    },
+    {
+      "path": "final-assets/trainees/cinder-vale-showcase.webp",
+      "sha256": "8bae4b2b45068c38c6dd690a6a9f1c9290c2772e5773dae3a6f489b682876cd3",
+      "bytes": 98502
+    },
+    {
+      "path": "final-assets/trainees/profile-crest.webp",
+      "sha256": "9cb9eafe7aa60eadfee27b2588bf5c6dda0bb7a27946a5a59b36dcc749e196b6",
+      "bytes": 30858
+    },
+    {
+      "path": "final-assets/trainees/skill-rift.webp",
+      "sha256": "89bfc449baf19e0036aae6bbe219ca3d4b0d8e489130fbe4e1944fc18c9a76af",
+      "bytes": 7210
+    },
+    {
+      "path": "final-assets/trainees/skill-shards.webp",
+      "sha256": "2eb3951a5f437c75b1b0bfd41843e5cb993ee57ea9e475144c2f920ef5dd5b67",
+      "bytes": 7576
+    },
+    {
+      "path": "final-assets/trainees/skill-strike.webp",
+      "sha256": "1d43147635a4cbaf3e1f7af3343d42d4846774f1a03f6af40753d11778672402",
+      "bytes": 7680
+    },
+    {
+      "path": "final-assets/trainees/skill-ward.webp",
+      "sha256": "7a22802b4a333c3631762a4bbec80986e5cacd9d5259e42d795c885b8a347856",
+      "bytes": 8020
+    },
+    {
+      "path": "final-assets/trainees/training-library.webp",
+      "sha256": "9bb8b1bb071fa53dfc72b9725f7f9714893f961cd0b5ef531fa58368fc2fe9ee",
+      "bytes": 119442
+    },
+    {
       "path": "final-assets/upper-hud/blue-crystal.png",
       "sha256": "5f479735f3866a49c9c80ea7c8149737e030bb98787d393fafef90bca0851ec1",
       "bytes": 38088
@@ -928,8 +968,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "43ff7c8b626d7012aae56eba3713e8fd60d2982b06d29b9ae8dc17add9d7e919",
-      "bytes": 103209
+      "sha256": "81e36021a0c02e090ea721b30aede053c9250c60ea6e55a81100905cbce24040",
+      "bytes": 103676
     },
     {
       "path": "manifest.webmanifest",
@@ -1013,8 +1053,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "3f9ce5be2ebaf1da03a78a346b8d868ac3268b6eac93f207d8c35c2ea2dd0726",
-      "bytes": 309330
+      "sha256": "ebfdcca96b90c13294ee87f5084f35c07a3ffbf16d6d18804ed83b1682371ebc",
+      "bytes": 309264
     }
   ]
 }
