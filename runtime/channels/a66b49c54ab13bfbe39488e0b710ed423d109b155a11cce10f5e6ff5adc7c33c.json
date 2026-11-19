@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 52,
-  "label": "Fix overlapping summon reward notice",
+  "version": 53,
+  "label": "Full-screen Arcane Summon chamber",
   "entry": "index.html",
   "files": [
     {
@@ -923,8 +923,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "c71bfb45af1960531d3016f67f9c6d47594539c5fe9d6edd3cad6a49d71997a8",
-      "bytes": 100893
+      "sha256": "85acb84447157a8b4c2bd1f98fc8202ce34b271595e64b7067a0df7aa241e59f",
+      "bytes": 99612
     },
     {
       "path": "manifest.webmanifest",
@@ -1008,8 +1008,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "87093eef96bb7247219c4afdcd3b6f76fa0e627deeb84ccbc64acdabaf5e886a",
-      "bytes": 307778
+      "sha256": "8c0e6b0e153b6aae141caf2e61fb18649cd3fe5d48be20c2917a9b80e67af964",
+      "bytes": 294325
     }
   ]
 }
