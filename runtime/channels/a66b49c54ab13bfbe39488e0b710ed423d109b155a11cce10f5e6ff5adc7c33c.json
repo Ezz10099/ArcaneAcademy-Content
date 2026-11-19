@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 64,
-  "label": "Faster Stage 2 Briar Guard",
+  "version": 65,
+  "label": "Clean battle preparation",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "f6888370d3c1b80240e3a20c111f3623cbc12ef4a0af5ae88f10189a1109a051",
-      "bytes": 100406
+      "sha256": "3181e527337dfa8897221b8246220c883b99ec1e3b3f70c446f71b867c6e9e46",
+      "bytes": 100566
     },
     {
       "path": "manifest.webmanifest",
@@ -948,8 +948,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "6780015928232e015aefb68b592208aa37ba5a18406ff90b6ef921e39374a4bd",
-      "bytes": 122842
+      "sha256": "2b5ecd01b5bc1de0e2ebd7dac9e5f8c615a4307a52720e57d705856f45d996d9",
+      "bytes": 121874
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
