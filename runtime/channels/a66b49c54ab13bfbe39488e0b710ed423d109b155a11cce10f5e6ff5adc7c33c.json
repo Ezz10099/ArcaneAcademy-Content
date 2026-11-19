@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 59,
-  "label": "Use the Arcane Academy crest while the game starts",
+  "version": 60,
+  "label": "Show ally and enemy levels above fighters",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "b190f9cc268c07c4834f6fd873c525963bba684d3ecd352e030c5ecf56bd8a57",
-      "bytes": 100717
+      "sha256": "76970785bf288af37dc06ddf5b34c3b3e2902827f4944dcbca2915365231c7d0",
+      "bytes": 100500
     },
     {
       "path": "manifest.webmanifest",
@@ -973,13 +973,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "ad85225fb0b1ba501fe42687c3a77d7aa049fe416d6bbd3b93b8959099fccb19",
-      "bytes": 32387
+      "sha256": "673fe6f4af8b4fc95efd9affe48b03b39780e7a33c29ecee949d0f6bf85020d8",
+      "bytes": 32623
     },
     {
       "path": "src/game/game.js",
-      "sha256": "b80c0f835bd5360a6863389e37ba78caccf84bdbe94df612840ef3ced33eca2e",
-      "bytes": 69017
+      "sha256": "9779163e6aec5c0b62e890d2e16b24f6fa3175d0e5f3975b1f919dd74805e6e8",
+      "bytes": 69756
     },
     {
       "path": "src/platform/content-updates.js",
