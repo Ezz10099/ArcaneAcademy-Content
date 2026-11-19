@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 61,
-  "label": "Forest Gate stages 1–10 rebalance",
+  "version": 62,
+  "label": "Gatewood Warden level 10",
   "entry": "index.html",
   "files": [
     {
@@ -973,8 +973,8 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "390bfe97500125f9db424ba9cc83221624a06f14b3a10e64d12df61bfe724def",
-      "bytes": 33538
+      "sha256": "570f4e50801f77c3f38ff070565c81d47f2a3a329fa09f5b5535bdfa7036f159",
+      "bytes": 33539
     },
     {
       "path": "src/game/game.js",
