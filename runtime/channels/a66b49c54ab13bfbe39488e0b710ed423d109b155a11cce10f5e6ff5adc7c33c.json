@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 68,
-  "label": "Trainees screen polish",
+  "version": 69,
+  "label": "Trainees chamber and roster",
   "entry": "index.html",
   "files": [
     {
@@ -928,8 +928,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "f6e4f68a6e3a367442f1235256ca5f17e48699f6ce272a2b8ae16429b3fbb923",
-      "bytes": 99895
+      "sha256": "43ff7c8b626d7012aae56eba3713e8fd60d2982b06d29b9ae8dc17add9d7e919",
+      "bytes": 103209
     },
     {
       "path": "manifest.webmanifest",
@@ -1013,8 +1013,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "61c6f2aaca717f2d2441209ea5368d45cce901e6059f34d8bfdda8069d6067bc",
-      "bytes": 299820
+      "sha256": "3f9ce5be2ebaf1da03a78a346b8d868ac3268b6eac93f207d8c35c2ea2dd0726",
+      "bytes": 309330
     }
   ]
 }
