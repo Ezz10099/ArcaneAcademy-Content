@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 70,
-  "label": "Trainees reference artwork",
+  "version": 71,
+  "label": "Trainees portraits and interface artwork",
   "entry": "index.html",
   "files": [
     {
@@ -872,6 +872,31 @@
       "bytes": 1536
     },
     {
+      "path": "final-assets/trainees/action-gold.webp",
+      "sha256": "3aa59e537107d6767795efe25339ae5b30ac9b015b416aa85f938001755bc3d3",
+      "bytes": 5612
+    },
+    {
+      "path": "final-assets/trainees/action-navy.webp",
+      "sha256": "d13c1d4aa0328aa61d89fabfc887ac1b2fff6be3256900130d0c5b8feab04d50",
+      "bytes": 4376
+    },
+    {
+      "path": "final-assets/trainees/affinity-arcane.webp",
+      "sha256": "955a78b537aabdc3c3ffdf20d1d0f74f22ec42c74f2fe00d2f0d726f92958a13",
+      "bytes": 6452
+    },
+    {
+      "path": "final-assets/trainees/affinity-flame.webp",
+      "sha256": "fc6049611b8d66558330334803c30cd1c91c0664690a25e2661703e29337f375",
+      "bytes": 6550
+    },
+    {
+      "path": "final-assets/trainees/affinity-frost.webp",
+      "sha256": "838a3e7a699f31f67bd7de2f65a25b773b558dd174bb0a030551f40c8f0e067a",
+      "bytes": 6404
+    },
+    {
       "path": "final-assets/trainees/cinder-vale-card.webp",
       "sha256": "cc12e8b0bba9e84ffd018632cacfc23efb54ace50c6ec6a89c0d57c23336bc2f",
       "bytes": 20248
@@ -882,9 +907,69 @@
       "bytes": 98502
     },
     {
+      "path": "final-assets/trainees/dispatch-scroll.webp",
+      "sha256": "41d4c465e8817547f0911ebfec785886d1a7ba61c4fcf4319069ddc13399c685",
+      "bytes": 8542
+    },
+    {
+      "path": "final-assets/trainees/dusk-card.webp",
+      "sha256": "cc12dd82b42fbb5b84864ec83f107e742067e3626d82e06c14cc496feecc9ef9",
+      "bytes": 12770
+    },
+    {
+      "path": "final-assets/trainees/forest-gate-shield.webp",
+      "sha256": "cf7c88eb9cc854f36f65ebe848c28d298a7e8186c6474c01dcbc9b81ad3c7349",
+      "bytes": 8468
+    },
+    {
+      "path": "final-assets/trainees/formation-party.webp",
+      "sha256": "9072b46c34a31180b340547557731f09a1fd22cd1eca2a203bacc2d882cd6ead",
+      "bytes": 6998
+    },
+    {
+      "path": "final-assets/trainees/frost-warden-kael-card.webp",
+      "sha256": "3a226e8d4502b2b894173e8615abb2e8d34dabc50a598a6ddb0502a784ca90be",
+      "bytes": 15512
+    },
+    {
+      "path": "final-assets/trainees/lumen-solis-card.webp",
+      "sha256": "dfb73339f58d883497d928ff58a62afd145babf8f2424736e3667686e8d95467",
+      "bytes": 15464
+    },
+    {
+      "path": "final-assets/trainees/panel-trim.webp",
+      "sha256": "67f7790e3dec6d508cc3b456a0d9b806bbfc1ea5494c0f478586e0ee4e69ee34",
+      "bytes": 7962
+    },
+    {
+      "path": "final-assets/trainees/power-fist.webp",
+      "sha256": "39612415f91841cda8c4f774d48e7424c81b21e6bfb24925b3d778075609b1fe",
+      "bytes": 7896
+    },
+    {
       "path": "final-assets/trainees/profile-crest.webp",
       "sha256": "9cb9eafe7aa60eadfee27b2588bf5c6dda0bb7a27946a5a59b36dcc749e196b6",
       "bytes": 30858
+    },
+    {
+      "path": "final-assets/trainees/pyreth-the-branded-card.webp",
+      "sha256": "a658cc75d40962835297a7b8b10e6cdd984ccff52a9ae4a6072c70f44f0e7e8a",
+      "bytes": 13278
+    },
+    {
+      "path": "final-assets/trainees/rating-star.webp",
+      "sha256": "95cf0e11b1b57646f84ff95136f747688824b987858908745ba4ba1cd2d2fff5",
+      "bytes": 6492
+    },
+    {
+      "path": "final-assets/trainees/role-compass.webp",
+      "sha256": "ae6228d8d3987afe1b7f4203ae42e6eb7e1dcf4d33de473c2f75c1949dee20c5",
+      "bytes": 10048
+    },
+    {
+      "path": "final-assets/trainees/sera-ashveil-card.webp",
+      "sha256": "204ad333c7cd2bc83d3b28619f5ecedc3c74d13ec1b51d2cf06bad569be24c91",
+      "bytes": 16854
     },
     {
       "path": "final-assets/trainees/skill-rift.webp",
@@ -907,9 +992,29 @@
       "bytes": 8020
     },
     {
+      "path": "final-assets/trainees/slot-lock.webp",
+      "sha256": "395c6b236392c545cd9019ea9610d9ea0a947bf06140ec5766f01ab26e9d262d",
+      "bytes": 7252
+    },
+    {
+      "path": "final-assets/trainees/stats-medallion.webp",
+      "sha256": "a299a3b4b2440e8e4256e0fd60e747f1580388418d1fd2cffcc26dc8a76029f2",
+      "bytes": 7402
+    },
+    {
+      "path": "final-assets/trainees/stone-sentinel-gorr-card.webp",
+      "sha256": "9b22090d6872a4cedebeab1702dd071ff2ca9777a2f663887db66bf6de62f14d",
+      "bytes": 12258
+    },
+    {
       "path": "final-assets/trainees/training-library.webp",
       "sha256": "9bb8b1bb071fa53dfc72b9725f7f9714893f961cd0b5ef531fa58368fc2fe9ee",
       "bytes": 119442
+    },
+    {
+      "path": "final-assets/trainees/yssa-driftborn-card.webp",
+      "sha256": "ebb04b6d23bbcef49d185478b50dfbf02c74aee787501c17e8ff79c9c357c9fc",
+      "bytes": 11526
     },
     {
       "path": "final-assets/upper-hud/blue-crystal.png",
@@ -968,8 +1073,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "81e36021a0c02e090ea721b30aede053c9250c60ea6e55a81100905cbce24040",
-      "bytes": 103676
+      "sha256": "861eccc2f89ad35f0ac91c01174a3e68370b146634bdbd971a54539cc668f667",
+      "bytes": 104864
     },
     {
       "path": "manifest.webmanifest",
@@ -1053,8 +1158,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "ebfdcca96b90c13294ee87f5084f35c07a3ffbf16d6d18804ed83b1682371ebc",
-      "bytes": 309264
+      "sha256": "91c6e664476accc7b3bc2ca76eab8879633c835dc07305ea521aecce88a8d3f3",
+      "bytes": 310166
     }
   ]
 }
