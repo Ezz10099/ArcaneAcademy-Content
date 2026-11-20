@@ -1,0 +1,423 @@
+/* Shared upper HUD used by every primary Arcane Academy screen. */
+
+.top-hud.shared-top-hud {
+  position: absolute;
+  top: max(8px, env(safe-area-inset-top, 0px));
+  right: 8px;
+  left: 8px;
+  z-index: 50;
+  display: grid;
+  grid-template-columns: minmax(142px, 0.92fr) minmax(220px, 1.48fr);
+  gap: 7px;
+  align-items: start;
+  width: auto;
+  height: 64px;
+  min-height: 0;
+  padding: 0;
+  overflow: visible;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  backdrop-filter: none;
+}
+
+.shared-top-hud img {
+  display: block;
+  max-width: none;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.shared-player-cluster {
+  position: relative;
+  display: grid;
+  grid-template-columns: 55px minmax(0, 1fr);
+  gap: 5px;
+  align-items: center;
+  min-width: 0;
+  height: 64px;
+  isolation: isolate;
+}
+
+.shared-player-banner {
+  position: absolute;
+  top: 31px;
+  left: 14px;
+  z-index: 0;
+  width: 28px;
+  height: 58px;
+  object-fit: cover;
+  object-position: center top;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.68));
+}
+
+.shared-avatar-wrap {
+  position: relative;
+  z-index: 2;
+  width: 55px;
+  height: 61px;
+}
+
+.shared-player-avatar {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  z-index: 1;
+  width: 37px;
+  height: 37px;
+  margin: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: 50%;
+  font-size: 11px;
+}
+
+.shared-avatar-frame {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.74));
+}
+
+.shared-level-badge {
+  position: absolute;
+  bottom: -1px;
+  left: 50%;
+  z-index: 3;
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 2px rgba(0, 0, 0, 0.78));
+  transform: translateX(-50%);
+}
+
+.shared-player-copy {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding-top: 1px;
+  text-shadow: 0 1px 3px #000;
+}
+
+.shared-player-name,
+.shared-academy-level,
+.shared-player-power {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.shared-player-name {
+  color: var(--ui-parchment);
+  font-size: 11.5px;
+  line-height: 1.05;
+}
+
+.shared-academy-level {
+  margin-top: 3px;
+  color: var(--ui-parchment);
+  font-size: 8.5px;
+  line-height: 1;
+}
+
+.shared-player-power {
+  margin-top: 3px;
+  color: #bcb29e;
+  font-size: 7.5px;
+  line-height: 1;
+}
+
+.shared-resource-cluster {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 5px;
+  align-items: start;
+  min-width: 0;
+  padding-top: 10px;
+}
+
+.shared-resource {
+  position: relative;
+  display: grid;
+  grid-template-columns: 24px minmax(0, 1fr) 16px;
+  gap: 3px;
+  align-items: center;
+  min-width: 0;
+  height: 38px;
+  padding: 5px 5px 5px 6px;
+  isolation: isolate;
+  filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.58));
+}
+
+.shared-resource-frame {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.shared-resource-icon,
+.shared-resource-copy,
+.shared-resource-plus {
+  position: relative;
+  z-index: 1;
+}
+
+.shared-resource-icon {
+  width: 23px;
+  height: 23px;
+  object-fit: contain;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.76));
+}
+
+.shared-resource-copy {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  text-align: center;
+  text-shadow: 0 1px 2px #000;
+}
+
+.shared-resource-value {
+  overflow: hidden;
+  color: var(--ui-ivory);
+  font-size: clamp(9px, 2.15vw, 11px);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.shared-resource-copy small {
+  margin-top: 2px;
+  overflow: hidden;
+  color: #c8b994;
+  font-size: 7px;
+  line-height: 1;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.shared-resource-plus {
+  display: grid;
+  width: 17px;
+  height: 17px;
+  padding: 0;
+  place-items: center;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  border-radius: 50%;
+}
+
+.shared-resource-plus img {
+  width: 17px;
+  height: 17px;
+  object-fit: contain;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.75));
+}
+
+.shared-resource-plus:focus-visible {
+  outline: 2px solid rgba(241, 191, 85, 0.95);
+  outline-offset: 2px;
+}
+
+.shared-hud-toast {
+  position: absolute;
+  top: 78px;
+  left: 50%;
+  z-index: 80;
+  max-width: calc(100% - 32px);
+  padding: 7px 11px;
+  opacity: 0;
+  color: var(--ui-ivory);
+  background: rgba(7, 10, 16, 0.94);
+  border: 1px solid rgba(214, 173, 92, 0.5);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.42);
+  font-size: 10px;
+  pointer-events: none;
+  text-align: center;
+  transform: translate(-50%, -5px);
+  transition: opacity 140ms ease, transform 140ms ease;
+}
+
+.shared-hud-toast.visible {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+/* The reward panel still used the former Expedition-only paths. Keep it on the moved shared assets. */
+.campaign-screen.region-wild-forest .reward-gold .reward-icon {
+  background-image: url("./final-assets/upper-hud/gold-coin.png?v=20260623-shared-hud-v1");
+}
+
+.campaign-screen.region-wild-forest .reward-crystal .reward-icon {
+  background-image: url("./final-assets/upper-hud/blue-crystal.png?v=20260623-shared-hud-v1");
+}
+
+@media (max-width: 430px) {
+  .top-hud.shared-top-hud {
+    right: 6px;
+    left: 6px;
+    grid-template-columns: minmax(126px, 0.9fr) minmax(0, 1.65fr);
+    gap: 4px;
+    height: 60px;
+  }
+
+  .shared-player-cluster {
+    grid-template-columns: 49px minmax(0, 1fr);
+    gap: 3px;
+    height: 60px;
+  }
+
+  .shared-avatar-wrap {
+    width: 49px;
+    height: 55px;
+  }
+
+  .shared-player-avatar {
+    top: 9px;
+    left: 9px;
+    width: 32px;
+    height: 32px;
+    font-size: 10px;
+  }
+
+  .shared-player-banner {
+    top: 29px;
+    left: 13px;
+    width: 24px;
+    height: 54px;
+  }
+
+  .shared-level-badge {
+    width: 20px;
+    height: 20px;
+  }
+
+  .shared-player-name {
+    font-size: 10.5px;
+  }
+
+  .shared-academy-level {
+    font-size: 7.5px;
+  }
+
+  .shared-player-power {
+    font-size: 7px;
+  }
+
+  .shared-resource-cluster {
+    gap: 3px;
+    padding-top: 9px;
+  }
+
+  .shared-resource {
+    grid-template-columns: 20px minmax(0, 1fr) 14px;
+    gap: 2px;
+    height: 36px;
+    padding: 4px;
+  }
+
+  .shared-resource-icon {
+    width: 20px;
+    height: 20px;
+  }
+
+  .shared-resource-plus,
+  .shared-resource-plus img {
+    width: 14px;
+    height: 14px;
+  }
+
+  .shared-resource-value {
+    font-size: 9px;
+  }
+
+  .shared-resource-copy small {
+    font-size: 6.2px;
+  }
+}
+
+@media (max-width: 380px) {
+  .top-hud.shared-top-hud {
+    right: 5px;
+    left: 5px;
+    grid-template-columns: 116px minmax(0, 1fr);
+    gap: 2px;
+  }
+
+  .shared-player-cluster {
+    grid-template-columns: 45px minmax(0, 1fr);
+  }
+
+  .shared-avatar-wrap {
+    width: 45px;
+    height: 51px;
+  }
+
+  .shared-player-avatar {
+    width: 29px;
+    height: 29px;
+  }
+
+  .shared-player-name {
+    font-size: 9.5px;
+  }
+
+  .shared-academy-level {
+    font-size: 7px;
+  }
+
+  .shared-player-power {
+    font-size: 6.5px;
+  }
+
+  .shared-resource {
+    grid-template-columns: 18px minmax(0, 1fr) 12px;
+    height: 34px;
+    padding: 3px;
+  }
+
+  .shared-resource-icon {
+    width: 18px;
+    height: 18px;
+  }
+
+  .shared-resource-plus,
+  .shared-resource-plus img {
+    width: 12px;
+    height: 12px;
+  }
+
+  .shared-resource-value {
+    font-size: 8.5px;
+  }
+
+  .shared-resource-copy small {
+    font-size: 5.7px;
+  }
+}
+
+
+/* Live-configurable shared HUD geometry. */
+.game-root:not(.battle-view) > .top-hud.shared-top-hud {
+  top: max(calc(var(--shell-hud-top) * 1px), env(safe-area-inset-top, 0px));
+  right: calc(var(--shell-hud-side) * 1px);
+  left: calc(var(--shell-hud-side) * 1px);
+  height: calc(var(--shell-hud-height) * 1px);
+}
+
+.game-root:not(.battle-view) > .top-hud.shared-top-hud .shared-player-cluster {
+  height: calc(var(--shell-hud-height) * 1px);
+}
