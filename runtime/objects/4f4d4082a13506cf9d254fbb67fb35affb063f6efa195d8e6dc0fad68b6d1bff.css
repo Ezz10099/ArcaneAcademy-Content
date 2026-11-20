@@ -1,0 +1,550 @@
+/* Forest Gate full-map Expedition layout.
+   Loaded after the shared Expedition/mobile layers and scoped to Forest Gate only. */
+
+.forest-gate-map-screen {
+  position: absolute !important;
+  top: 0 !important;
+  right: 0 !important;
+  bottom: clamp(76px, 19vw, 90px) !important;
+  left: 0 !important;
+  display: block !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  background-color: #020812 !important;
+  background-image: none !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+.forest-map-background {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 0;
+  display: block;
+  width: 100%;
+  height: 150%;
+  object-fit: fill;
+  object-position: center top;
+  filter: saturate(.72);
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.forest-gate-map-screen::before {
+  position: absolute !important;
+  inset: 0 !important;
+  z-index: 0 !important;
+  display: block !important;
+  content: "" !important;
+  background: #020812 url("./final-assets/expedition/location-backgrounds/forest-gate-1-1.jpg?v=20260731-resilient-v2") center top / 100% 150% no-repeat !important;
+  filter: saturate(.72) !important;
+  transform: none !important;
+}
+
+.forest-gate-map-screen::after,
+.forest-gate-map-screen .location-background-shade {
+  display: none !important;
+}
+
+
+.forest-map-effects {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  overflow: hidden;
+  contain: layout paint style;
+  pointer-events: none;
+}
+
+.forest-map-mist {
+  position: absolute;
+  left: -35%;
+  width: 170%;
+  height: 24%;
+  opacity: 0.16;
+  background:
+    radial-gradient(ellipse at 18% 55%, rgba(177, 216, 224, 0.42) 0 10%, transparent 38%),
+    radial-gradient(ellipse at 52% 45%, rgba(145, 193, 207, 0.3) 0 12%, transparent 40%),
+    radial-gradient(ellipse at 84% 58%, rgba(184, 215, 219, 0.34) 0 9%, transparent 36%);
+  will-change: transform, opacity;
+}
+
+.forest-map-mist.mist-high {
+  top: 26%;
+  animation: forest-mist-drift-high 22s ease-in-out infinite alternate;
+}
+
+.forest-map-mist.mist-low {
+  top: 66%;
+  opacity: 0.2;
+  animation: forest-mist-drift-low 27s ease-in-out -9s infinite alternate;
+}
+
+.forest-map-gate-aura {
+  position: absolute;
+  top: 4%;
+  left: 34%;
+  width: 58%;
+  height: 29%;
+  background: radial-gradient(ellipse at 50% 48%, rgba(86, 193, 255, 0.25), rgba(36, 105, 195, 0.08) 42%, transparent 72%);
+  opacity: 0.52;
+  transform-origin: center;
+  will-change: transform, opacity;
+  animation: forest-gate-breathe 5.8s ease-in-out -2.4s infinite alternate;
+}
+
+.forest-map-emissive {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.forest-map-emissive-layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 150%;
+  object-fit: fill;
+  object-position: center top;
+  opacity: 0.18;
+  filter: saturate(.72);
+  mix-blend-mode: screen;
+  pointer-events: none;
+  user-select: none;
+  backface-visibility: hidden;
+  will-change: opacity;
+  -webkit-user-drag: none;
+}
+
+.forest-map-emissive-layer.group-1 {
+  animation: forest-emissive-flicker-1 5.2s ease-in-out -1.7s infinite;
+}
+
+.forest-map-emissive-layer.group-2 {
+  animation: forest-emissive-flicker-2 6.1s ease-in-out -4.3s infinite;
+}
+
+.forest-map-emissive-layer.group-3 {
+  animation: forest-emissive-flicker-3 5.7s ease-in-out -3.1s infinite;
+}
+
+.forest-map-firefly {
+  position: absolute;
+  top: var(--spark-y);
+  left: var(--spark-x);
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #b9efff;
+  box-shadow: 0 0 4px 1px rgba(83, 197, 255, 0.9), 0 0 9px 3px rgba(38, 132, 221, 0.42);
+  opacity: 0;
+  will-change: transform, opacity;
+  animation: forest-firefly-drift var(--spark-duration) ease-in-out var(--spark-delay) infinite;
+}
+
+@keyframes forest-mist-drift-high {
+  from { transform: translate3d(-7%, 0, 0); opacity: 0.11; }
+  to { transform: translate3d(7%, 2%, 0); opacity: 0.2; }
+}
+
+@keyframes forest-mist-drift-low {
+  from { transform: translate3d(8%, 1%, 0); opacity: 0.12; }
+  to { transform: translate3d(-8%, -2%, 0); opacity: 0.23; }
+}
+
+@keyframes forest-gate-breathe {
+  from { opacity: 0.4; transform: scale(0.96); }
+  to { opacity: 0.68; transform: scale(1.05); }
+}
+
+@keyframes forest-emissive-flicker-1 {
+  0%, 100% { opacity: 0.12; }
+  11% { opacity: 0.82; }
+  17% { opacity: 0.42; }
+  36% { opacity: 0.96; }
+  43% { opacity: 0.5; }
+  67% { opacity: 0.88; }
+  81% { opacity: 0.3; }
+}
+
+@keyframes forest-emissive-flicker-2 {
+  0%, 100% { opacity: 0.68; }
+  10% { opacity: 0.2; }
+  28% { opacity: 0.92; }
+  35% { opacity: 0.46; }
+  57% { opacity: 1; }
+  64% { opacity: 0.52; }
+  82% { opacity: 0.16; }
+}
+
+@keyframes forest-emissive-flicker-3 {
+  0%, 100% { opacity: 0.24; }
+  14% { opacity: 0.94; }
+  20% { opacity: 0.44; }
+  39% { opacity: 0.84; }
+  58% { opacity: 0.14; }
+  76% { opacity: 1; }
+  88% { opacity: 0.48; }
+}
+
+@keyframes forest-firefly-drift {
+  0%, 12%, 100% { opacity: 0; transform: translate3d(0, 7px, 0) scale(0.7); }
+  28% { opacity: 0.95; }
+  55% { opacity: 0.3; transform: translate3d(var(--spark-drift-x), -7px, 0) scale(1.15); }
+  76% { opacity: 0.85; }
+  90% { opacity: 0; transform: translate3d(calc(0px - var(--spark-drift-x)), -15px, 0) scale(0.75); }
+}
+
+.forest-map-vignette {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background:
+    linear-gradient(180deg, rgba(0, 4, 11, 0.5) 0%, transparent 18%, transparent 77%, rgba(0, 4, 11, 0.66) 100%),
+    linear-gradient(90deg, rgba(0, 5, 12, 0.16), transparent 18%, transparent 82%, rgba(0, 5, 12, 0.16));
+}
+
+.forest-map-titlebar {
+  position: absolute;
+  top: 82px;
+  right: 13px;
+  left: 66px;
+  z-index: 7;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  pointer-events: none;
+}
+
+.forest-map-titlecopy {
+  min-width: 0;
+  padding: 4px 8px 5px;
+  background: linear-gradient(90deg, rgba(3, 10, 20, 0.72), rgba(3, 10, 20, 0.18) 78%, transparent);
+  border-left: 2px solid rgba(229, 190, 102, 0.66);
+  text-shadow: 0 1px 3px #000;
+}
+
+.forest-map-titlecopy span {
+  display: block;
+  color: var(--ui-brass);
+  font-size: 7px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.forest-map-titlecopy h1 {
+  margin: 0;
+  color: var(--ui-parchment);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(18px, 4.8vw, 24px);
+  line-height: 1;
+}
+
+.forest-map-title-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  pointer-events: auto;
+}
+
+.forest-map-chapter-button {
+  min-height: 30px;
+  padding: 0 9px;
+  color: #ead9b1;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 9px;
+  font-weight: 700;
+  background: linear-gradient(180deg, rgba(38, 30, 51, 0.9), rgba(15, 20, 35, 0.92));
+  border: 1px solid rgba(216, 182, 103, 0.58);
+  border-radius: 10px;
+  box-shadow: inset 0 0 10px rgba(133, 100, 170, 0.15), 0 3px 10px rgba(0, 0, 0, 0.38);
+}
+
+.forest-map-progress {
+  display: grid;
+  width: 32px;
+  height: 32px;
+  place-items: center;
+  color: var(--ui-brass);
+  font-size: 9px;
+  font-weight: 800;
+  background: rgba(4, 12, 23, 0.82);
+  border: 1.5px solid rgba(214, 176, 88, 0.62);
+  border-radius: 50%;
+  box-shadow: inset 0 0 10px rgba(63, 145, 190, 0.14), 0 3px 10px rgba(0, 0, 0, 0.38);
+}
+
+.forest-map-route {
+  position: absolute;
+  inset: 0;
+  z-index: 5;
+}
+
+.forest-map-stage {
+  /* The available and locked PNGs have different padding below the stone base. */
+  --node-foot: 74%;
+  --node-width: clamp(52px, 11.2vw, 72px);
+  --target-below-foot: 8px;
+  --node-filter: saturate(.72) contrast(.92) brightness(.88);
+  position: absolute;
+  top: var(--stage-y);
+  left: var(--stage-x);
+  display: block;
+  width: max(44px, calc(var(--node-width) * .86));
+  height: 44px;
+  padding: 0;
+  color: var(--ui-parchment);
+  background: none;
+  border: 0;
+  border-radius: 0;
+  transform: translate(-50%, calc(-100% + var(--target-below-foot)));
+  -webkit-tap-highlight-color: transparent;
+}
+
+.forest-map-stage.strong {
+  --node-foot: 78%;
+  --node-width: clamp(60px, 13vw, 82px);
+}
+
+.forest-map-stage.boss {
+  --node-foot: 79%;
+  --node-width: clamp(68px, 14.8vw, 92px);
+  height: 50px;
+}
+
+.forest-map-stage.locked {
+  --node-foot: 76%;
+  --node-filter: sepia(.16) hue-rotate(165deg) saturate(.8) contrast(.87) brightness(.92);
+  cursor: default;
+}
+
+.forest-map-stage.strong.locked { --node-foot: 80%; }
+.forest-map-stage.boss.locked { --node-foot: 85%; }
+
+.forest-map-stage.playable {
+  --node-filter: saturate(.8) contrast(.95) brightness(1.04);
+  z-index: 1;
+  cursor: pointer;
+}
+
+.forest-map-stage:focus-visible {
+  outline: 1px solid #b7cbdb;
+  outline-offset: 2px;
+}
+
+.forest-map-stage.playable:active .forest-map-node-art {
+  --art-press-scale: .96;
+}
+
+.forest-map-node-art {
+  --art-viewport-scale: 1;
+  --art-press-scale: 1;
+  position: absolute;
+  top: calc(100% - var(--target-below-foot));
+  left: 50%;
+  display: block;
+  width: var(--node-width);
+  height: calc(var(--node-width) * 1.5);
+  isolation: isolate;
+  pointer-events: none;
+  transform:
+    translate(-50%, calc(0% - var(--node-foot)))
+    scale(calc(var(--stage-depth) * var(--art-viewport-scale) * var(--art-press-scale)));
+  transform-origin: 50% var(--node-foot);
+  transition: transform 120ms ease;
+}
+
+/* Keep the contact shadow on the terrain when the doorway scales with depth. */
+.forest-map-node-art::before {
+  position: absolute;
+  z-index: -1;
+  top: var(--node-foot);
+  left: 50%;
+  width: 88%;
+  height: 15%;
+  content: "";
+  background: radial-gradient(ellipse, #03060bd6 5%, #05091186 42%, transparent 73%);
+  transform: translate(-50%, -49%);
+  pointer-events: none;
+}
+
+.forest-map-stage.current .forest-map-node-art::before {
+  width: 98%;
+  height: 18%;
+  background:
+    radial-gradient(ellipse, #070d17bb 8%, transparent 55%),
+    radial-gradient(ellipse, #81b7d739 24%, #41668a24 52%, transparent 73%);
+}
+
+.forest-map-node-image {
+  --foot-fade: linear-gradient(#000 calc(var(--node-foot) - 7%), #000e calc(var(--node-foot) - 3%), transparent calc(var(--node-foot) + 3%));
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: var(--node-filter);
+  -webkit-mask-image: var(--foot-fade);
+  mask-image: var(--foot-fade);
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.forest-map-stage.cleared:disabled {
+  cursor: default;
+  opacity: 1;
+}
+
+.forest-map-cleared-mark {
+  position: absolute;
+  top: 51%;
+  left: 50%;
+  width: 34%;
+  height: auto;
+  object-fit: contain;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  filter: saturate(.65) drop-shadow(0 1px 2px #000b);
+}
+
+.forest-map-stage-number {
+  position: absolute;
+  top: calc(100% - var(--target-below-foot));
+  left: 50%;
+  display: block;
+  width: 100%;
+  text-align: center;
+  color: var(--ui-ivory);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(10px, 2.4vw, 14px);
+  font-weight: 700;
+  line-height: 1;
+  white-space: nowrap;
+  text-shadow: 0 1px 3px #000;
+  transform: translate(-50%, -38%);
+  pointer-events: none;
+}
+
+.forest-map-stage.locked .forest-map-stage-number {
+  color: #d0cbc2;
+}
+
+.forest-map-toast {
+  position: absolute;
+  right: 18px;
+  bottom: 92px;
+  left: 18px;
+  z-index: 20;
+  padding: 10px 14px;
+  color: #eadfc7;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+  background: rgba(5, 12, 22, 0.94);
+  border: 1px solid rgba(215, 178, 96, 0.58);
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.55);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(8px);
+  transition: opacity 150ms ease, transform 150ms ease;
+}
+
+.forest-map-toast.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.game-root:has(.forest-gate-map-screen) .activity-log {
+  display: none !important;
+}
+
+
+@media (prefers-reduced-motion: reduce) {
+  .forest-map-mist,
+  .forest-map-emissive-layer,
+  .forest-map-gate-aura,
+  .forest-map-firefly {
+    animation: none;
+  }
+
+  .forest-map-node-art {
+    transition: none;
+  }
+
+  .forest-map-mist {
+    opacity: 0.1;
+  }
+
+  .forest-map-emissive-layer {
+    opacity: 0.42;
+  }
+
+  .forest-map-firefly {
+    display: none;
+  }
+}
+
+@media (max-width: 430px) {
+  .forest-map-titlebar {
+    top: 80px;
+    right: 10px;
+    left: 64px;
+  }
+
+  .forest-map-titlecopy {
+    padding: 4px 7px 5px;
+  }
+
+  .forest-map-titlecopy h1 {
+    font-size: 18px;
+  }
+
+  .forest-map-chapter-button {
+    min-height: 29px;
+    padding: 0 8px;
+    font-size: 8px;
+  }
+
+  .forest-map-progress {
+    width: 30px;
+    height: 30px;
+    font-size: 8px;
+  }
+
+  .forest-map-stage {
+    --node-width: clamp(50px, 12.4vw, 64px);
+  }
+
+  .forest-map-stage.strong {
+    --node-width: clamp(58px, 14.4vw, 73px);
+  }
+
+  .forest-map-stage.boss {
+    --node-width: clamp(66px, 16.2vw, 82px);
+  }
+
+  .forest-map-stage-number {
+    font-size: 10px;
+  }
+}
+
+@media (max-height: 720px) {
+  .forest-map-titlebar {
+    top: 76px;
+  }
+
+  .forest-map-node-art {
+    --art-viewport-scale: .9;
+  }
+}
