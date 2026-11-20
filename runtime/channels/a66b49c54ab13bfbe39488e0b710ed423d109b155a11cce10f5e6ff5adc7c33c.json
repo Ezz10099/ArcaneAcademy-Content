@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 99,
-  "label": "APK download sign-in",
+  "version": 100,
+  "label": "Direct APK download",
   "entry": "index.html",
   "files": [
     {
@@ -1303,8 +1303,8 @@
     },
     {
       "path": "src/platform/content-updates.js",
-      "sha256": "3168c5b5f7e95e7a6a086d36af88dfa45ad6e9154464ec40f8360bc2fa0cea84",
-      "bytes": 11010
+      "sha256": "fa717dd2d89154a6632a0d92e6421c379674c3b13d272bafd84e12ee9aae16ae",
+      "bytes": 11002
     },
     {
       "path": "src/platform/game-audio.js",
