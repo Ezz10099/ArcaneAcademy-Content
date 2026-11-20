@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 84,
-  "label": "Smoother battles and frame-rate settings",
+  "version": 85,
+  "label": "Smoother battle rendering",
   "entry": "index.html",
   "files": [
     {
@@ -1218,8 +1218,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "59f1a1a89ad7369a4b11ad56afbd5e508b8babf5b04b8e7ef89a36afc0fdb878",
-      "bytes": 123031
+      "sha256": "e107676bea9251378e6b9fffb0ecf74a3cfccd8a3e886de90229e991062d3e4d",
+      "bytes": 124876
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1233,8 +1233,8 @@
     },
     {
       "path": "src/battle/vfx/MeleeRun.js",
-      "sha256": "8e7fea0eb17da43b218c64b3a2fe34b2fddc1cc84286b990dc015225e9a4e4c8",
-      "bytes": 11642
+      "sha256": "5e3ad6d3a9797b10b57e815ea19252454a8a8ae6211e70eb991a46793d9c80d2",
+      "bytes": 12084
     },
     {
       "path": "src/game/archive.js",
