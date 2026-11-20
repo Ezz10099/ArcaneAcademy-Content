@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 76,
-  "label": "Creature collection locked",
+  "version": 77,
+  "label": "Academy campus redesign",
   "entry": "index.html",
   "files": [
     {
@@ -40,6 +40,31 @@
       "path": "expedition-mobile.js",
       "sha256": "bb975524134183289186dca68d19ea288022a84652a8d36bf0aade3a231bdf24",
       "bytes": 2107
+    },
+    {
+      "path": "final-assets/academy/alchemy-flask.webp",
+      "sha256": "fba4d67d06697518d149bf5681f94d460f4b6fdf21012ff446c7280bb7c459f1",
+      "bytes": 3018
+    },
+    {
+      "path": "final-assets/academy/dormitory-bed.webp",
+      "sha256": "012dfe3041c8a911891d67a07a3ed9e87ac1d1287b65e855dc0f032d1a69ea13",
+      "bytes": 3278
+    },
+    {
+      "path": "final-assets/academy/hall-crown.webp",
+      "sha256": "8a31baed1fab15ed4f54a7c7a64e95e519dba511ae3f2c9755e0862cf30c82f1",
+      "bytes": 3612
+    },
+    {
+      "path": "final-assets/academy/moonlit-campus.webp",
+      "sha256": "155e69ff05f7fc090918bff082adaa46f04cfa851c5d484e0df81f6d089a71a7",
+      "bytes": 318616
+    },
+    {
+      "path": "final-assets/academy/status-crest.webp",
+      "sha256": "c17244c27592a5655e06f093035f9fe73b38e02534f550e4096992144607beff",
+      "bytes": 25768
     },
     {
       "path": "final-assets/archive/aether-drake.webp",
@@ -1173,8 +1198,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "88c6dcedb7cb250e8f7541163d65c044d9d3767f0429da8e94550a330bf7dece",
-      "bytes": 110588
+      "sha256": "8d7190acd1c94ee05c28fc3366faa2b5d39bba059aaf3e49a89f15e1c3656567",
+      "bytes": 111360
     },
     {
       "path": "manifest.webmanifest",
@@ -1263,8 +1288,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "29f32c7c74252e2b8b8ffee6bcf2366e35e73c92630a721e900fdc12054f8217",
-      "bytes": 313198
+      "sha256": "6b06935b6e13989672b8b1cb3161fe742e4cfd824cb29e691334c009ef2f174c",
+      "bytes": 319665
     }
   ]
 }
