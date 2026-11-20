@@ -1241,8 +1241,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "b34f01391287d2ac3a7d01e037222bc91b7e3b491cacaac1b49beb0bb630a080",
-      "bytes": 118131
+      "sha256": "d3f0353aa40e452045dd9ce6eb62584f9be492fe88fd5f4e7399e24ae65b1e8a",
+      "bytes": 120403
     },
     {
       "path": "manifest.webmanifest",
@@ -1256,8 +1256,8 @@
     },
     {
       "path": "shared-upper-hud.js",
-      "sha256": "41bec202c56b8ab245328a6bd436ed159a7c48dc9e1b8e0c308c4f3e6c4d7c6b",
-      "bytes": 4398
+      "sha256": "f899aad874e99bcc5aff0cdc2917d3f531da444c48401cce6e462c675e247d4f",
+      "bytes": 3314
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
@@ -1291,13 +1291,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "0b42478a95e6e4a7e5950443972c33ee351cd87a6cb6d54312e1790eda2dd5c7",
-      "bytes": 34466
+      "sha256": "b83e8f14bcba43a15986591b6959407be9281aac854fb445f27491cad674797a",
+      "bytes": 34538
     },
     {
       "path": "src/game/game.js",
-      "sha256": "f7b19176960dfd8504346e8c607093d3aa54aa8d508010f3e207ad2e8ec90962",
-      "bytes": 72741
+      "sha256": "92cdf199e63a37708667c028cfe608a64abd0a72f17e16ec141319a1f319baef",
+      "bytes": 73224
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1331,10 +1331,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "1484f11e22c7a5ecdfa001da8396651761ea9b676c7ff552cf6c211a4e40977b",
-      "bytes": 327376
+      "sha256": "2eb4bdaf4a27d75d12a9e8d99356cfced2e0f22c957aa44433a3319fb8665896",
+      "bytes": 328832
     }
   ],
-  "version": 103,
-  "label": "Personal XP for deployed trainees"
+  "version": 104,
+  "label": "Lesson Scrolls and Academy Inventory"
 }
