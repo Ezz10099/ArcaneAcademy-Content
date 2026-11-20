@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 78,
-  "label": "Softer Academy colors",
+  "version": 79,
+  "label": "Softer game colors and text",
   "entry": "index.html",
   "files": [
     {
@@ -1183,8 +1183,8 @@
     },
     {
       "path": "forest-gate-map.css",
-      "sha256": "a620096fb6b2a0210da0269432a3f7036adb7c72fef7136cb3411e509a152be2",
-      "bytes": 12050
+      "sha256": "827c87a2f09b27bc42e730786b259ca754ac163fe18273f41610edfd907a26c7",
+      "bytes": 12093
     },
     {
       "path": "forest-gate-map.js",
@@ -1208,8 +1208,8 @@
     },
     {
       "path": "shared-upper-hud.css",
-      "sha256": "a61e2495ae6ce69a62d98de54a8770c224eb9313846bb80468dcae697db22099",
-      "bytes": 7826
+      "sha256": "eea575874b0bb566dedc81a8a36c28c117f4a7fdf4b07def4bd51970cea909ed",
+      "bytes": 7836
     },
     {
       "path": "shared-upper-hud.js",
@@ -1218,8 +1218,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "d9682336409bdc13ef6fadabf50bd716b2ca6c0727222e7afc460b755a9c1b61",
-      "bytes": 121386
+      "sha256": "a23bc3037cea6db2836b5af295daf47a78dc4b2ee099add78972100bfccbca66",
+      "bytes": 121366
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1288,8 +1288,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "6e7af07d0477de14543c3f9d7ec01558ac5f83d8a6477602b903c33a316cb065",
-      "bytes": 319942
+      "sha256": "c6218184a8762ff3745055d2700acba9458522ac1b41fcb5a57ecf67906da5dc",
+      "bytes": 323764
     }
   ]
 }
