@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 81,
-  "label": "Grounded Forest Gate stages",
+  "version": 82,
+  "label": "Forest Gate Trail Seals",
   "entry": "index.html",
   "files": [
     {
@@ -927,6 +927,11 @@
       "bytes": 87301
     },
     {
+      "path": "final-assets/expedition/stage-nodes/trail-seal.webp",
+      "sha256": "0941f1ad802ae3003174d19b2adfeed69aacd032397dfa1e68af184353947e0d",
+      "bytes": 19566
+    },
+    {
       "path": "final-assets/expedition/upper-hud/energy-icon.png",
       "sha256": "fc88a9427be3d8ee691aec871dddeed1a1d363fa185951ed776818f17ef66613",
       "bytes": 39256
@@ -1183,13 +1188,13 @@
     },
     {
       "path": "forest-gate-map.css",
-      "sha256": "4f4d4082a13506cf9d254fbb67fb35affb063f6efa195d8e6dc0fad68b6d1bff",
-      "bytes": 12948
+      "sha256": "d8e9c53fab247259790d14f784b3c4cb49a384d10330bfe7935e8d601648fdad",
+      "bytes": 11404
     },
     {
       "path": "forest-gate-map.js",
-      "sha256": "e74d434573e5474a0e8254e022eed94a4c399edcdbdc3d5b32d1db1ffd00f90c",
-      "bytes": 8240
+      "sha256": "d178b503fc8d521a79e76634225189a8c24afa4ba9cc3dbeac8acd917215b1de",
+      "bytes": 7948
     },
     {
       "path": "index.html",
