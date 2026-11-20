@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 48" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="rim" x2=".12" y2="1">
+      <stop stop-color="#665034"/>
+      <stop offset=".27" stop-color="#d5b785"/>
+      <stop offset=".53" stop-color="#957447"/>
+      <stop offset=".76" stop-color="#503b28"/>
+      <stop offset="1" stop-color="#9d7846"/>
+    </linearGradient>
+    <linearGradient id="stone" x2="0" y2="1">
+      <stop stop-color="#38454a"/>
+      <stop offset=".38" stop-color="#29353b"/>
+      <stop offset="1" stop-color="#121b21"/>
+    </linearGradient>
+    <linearGradient id="play" x2=".25" y2="1">
+      <stop stop-color="#fff0c6"/>
+      <stop offset=".42" stop-color="#e9ca86"/>
+      <stop offset="1" stop-color="#a4773d"/>
+    </linearGradient>
+    <radialGradient id="light" cx=".5" cy=".35" r=".49">
+      <stop stop-color="#a7c4c3" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#a7c4c3" stop-opacity="0"/>
+    </radialGradient>
+    <path id="face" d="M16 7H200L209 16V31L200 40H16L7 31V16Z"/>
+    <filter id="grain" x="0" y="0" width="1" height="1">
+      <feTurbulence baseFrequency=".27 .37" numOctaves="3" seed="8" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+  </defs>
+  <path fill="#090d10" stroke="#090c0f" stroke-width="2" d="M14 3H202L214 15V34L202 46H14L2 34V15Z"/>
+  <path fill="url(#rim)" d="M14 2H202L214 14V32L202 44H14L2 32V14Z"/>
+  <path fill="#151719" stroke="#251f17" d="M15 4.5H201L211.5 15V31L201 41.5H15L4.5 31V15Z"/>
+  <use href="#face" fill="url(#stone)"/>
+  <use href="#face" fill="#fff" filter="url(#grain)" opacity=".16"/>
+  <use href="#face" fill="url(#light)"/>
+  <path d="M16 8H200M16 39H200" stroke="#a69a78" stroke-opacity=".32"/>
+  <g fill="none" stroke="#a58b5d" stroke-width=".9" stroke-linejoin="round">
+    <path d="M14 23.5L20 17.5L26 23.5L20 29.5ZM190 23.5L196 17.5L202 23.5L196 29.5Z"/>
+    <path opacity=".52" d="M26 23.5H47L53 20H71M190 23.5H169L163 20H145M26 23.5H47L53 27H66M190 23.5H169L163 27H150"/>
+  </g>
+  <path d="M103 11.8L122 24.8L103 37.8Q100 39 100 35.9V13.7Q100 10.6 103 11.8Z" fill="#121517" stroke="#131414" stroke-width="3"/>
+  <path d="M103 11L121 23.5L103 36Q101 37.1 101 34.7V12.3Q101 9.9 103 11Z" fill="url(#play)" stroke="#edce90" stroke-width=".75" stroke-linejoin="round"/>
+</svg>
