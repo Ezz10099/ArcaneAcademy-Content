@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 73,
-  "label": "Archive field guide and artwork",
+  "version": 74,
+  "label": "Archive Monsters and Creatures",
   "entry": "index.html",
   "files": [
     {
@@ -42,6 +42,11 @@
       "bytes": 2107
     },
     {
+      "path": "final-assets/archive/aether-drake.webp",
+      "sha256": "3537b997a3f833c81ae244d205ae08723cd3fe0882a3575fd0903ab18ae2d90a",
+      "bytes": 29698
+    },
+    {
       "path": "final-assets/archive/archive-crest.webp",
       "sha256": "f45165abd5bcf7732ffac32bf9d00894cc096a640565040cec710b25c58eaf41",
       "bytes": 18194
@@ -55,6 +60,11 @@
       "path": "final-assets/archive/codex-library.webp",
       "sha256": "ce78c636dcc2bd6152248cd684afecce11bc3072d54210e56d84ac3dcda0db88",
       "bytes": 133998
+    },
+    {
+      "path": "final-assets/archive/crystalback.webp",
+      "sha256": "e4b93c1c3ea51350e28334e69b3d474ae034bc3f47c27e589f8ccdd97c627369",
+      "bytes": 29634
     },
     {
       "path": "final-assets/archive/ember-moth.webp",
@@ -72,9 +82,24 @@
       "bytes": 44184
     },
     {
+      "path": "final-assets/archive/grove-stag.webp",
+      "sha256": "ce0560810c50c10c6f0a38207c45d2f964c1973682e8e4a92c609cac4181d39d",
+      "bytes": 26712
+    },
+    {
       "path": "final-assets/archive/lantern-moth.webp",
       "sha256": "66547212c906c631276183cdbc7e7e28382347706e385a4d7b428624868ab670",
       "bytes": 32480
+    },
+    {
+      "path": "final-assets/archive/luminowl.webp",
+      "sha256": "2d9ad1199f29cf4658f93ab355d4ecdc595b35fa2200a97a70b3efaf5780451f",
+      "bytes": 33234
+    },
+    {
+      "path": "final-assets/archive/mist-lynx.webp",
+      "sha256": "60d8a6aa4d276e0e94cc76eb081b17e0354281ffa4cf5617b088bf3dc3c5a392",
+      "bytes": 32016
     },
     {
       "path": "final-assets/archive/rime-scout.webp",
@@ -95,6 +120,11 @@
       "path": "final-assets/archive/tab-regions.webp",
       "sha256": "225382443bb7534f643ec721948913534456828998e76a32fc33c1d7afc54ca7",
       "bytes": 4394
+    },
+    {
+      "path": "final-assets/archive/umbral-wraith.webp",
+      "sha256": "a40e1aed60ea0d0e01df01e6b985a2e662f7192fd01de0a049d46734630a2418",
+      "bytes": 20960
     },
     {
       "path": "final-assets/audio/01_ui_select.ogg",
@@ -1128,7 +1158,7 @@
     },
     {
       "path": "main.js",
-      "sha256": "ef71eba52d7dbeba7d8b5ee194b206c3db178e307c5a21d10533e5e03ee58f93",
+      "sha256": "f1eb19dec745649b504a1bdce5c063b34ad5423781ef6d2262fec8c40af530c4",
       "bytes": 110397
     },
     {
@@ -1168,8 +1198,8 @@
     },
     {
       "path": "src/game/archive.js",
-      "sha256": "ab463e45b060ac6950b7e0029fb0d68ebfc75a99a3ba1996b8f7666297e61609",
-      "bytes": 4156
+      "sha256": "522fbe3c64061550ac36e595c23e64ec9519f933de89f3f742a8fcaa68545bab",
+      "bytes": 4759
     },
     {
       "path": "src/game/content-schema.js",
@@ -1218,8 +1248,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "c28cfc7152689ac145724f1aa9db15c41caa27fcaa858d6e0c2b925bda1e48ff",
-      "bytes": 311767
+      "sha256": "2493513ccf7453f72e330752d52b8c585d82d317e0a63067f9a68c94323cb511",
+      "bytes": 312577
     }
   ]
 }
