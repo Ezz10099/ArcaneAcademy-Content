@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 79,
-  "label": "Softer game colors and text",
+  "version": 81,
+  "label": "Grounded Forest Gate stages",
   "entry": "index.html",
   "files": [
     {
@@ -1183,13 +1183,13 @@
     },
     {
       "path": "forest-gate-map.css",
-      "sha256": "827c87a2f09b27bc42e730786b259ca754ac163fe18273f41610edfd907a26c7",
-      "bytes": 12093
+      "sha256": "4f4d4082a13506cf9d254fbb67fb35affb063f6efa195d8e6dc0fad68b6d1bff",
+      "bytes": 12948
     },
     {
       "path": "forest-gate-map.js",
-      "sha256": "7006632d2d816f6e645e93ebadf6e6f445a22418fbbf524f2c1abb6e4baaac92",
-      "bytes": 8148
+      "sha256": "e74d434573e5474a0e8254e022eed94a4c399edcdbdc3d5b32d1db1ffd00f90c",
+      "bytes": 8240
     },
     {
       "path": "index.html",
