@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 91,
-  "label": "Nine-slot courtyard formation",
+  "version": 92,
+  "label": "Carved courtyard formation tiles",
   "entry": "index.html",
   "files": [
     {
@@ -762,6 +762,11 @@
       "bytes": 35394
     },
     {
+      "path": "final-assets/battle/formation/courtyard-formation-tile.webp",
+      "sha256": "6d6b8278c07192414617276ccc7185c0c83d787b3112cc3c177739bdbd556b9c",
+      "bytes": 10314
+    },
+    {
       "path": "final-assets/battle/rigs/cinder-vale/back_arm.webp",
       "sha256": "69654b33e4b079dcc9ee99b3a3bae6dfb0845f51980d2756f55b916da891dc14",
       "bytes": 14602
@@ -1198,8 +1203,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "baf33dc5704638231999652825fca23555e166e8534500bddc5fa43ff335cef3",
-      "bytes": 114480
+      "sha256": "60e78c19f0c290a346feace41445ca178a6cd1d1bf19ff296ab95ab15a6883a4",
+      "bytes": 114591
     },
     {
       "path": "manifest.webmanifest",
@@ -1218,8 +1223,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "518a67ed112af7cbcd3595ffa6923e852be6f232410dc3728a4c52cdb9c04d5b",
-      "bytes": 124690
+      "sha256": "0124f3703be394afa3f80a514eadc41c193c66f00d357237d2f6a0f6287d2def",
+      "bytes": 125300
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1288,8 +1293,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "2047696f0b26602cd54b62b9e180edac1a39cb8699bdf61b32ca8b0a90c8ab6c",
-      "bytes": 323885
+      "sha256": "de359df7fa8fc83b8d0b72ad4af45dd421590177b701d86159c470e4812ad31d",
+      "bytes": 323959
     }
   ]
 }
