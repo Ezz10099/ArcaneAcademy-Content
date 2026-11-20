@@ -1321,8 +1321,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "a392d1b1b40f231376c009188ad610db89289431407f162b6cc932d3feda4b14",
-      "bytes": 123226
+      "sha256": "034785653fcf124c414fb90e789ff1852fe952b9b9afc702c4d190589cf1ae0d",
+      "bytes": 123213
     },
     {
       "path": "manifest.webmanifest",
@@ -1361,8 +1361,8 @@
     },
     {
       "path": "src/game/archive.js",
-      "sha256": "9456343f5fb409835882add770da5a86750d9259da96ca5ea7bb677df328a237",
-      "bytes": 4968
+      "sha256": "45bfa7ca86bc8a00fc82a86da4db3eb29998289aaf2f0c820a34f2c1e47f20b2",
+      "bytes": 5090
     },
     {
       "path": "src/game/content-schema.js",
@@ -1411,10 +1411,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "a788088a1434a2716f443d937a8fef473c5c4cf18d236d0224d18109964c941f",
-      "bytes": 340922
+      "sha256": "0bab147de8d4217a26384faeb813b691076dd1c46dae27276e1fcf8e9edb842d",
+      "bytes": 340142
     }
   ],
-  "version": 110,
-  "label": "Centered Start Battle button"
+  "version": 111,
+  "label": "Pre-battle matchup portraits"
 }
