@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 75,
-  "label": "Locked creature silhouettes",
+  "version": 76,
+  "label": "Creature collection locked",
   "entry": "index.html",
   "files": [
     {
@@ -1173,8 +1173,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "5cf88f9e4a5e116c9ecade715cc2282843e8247120a0cf61a8d0a8551eca9da0",
-      "bytes": 110445
+      "sha256": "88c6dcedb7cb250e8f7541163d65c044d9d3767f0429da8e94550a330bf7dece",
+      "bytes": 110588
     },
     {
       "path": "manifest.webmanifest",
@@ -1213,8 +1213,8 @@
     },
     {
       "path": "src/game/archive.js",
-      "sha256": "f81e5bb3dc2d0847414ac8eb7a136e3ba26d5df46e44a8f02e990e03422393ff",
-      "bytes": 4954
+      "sha256": "9456343f5fb409835882add770da5a86750d9259da96ca5ea7bb677df328a237",
+      "bytes": 4968
     },
     {
       "path": "src/game/content-schema.js",
@@ -1263,8 +1263,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "db8dc92abeb9df487bb9b9f4f21a3b83379be802c67be9d62b634ed0fa812690",
-      "bytes": 313085
+      "sha256": "29f32c7c74252e2b8b8ffee6bcf2366e35e73c92630a721e900fdc12054f8217",
+      "bytes": 313198
     }
   ]
 }
