@@ -315,6 +315,21 @@
       "bytes": 3382
     },
     {
+      "path": "final-assets/battle/atmosphere/amber-mote.webp",
+      "sha256": "1c88dd4ed12db0dcbd2ccb27f71831ae8d37311dae31591307ae7b3d560a7aaf",
+      "bytes": 1866
+    },
+    {
+      "path": "final-assets/battle/atmosphere/courtyard-mist.webp",
+      "sha256": "f37288d062ba2f8c1cf3fd02f0c842e40423f4be71c60421c8dda40a9e3500ef",
+      "bytes": 16868
+    },
+    {
+      "path": "final-assets/battle/atmosphere/header-trim.webp",
+      "sha256": "0d5a5cf69403c42797ca96f4cb8b7e2b4f58a3a78d899234836dd82bacc27d74",
+      "bytes": 10352
+    },
+    {
       "path": "final-assets/battle/backgrounds/forest-gate-battlefield.jpg",
       "sha256": "e8742d14361fc67a9f746a092fe5624ac9549661aee5aa9ccf20ce703e68b0ca",
       "bytes": 220690
@@ -1256,8 +1271,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "4233d0a513767dfaf3912e671a018ba4045af25cd357a3216c32c0d93e21f91c",
-      "bytes": 120742
+      "sha256": "cf49a5e90258fad6f717c03750bd9784ff31a82933e4070d9313d3c598a96b9b",
+      "bytes": 121133
     },
     {
       "path": "manifest.webmanifest",
@@ -1346,10 +1361,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "34ce3bfead1ce1988a3aa98715bfd3e9a112fb68c1af25c2b4b2f0cf0692d68e",
-      "bytes": 329881
+      "sha256": "0279c3024d96e2336a2f61a502df23d37c0f3cc56f4d27050fee18efc6f7f19f",
+      "bytes": 332936
     }
   ],
-  "version": 105,
-  "label": "Currency icons and purchase artwork"
+  "version": 106,
+  "label": "Animated battle and deployment atmosphere"
 }
