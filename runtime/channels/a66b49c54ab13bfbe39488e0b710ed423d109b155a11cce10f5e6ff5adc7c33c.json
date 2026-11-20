@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 109,
-  "label": "APK patch-only updates",
+  "version": 110,
+  "label": "Centered Start Battle button",
   "entry": "index.html",
   "files": [
     {
@@ -297,6 +297,11 @@
       "bytes": 384770
     },
     {
+      "path": "final-assets/audio/README.md",
+      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
+      "bytes": 3382
+    },
+    {
       "path": "final-assets/audio/academy.ogg",
       "sha256": "8b1fdc41b2dce217fc3d42dc8c5355ed26be1130f43f0748c2872d17f37e9470",
       "bytes": 850092
@@ -310,11 +315,6 @@
       "path": "final-assets/audio/expedition.ogg",
       "sha256": "b92f23c4b80ff9abc870c97ba29cc971e89d36457967d482a290e3406e0f60ce",
       "bytes": 423158
-    },
-    {
-      "path": "final-assets/audio/README.md",
-      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
-      "bytes": 3382
     },
     {
       "path": "final-assets/battle/atmosphere/amber-mote.webp",
@@ -660,6 +660,11 @@
       "path": "final-assets/battle/courtyard-ui/rune-flagstone.webp",
       "sha256": "0e86d091dd9ed244ab97395cf728b4182cd2038c6dc8ad33984a8f6ef20e4560",
       "bytes": 8438
+    },
+    {
+      "path": "final-assets/battle/courtyard-ui/start-battle.svg",
+      "sha256": "6d67324d8fda235b92414eab05f32335c87f9323ff3bac4095d6b50dbbd0279f",
+      "bytes": 2395
     },
     {
       "path": "final-assets/battle/deck-portraits/cinder-vale.webp",
@@ -1067,6 +1072,11 @@
       "bytes": 16128
     },
     {
+      "path": "final-assets/navigation/bottom-tabs/README.md",
+      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
+      "bytes": 1071
+    },
+    {
       "path": "final-assets/navigation/bottom-tabs/academy-tab.png",
       "sha256": "1bba8a315a811ffa28baf637fd586458584204449cfb45e4e6f0c435bd708899",
       "bytes": 77465
@@ -1085,11 +1095,6 @@
       "path": "final-assets/navigation/bottom-tabs/expedition-tab.png",
       "sha256": "1c9e700104923abceedf07e372db45ef0e89c80d0b50acd67d7378d4a5185aaa",
       "bytes": 74676
-    },
-    {
-      "path": "final-assets/navigation/bottom-tabs/README.md",
-      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
-      "bytes": 1071
     },
     {
       "path": "final-assets/navigation/bottom-tabs/summon-tab.png",
@@ -1318,8 +1323,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "99e285ac1d26d2ef7805e93fb91b503c744e9857231f9a66cc4491759607ad76",
-      "bytes": 123230
+      "sha256": "a392d1b1b40f231376c009188ad610db89289431407f162b6cc932d3feda4b14",
+      "bytes": 123226
     },
     {
       "path": "manifest.webmanifest",
@@ -1397,19 +1402,19 @@
       "bytes": 6352
     },
     {
-      "path": "src/vendor/phaser-4.2.1.min.js",
-      "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
-      "bytes": 1375976
-    },
-    {
       "path": "src/vendor/PHASER-LICENSE.txt",
       "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
       "bytes": 1100
     },
     {
+      "path": "src/vendor/phaser-4.2.1.min.js",
+      "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
+      "bytes": 1375976
+    },
+    {
       "path": "style.css",
-      "sha256": "7d459d7524d5ee5e330f24276d081ef9a33f2554e4d9259ca45b66107651c945",
-      "bytes": 340505
+      "sha256": "a788088a1434a2716f443d937a8fef473c5c4cf18d236d0224d18109964c941f",
+      "bytes": 340922
     }
   ]
 }
