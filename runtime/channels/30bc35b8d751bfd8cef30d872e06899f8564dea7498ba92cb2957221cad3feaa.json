@@ -615,6 +615,36 @@
       "bytes": 183888
     },
     {
+      "path": "final-assets/battle/control-icons/auto.webp",
+      "sha256": "6d00c7b04afe0f6d4444a7721eb73343cdbe6aa66ea29132e99f7b98bb436077",
+      "bytes": 9930
+    },
+    {
+      "path": "final-assets/battle/control-icons/back.webp",
+      "sha256": "f8ff445e2ae8f882a8a104d8ce94002b7e205fb5c6059905538ffa0acd80f9c5",
+      "bytes": 9296
+    },
+    {
+      "path": "final-assets/battle/control-icons/exit.webp",
+      "sha256": "3d3892e5bf89b016cbefb0fb9fc723c37009769088822e382d38daadccca5483",
+      "bytes": 10264
+    },
+    {
+      "path": "final-assets/battle/control-icons/pause.webp",
+      "sha256": "caf3332ec9ecc2e6f3ca5a553f3109e7c696886ab3070218fe5fb15dc739e19a",
+      "bytes": 8910
+    },
+    {
+      "path": "final-assets/battle/control-icons/play.webp",
+      "sha256": "a431de1b6a2cf999454c272fb1bee19f55d70d8b014ea5b6c89bd2fa74b89ec9",
+      "bytes": 9140
+    },
+    {
+      "path": "final-assets/battle/control-icons/speed.webp",
+      "sha256": "b873ab256208225dc4fa6873fc4aae7cdb9ed231e684a1156fe5b575f32952c2",
+      "bytes": 9458
+    },
+    {
       "path": "final-assets/battle/courtyard-ui/altar-console.webp",
       "sha256": "a15a989f4765ea9209ee18a1a73e552b6a644c342c9785ab58621707027493ef",
       "bytes": 22134
@@ -1286,8 +1316,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "b69d0315d0e54b861114e1d402cdfbc94b60a379e33d93abfd93b651724372f7",
-      "bytes": 121851
+      "sha256": "99e285ac1d26d2ef7805e93fb91b503c744e9857231f9a66cc4491759607ad76",
+      "bytes": 123230
     },
     {
       "path": "manifest.webmanifest",
@@ -1376,10 +1406,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "0b24a5bef2e1f82de3646e7cb8dc4408bb64224d4dd33dd448836f14b4acab3b",
-      "bytes": 338867
+      "sha256": "7d459d7524d5ee5e330f24276d081ef9a33f2554e4d9259ca45b66107651c945",
+      "bytes": 340505
     }
   ],
-  "version": 107,
-  "label": "Courtyard battle interface redesign"
+  "version": 108,
+  "label": "Illustrated formation and battle controls"
 }
