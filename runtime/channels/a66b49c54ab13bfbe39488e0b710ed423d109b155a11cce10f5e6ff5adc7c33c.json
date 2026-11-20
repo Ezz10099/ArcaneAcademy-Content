@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 111,
-  "label": "Pre-battle matchup portraits",
+  "version": 112,
+  "label": "Larger combatants",
   "entry": "index.html",
   "files": [
     {
@@ -1323,8 +1323,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "034785653fcf124c414fb90e789ff1852fe952b9b9afc702c4d190589cf1ae0d",
-      "bytes": 123213
+      "sha256": "da9bf80c04372b7e121f72bbd1c6af3e22378920f8a057dec679db251fb8a2c7",
+      "bytes": 123752
     },
     {
       "path": "manifest.webmanifest",
@@ -1343,8 +1343,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "c601686be65bec55e870bcf04325452545395900bc92bbbea4a1cd2353678e26",
-      "bytes": 123224
+      "sha256": "46095e657936fbe68f9f4b79527c63f25ad40f6e68871e0abdebadb0574a2720",
+      "bytes": 123365
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
