@@ -1326,8 +1326,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "861a0f96d14bc5163ca891da2932c6c6c4f8d65d36a13d5e96cce5ac10162f57",
-      "bytes": 124000
+      "sha256": "dfaab558da9098537c08cfb7bcd5842c08bd8769faf79b9d543363c78c4bbaa0",
+      "bytes": 124575
     },
     {
       "path": "manifest.webmanifest",
@@ -1416,10 +1416,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "83bbcdc213bcc1437a400277a1f5549173489f2c62d9ace3c363d2fb2381a5d9",
-      "bytes": 344049
+      "sha256": "59a777c76b05e2b11741f00e57ce7f9236de639d7ad069f919274f97b7f632e6",
+      "bytes": 346442
     }
   ],
-  "version": 115,
-  "label": "Animated Wild Forest atlas"
+  "version": 116,
+  "label": "Full-screen Wild Forest map"
 }
