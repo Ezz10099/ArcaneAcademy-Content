@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 97,
-  "label": "Full-height trainee battle cards",
+  "version": 98,
+  "label": "Download latest Android APK",
   "entry": "index.html",
   "files": [
     {
@@ -1303,8 +1303,8 @@
     },
     {
       "path": "src/platform/content-updates.js",
-      "sha256": "55512f063578f6937f58e0bd89bc90ae76dfbc40956376e76c78a7852d482cc0",
-      "bytes": 10135
+      "sha256": "331092f7d2fb1ba3ca883cc179db5efaa30e03ca2f5a036510f034269b0593c6",
+      "bytes": 10997
     },
     {
       "path": "src/platform/game-audio.js",
