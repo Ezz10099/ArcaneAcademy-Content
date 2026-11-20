@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 85,
-  "label": "Smoother battle rendering",
+  "version": 86,
+  "label": "Battle targeting fixes",
   "entry": "index.html",
   "files": [
     {
@@ -1218,8 +1218,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "e107676bea9251378e6b9fffb0ecf74a3cfccd8a3e886de90229e991062d3e4d",
-      "bytes": 124876
+      "sha256": "f9e3818a3e6e4427b27a2a0b6cbe40bfb06f520c87835084fb3ed6a20999620c",
+      "bytes": 124012
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1253,8 +1253,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "b0fc917bc7d5d84204d0211e560e739be2dbe039b35b514b74a1a5564f15b5e4",
-      "bytes": 71296
+      "sha256": "9fe67f58157dfe09ed7aa9d20d6273de622e98b482088cf11feb054cb20801b1",
+      "bytes": 71764
     },
     {
       "path": "src/platform/content-updates.js",
