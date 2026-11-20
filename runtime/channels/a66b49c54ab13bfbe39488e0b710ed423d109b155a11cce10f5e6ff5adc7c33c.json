@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 106,
-  "label": "Animated battle and deployment atmosphere",
+  "version": 107,
+  "label": "Courtyard battle interface redesign",
   "entry": "index.html",
   "files": [
     {
@@ -615,6 +615,21 @@
       "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-ultimate-right.webp",
       "sha256": "99b6a49fc3cb34845b632ae2bea83c22b0244454b4086cda4810d85ebb446826",
       "bytes": 183888
+    },
+    {
+      "path": "final-assets/battle/courtyard-ui/altar-console.webp",
+      "sha256": "a15a989f4765ea9209ee18a1a73e552b6a644c342c9785ab58621707027493ef",
+      "bytes": 22134
+    },
+    {
+      "path": "final-assets/battle/courtyard-ui/gate-lintel.webp",
+      "sha256": "492e589ae76fcb62e2484cef549f9c6bfa928a4e6f0c75e999e55208c08a54d1",
+      "bytes": 27708
+    },
+    {
+      "path": "final-assets/battle/courtyard-ui/rune-flagstone.webp",
+      "sha256": "0e86d091dd9ed244ab97395cf728b4182cd2038c6dc8ad33984a8f6ef20e4560",
+      "bytes": 8438
     },
     {
       "path": "final-assets/battle/deck-portraits/cinder-vale.webp",
@@ -1273,8 +1288,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "cf49a5e90258fad6f717c03750bd9784ff31a82933e4070d9313d3c598a96b9b",
-      "bytes": 121133
+      "sha256": "b69d0315d0e54b861114e1d402cdfbc94b60a379e33d93abfd93b651724372f7",
+      "bytes": 121851
     },
     {
       "path": "manifest.webmanifest",
@@ -1363,8 +1378,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "0279c3024d96e2336a2f61a502df23d37c0f3cc56f4d27050fee18efc6f7f19f",
-      "bytes": 332936
+      "sha256": "0b24a5bef2e1f82de3646e7cb8dc4408bb64224d4dd33dd448836f14b4acab3b",
+      "bytes": 338867
     }
   ]
 }
