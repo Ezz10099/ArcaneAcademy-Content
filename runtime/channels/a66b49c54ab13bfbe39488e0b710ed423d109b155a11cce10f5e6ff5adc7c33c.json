@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 93,
-  "label": "Engraved Forest Gate formation",
+  "version": 94,
+  "label": "Battle starts in formation",
   "entry": "index.html",
   "files": [
     {
@@ -1203,8 +1203,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "0541d20f1b6d60307493a3db4d847c351bf7aa1ebeb6a6012da0282d387a8ad6",
-      "bytes": 116813
+      "sha256": "931ff1ea607a3b4985b4414a845e1de14c930a0b0e7eff12f23c4bd23c226134",
+      "bytes": 117013
     },
     {
       "path": "manifest.webmanifest",
@@ -1223,8 +1223,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "27bd8c0922bfbe78978ff4ca9bf9ebec78b2941f51e3adc0143da64b6355c44a",
-      "bytes": 125416
+      "sha256": "15ee1dad56626f6d9a58cf04bd19a031c62647bfd30ce85775c05b380b3147fc",
+      "bytes": 123015
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1293,8 +1293,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "158344d466b03390b1c8ca709e523baea86d29bd4c6065e07a2e64d2285b388c",
-      "bytes": 325118
+      "sha256": "b84548542ae1868cb1e6deca12a25ea3c807e7a6cdccb1ebf9ccaa386270bb30",
+      "bytes": 325174
     }
   ]
 }
