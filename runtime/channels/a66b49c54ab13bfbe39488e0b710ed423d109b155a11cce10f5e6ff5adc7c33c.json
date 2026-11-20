@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 80,
-  "label": "Forest Gate expedition map",
+  "version": 79,
+  "label": "Softer game colors and text",
   "entry": "index.html",
   "files": [
     {
@@ -1183,13 +1183,13 @@
     },
     {
       "path": "forest-gate-map.css",
-      "sha256": "e2d1a3a87f90465c3c5429e948049d5a1da15904766dbbe92bc30dc9ad206f87",
-      "bytes": 12443
+      "sha256": "827c87a2f09b27bc42e730786b259ca754ac163fe18273f41610edfd907a26c7",
+      "bytes": 12093
     },
     {
       "path": "forest-gate-map.js",
-      "sha256": "02226d15184ab8c616b4ce52db73d8e3b6fee9208f3c9b31eec6a673b7378f2a",
-      "bytes": 9502
+      "sha256": "7006632d2d816f6e645e93ebadf6e6f445a22418fbbf524f2c1abb6e4baaac92",
+      "bytes": 8148
     },
     {
       "path": "index.html",
@@ -1198,8 +1198,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "931b2898d9f96709cf012727db1c32f38642ae13d898411fd9967cfc9abddc4b",
-      "bytes": 111424
+      "sha256": "8d7190acd1c94ee05c28fc3366faa2b5d39bba059aaf3e49a89f15e1c3656567",
+      "bytes": 111360
     },
     {
       "path": "manifest.webmanifest",
