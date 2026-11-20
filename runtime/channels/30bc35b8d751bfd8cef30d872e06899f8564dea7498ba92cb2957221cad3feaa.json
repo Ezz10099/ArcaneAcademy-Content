@@ -936,8 +936,8 @@
     },
     {
       "path": "final-assets/expedition/location-backgrounds/sprite-grove-route.webp",
-      "sha256": "e0d9a8a34f0eb2a936bf84f3d96500d5ed809d9f8f2f28176ba964c12f3edf26",
-      "bytes": 200046
+      "sha256": "f5c05286071f574d4206ad0e4d30062ef2324e79f7ab033b99c970eb114ef81f",
+      "bytes": 256474
     },
     {
       "path": "final-assets/expedition/location-nodes/ancient-roots.png",
@@ -1018,6 +1018,11 @@
       "path": "final-assets/expedition/stage-info-panel/suggested-power-icon.png",
       "sha256": "590db1b1f4ee2530039bcf92f2aa72008b631864fa420a7eed071cb02c4dad4a",
       "bytes": 31742
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/sprite-grove-waystone.webp",
+      "sha256": "141f588d1c364dede0657d64e7f01a46892953fbba4955d8a2a280c779e397c2",
+      "bytes": 12690
     },
     {
       "path": "final-assets/expedition/stage-nodes/stage-node-boss-available.png",
@@ -1331,8 +1336,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "2f918a8f1f71111dd2b5757945cd44322c19576a2bebc4bd657d353e7d8516af",
-      "bytes": 126043
+      "sha256": "af6cbf140323d740ae6d847aba6b58d2ff6407039142101e130444f3df3c7d6b",
+      "bytes": 126011
     },
     {
       "path": "manifest.webmanifest",
@@ -1421,10 +1426,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "39fd609c22f6560d4da19d4df6bf831587035ce50f2653a45bbd6a48cebe86da",
-      "bytes": 348561
+      "sha256": "01431fe4f8ad731a63a5cafa4fcecac8e51b81884aed62bf88397720cfdf2604",
+      "bytes": 349059
     }
   ],
-  "version": 117,
-  "label": "Sprite Grove twelve-stage trail"
+  "version": 118,
+  "label": "Sprite Grove shrine and waystones"
 }
