@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 108,
-  "label": "Illustrated formation and battle controls",
+  "version": 109,
+  "label": "APK patch-only updates",
   "entry": "index.html",
   "files": [
     {
@@ -1378,8 +1378,8 @@
     },
     {
       "path": "src/platform/content-updates.js",
-      "sha256": "471c41f779227d9c3470beff976a7c7630f040bcfea1d114211e2e5503f09d49",
-      "bytes": 11703
+      "sha256": "1aa4c1cd1cfa28e5aaa73b4c33aa1c4c227f140284baa9d831252709d1ccd86b",
+      "bytes": 14681
     },
     {
       "path": "src/platform/game-audio.js",
