@@ -1241,8 +1241,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "f4dfc1c61f4d2fceb4eb7c93e5dfd5fd1dad7b63d2999dfb5bc1ddecb525c9f9",
-      "bytes": 117964
+      "sha256": "b34f01391287d2ac3a7d01e037222bc91b7e3b491cacaac1b49beb0bb630a080",
+      "bytes": 118131
     },
     {
       "path": "manifest.webmanifest",
@@ -1296,8 +1296,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "3fbaddae249b17a57529336abfc1725d98aa8e5469c384fbde501e7893a63509",
-      "bytes": 72306
+      "sha256": "f7b19176960dfd8504346e8c607093d3aa54aa8d508010f3e207ad2e8ec90962",
+      "bytes": 72741
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1335,6 +1335,6 @@
       "bytes": 327376
     }
   ],
-  "version": 102,
-  "label": "Trainee level-ups and shared XP"
+  "version": 103,
+  "label": "Personal XP for deployed trainees"
 }
