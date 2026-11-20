@@ -1321,8 +1321,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "da9bf80c04372b7e121f72bbd1c6af3e22378920f8a057dec679db251fb8a2c7",
-      "bytes": 123752
+      "sha256": "f65f1ef4379df412d56abc5e5588b69f5d145e3b8f577533ef09245e98020564",
+      "bytes": 123757
     },
     {
       "path": "manifest.webmanifest",
@@ -1415,6 +1415,6 @@
       "bytes": 340142
     }
   ],
-  "version": 112,
-  "label": "Larger combatants"
+  "version": 113,
+  "label": "Clear formation level labels"
 }
