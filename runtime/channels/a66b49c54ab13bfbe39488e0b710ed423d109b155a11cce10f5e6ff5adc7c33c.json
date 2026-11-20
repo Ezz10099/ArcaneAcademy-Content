@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 95,
-  "label": "Enemies retarget to nearby trainees",
+  "version": 96,
+  "label": "Wider formation cells",
   "entry": "index.html",
   "files": [
     {
@@ -1203,8 +1203,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "ba45d8687a144ce60f1a6592c2cb86bb8dff81cd72112bc4cc89fa266e74f80a",
-      "bytes": 117618
+      "sha256": "b61705abce2157dc75579e6641a951adeac835c8ac624eb6ccaeaaeaca54b6c7",
+      "bytes": 117763
     },
     {
       "path": "manifest.webmanifest",
@@ -1223,8 +1223,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "82d54e5758e5227be4150fda892530e2baf8b5f76ce6fe0b16e1dc2ec04cbf27",
-      "bytes": 123200
+      "sha256": "c601686be65bec55e870bcf04325452545395900bc92bbbea4a1cd2353678e26",
+      "bytes": 123224
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1293,8 +1293,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "b84548542ae1868cb1e6deca12a25ea3c807e7a6cdccb1ebf9ccaa386270bb30",
-      "bytes": 325174
+      "sha256": "ff2008f4ac69ff6e72e5b2fe8421e6d7ac33c225bbff4f770d73b8270ba0fd61",
+      "bytes": 325158
     }
   ]
 }
