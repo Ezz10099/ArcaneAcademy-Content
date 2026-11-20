@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 94,
-  "label": "Battle starts in formation",
+  "version": 95,
+  "label": "Enemies retarget to nearby trainees",
   "entry": "index.html",
   "files": [
     {
@@ -1203,8 +1203,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "931ff1ea607a3b4985b4414a845e1de14c930a0b0e7eff12f23c4bd23c226134",
-      "bytes": 117013
+      "sha256": "ba45d8687a144ce60f1a6592c2cb86bb8dff81cd72112bc4cc89fa266e74f80a",
+      "bytes": 117618
     },
     {
       "path": "manifest.webmanifest",
@@ -1223,8 +1223,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "15ee1dad56626f6d9a58cf04bd19a031c62647bfd30ce85775c05b380b3147fc",
-      "bytes": 123015
+      "sha256": "82d54e5758e5227be4150fda892530e2baf8b5f76ce6fe0b16e1dc2ec04cbf27",
+      "bytes": 123200
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1258,8 +1258,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "0726a3e118bc5b65896b298f82ea4f58e25d85ebebff92c83caa9cfdb88aa174",
-      "bytes": 71415
+      "sha256": "e063a8862f64f10251b72a2d22164daea0929b0dfc2f55751305e119fb56b5f1",
+      "bytes": 72348
     },
     {
       "path": "src/platform/content-updates.js",
