@@ -1341,8 +1341,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "46095e657936fbe68f9f4b79527c63f25ad40f6e68871e0abdebadb0574a2720",
-      "bytes": 123365
+      "sha256": "2c758689bcdc49efe9aa569fbbe76586147e14e384cd9439438e8b9d0def1fea",
+      "bytes": 123694
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1415,6 +1415,6 @@
       "bytes": 340142
     }
   ],
-  "version": 113,
-  "label": "Clear formation level labels"
+  "version": 114,
+  "label": "Balanced combatant sizes"
 }

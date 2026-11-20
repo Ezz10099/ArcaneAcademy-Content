@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 113,
-  "label": "Clear formation level labels",
+  "version": 114,
+  "label": "Balanced combatant sizes",
   "entry": "index.html",
   "files": [
     {
@@ -1343,8 +1343,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "46095e657936fbe68f9f4b79527c63f25ad40f6e68871e0abdebadb0574a2720",
-      "bytes": 123365
+      "sha256": "2c758689bcdc49efe9aa569fbbe76586147e14e384cd9439438e8b9d0def1fea",
+      "bytes": 123694
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
