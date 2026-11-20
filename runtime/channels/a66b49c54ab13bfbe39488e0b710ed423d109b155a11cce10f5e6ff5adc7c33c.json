@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 96,
-  "label": "Wider formation cells",
+  "version": 97,
+  "label": "Full-height trainee battle cards",
   "entry": "index.html",
   "files": [
     {
@@ -600,6 +600,46 @@
       "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-ultimate-right.webp",
       "sha256": "99b6a49fc3cb34845b632ae2bea83c22b0244454b4086cda4810d85ebb446826",
       "bytes": 183888
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/cinder-vale.webp",
+      "sha256": "05086101226ce060ce8fb25352a13c0e4c883b094a01069091cd15e96377ee0d",
+      "bytes": 17924
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/dusk.webp",
+      "sha256": "f3cea213c6bb538452c8d995f8d31b0a787435ac25342c1052702f9fc7fef437",
+      "bytes": 16396
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/frost-warden-kael.webp",
+      "sha256": "72cee0eb2f820a33c3ba7980d652f99121551010c041ad7745da9b243d18b50e",
+      "bytes": 18390
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/lumen-solis.webp",
+      "sha256": "083568ed5c9e5025587186f86fbccfb60864453cc2f2135a5024cde484a7b4ab",
+      "bytes": 22990
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/pyreth-the-branded.webp",
+      "sha256": "83426a092d9bef1ea6c0ee64a1218c03dced799d1b33169aa6442b7a7730ea16",
+      "bytes": 15622
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/sera-ashveil.webp",
+      "sha256": "f728f836d74f4543825599c236198b52932f5666ed208d48562db7a7f0ba036e",
+      "bytes": 19052
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/stone-sentinel-gorr.webp",
+      "sha256": "e883f1bb5c12612bcf3b541bdb61f6461dbd9395c142e526a02cb8c2ef3afdda",
+      "bytes": 17750
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/yssa-driftborn.webp",
+      "sha256": "821e63b502a1d0ce5d54f3fdac72d09558eb0794b005707fc89d12480e334d05",
+      "bytes": 16938
     },
     {
       "path": "final-assets/battle/effects/buff-gold.webp",
@@ -1203,8 +1243,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "b61705abce2157dc75579e6641a951adeac835c8ac624eb6ccaeaaeaca54b6c7",
-      "bytes": 117763
+      "sha256": "71f7fbae2d1a734697b1b046a5f215be17431d21b5652844359d717d2047dca1",
+      "bytes": 118233
     },
     {
       "path": "manifest.webmanifest",
@@ -1293,8 +1333,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "ff2008f4ac69ff6e72e5b2fe8421e6d7ac33c225bbff4f770d73b8270ba0fd61",
-      "bytes": 325158
+      "sha256": "1484f11e22c7a5ecdfa001da8396651761ea9b676c7ff552cf6c211a4e40977b",
+      "bytes": 327376
     }
   ]
 }
