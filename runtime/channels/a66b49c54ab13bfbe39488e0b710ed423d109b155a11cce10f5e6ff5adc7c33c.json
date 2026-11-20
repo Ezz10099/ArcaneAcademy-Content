@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 77,
-  "label": "Academy campus redesign",
+  "version": 78,
+  "label": "Softer Academy colors",
   "entry": "index.html",
   "files": [
     {
@@ -1288,8 +1288,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "6b06935b6e13989672b8b1cb3161fe742e4cfd824cb29e691334c009ef2f174c",
-      "bytes": 319665
+      "sha256": "6e7af07d0477de14543c3f9d7ec01558ac5f83d8a6477602b903c33a316cb065",
+      "bytes": 319942
     }
   ]
 }
