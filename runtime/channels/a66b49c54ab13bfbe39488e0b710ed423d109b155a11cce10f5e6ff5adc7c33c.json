@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 98,
-  "label": "Download latest Android APK",
+  "version": 99,
+  "label": "APK download sign-in",
   "entry": "index.html",
   "files": [
     {
@@ -1303,8 +1303,8 @@
     },
     {
       "path": "src/platform/content-updates.js",
-      "sha256": "331092f7d2fb1ba3ca883cc179db5efaa30e03ca2f5a036510f034269b0593c6",
-      "bytes": 10997
+      "sha256": "3168c5b5f7e95e7a6a086d36af88dfa45ad6e9154464ec40f8360bc2fa0cea84",
+      "bytes": 11010
     },
     {
       "path": "src/platform/game-audio.js",
