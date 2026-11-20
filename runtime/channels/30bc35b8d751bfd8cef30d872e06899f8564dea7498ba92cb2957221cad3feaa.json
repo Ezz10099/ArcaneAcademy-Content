@@ -1241,8 +1241,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "a80e8ddd461bbaab54f1fbbf234e4c6257ca3d611e255969261c083293423d73",
-      "bytes": 117998
+      "sha256": "f4dfc1c61f4d2fceb4eb7c93e5dfd5fd1dad7b63d2999dfb5bc1ddecb525c9f9",
+      "bytes": 117964
     },
     {
       "path": "manifest.webmanifest",
@@ -1296,8 +1296,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "e063a8862f64f10251b72a2d22164daea0929b0dfc2f55751305e119fb56b5f1",
-      "bytes": 72348
+      "sha256": "3fbaddae249b17a57529336abfc1725d98aa8e5469c384fbde501e7893a63509",
+      "bytes": 72306
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1335,6 +1335,6 @@
       "bytes": 327376
     }
   ],
-  "version": 101,
-  "label": "Reset save in Updates"
+  "version": 102,
+  "label": "Trainee level-ups and shared XP"
 }
