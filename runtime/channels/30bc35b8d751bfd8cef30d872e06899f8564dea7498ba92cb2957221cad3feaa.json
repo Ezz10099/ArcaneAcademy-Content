@@ -1060,6 +1060,11 @@
       "bytes": 28154
     },
     {
+      "path": "final-assets/expedition/wild-forest-atlas.webp",
+      "sha256": "03f213c02761237f6845b618268d5c0d14917f1456167c14fe9caafa1f14638f",
+      "bytes": 155860
+    },
+    {
       "path": "final-assets/expedition/wild-forest-expedition-bg.jpg",
       "sha256": "0cbf84eb9e293ef89ae7f618ad522e92ee4c280107f8d3cbd269792f544cec37",
       "bytes": 511496
@@ -1321,8 +1326,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "f65f1ef4379df412d56abc5e5588b69f5d145e3b8f577533ef09245e98020564",
-      "bytes": 123757
+      "sha256": "861a0f96d14bc5163ca891da2932c6c6c4f8d65d36a13d5e96cce5ac10162f57",
+      "bytes": 124000
     },
     {
       "path": "manifest.webmanifest",
@@ -1411,10 +1416,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "0bab147de8d4217a26384faeb813b691076dd1c46dae27276e1fcf8e9edb842d",
-      "bytes": 340142
+      "sha256": "83bbcdc213bcc1437a400277a1f5549173489f2c62d9ace3c363d2fb2381a5d9",
+      "bytes": 344049
     }
   ],
-  "version": 114,
-  "label": "Balanced combatant sizes"
+  "version": 115,
+  "label": "Animated Wild Forest atlas"
 }
