@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 89,
-  "label": "Wider battlefield with original height",
+  "version": 90,
+  "label": "Formation rows and battlefield alignment",
   "entry": "index.html",
   "files": [
     {
@@ -1198,8 +1198,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "54117f2348f3c72a8b8abcc4689b78913cc92a358c615209d620d1e0f640adf1",
-      "bytes": 113797
+      "sha256": "8b3764d75b05861671cf68cbe2defa1e22ffdab234a0583007de553e8d550244",
+      "bytes": 114579
     },
     {
       "path": "manifest.webmanifest",
@@ -1218,8 +1218,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "3032148e49c3989dc20c0931b87a8fcb739441379dfe0dcb020fd11142ea9444",
-      "bytes": 124287
+      "sha256": "9513985a7b7db915ee1d30306162a2d832f1c3610256e0eb79380bc87730b7e8",
+      "bytes": 124298
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1288,8 +1288,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "c6218184a8762ff3745055d2700acba9458522ac1b41fcb5a57ecf67906da5dc",
-      "bytes": 323764
+      "sha256": "ef111656eb78207ad2d5459dee1a002de815a5e6116ec5d0b4e3c78afed84d00",
+      "bytes": 324242
     }
   ]
 }
