@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 116,
-  "label": "Full-screen Wild Forest map",
+  "version": 117,
+  "label": "Sprite Grove twelve-stage trail",
   "entry": "index.html",
   "files": [
     {
@@ -937,6 +937,11 @@
       "bytes": 49925
     },
     {
+      "path": "final-assets/expedition/location-backgrounds/sprite-grove-route.webp",
+      "sha256": "e0d9a8a34f0eb2a936bf84f3d96500d5ed809d9f8f2f28176ba964c12f3edf26",
+      "bytes": 200046
+    },
+    {
       "path": "final-assets/expedition/location-nodes/ancient-roots.png",
       "sha256": "1d16f4d787721c2e2eda8132dca43b661a585406569378bce41ca7b22842f60a",
       "bytes": 82680
@@ -1328,8 +1333,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "dfaab558da9098537c08cfb7bcd5842c08bd8769faf79b9d543363c78c4bbaa0",
-      "bytes": 124575
+      "sha256": "2f918a8f1f71111dd2b5757945cd44322c19576a2bebc4bd657d353e7d8516af",
+      "bytes": 126043
     },
     {
       "path": "manifest.webmanifest",
@@ -1378,8 +1383,8 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "b83e8f14bcba43a15986591b6959407be9281aac854fb445f27491cad674797a",
-      "bytes": 34538
+      "sha256": "3b5751dc7eadee55a7b4fc2c60dbdee9913d417a5742158f88420ff9ad41db54",
+      "bytes": 34902
     },
     {
       "path": "src/game/game.js",
@@ -1418,8 +1423,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "59a777c76b05e2b11741f00e57ce7f9236de639d7ad069f919274f97b7f632e6",
-      "bytes": 346442
+      "sha256": "39fd609c22f6560d4da19d4df6bf831587035ce50f2653a45bbd6a48cebe86da",
+      "bytes": 348561
     }
   ]
 }
