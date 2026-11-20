@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 100,
-  "label": "Direct APK download",
+  "version": 101,
+  "label": "Reset save in Updates",
   "entry": "index.html",
   "files": [
     {
@@ -1243,8 +1243,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "71f7fbae2d1a734697b1b046a5f215be17431d21b5652844359d717d2047dca1",
-      "bytes": 118233
+      "sha256": "a80e8ddd461bbaab54f1fbbf234e4c6257ca3d611e255969261c083293423d73",
+      "bytes": 117998
     },
     {
       "path": "manifest.webmanifest",
@@ -1303,8 +1303,8 @@
     },
     {
       "path": "src/platform/content-updates.js",
-      "sha256": "fa717dd2d89154a6632a0d92e6421c379674c3b13d272bafd84e12ee9aae16ae",
-      "bytes": 11002
+      "sha256": "471c41f779227d9c3470beff976a7c7630f040bcfea1d114211e2e5503f09d49",
+      "bytes": 11703
     },
     {
       "path": "src/platform/game-audio.js",
