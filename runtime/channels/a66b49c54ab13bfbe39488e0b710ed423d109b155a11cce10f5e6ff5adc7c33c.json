@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 104,
-  "label": "Lesson Scrolls and Academy Inventory",
+  "version": 105,
+  "label": "Currency icons and purchase artwork",
   "entry": "index.html",
   "files": [
     {
@@ -297,11 +297,6 @@
       "bytes": 384770
     },
     {
-      "path": "final-assets/audio/README.md",
-      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
-      "bytes": 3382
-    },
-    {
       "path": "final-assets/audio/academy.ogg",
       "sha256": "8b1fdc41b2dce217fc3d42dc8c5355ed26be1130f43f0748c2872d17f37e9470",
       "bytes": 850092
@@ -315,6 +310,11 @@
       "path": "final-assets/audio/expedition.ogg",
       "sha256": "b92f23c4b80ff9abc870c97ba29cc971e89d36457967d482a290e3406e0f60ce",
       "bytes": 423158
+    },
+    {
+      "path": "final-assets/audio/README.md",
+      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
+      "bytes": 3382
     },
     {
       "path": "final-assets/battle/backgrounds/forest-gate-battlefield.jpg",
@@ -832,6 +832,21 @@
       "bytes": 12944
     },
     {
+      "path": "final-assets/currencies/lesson-scrolls.webp",
+      "sha256": "c2cfc707c3687b9f1d930697196347212654e98f5dc2b6e0a723c039153aeef7",
+      "bytes": 6844
+    },
+    {
+      "path": "final-assets/currencies/purchase-plaque.webp",
+      "sha256": "52127c8667f08c2687378452796c709070cd93790cc26e18faeea93cfe2a7781",
+      "bytes": 16404
+    },
+    {
+      "path": "final-assets/currencies/training-seal.webp",
+      "sha256": "5a22cafa8fb2c6c2598686aff2fcafc90d98cde5883c4281811717666231700d",
+      "bytes": 6240
+    },
+    {
       "path": "final-assets/expedition/academy-master-portrait-v1.png",
       "sha256": "bc4428fe1b55e925e7f8ff7b5da77e962c0d927438dba92cbc0bfbdcaab51bb0",
       "bytes": 72712
@@ -992,11 +1007,6 @@
       "bytes": 16128
     },
     {
-      "path": "final-assets/navigation/bottom-tabs/README.md",
-      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
-      "bytes": 1071
-    },
-    {
       "path": "final-assets/navigation/bottom-tabs/academy-tab.png",
       "sha256": "1bba8a315a811ffa28baf637fd586458584204449cfb45e4e6f0c435bd708899",
       "bytes": 77465
@@ -1015,6 +1025,11 @@
       "path": "final-assets/navigation/bottom-tabs/expedition-tab.png",
       "sha256": "1c9e700104923abceedf07e372db45ef0e89c80d0b50acd67d7378d4a5185aaa",
       "bytes": 74676
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/README.md",
+      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
+      "bytes": 1071
     },
     {
       "path": "final-assets/navigation/bottom-tabs/summon-tab.png",
@@ -1243,8 +1258,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "d3f0353aa40e452045dd9ce6eb62584f9be492fe88fd5f4e7399e24ae65b1e8a",
-      "bytes": 120403
+      "sha256": "4233d0a513767dfaf3912e671a018ba4045af25cd357a3216c32c0d93e21f91c",
+      "bytes": 120742
     },
     {
       "path": "manifest.webmanifest",
@@ -1322,19 +1337,19 @@
       "bytes": 6352
     },
     {
-      "path": "src/vendor/PHASER-LICENSE.txt",
-      "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
-      "bytes": 1100
-    },
-    {
       "path": "src/vendor/phaser-4.2.1.min.js",
       "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
       "bytes": 1375976
     },
     {
+      "path": "src/vendor/PHASER-LICENSE.txt",
+      "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
+      "bytes": 1100
+    },
+    {
       "path": "style.css",
-      "sha256": "2eb4bdaf4a27d75d12a9e8d99356cfced2e0f22c957aa44433a3319fb8665896",
-      "bytes": 328832
+      "sha256": "34ce3bfead1ce1988a3aa98715bfd3e9a112fb68c1af25c2b4b2f0cf0692d68e",
+      "bytes": 329881
     }
   ]
 }
