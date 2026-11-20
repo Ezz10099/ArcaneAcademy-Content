@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 83,
-  "label": "Forest Gate right-trail portals",
+  "version": 84,
+  "label": "Smoother battles and frame-rate settings",
   "entry": "index.html",
   "files": [
     {
@@ -1198,8 +1198,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "8d7190acd1c94ee05c28fc3366faa2b5d39bba059aaf3e49a89f15e1c3656567",
-      "bytes": 111360
+      "sha256": "54117f2348f3c72a8b8abcc4689b78913cc92a358c615209d620d1e0f640adf1",
+      "bytes": 113797
     },
     {
       "path": "manifest.webmanifest",
@@ -1218,8 +1218,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "a23bc3037cea6db2836b5af295daf47a78dc4b2ee099add78972100bfccbca66",
-      "bytes": 121366
+      "sha256": "59f1a1a89ad7369a4b11ad56afbd5e508b8babf5b04b8e7ef89a36afc0fdb878",
+      "bytes": 123031
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1268,8 +1268,8 @@
     },
     {
       "path": "src/platform/game-settings.js",
-      "sha256": "ab0ba926d500401c88a496df3e4b64caf59075150964bef12238a70bcea8dc8f",
-      "bytes": 16249
+      "sha256": "bfbb1a8eac95e6c1b716d9989cd4546e1b7453fb63b1a44fda4fbaa1748ebde7",
+      "bytes": 18050
     },
     {
       "path": "src/platform/persistent-storage.js",
