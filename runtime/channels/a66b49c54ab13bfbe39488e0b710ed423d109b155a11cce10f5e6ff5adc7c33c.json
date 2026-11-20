@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 90,
-  "label": "Formation rows and battlefield alignment",
+  "version": 91,
+  "label": "Nine-slot courtyard formation",
   "entry": "index.html",
   "files": [
     {
@@ -1198,8 +1198,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "8b3764d75b05861671cf68cbe2defa1e22ffdab234a0583007de553e8d550244",
-      "bytes": 114579
+      "sha256": "baf33dc5704638231999652825fca23555e166e8534500bddc5fa43ff335cef3",
+      "bytes": 114480
     },
     {
       "path": "manifest.webmanifest",
@@ -1218,8 +1218,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "9513985a7b7db915ee1d30306162a2d832f1c3610256e0eb79380bc87730b7e8",
-      "bytes": 124298
+      "sha256": "518a67ed112af7cbcd3595ffa6923e852be6f232410dc3728a4c52cdb9c04d5b",
+      "bytes": 124690
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1253,8 +1253,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "56669e07957fc235dc30a7a619a4c27b97f30c7f27064a0acef78d00aaa5c936",
-      "bytes": 71529
+      "sha256": "0726a3e118bc5b65896b298f82ea4f58e25d85ebebff92c83caa9cfdb88aa174",
+      "bytes": 71415
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1288,8 +1288,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "ef111656eb78207ad2d5459dee1a002de815a5e6116ec5d0b4e3c78afed84d00",
-      "bytes": 324242
+      "sha256": "2047696f0b26602cd54b62b9e180edac1a39cb8699bdf61b32ca8b0a90c8ab6c",
+      "bytes": 323885
     }
   ]
 }
