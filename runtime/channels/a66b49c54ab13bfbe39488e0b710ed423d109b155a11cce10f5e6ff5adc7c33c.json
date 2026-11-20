@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 87,
-  "label": "Taller battlefield and frontline targeting rollback",
+  "version": 88,
+  "label": "Wider battlefield with original height",
   "entry": "index.html",
   "files": [
     {
@@ -1198,8 +1198,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "56b2221cf2d55eff35d9596f8c8a729fa13fd0b1b1ce1bd5bc65837cae697d7e",
-      "bytes": 113927
+      "sha256": "54117f2348f3c72a8b8abcc4689b78913cc92a358c615209d620d1e0f640adf1",
+      "bytes": 113797
     },
     {
       "path": "manifest.webmanifest",
@@ -1218,8 +1218,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "5096988dd0dc29d84f770354f9a75077f2773da710d4fc3bd6d13e1b716be8af",
-      "bytes": 124732
+      "sha256": "3032148e49c3989dc20c0931b87a8fcb739441379dfe0dcb020fd11142ea9444",
+      "bytes": 124287
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1288,8 +1288,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "cd0abbb7fe4b72a93f539741065a14f53b27601e34c9be4eef9ae8c0d8c6fa08",
-      "bytes": 323807
+      "sha256": "c6218184a8762ff3745055d2700acba9458522ac1b41fcb5a57ecf67906da5dc",
+      "bytes": 323764
     }
   ]
 }
