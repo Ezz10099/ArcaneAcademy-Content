@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 123,
-  "label": "Clearer Battle Health and Ultimates",
+  "version": 124,
+  "label": "Illustrated Battle Gauges and Spell Effects",
   "entry": "index.html",
   "files": [
     {
@@ -667,6 +667,21 @@
       "bytes": 2395
     },
     {
+      "path": "final-assets/battle/deck-gauges/health.webp",
+      "sha256": "76587c8b5990e160366eae169f264dcccd9ad232408c2d373d8159c32c122d7e",
+      "bytes": 7160
+    },
+    {
+      "path": "final-assets/battle/deck-gauges/ultimate-charge.webp",
+      "sha256": "4cc43a328b735ba76f7d079ff06f2696d7e3e2e567cb1b78e9efe47f749fed12",
+      "bytes": 7760
+    },
+    {
+      "path": "final-assets/battle/deck-gauges/ultimate-ready.webp",
+      "sha256": "2329be9a120657762c02e8e44b35cb4250becca4fdc7926eff5d3eda21396c4d",
+      "bytes": 8246
+    },
+    {
       "path": "final-assets/battle/deck-portraits/cinder-vale.webp",
       "sha256": "05086101226ce060ce8fb25352a13c0e4c883b094a01069091cd15e96377ee0d",
       "bytes": 17924
@@ -717,9 +732,24 @@
       "bytes": 93674
     },
     {
+      "path": "final-assets/battle/effects/frost-arrow.webp",
+      "sha256": "1e26bad8b7c3182f3b9d1a0b49e8d1725eb1eb885200da0760755d5c1d1bf4d9",
+      "bytes": 3414
+    },
+    {
       "path": "final-assets/battle/effects/heal-restorative.webp",
       "sha256": "f4e233ddaca58c879e6a7d59225b78cf3ce3c451506b8fd975444171b98c5b89",
       "bytes": 231880
+    },
+    {
+      "path": "final-assets/battle/effects/healing-blossom.webp",
+      "sha256": "f7e1b84dab60dbb50cfd3eeac9debd3858e112f94fd435d076da7d264e22ef62",
+      "bytes": 3830
+    },
+    {
+      "path": "final-assets/battle/effects/spell-bolt.webp",
+      "sha256": "cea6eddc0f9654ee9f52184483e95de09a439e124606725d9ee189ddd988bc34",
+      "bytes": 2906
     },
     {
       "path": "final-assets/battle/effects/stun-spark.webp",
@@ -1353,8 +1383,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "ef3f7157e310dd9f35c46c99d974e7ce8117ad34020682a2387b356480af5edb",
-      "bytes": 127049
+      "sha256": "39b5e394682ada5aa05b289c44b7527302c92a961956ccedf13ffb42a9ec8fab",
+      "bytes": 126427
     },
     {
       "path": "manifest.webmanifest",
@@ -1373,8 +1403,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "2c758689bcdc49efe9aa569fbbe76586147e14e384cd9439438e8b9d0def1fea",
-      "bytes": 123694
+      "sha256": "850712c50175d36206736585faa89d63d1f722cdd038dc2339f598859cf1d640",
+      "bytes": 110124
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1443,8 +1473,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "c2c45f9832f948f969fe0350ce6dbfa700835fd7f5e6faadc05135461195ec36",
-      "bytes": 352643
+      "sha256": "3555b40f4a09b4a5857650806ad0b3036d13c83009aaecf1fcf30aa7f06db9e6",
+      "bytes": 351809
     }
   ]
 }
