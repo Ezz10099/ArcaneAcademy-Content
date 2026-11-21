@@ -1351,8 +1351,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "f97abe6867cc4341403d7df1e24e6f0cb9ccbebfccc2473174805c4dbe30628a",
-      "bytes": 126677
+      "sha256": "ef3f7157e310dd9f35c46c99d974e7ce8117ad34020682a2387b356480af5edb",
+      "bytes": 127049
     },
     {
       "path": "manifest.webmanifest",
@@ -1441,10 +1441,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "ca6be86c3eb3c4b18487a376385fc16df7669cb88298f9521ad551b70e88e781",
-      "bytes": 352141
+      "sha256": "c2c45f9832f948f969fe0350ce6dbfa700835fd7f5e6faadc05135461195ec36",
+      "bytes": 352643
     }
   ],
-  "version": 122,
-  "label": "Wolf Den: Frost-Claw Waystones"
+  "version": 123,
+  "label": "Clearer Battle Health and Ultimates"
 }
