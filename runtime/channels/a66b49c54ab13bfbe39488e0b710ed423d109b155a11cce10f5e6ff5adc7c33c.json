@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 125,
-  "label": "Sprite Grove and Wolf Den Battle Art",
+  "version": 126,
+  "label": "Sprite Grove and Wolf Den Enemy Formations",
   "entry": "index.html",
   "files": [
     {
@@ -1488,13 +1488,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "3b5751dc7eadee55a7b4fc2c60dbdee9913d417a5742158f88420ff9ad41db54",
-      "bytes": 34902
+      "sha256": "aac04f95f32bbdda70857f7858f93f2be7bfd11964a0a9f20624adb553c6dc5f",
+      "bytes": 38154
     },
     {
       "path": "src/game/game.js",
-      "sha256": "92cdf199e63a37708667c028cfe608a64abd0a72f17e16ec141319a1f319baef",
-      "bytes": 73224
+      "sha256": "332a9d9596963326e0f96801aee2262f13963e498e53896c419c9ecc5af3fa23",
+      "bytes": 73266
     },
     {
       "path": "src/platform/content-updates.js",
