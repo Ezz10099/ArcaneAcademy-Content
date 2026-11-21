@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 120,
-  "label": "Forest Gate: Moonlit Road",
+  "version": 121,
+  "label": "Wolf Den: Frosted Trail",
   "entry": "index.html",
   "files": [
     {
@@ -28,8 +28,8 @@
     },
     {
       "path": "expedition-asset-paths.js",
-      "sha256": "f8bf6089b407de0c50da9cf9f435110fbceea218064dc8e711447a6de2240bb4",
-      "bytes": 937
+      "sha256": "5c2d0e1d2f34a563d5a0a3c40431638ebe62d2b4443a3afb64779822df768322",
+      "bytes": 952
     },
     {
       "path": "expedition-mobile.css",
@@ -947,6 +947,11 @@
       "bytes": 330634
     },
     {
+      "path": "final-assets/expedition/location-backgrounds/wolf-den-route.webp",
+      "sha256": "ca65c9209e84dd468b42473534976ba026eebefbab16ae09c4a4d0f9b794fb47",
+      "bytes": 370784
+    },
+    {
       "path": "final-assets/expedition/location-nodes/ancient-roots.png",
       "sha256": "1d16f4d787721c2e2eda8132dca43b661a585406569378bce41ca7b22842f60a",
       "bytes": 82680
@@ -1343,8 +1348,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "dc5220b6ba702aec2fde61741202df07735496cdac93943bdb06c11bd27028f8",
-      "bytes": 126200
+      "sha256": "3390434c89859fb9353428b7e896bd76197ffb0c39c036d80bf22d11c4c05acb",
+      "bytes": 126811
     },
     {
       "path": "manifest.webmanifest",
@@ -1433,8 +1438,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "8202191ced4f5f2f91664a72c9411795c47c67f60e51586016bfc84e4c25bd11",
-      "bytes": 351075
+      "sha256": "2d1bdc0efcba4e5d38fa748be7f0e0c7cc661c5be34daa92e8e1c53bf3e34a47",
+      "bytes": 351817
     }
   ]
 }
