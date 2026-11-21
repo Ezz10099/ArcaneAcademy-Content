@@ -335,6 +335,16 @@
       "bytes": 220690
     },
     {
+      "path": "final-assets/battle/backgrounds/sprite-grove-battlefield.webp",
+      "sha256": "4fb7d7c5a3900baff3725e1b8f77cccf930b78cb3f188ef24f355c063d871611",
+      "bytes": 129022
+    },
+    {
+      "path": "final-assets/battle/backgrounds/wolf-den-battlefield.webp",
+      "sha256": "2e1e457a982580638773cb43672a797827f0d6ef2a8624c65fd6775ff96cefb4",
+      "bytes": 122918
+    },
+    {
       "path": "final-assets/battle/characters/cinder-vale/cinder-vale-attack-right.png",
       "sha256": "b3e09b7743be5d1da0e1f57c847bdc3ce0dded27896ff10f73803c99925ec0ef",
       "bytes": 118217
@@ -895,6 +905,46 @@
       "bytes": 35394
     },
     {
+      "path": "final-assets/battle/enemies/location-roster/den-keeper.webp",
+      "sha256": "4a52f372615835e1816dc58ca3f623bddf8d768dd106a060505fd900cdf4377d",
+      "bytes": 56626
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/denmother-varkai.webp",
+      "sha256": "68c81bec5c56d0351fd3b815930b47226ffd2f682eedc27ac51ee7c766417120",
+      "bytes": 76838
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/forest-wolf.webp",
+      "sha256": "a470c8f5111399875874a96def5d3dedf69a5a618b8f885cee814b3b0ef1417f",
+      "bytes": 35822
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/grove-wisp.webp",
+      "sha256": "5b66aee97c45be0fe6d628debe82a30db1edc0a76ddce9196dd98c6973014795",
+      "bytes": 19548
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/moonfang-hunter.webp",
+      "sha256": "525672599d6922af8cd39791e2a48a2b2f3c75ffafdbc88d5dc39f5f10d306a5",
+      "bytes": 41060
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/prism-archer.webp",
+      "sha256": "7c87492cfffcb17eb0298dadc396356d34323d3458227e42fc69306ae8eecb20",
+      "bytes": 63898
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/prismheart-dryad.webp",
+      "sha256": "63ae0d025d2c4c9809199c09e431630a301c049353a2fbf22f453366902034dd",
+      "bytes": 121920
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/rune-sprite.webp",
+      "sha256": "b6f3e246365a51b513cd45eb39845ed4901c0eacb5e30feecd2cb9a791d3f25c",
+      "bytes": 41754
+    },
+    {
       "path": "final-assets/battle/formation/courtyard-formation-tile.webp",
       "sha256": "6d6b8278c07192414617276ccc7185c0c83d787b3112cc3c177739bdbd556b9c",
       "bytes": 10314
@@ -1381,8 +1431,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "39b5e394682ada5aa05b289c44b7527302c92a961956ccedf13ffb42a9ec8fab",
-      "bytes": 126427
+      "sha256": "d37fa4e319a8ca91269efd9432d91d60499585a323575f5f942f800861130292",
+      "bytes": 126481
     },
     {
       "path": "manifest.webmanifest",
@@ -1400,9 +1450,14 @@
       "bytes": 3314
     },
     {
+      "path": "src/battle/location-battle-art.js",
+      "sha256": "7b32775c69aae7b20fea45cbb1a1ab70cebb3160b8662b7931431afb9c14943a",
+      "bytes": 1213
+    },
+    {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "850712c50175d36206736585faa89d63d1f722cdd038dc2339f598859cf1d640",
-      "bytes": 110124
+      "sha256": "95d164b48edd93e5517f817058ab8ae0ddca4e7fc9fcf66f2caf3f73fd0c349f",
+      "bytes": 111100
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1421,8 +1476,8 @@
     },
     {
       "path": "src/game/archive.js",
-      "sha256": "45bfa7ca86bc8a00fc82a86da4db3eb29998289aaf2f0c820a34f2c1e47f20b2",
-      "bytes": 5090
+      "sha256": "a0ccf61caeb6fd8c59cd89d37539cce4aac212a3332962ff0e49e24e479a376d",
+      "bytes": 5272
     },
     {
       "path": "src/game/content-schema.js",
@@ -1471,10 +1526,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "3555b40f4a09b4a5857650806ad0b3036d13c83009aaecf1fcf30aa7f06db9e6",
-      "bytes": 351809
+      "sha256": "1cf3e1ad6dda3c65b58a85c7dfe0553996b5c1ab41f69c7328e583ee5fa6d93a",
+      "bytes": 352775
     }
   ],
-  "version": 124,
-  "label": "Illustrated Battle Gauges and Spell Effects"
+  "version": 125,
+  "label": "Sprite Grove and Wolf Den Battle Art"
 }
