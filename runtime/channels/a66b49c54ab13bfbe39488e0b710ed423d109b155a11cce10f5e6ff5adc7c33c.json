@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 118,
-  "label": "Sprite Grove shrine and waystones",
+  "version": 119,
+  "label": "Sprite Grove: Emerald Shrine Trail",
   "entry": "index.html",
   "files": [
     {
@@ -28,8 +28,8 @@
     },
     {
       "path": "expedition-asset-paths.js",
-      "sha256": "e9d499a99cc6c1e7b902020b5340cfbd64b772c19ba7c14da260fffa87a22442",
-      "bytes": 883
+      "sha256": "f8bf6089b407de0c50da9cf9f435110fbceea218064dc8e711447a6de2240bb4",
+      "bytes": 937
     },
     {
       "path": "expedition-mobile.css",
@@ -938,8 +938,8 @@
     },
     {
       "path": "final-assets/expedition/location-backgrounds/sprite-grove-route.webp",
-      "sha256": "f5c05286071f574d4206ad0e4d30062ef2324e79f7ab033b99c970eb114ef81f",
-      "bytes": 256474
+      "sha256": "1e4395796e26d7181ef1a11b0f996d04967395823a1dca7ad29b0366176fa867",
+      "bytes": 330634
     },
     {
       "path": "final-assets/expedition/location-nodes/ancient-roots.png",
@@ -1338,8 +1338,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "af6cbf140323d740ae6d847aba6b58d2ff6407039142101e130444f3df3c7d6b",
-      "bytes": 126011
+      "sha256": "dc5220b6ba702aec2fde61741202df07735496cdac93943bdb06c11bd27028f8",
+      "bytes": 126200
     },
     {
       "path": "manifest.webmanifest",
@@ -1428,8 +1428,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "01431fe4f8ad731a63a5cafa4fcecac8e51b81884aed62bf88397720cfdf2604",
-      "bytes": 349059
+      "sha256": "065b70c91e1dc128283785a4235bf21d785155bcc8d4372d36c91a1f35b7ca90",
+      "bytes": 350469
     }
   ]
 }
