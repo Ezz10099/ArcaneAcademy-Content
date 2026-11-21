@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 119,
-  "label": "Sprite Grove: Emerald Shrine Trail",
+  "version": 120,
+  "label": "Forest Gate: Moonlit Road",
   "entry": "index.html",
   "files": [
     {
@@ -937,6 +937,11 @@
       "bytes": 49925
     },
     {
+      "path": "final-assets/expedition/location-backgrounds/forest-gate-route.webp",
+      "sha256": "8e8d52b21691ea9417e3b39b2fa7078b0f66b8471ce1646dab53b63da0df8581",
+      "bytes": 350644
+    },
+    {
       "path": "final-assets/expedition/location-backgrounds/sprite-grove-route.webp",
       "sha256": "1e4395796e26d7181ef1a11b0f996d04967395823a1dca7ad29b0366176fa867",
       "bytes": 330634
@@ -1323,18 +1328,18 @@
     },
     {
       "path": "forest-gate-map.css",
-      "sha256": "f31db6203fa1948352dfea2c6f65979138d65f199f007de45fbedfc836ccf25c",
-      "bytes": 11794
+      "sha256": "847d518c4e6a1bc4b3863a8273463104e618af4a8a77bc4b3d77ed015072e6b7",
+      "bytes": 7398
     },
     {
       "path": "forest-gate-map.js",
-      "sha256": "7628bd6e58eb784eed675881f4e634dd347fa63fab248a9b158fb4f1f32d11eb",
-      "bytes": 7931
+      "sha256": "d938b960dbfa726b60844bebbd1b21ccc76df32ccdef6d86a534dfc5b1676bf2",
+      "bytes": 7442
     },
     {
       "path": "index.html",
-      "sha256": "0fb61d05e99d66219b6bebd9087eceedffed875bbb2b9be73aa64eebd56ffec6",
-      "bytes": 4173
+      "sha256": "1448443c9b0cd4bcc8873fce62255dba12bbd6bde3d2bdee282fa6b187427c7b",
+      "bytes": 3691
     },
     {
       "path": "main.js",
@@ -1428,8 +1433,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "065b70c91e1dc128283785a4235bf21d785155bcc8d4372d36c91a1f35b7ca90",
-      "bytes": 350469
+      "sha256": "8202191ced4f5f2f91664a72c9411795c47c67f60e51586016bfc84e4c25bd11",
+      "bytes": 351075
     }
   ]
 }
