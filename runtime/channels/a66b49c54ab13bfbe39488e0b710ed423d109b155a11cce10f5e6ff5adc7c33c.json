@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 126,
-  "label": "Sprite Grove and Wolf Den Enemy Formations",
+  "version": 127,
+  "label": "Trainee Formation Controls",
   "entry": "index.html",
   "files": [
     {
@@ -1433,8 +1433,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "d37fa4e319a8ca91269efd9432d91d60499585a323575f5f942f800861130292",
-      "bytes": 126481
+      "sha256": "e955d88fa508a96dda38c438672ff2079ed4f5192762e59f0f5c66d289a563f5",
+      "bytes": 126262
     },
     {
       "path": "manifest.webmanifest",
