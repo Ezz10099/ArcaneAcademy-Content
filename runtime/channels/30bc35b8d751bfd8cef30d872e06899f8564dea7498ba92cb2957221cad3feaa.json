@@ -1070,6 +1070,11 @@
       "bytes": 87301
     },
     {
+      "path": "final-assets/expedition/stage-nodes/wolf-den-waystone.webp",
+      "sha256": "99b94c8d8a703abe34c8208410f5b75285cc7072cd291ad35266dcd6ade1fd3e",
+      "bytes": 14328
+    },
+    {
       "path": "final-assets/expedition/upper-hud/energy-icon.png",
       "sha256": "fc88a9427be3d8ee691aec871dddeed1a1d363fa185951ed776818f17ef66613",
       "bytes": 39256
@@ -1346,8 +1351,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "3390434c89859fb9353428b7e896bd76197ffb0c39c036d80bf22d11c4c05acb",
-      "bytes": 126811
+      "sha256": "f97abe6867cc4341403d7df1e24e6f0cb9ccbebfccc2473174805c4dbe30628a",
+      "bytes": 126677
     },
     {
       "path": "manifest.webmanifest",
@@ -1436,10 +1441,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "2d1bdc0efcba4e5d38fa748be7f0e0c7cc661c5be34daa92e8e1c53bf3e34a47",
-      "bytes": 351817
+      "sha256": "ca6be86c3eb3c4b18487a376385fc16df7669cb88298f9521ad551b70e88e781",
+      "bytes": 352141
     }
   ],
-  "version": 121,
-  "label": "Wolf Den: Frosted Trail"
+  "version": 122,
+  "label": "Wolf Den: Frost-Claw Waystones"
 }
