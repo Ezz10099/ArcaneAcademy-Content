@@ -1536,10 +1536,10 @@
     },
     {
       "path": "style.css",
-      "bytes": 353460,
-      "sha256": "3628c0411e5f484a59be6444a1390a7de61d0266bc2693ea45131e11c055869d"
+      "sha256": "e2998e83ad8df0d2933a92af8dc65011e270b51f2b53f7f8bad76a9f9d9a7abb",
+      "bytes": 353435
     }
   ],
-  "version": 131,
-  "label": "Full-Screen Battle Art"
+  "version": 132,
+  "label": "Floating Cards Over Battlefield"
 }
