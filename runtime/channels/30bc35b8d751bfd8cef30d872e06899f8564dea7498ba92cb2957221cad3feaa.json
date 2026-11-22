@@ -1641,8 +1641,8 @@
     },
     {
       "path": "src/game/game.js",
-      "bytes": 81020,
-      "sha256": "19a1180cd9650fc91cf7b4c07636d01a562aa06794b6d8ef714f625488143420"
+      "bytes": 81140,
+      "sha256": "fca3e8990709e5f0dc607789b328e6aca5fe7c972a51cfb56a668c9747a1c45c"
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1680,6 +1680,6 @@
       "bytes": 359574
     }
   ],
-  "version": 154,
-  "label": "Combatant rank promotion"
+  "version": 155,
+  "label": "Starting rank combat balance"
 }
