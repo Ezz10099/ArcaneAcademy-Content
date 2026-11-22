@@ -1536,10 +1536,10 @@
     },
     {
       "path": "style.css",
-      "bytes": 351795,
-      "sha256": "ab6c76172310923177d977c4a12860f133346456fe5d1ef1f90b5409c7823fb5"
+      "bytes": 352185,
+      "sha256": "5e0d20726e2ac9ba89d3a33441ab49de94cb0ce3a39ecc7b78128dcd672b1b5d"
     }
   ],
-  "version": 129,
-  "label": "Floating Battle Portraits"
+  "version": 130,
+  "label": "Ultimate Ready Glow"
 }
