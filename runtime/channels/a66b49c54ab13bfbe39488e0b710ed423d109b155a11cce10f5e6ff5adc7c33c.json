@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 137,
-  "label": "Placement Grid and Deployed Checkmarks",
+  "version": 138,
+  "label": "Corner Power Displays and Double Tap Removal",
   "entry": "index.html",
   "files": [
     {
@@ -1443,8 +1443,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 127538,
-      "sha256": "b3e9007a0cf479f83f9cf04f774207728f2d7e21ab9ac70e2dee500a170fefc9"
+      "bytes": 128112,
+      "sha256": "d7c0b27b6ab48c78694bc5a90c5bad951e257d8b44936d3e6cb3ec6dd69ae93b"
     },
     {
       "path": "manifest.webmanifest",
@@ -1538,8 +1538,8 @@
     },
     {
       "path": "style.css",
-      "bytes": 357565,
-      "sha256": "65288beb2409b0d13edfde73e9ebad8b120a344883b57c2c6aebe2b264a5000e"
+      "bytes": 358076,
+      "sha256": "0967cc9d85a8b6286e46a783269ebf8ac4d34d4a2b355f4d09ef171368a01f24"
     }
   ]
 }
