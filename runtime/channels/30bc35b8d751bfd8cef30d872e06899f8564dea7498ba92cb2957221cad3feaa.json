@@ -1311,8 +1311,8 @@
     },
     {
       "path": "final-assets/navigation/bottom-tabs/asset-manifest.json",
-      "sha256": "d7d64ef0f4bfcba83c5758b295803f4801ca030560ebe336d32be997c8da286a",
-      "bytes": 4939
+      "sha256": "f57f16ecd1ea66ca568fe72b6b84231c5b24d3acdd094a6d92dd7ba97156c5da",
+      "bytes": 5030
     },
     {
       "path": "final-assets/navigation/bottom-tabs/expedition-tab.png",
@@ -1326,13 +1326,13 @@
     },
     {
       "path": "final-assets/navigation/bottom-tabs/summon-tab.png",
-      "sha256": "c561cac582598f8c60e64e8b34c2e411fb913c440750a2e490a9d94bb917103d",
-      "bytes": 73028
+      "sha256": "1d83970bfe8dde605b71538500831ecf4ca88ec5e830d9c1c1d826c0cc37a5a7",
+      "bytes": 70727
     },
     {
       "path": "final-assets/navigation/bottom-tabs/trainees-tab.png",
-      "sha256": "e2fa3fa958f5d1f42ea09a02ee5884c7c14e6fe3c09337ac9c2ef2dfe83d5c49",
-      "bytes": 69605
+      "sha256": "e81e5c5fe92d21772ef850d2cd5307e0b5d786ab81a1392d5483cd1d8f51fdac",
+      "bytes": 68600
     },
     {
       "path": "final-assets/summon/aether-crystal.svg",
@@ -1551,8 +1551,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "030d51d8b36f982023f8e981501a909c9694db4a72fc350a069e6e4c78e6b451",
-      "bytes": 132748
+      "sha256": "969280daba35261c18e5fb7e3d37258a5205b5e7930b7b68eb2e98cfe051a519",
+      "bytes": 132791
     },
     {
       "path": "manifest.webmanifest",
@@ -1606,13 +1606,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "33799efacbfcf54c78a4e351e46ba9e7156caebda1636ceb68140722a9622019",
-      "bytes": 39081
+      "sha256": "2039c49b9ec92d680e9e57be0bfa3f0fd18cb821b4215a7083b538cf878ebc39",
+      "bytes": 39084
     },
     {
       "path": "src/game/game.js",
-      "sha256": "7344f83fabbfbcc68d9938d00338aa69fb69a4c212448f4dba228df2b5e84670",
-      "bytes": 74258
+      "sha256": "ebc32fe5986b7af60d178099085a019d04438bafc2b72454a3a2526316929d82",
+      "bytes": 74281
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1650,6 +1650,6 @@
       "bytes": 358930
     }
   ],
-  "version": 142,
-  "label": "Expanded Wild Forest Expeditions"
+  "version": 143,
+  "label": "Combatants and Recruit"
 }
