@@ -1441,8 +1441,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "9657e6f77260d39eef7279d1cf292b06e644a2873e5c4aff119048b641a28145",
-      "bytes": 127390
+      "bytes": 127538,
+      "sha256": "b3e9007a0cf479f83f9cf04f774207728f2d7e21ab9ac70e2dee500a170fefc9"
     },
     {
       "path": "manifest.webmanifest",
@@ -1466,8 +1466,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "b65eee7c6221a214a0922afbff9ec1fddef648a64e899fdaa0a6fbe9a3c7ce9e",
-      "bytes": 111132
+      "bytes": 110443,
+      "sha256": "fc7148eb4ee9cb04a443fed3ba525e3606a4babf8d0d2688eaa71f8049062a0e"
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1536,10 +1536,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "a891accaf1ce2a3700e9fc183cb2dff798d5efa71422fff70193698f4e917704",
-      "bytes": 357347
+      "bytes": 357565,
+      "sha256": "65288beb2409b0d13edfde73e9ebad8b120a344883b57c2c6aebe2b264a5000e"
     }
   ],
-  "version": 136,
-  "label": "Clearer Formation Placement"
+  "version": 137,
+  "label": "Placement Grid and Deployed Checkmarks"
 }
