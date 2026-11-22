@@ -1441,8 +1441,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "54ca5af15e3123f3d4f470f812f68ec201a81bb38958397f0bace7a21b6c0fa6",
-      "bytes": 126793
+      "sha256": "9657e6f77260d39eef7279d1cf292b06e644a2873e5c4aff119048b641a28145",
+      "bytes": 127390
     },
     {
       "path": "manifest.webmanifest",
@@ -1466,8 +1466,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "95d164b48edd93e5517f817058ab8ae0ddca4e7fc9fcf66f2caf3f73fd0c349f",
-      "bytes": 111100
+      "sha256": "b65eee7c6221a214a0922afbff9ec1fddef648a64e899fdaa0a6fbe9a3c7ce9e",
+      "bytes": 111132
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1536,10 +1536,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "3f80e3bf34512b8333e85e927e15424087d382b16be3cd714095deab9dce4251",
-      "bytes": 356604
+      "sha256": "a891accaf1ce2a3700e9fc183cb2dff798d5efa71422fff70193698f4e917704",
+      "bytes": 357347
     }
   ],
-  "version": 135,
-  "label": "Room for Formation Reserves"
+  "version": 136,
+  "label": "Clearer Formation Placement"
 }
