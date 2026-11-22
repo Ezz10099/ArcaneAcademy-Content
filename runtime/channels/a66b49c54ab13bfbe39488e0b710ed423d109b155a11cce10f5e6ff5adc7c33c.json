@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 145,
-  "label": "Trainee starting ranks",
+  "version": 146,
+  "label": "Tavian, Neris and Archmage Eloris",
   "entry": "index.html",
   "files": [
     {
@@ -297,6 +297,11 @@
       "bytes": 384770
     },
     {
+      "path": "final-assets/audio/README.md",
+      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
+      "bytes": 3382
+    },
+    {
       "path": "final-assets/audio/academy.ogg",
       "sha256": "8b1fdc41b2dce217fc3d42dc8c5355ed26be1130f43f0748c2872d17f37e9470",
       "bytes": 850092
@@ -310,11 +315,6 @@
       "path": "final-assets/audio/expedition.ogg",
       "sha256": "b92f23c4b80ff9abc870c97ba29cc971e89d36457967d482a290e3406e0f60ce",
       "bytes": 423158
-    },
-    {
-      "path": "final-assets/audio/README.md",
-      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
-      "bytes": 3382
     },
     {
       "path": "final-assets/battle/atmosphere/amber-mote.webp",
@@ -345,6 +345,11 @@
       "path": "final-assets/battle/backgrounds/wolf-den-battlefield.webp",
       "sha256": "2e1e457a982580638773cb43672a797827f0d6ef2a8624c65fd6775ff96cefb4",
       "bytes": 122918
+    },
+    {
+      "path": "final-assets/battle/characters/archmage-eloris/archmage-eloris-idle-right.webp",
+      "bytes": 35082,
+      "sha256": "5fa375ae7353c2e22d1cb5b8a9ef1da7ba38d4ba94d2699886a2af26c167e3ae"
     },
     {
       "path": "final-assets/battle/characters/cinder-vale/cinder-vale-attack-right.png",
@@ -487,6 +492,11 @@
       "bytes": 151524
     },
     {
+      "path": "final-assets/battle/characters/neris-rimeweave/neris-rimeweave-idle-right.webp",
+      "bytes": 17798,
+      "sha256": "0f0f4b935ea1322d05ea34514172c73ea8b7ff468c5c4534f204dfc3884781f1"
+    },
+    {
       "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-attack-right.webp",
       "sha256": "0fc987fc5b36b175bf12b3e3c5044cccc583ad9c031ade26d365759ec273b874",
       "bytes": 79490
@@ -590,6 +600,11 @@
       "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-ultimate-right.webp",
       "sha256": "d4fb40f3e597f855d11b606ecb332722f09e155e6328dcddae1e31722902a095",
       "bytes": 72490
+    },
+    {
+      "path": "final-assets/battle/characters/tavian-emberstep/tavian-emberstep-idle-right.webp",
+      "bytes": 19588,
+      "sha256": "a4d243a8787ac2220b729c41ad2ec47f69ccd921aa8566e4cf76739ee82d57c6"
     },
     {
       "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-attack-right.webp",
@@ -702,6 +717,11 @@
       "bytes": 5108
     },
     {
+      "path": "final-assets/battle/deck-portraits/archmage-eloris.webp",
+      "bytes": 33606,
+      "sha256": "54c58de5c2229b72448ab86da4e716b3f544f7f51ca3b1916a916e8b631ffd03"
+    },
+    {
       "path": "final-assets/battle/deck-portraits/cinder-vale.webp",
       "sha256": "05086101226ce060ce8fb25352a13c0e4c883b094a01069091cd15e96377ee0d",
       "bytes": 17924
@@ -722,6 +742,11 @@
       "bytes": 22990
     },
     {
+      "path": "final-assets/battle/deck-portraits/neris-rimeweave.webp",
+      "bytes": 17000,
+      "sha256": "fd8f1564e5b045238377642b8b14f793fdf3b60362fef7042e87f3620959a309"
+    },
+    {
       "path": "final-assets/battle/deck-portraits/pyreth-the-branded.webp",
       "sha256": "83426a092d9bef1ea6c0ee64a1218c03dced799d1b33169aa6442b7a7730ea16",
       "bytes": 15622
@@ -735,6 +760,11 @@
       "path": "final-assets/battle/deck-portraits/stone-sentinel-gorr.webp",
       "sha256": "e883f1bb5c12612bcf3b541bdb61f6461dbd9395c142e526a02cb8c2ef3afdda",
       "bytes": 17750
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/tavian-emberstep.webp",
+      "bytes": 18674,
+      "sha256": "7c6bd896d32f4b7e405a767946b34fd5502b4d56e887d0828d44dd31c93b39ff"
     },
     {
       "path": "final-assets/battle/deck-portraits/yssa-driftborn.webp",
@@ -1302,6 +1332,11 @@
       "bytes": 16128
     },
     {
+      "path": "final-assets/navigation/bottom-tabs/README.md",
+      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
+      "bytes": 1071
+    },
+    {
       "path": "final-assets/navigation/bottom-tabs/academy-tab.png",
       "sha256": "1bba8a315a811ffa28baf637fd586458584204449cfb45e4e6f0c435bd708899",
       "bytes": 77465
@@ -1320,11 +1355,6 @@
       "path": "final-assets/navigation/bottom-tabs/expedition-tab.png",
       "sha256": "1c9e700104923abceedf07e372db45ef0e89c80d0b50acd67d7378d4a5185aaa",
       "bytes": 74676
-    },
-    {
-      "path": "final-assets/navigation/bottom-tabs/README.md",
-      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
-      "bytes": 1071
     },
     {
       "path": "final-assets/navigation/bottom-tabs/summon-tab.png",
@@ -1553,8 +1583,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "6e7610061cbea3d1a3dd4429362fd3e1915ec9a3c8d1d1dcebb56fdae15c0cbf",
-      "bytes": 133791
+      "bytes": 134312,
+      "sha256": "cfa95c3b1f25930da481923694eb66a006db2a98e90d76f35b1f9bf3a5336582"
     },
     {
       "path": "manifest.webmanifest",
@@ -1578,8 +1608,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "bytes": 112632,
-      "sha256": "8e6d69144ced32fa2a2b4e7347cfc22705de6175dd3686afe95199fb52633516"
+      "bytes": 113737,
+      "sha256": "60516bd3aab3ce8caf48e8159d12b85bec499f6ed189ec2dd5a16bd5e3a7ab4e"
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1608,13 +1638,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "2039c49b9ec92d680e9e57be0bfa3f0fd18cb821b4215a7083b538cf878ebc39",
-      "bytes": 39084
+      "bytes": 40227,
+      "sha256": "84999f3b1792708ebc454596b370d27317da1260ed2cdc519396482124abc12f"
     },
     {
       "path": "src/game/game.js",
-      "sha256": "02d0b86ac0f951579ab00416e54a930e9cb8c9890effb117918034b2ed362f3d",
-      "bytes": 74520
+      "bytes": 76517,
+      "sha256": "68b3609f0a617dfa06cc87b8f8be33d7f87275985f842795fababc2e2b916c57"
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1637,14 +1667,14 @@
       "bytes": 6352
     },
     {
-      "path": "src/vendor/phaser-4.2.1.min.js",
-      "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
-      "bytes": 1375976
-    },
-    {
       "path": "src/vendor/PHASER-LICENSE.txt",
       "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
       "bytes": 1100
+    },
+    {
+      "path": "src/vendor/phaser-4.2.1.min.js",
+      "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
+      "bytes": 1375976
     },
     {
       "path": "style.css",
