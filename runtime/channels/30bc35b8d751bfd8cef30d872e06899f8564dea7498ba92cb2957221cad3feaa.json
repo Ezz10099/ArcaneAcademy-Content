@@ -1466,8 +1466,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "bytes": 112457,
-      "sha256": "57f83e2cdf85ce24e9ea7c9f855367e7da0e2b4e15f98014af0ed89700059559"
+      "bytes": 112632,
+      "sha256": "8e6d69144ced32fa2a2b4e7347cfc22705de6175dd3686afe95199fb52633516"
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1540,6 +1540,6 @@
       "sha256": "cf16a8e346e220e112b0a145a67d035b2f4b9fad1d0a818861c9767b8293d4bc"
     }
   ],
-  "version": 139,
-  "label": "Off-Screen Battle Entrances"
+  "version": 140,
+  "label": "Normal Battle Entrance Speed"
 }

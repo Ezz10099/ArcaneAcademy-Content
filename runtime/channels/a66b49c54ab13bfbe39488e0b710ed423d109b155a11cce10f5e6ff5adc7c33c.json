@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 139,
-  "label": "Off-Screen Battle Entrances",
+  "version": 140,
+  "label": "Normal Battle Entrance Speed",
   "entry": "index.html",
   "files": [
     {
@@ -1468,8 +1468,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "bytes": 112457,
-      "sha256": "57f83e2cdf85ce24e9ea7c9f855367e7da0e2b4e15f98014af0ed89700059559"
+      "bytes": 112632,
+      "sha256": "8e6d69144ced32fa2a2b4e7347cfc22705de6175dd3686afe95199fb52633516"
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
