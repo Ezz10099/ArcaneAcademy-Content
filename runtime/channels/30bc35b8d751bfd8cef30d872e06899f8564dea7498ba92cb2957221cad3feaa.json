@@ -1641,8 +1641,8 @@
     },
     {
       "path": "src/game/game.js",
-      "bytes": 76517,
-      "sha256": "68b3609f0a617dfa06cc87b8f8be33d7f87275985f842795fababc2e2b916c57"
+      "bytes": 76451,
+      "sha256": "49b1a399266e993b83b7b0c3b1041533c866e60fc71b3856446fdc47652dae70"
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1680,6 +1680,6 @@
       "bytes": 358930
     }
   ],
-  "version": 146,
-  "label": "Tavian, Neris and Archmage Eloris"
+  "version": 147,
+  "label": "Unlock Basic and Advanced Recruit in Developer Mode"
 }
