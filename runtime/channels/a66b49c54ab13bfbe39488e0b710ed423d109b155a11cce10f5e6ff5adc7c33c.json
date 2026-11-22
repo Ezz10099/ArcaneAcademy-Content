@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 128,
-  "label": "Clear Portraits and Ultimate Seals",
+  "version": 129,
+  "label": "Floating Battle Portraits",
   "entry": "index.html",
   "files": [
     {
@@ -1443,8 +1443,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "e955d88fa508a96dda38c438672ff2079ed4f5192762e59f0f5c66d289a563f5",
-      "bytes": 126262
+      "bytes": 126453,
+      "sha256": "7ed89b63a5bb98cd381d795cab8b4dc179247ded79b1fd803c774393b008a714"
     },
     {
       "path": "manifest.webmanifest",
@@ -1538,8 +1538,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "5e39c13ef4232babe554729ba5ff6d56766e06c370dba8adc4b3b0eafd911877",
-      "bytes": 353223
+      "bytes": 351795,
+      "sha256": "ab6c76172310923177d977c4a12860f133346456fe5d1ef1f90b5409c7823fb5"
     }
   ]
 }
