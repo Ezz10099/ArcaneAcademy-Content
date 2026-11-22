@@ -690,6 +690,16 @@
       "bytes": 8246
     },
     {
+      "path": "final-assets/battle/deck-gauges/ultimate-seal-ready.webp",
+      "sha256": "b1e8ce199ac9a630ef053ee2e502ebbe5f2da1a0b078760c3dcde0094aeb6d8b",
+      "bytes": 5746
+    },
+    {
+      "path": "final-assets/battle/deck-gauges/ultimate-seal.webp",
+      "sha256": "42b2e06e4c15228806684decd13f85718017e82f18560c54750c239c2f4a697f",
+      "bytes": 5108
+    },
+    {
       "path": "final-assets/battle/deck-portraits/cinder-vale.webp",
       "sha256": "05086101226ce060ce8fb25352a13c0e4c883b094a01069091cd15e96377ee0d",
       "bytes": 17924
@@ -1526,10 +1536,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "1cf3e1ad6dda3c65b58a85c7dfe0553996b5c1ab41f69c7328e583ee5fa6d93a",
-      "bytes": 352775
+      "sha256": "5e39c13ef4232babe554729ba5ff6d56766e06c370dba8adc4b3b0eafd911877",
+      "bytes": 353223
     }
   ],
-  "version": 127,
-  "label": "Trainee Formation Controls"
+  "version": 128,
+  "label": "Clear Portraits and Ultimate Seals"
 }
