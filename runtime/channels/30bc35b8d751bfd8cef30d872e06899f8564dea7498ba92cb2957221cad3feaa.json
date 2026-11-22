@@ -1551,8 +1551,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "969280daba35261c18e5fb7e3d37258a5205b5e7930b7b68eb2e98cfe051a519",
-      "bytes": 132791
+      "sha256": "b3b77889d3d29fe5970562a9420be2899f9438dc72a46ce7372246f7bd8fc5db",
+      "bytes": 133020
     },
     {
       "path": "manifest.webmanifest",
@@ -1566,8 +1566,8 @@
     },
     {
       "path": "shared-upper-hud.js",
-      "sha256": "f899aad874e99bcc5aff0cdc2917d3f531da444c48401cce6e462c675e247d4f",
-      "bytes": 3314
+      "sha256": "8b21579376c7ebbd4eefbf082b69d492360f92dc01be5004563c75ccac0dbc51",
+      "bytes": 3337
     },
     {
       "path": "src/battle/location-battle-art.js",
@@ -1611,8 +1611,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "ebc32fe5986b7af60d178099085a019d04438bafc2b72454a3a2526316929d82",
-      "bytes": 74281
+      "sha256": "02d0b86ac0f951579ab00416e54a930e9cb8c9890effb117918034b2ed362f3d",
+      "bytes": 74520
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1626,8 +1626,8 @@
     },
     {
       "path": "src/platform/game-settings.js",
-      "bytes": 19021,
-      "sha256": "63df8e9d22039ae1049499f6c8cf8e6538755e758d1812ca0580567a360850d3"
+      "sha256": "7d9d82f091fc8d5a554f63f4c80b1f4d283d43d036c48206b5b2f623beb936e1",
+      "bytes": 19091
     },
     {
       "path": "src/platform/persistent-storage.js",
@@ -1650,6 +1650,6 @@
       "bytes": 358930
     }
   ],
-  "version": 143,
-  "label": "Combatants and Recruit"
+  "version": 144,
+  "label": "Unlimited Developer Mode Currencies"
 }
