@@ -1641,8 +1641,8 @@
     },
     {
       "path": "src/game/game.js",
-      "bytes": 81140,
-      "sha256": "fca3e8990709e5f0dc607789b328e6aca5fe7c972a51cfb56a668c9747a1c45c"
+      "bytes": 81704,
+      "sha256": "38cc86746969ea571cc6e5ce57b86a8dd9f22b458f5ae0b32b1523a507a88047"
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1680,6 +1680,6 @@
       "bytes": 359574
     }
   ],
-  "version": 155,
-  "label": "Starting rank combat balance"
+  "version": 156,
+  "label": "Power for every star slot"
 }
