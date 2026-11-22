@@ -1551,8 +1551,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "b3b77889d3d29fe5970562a9420be2899f9438dc72a46ce7372246f7bd8fc5db",
-      "bytes": 133020
+      "sha256": "6e7610061cbea3d1a3dd4429362fd3e1915ec9a3c8d1d1dcebb56fdae15c0cbf",
+      "bytes": 133791
     },
     {
       "path": "manifest.webmanifest",
@@ -1650,6 +1650,6 @@
       "bytes": 358930
     }
   ],
-  "version": 144,
-  "label": "Unlimited Developer Mode Currencies"
+  "version": 145,
+  "label": "Trainee starting ranks"
 }
