@@ -1441,8 +1441,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 128112,
-      "sha256": "d7c0b27b6ab48c78694bc5a90c5bad951e257d8b44936d3e6cb3ec6dd69ae93b"
+      "bytes": 129624,
+      "sha256": "f0fbc1efe0208536df1d9dc78aec2ff376fe872c1e4a35838141ddd0260416ed"
     },
     {
       "path": "manifest.webmanifest",
@@ -1466,8 +1466,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "bytes": 110443,
-      "sha256": "fc7148eb4ee9cb04a443fed3ba525e3606a4babf8d0d2688eaa71f8049062a0e"
+      "bytes": 112457,
+      "sha256": "57f83e2cdf85ce24e9ea7c9f855367e7da0e2b4e15f98014af0ed89700059559"
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1536,10 +1536,10 @@
     },
     {
       "path": "style.css",
-      "bytes": 358076,
-      "sha256": "0967cc9d85a8b6286e46a783269ebf8ac4d34d4a2b355f4d09ef171368a01f24"
+      "bytes": 358376,
+      "sha256": "cf16a8e346e220e112b0a145a67d035b2f4b9fad1d0a818861c9767b8293d4bc"
     }
   ],
-  "version": 138,
-  "label": "Corner Power Displays and Double Tap Removal"
+  "version": 139,
+  "label": "Off-Screen Battle Entrances"
 }
