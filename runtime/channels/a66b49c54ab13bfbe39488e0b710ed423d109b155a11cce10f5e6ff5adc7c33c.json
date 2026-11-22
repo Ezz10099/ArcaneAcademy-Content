@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 153,
-  "label": "Combatant star slots",
+  "version": 154,
+  "label": "Combatant rank promotion",
   "entry": "index.html",
   "files": [
     {
@@ -1583,8 +1583,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 135300,
-      "sha256": "615d2d78d66930d011bee6845914f0e9c5e5aaf00df4f49e4797533978aa0088"
+      "bytes": 135329,
+      "sha256": "c2fa9c600bd5a58aa0bd217bf9c8989d5230bae59dac9a4f783ad602179b7e85"
     },
     {
       "path": "manifest.webmanifest",
@@ -1643,8 +1643,8 @@
     },
     {
       "path": "src/game/game.js",
-      "bytes": 78681,
-      "sha256": "7536a1fb978c4699e0b837ff33adbe5fca78368fb41ba717ba087ce0322cdc8b"
+      "bytes": 81020,
+      "sha256": "19a1180cd9650fc91cf7b4c07636d01a562aa06794b6d8ef714f625488143420"
     },
     {
       "path": "src/platform/content-updates.js",
