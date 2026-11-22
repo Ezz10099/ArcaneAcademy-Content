@@ -1,0 +1,142 @@
+{
+  "role": "Bottom navigation tab artwork",
+  "integration_status": "integrated-and-verified",
+  "canvas": "256x256",
+  "format": "PNG",
+  "colour_mode": "RGBA",
+  "processing": [
+    "Preserved each original upload unchanged.",
+    "Removed only the baked light checkerboard outside the artwork.",
+    "Converted to genuine RGBA transparency.",
+    "Resized the complete square artwork to 256x256 with high-quality Lanczos resampling.",
+    "Applied no crop, recolour, sharpening, redraw, regeneration, or lossy compression.",
+    "Recompressed only PNG IDAT streams while preserving exact decompressed filtered scanlines and all non-IDAT chunks.",
+    "Updated the baked Combatants and Recruit labels in the processed runtime copies."
+  ],
+  "repository_folder": "final-assets/navigation/bottom-tabs",
+  "meta_instruction": "No .meta files are used in this browser/Android runtime folder; do not create or upload any.",
+  "integration": {
+    "component": "Shared browser/Android bottom navigation",
+    "renderer": "main.js renderBottomNav()",
+    "stylesheet": "style.css",
+    "interaction": "Existing data-view click routing in main.js",
+    "validation": "scripts/verify-bottom-navigation-assets.mjs"
+  },
+  "assets": [
+    {
+      "role": "Academy bottom navigation button",
+      "source_file": "file_000000002c0871fdae71ab24c6ae6bf3",
+      "source_detected_format": "JPEG",
+      "source_dimensions": [
+        1536,
+        1536
+      ],
+      "source_mode": "RGB",
+      "source_sha256": "e2cb559d45cb0b97676298f91f333bb41405a676ecb1f75f04b0eb73e0bea539",
+      "processed_file": "academy-tab.png",
+      "repository_path": "final-assets/navigation/bottom-tabs/academy-tab.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "bytes": 77465,
+      "sha256": "1bba8a315a811ffa28baf637fd586458584204449cfb45e4e6f0c435bd708899",
+      "transparent_pixels": 20323,
+      "visible_pixels": 45213,
+      "partial_alpha_pixels": 2450
+    },
+    {
+      "role": "Combatants bottom navigation button",
+      "source_file": "file_00000000f48872309efd311ee131dea5",
+      "source_detected_format": "JPEG",
+      "source_dimensions": [
+        1536,
+        1536
+      ],
+      "source_mode": "RGB",
+      "source_sha256": "5514c87c8e036446c1363637cca1b0effdce0413a200a3e5297281dc96018164",
+      "processed_file": "trainees-tab.png",
+      "repository_path": "final-assets/navigation/bottom-tabs/trainees-tab.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "bytes": 68600,
+      "sha256": "e81e5c5fe92d21772ef850d2cd5307e0b5d786ab81a1392d5483cd1d8f51fdac",
+      "transparent_pixels": 24229,
+      "visible_pixels": 41307,
+      "partial_alpha_pixels": 2604
+    },
+    {
+      "role": "Expedition bottom navigation button",
+      "source_file": "file_00000000ba6c71fd9378b5ff7797470f",
+      "source_detected_format": "JPEG",
+      "source_dimensions": [
+        1536,
+        1536
+      ],
+      "source_mode": "RGB",
+      "source_sha256": "e112fc9dfb6d8de35e557388310d29c07e41c351af742cd82136c98c305fc955",
+      "processed_file": "expedition-tab.png",
+      "repository_path": "final-assets/navigation/bottom-tabs/expedition-tab.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "bytes": 74676,
+      "sha256": "1c9e700104923abceedf07e372db45ef0e89c80d0b50acd67d7378d4a5185aaa",
+      "transparent_pixels": 25147,
+      "visible_pixels": 40389,
+      "partial_alpha_pixels": 2459
+    },
+    {
+      "role": "Recruit bottom navigation button",
+      "source_file": "file_00000000585871fdaf73570860c69d1e",
+      "source_detected_format": "JPEG",
+      "source_dimensions": [
+        1536,
+        1536
+      ],
+      "source_mode": "RGB",
+      "source_sha256": "03135cc0fad32cc977e1942859bd343d05326216a51fce821540f606668454c1",
+      "processed_file": "summon-tab.png",
+      "repository_path": "final-assets/navigation/bottom-tabs/summon-tab.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "bytes": 70727,
+      "sha256": "1d83970bfe8dde605b71538500831ecf4ca88ec5e830d9c1c1d826c0cc37a5a7",
+      "transparent_pixels": 24173,
+      "visible_pixels": 41363,
+      "partial_alpha_pixels": 2655
+    },
+    {
+      "role": "Archive bottom navigation button",
+      "source_file": "file_0000000080e471fd85f55277e04f7a02",
+      "source_detected_format": "JPEG",
+      "source_dimensions": [
+        1536,
+        1536
+      ],
+      "source_mode": "RGB",
+      "source_sha256": "585a08ac557aab04dc9aa3841f16132e5508ee6a3a53aa05f9e419342a652542",
+      "processed_file": "archive-tab.png",
+      "repository_path": "final-assets/navigation/bottom-tabs/archive-tab.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "bytes": 74383,
+      "sha256": "5d9189e860f10d9bd005e870dbd695d8b8a3a1c371c5d027a07bafe5ce62f72a",
+      "transparent_pixels": 24176,
+      "visible_pixels": 41360,
+      "partial_alpha_pixels": 2646
+    }
+  ]
+}
