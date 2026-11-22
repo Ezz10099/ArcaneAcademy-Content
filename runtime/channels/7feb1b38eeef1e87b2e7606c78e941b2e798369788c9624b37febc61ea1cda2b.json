@@ -1581,8 +1581,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 134402,
-      "sha256": "091a6ed5914d6cc44226931a2bb55267096d9ce18cfef03281c378548396458a"
+      "bytes": 134388,
+      "sha256": "9fb28e9a0509ccc070a1270c7a1201233bfb618ed0ebdc740ae6d12b65659df9"
     },
     {
       "path": "manifest.webmanifest",
@@ -1680,6 +1680,6 @@
       "bytes": 359612
     }
   ],
-  "version": 148,
-  "label": "Fit Combatants and add horizontal picker"
+  "version": 149,
+  "label": "Show Recruit prices in Developer Mode"
 }
