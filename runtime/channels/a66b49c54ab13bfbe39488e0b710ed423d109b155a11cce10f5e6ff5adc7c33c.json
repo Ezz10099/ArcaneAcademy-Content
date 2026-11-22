@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 134,
-  "label": "Full-Screen Formation Art",
+  "version": 135,
+  "label": "Room for Formation Reserves",
   "entry": "index.html",
   "files": [
     {
@@ -1443,8 +1443,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "d3f0c25dd3efe3512d1ee37d72177a8c16f051314205cfde6090f61baf0cc66f",
-      "bytes": 126745
+      "sha256": "54ca5af15e3123f3d4f470f812f68ec201a81bb38958397f0bace7a21b6c0fa6",
+      "bytes": 126793
     },
     {
       "path": "manifest.webmanifest",
@@ -1538,8 +1538,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "d7467eafe5944fdaa5084d0ca2c9c9f3cd2cc9827e9fdcea4da4a09665bc978b",
-      "bytes": 355678
+      "sha256": "3f80e3bf34512b8333e85e927e15424087d382b16be3cd714095deab9dce4251",
+      "bytes": 356604
     }
   ]
 }
