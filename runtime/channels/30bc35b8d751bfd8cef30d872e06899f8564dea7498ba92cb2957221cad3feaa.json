@@ -1441,8 +1441,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 126628,
-      "sha256": "dc916b281f8c62dce4350a77267b2f687766cba1f2d72d900914a61b63d295e7"
+      "sha256": "d24b5746e63f76a7b31ded0a2965ef2cf6e6143eb7d323e4a2be41d08be00ac6",
+      "bytes": 126622
     },
     {
       "path": "manifest.webmanifest",
@@ -1536,10 +1536,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "e2998e83ad8df0d2933a92af8dc65011e270b51f2b53f7f8bad76a9f9d9a7abb",
-      "bytes": 353435
+      "sha256": "d2c0d584eab394d47f7b3dabe07181126fd5a38d2873889ba5ce2c523146fe56",
+      "bytes": 354380
     }
   ],
-  "version": 132,
-  "label": "Floating Cards Over Battlefield"
+  "version": 133,
+  "label": "Compact Battle Controls"
 }
