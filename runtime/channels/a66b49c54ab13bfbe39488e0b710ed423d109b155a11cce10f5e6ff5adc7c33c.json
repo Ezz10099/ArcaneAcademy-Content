@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 151,
-  "label": "Six combatant classes",
+  "version": 152,
+  "label": "Distinct combatant abilities",
   "entry": "index.html",
   "files": [
     {
@@ -1638,13 +1638,13 @@
     },
     {
       "path": "src/game/data.js",
-      "bytes": 40225,
-      "sha256": "b2b56bda71e973c9830f8d89697b636378bb2487de55c4a44c979bc087dc6300"
+      "bytes": 40242,
+      "sha256": "997def3b82e8cfb8579467812f74afb2892f4170b135782e1eb4f182c1d8eb08"
     },
     {
       "path": "src/game/game.js",
-      "bytes": 76505,
-      "sha256": "63dcac61338b1d5670bbe5014c3d17b3255c4ee1f5c7a51baa55e2bd3b7596a3"
+      "bytes": 77229,
+      "sha256": "f5f254fa5afb2fca034333c4b1b3bc82f206d0cfff5dc5ae7c7506bc78a0c7ec"
     },
     {
       "path": "src/platform/content-updates.js",
