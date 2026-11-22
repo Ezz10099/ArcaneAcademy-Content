@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 147,
-  "label": "Unlock Basic and Advanced Recruit in Developer Mode",
+  "version": 148,
+  "label": "Fit Combatants and add horizontal picker",
   "entry": "index.html",
   "files": [
     {
@@ -1583,8 +1583,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 134312,
-      "sha256": "cfa95c3b1f25930da481923694eb66a006db2a98e90d76f35b1f9bf3a5336582"
+      "bytes": 134402,
+      "sha256": "091a6ed5914d6cc44226931a2bb55267096d9ce18cfef03281c378548396458a"
     },
     {
       "path": "manifest.webmanifest",
@@ -1678,8 +1678,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "1fa78e972fad3c0720996583780f2d31f871da8aafd99971a30e9456c7d814db",
-      "bytes": 358930
+      "sha256": "4489f4a705e0016e23eeac1b8bde819d722bfbe950e8cc5e5ec13c77a31cf00a",
+      "bytes": 359612
     }
   ]
 }
