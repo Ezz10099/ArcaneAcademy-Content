@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 149,
-  "label": "Show Recruit prices in Developer Mode",
+  "version": 150,
+  "label": "Restore combatant showcase portrait size",
   "entry": "index.html",
   "files": [
     {
@@ -1678,8 +1678,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "4489f4a705e0016e23eeac1b8bde819d722bfbe950e8cc5e5ec13c77a31cf00a",
-      "bytes": 359612
+      "sha256": "b11a05f12f9b84876f0ae21c75effe7cf402c754630448f06ed7a7882e923bb8",
+      "bytes": 359574
     }
   ]
 }
