@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 140,
-  "label": "Normal Battle Entrance Speed",
+  "version": 141,
+  "label": "Developer Mode",
   "entry": "index.html",
   "files": [
     {
@@ -1433,8 +1433,8 @@
     },
     {
       "path": "forest-gate-map.js",
-      "sha256": "d938b960dbfa726b60844bebbd1b21ccc76df32ccdef6d86a534dfc5b1676bf2",
-      "bytes": 7442
+      "bytes": 7644,
+      "sha256": "528b0650ed029897e76060034f79009a2841e602ac5283c42a05cca4b44aeb4d"
     },
     {
       "path": "index.html",
@@ -1443,8 +1443,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 129624,
-      "sha256": "f0fbc1efe0208536df1d9dc78aec2ff376fe872c1e4a35838141ddd0260416ed"
+      "bytes": 130983,
+      "sha256": "2469d52de29a5d08f2ba389305f0a6d3fb0db2b77f6429901e48c404d1c39b94"
     },
     {
       "path": "manifest.webmanifest",
@@ -1503,8 +1503,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "332a9d9596963326e0f96801aee2262f13963e498e53896c419c9ecc5af3fa23",
-      "bytes": 73266
+      "bytes": 73571,
+      "sha256": "cc1733c52bc8c9ac660b7ae225cf2466f0b95eb0becf596bc205d7ad8909b119"
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1518,8 +1518,8 @@
     },
     {
       "path": "src/platform/game-settings.js",
-      "sha256": "bfbb1a8eac95e6c1b716d9989cd4546e1b7453fb63b1a44fda4fbaa1748ebde7",
-      "bytes": 18050
+      "bytes": 19021,
+      "sha256": "63df8e9d22039ae1049499f6c8cf8e6538755e758d1812ca0580567a360850d3"
     },
     {
       "path": "src/platform/persistent-storage.js",
