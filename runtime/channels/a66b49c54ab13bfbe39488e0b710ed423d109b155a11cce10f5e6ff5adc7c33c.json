@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 141,
-  "label": "Developer Mode",
+  "version": 142,
+  "label": "Expanded Wild Forest Expeditions",
   "entry": "index.html",
   "files": [
     {
@@ -297,11 +297,6 @@
       "bytes": 384770
     },
     {
-      "path": "final-assets/audio/README.md",
-      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
-      "bytes": 3382
-    },
-    {
       "path": "final-assets/audio/academy.ogg",
       "sha256": "8b1fdc41b2dce217fc3d42dc8c5355ed26be1130f43f0748c2872d17f37e9470",
       "bytes": 850092
@@ -315,6 +310,11 @@
       "path": "final-assets/audio/expedition.ogg",
       "sha256": "b92f23c4b80ff9abc870c97ba29cc971e89d36457967d482a290e3406e0f60ce",
       "bytes": 423158
+    },
+    {
+      "path": "final-assets/audio/README.md",
+      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
+      "bytes": 3382
     },
     {
       "path": "final-assets/battle/atmosphere/amber-mote.webp",
@@ -917,6 +917,26 @@
       "bytes": 35394
     },
     {
+      "path": "final-assets/battle/enemies/location-roster/buried-seer.webp",
+      "sha256": "acbff2315992a82eee1684a186e240584c7f2bcc87fba2cb5979ea82e5186a8a",
+      "bytes": 57130
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/cursed-arcanist.webp",
+      "sha256": "7448391f7eaacdcdcc92ba0d3f0daf899273260b5e90b4a04b8f996f4638ba7d",
+      "bytes": 63220
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/cursed-heart-avatar.webp",
+      "sha256": "678d52f0fc8f59d2374f059899dbd0c56a3acaff9f39e9ead5a83c4300c80874",
+      "bytes": 58708
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/cursehorn-beast.webp",
+      "sha256": "f3cfadf2520fe30cdebf37a60bc91f6fbc57390ceefbcb697c81f810b2dca51b",
+      "bytes": 62824
+    },
+    {
       "path": "final-assets/battle/enemies/location-roster/den-keeper.webp",
       "sha256": "4a52f372615835e1816dc58ca3f623bddf8d768dd106a060505fd900cdf4377d",
       "bytes": 56626
@@ -927,6 +947,11 @@
       "bytes": 76838
     },
     {
+      "path": "final-assets/battle/enemies/location-roster/elder-rootseer.webp",
+      "sha256": "afba7dc7c141b203f5dd363369cf59a9600ca022a35eae57e867d547809bc87d",
+      "bytes": 73636
+    },
+    {
       "path": "final-assets/battle/enemies/location-roster/forest-wolf.webp",
       "sha256": "a470c8f5111399875874a96def5d3dedf69a5a618b8f885cee814b3b0ef1417f",
       "bytes": 35822
@@ -935,6 +960,21 @@
       "path": "final-assets/battle/enemies/location-roster/grove-wisp.webp",
       "sha256": "5b66aee97c45be0fe6d628debe82a30db1edc0a76ddce9196dd98c6973014795",
       "bytes": 19548
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/heartbound-guard.webp",
+      "sha256": "18ab8e8b8a4254b2c73e92482fe85875b7aa2b84d4c2d68eebbf3514263cee37",
+      "bytes": 77796
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/heartwood-tyrant.webp",
+      "sha256": "f499b5fc61acabbbf3ae2aabb524be7b294b8f03ec446c76286b36f68a7a5993",
+      "bytes": 120618
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/hollow-antler.webp",
+      "sha256": "12c7adb4b6c6da1c2d0075f977a2daa3092f080c78368b1d9501ac1b1bda96f2",
+      "bytes": 39596
     },
     {
       "path": "final-assets/battle/enemies/location-roster/moonfang-hunter.webp",
@@ -952,9 +992,49 @@
       "bytes": 121920
     },
     {
+      "path": "final-assets/battle/enemies/location-roster/root-crown-colossus.webp",
+      "sha256": "f286db650f498064fcebacaa31b44f026e72ba3fa4145c8ed21eb6684e92b08d",
+      "bytes": 118042
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/root-warden.webp",
+      "sha256": "1905594fa9d0173d1c7b67f986d63cf3282a0ce523c5aafd360bf37fd8da2a5c",
+      "bytes": 70950
+    },
+    {
       "path": "final-assets/battle/enemies/location-roster/rune-sprite.webp",
       "sha256": "b6f3e246365a51b513cd45eb39845ed4901c0eacb5e30feecd2cb9a791d3f25c",
       "bytes": 41754
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/thornbound-mage.webp",
+      "sha256": "aba71ef7733d27be24cac4a0d56a8a1d94327c41fa00a03642c604feccf07e63",
+      "bytes": 58790
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/umbral-keeper.webp",
+      "sha256": "e2d83fca8ddc3afb2c1fa3782c0963b2c0e854b7cd5cd8ca489eb5f8330680b5",
+      "bytes": 43476
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/violet-antler-lord.webp",
+      "sha256": "eecede3ae20cfb40d8c9edf35e7be926b6f09e6b05de8635d8ed6bbb3ce9302a",
+      "bytes": 67172
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/violet-sovereign.webp",
+      "sha256": "e8629922dd970f8ae0317d26819a522013d06da31ae4bc583fee0dd942666706",
+      "bytes": 129368
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/violet-stalker.webp",
+      "sha256": "d84faf7e30dcfbde85f105092d9d85784a9d2df812105afe68a62f8b932096a1",
+      "bytes": 44944
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/wild-magic-echo.webp",
+      "sha256": "875b8dfb053b3ae15be58025350aa22dadbd8da0863745377b2e9416c47f4cc0",
+      "bytes": 52926
     },
     {
       "path": "final-assets/battle/formation/courtyard-formation-tile.webp",
@@ -1007,6 +1087,16 @@
       "bytes": 72712
     },
     {
+      "path": "final-assets/expedition/location-backgrounds/ancient-roots-route.webp",
+      "sha256": "0e74e6d0f0e36e5ffc2e2461d8234f6d194ab7ead03161b1468ec59091ad8eb2",
+      "bytes": 275118
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/deeper-woods-route.webp",
+      "sha256": "a102b6853455fae04b9931031dc793506c54de39d82e1781735745fbd5aa692b",
+      "bytes": 260182
+    },
+    {
       "path": "final-assets/expedition/location-backgrounds/forest-gate-1-1.jpg",
       "sha256": "283d96be88894a58af0061257fb75dd2f161bceec6eef3115622ee14e98a161b",
       "bytes": 277795
@@ -1030,6 +1120,11 @@
       "path": "final-assets/expedition/location-backgrounds/forest-gate-route.webp",
       "sha256": "8e8d52b21691ea9417e3b39b2fa7078b0f66b8471ce1646dab53b63da0df8581",
       "bytes": 350644
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/heart-of-the-curse-route.webp",
+      "sha256": "a53d14de83a4724d7dbfe9e4481f8d9a84dcfae63707180bab51849f8d489295",
+      "bytes": 325056
     },
     {
       "path": "final-assets/expedition/location-backgrounds/sprite-grove-route.webp",
@@ -1122,6 +1217,21 @@
       "bytes": 31742
     },
     {
+      "path": "final-assets/expedition/stage-nodes/ancient-roots-waystone.webp",
+      "sha256": "1677a1dc102854281d3a4b0646d3d760dac59c1e011eae1f437b1928b5830bdb",
+      "bytes": 28578
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/deeper-woods-waystone.webp",
+      "sha256": "e0ea55cf1fa2a5eed8adfad05b243cf7cc7278baf1e168235c234752add5768e",
+      "bytes": 17978
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/heart-of-the-curse-waystone.webp",
+      "sha256": "116407fb5673b18d7635c7c94497384e32dc0399fbb8787b23ce756c78748c44",
+      "bytes": 20402
+    },
+    {
       "path": "final-assets/expedition/stage-nodes/sprite-grove-waystone.webp",
       "sha256": "141f588d1c364dede0657d64e7f01a46892953fbba4955d8a2a280c779e397c2",
       "bytes": 12690
@@ -1192,11 +1302,6 @@
       "bytes": 16128
     },
     {
-      "path": "final-assets/navigation/bottom-tabs/README.md",
-      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
-      "bytes": 1071
-    },
-    {
       "path": "final-assets/navigation/bottom-tabs/academy-tab.png",
       "sha256": "1bba8a315a811ffa28baf637fd586458584204449cfb45e4e6f0c435bd708899",
       "bytes": 77465
@@ -1215,6 +1320,11 @@
       "path": "final-assets/navigation/bottom-tabs/expedition-tab.png",
       "sha256": "1c9e700104923abceedf07e372db45ef0e89c80d0b50acd67d7378d4a5185aaa",
       "bytes": 74676
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/README.md",
+      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
+      "bytes": 1071
     },
     {
       "path": "final-assets/navigation/bottom-tabs/summon-tab.png",
@@ -1443,8 +1553,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 130983,
-      "sha256": "2469d52de29a5d08f2ba389305f0a6d3fb0db2b77f6429901e48c404d1c39b94"
+      "sha256": "030d51d8b36f982023f8e981501a909c9694db4a72fc350a069e6e4c78e6b451",
+      "bytes": 132748
     },
     {
       "path": "manifest.webmanifest",
@@ -1463,8 +1573,8 @@
     },
     {
       "path": "src/battle/location-battle-art.js",
-      "sha256": "7b32775c69aae7b20fea45cbb1a1ab70cebb3160b8662b7931431afb9c14943a",
-      "bytes": 1213
+      "sha256": "cb0469e965e4ce9d9664a5306b47cf95d84d447bcddef9dcc0533eca9d654de8",
+      "bytes": 2333
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
@@ -1498,13 +1608,13 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "aac04f95f32bbdda70857f7858f93f2be7bfd11964a0a9f20624adb553c6dc5f",
-      "bytes": 38154
+      "sha256": "33799efacbfcf54c78a4e351e46ba9e7156caebda1636ceb68140722a9622019",
+      "bytes": 39081
     },
     {
       "path": "src/game/game.js",
-      "bytes": 73571,
-      "sha256": "cc1733c52bc8c9ac660b7ae225cf2466f0b95eb0becf596bc205d7ad8909b119"
+      "sha256": "7344f83fabbfbcc68d9938d00338aa69fb69a4c212448f4dba228df2b5e84670",
+      "bytes": 74258
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1527,19 +1637,19 @@
       "bytes": 6352
     },
     {
-      "path": "src/vendor/PHASER-LICENSE.txt",
-      "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
-      "bytes": 1100
-    },
-    {
       "path": "src/vendor/phaser-4.2.1.min.js",
       "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
       "bytes": 1375976
     },
     {
+      "path": "src/vendor/PHASER-LICENSE.txt",
+      "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
+      "bytes": 1100
+    },
+    {
       "path": "style.css",
-      "bytes": 358376,
-      "sha256": "cf16a8e346e220e112b0a145a67d035b2f4b9fad1d0a818861c9767b8293d4bc"
+      "sha256": "1fa78e972fad3c0720996583780f2d31f871da8aafd99971a30e9456c7d814db",
+      "bytes": 358930
     }
   ]
 }
