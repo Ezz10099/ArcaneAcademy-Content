@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 133,
-  "label": "Compact Battle Controls",
+  "version": 134,
+  "label": "Full-Screen Formation Art",
   "entry": "index.html",
   "files": [
     {
@@ -1443,8 +1443,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "d24b5746e63f76a7b31ded0a2965ef2cf6e6143eb7d323e4a2be41d08be00ac6",
-      "bytes": 126622
+      "sha256": "d3f0c25dd3efe3512d1ee37d72177a8c16f051314205cfde6090f61baf0cc66f",
+      "bytes": 126745
     },
     {
       "path": "manifest.webmanifest",
@@ -1538,8 +1538,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "d2c0d584eab394d47f7b3dabe07181126fd5a38d2873889ba5ce2c523146fe56",
-      "bytes": 354380
+      "sha256": "d7467eafe5944fdaa5084d0ca2c9c9f3cd2cc9827e9fdcea4da4a09665bc978b",
+      "bytes": 355678
     }
   ]
 }
