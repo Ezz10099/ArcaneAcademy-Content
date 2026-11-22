@@ -1636,13 +1636,13 @@
     },
     {
       "path": "src/game/data.js",
-      "bytes": 40227,
-      "sha256": "84999f3b1792708ebc454596b370d27317da1260ed2cdc519396482124abc12f"
+      "bytes": 40225,
+      "sha256": "b2b56bda71e973c9830f8d89697b636378bb2487de55c4a44c979bc087dc6300"
     },
     {
       "path": "src/game/game.js",
-      "bytes": 76451,
-      "sha256": "49b1a399266e993b83b7b0c3b1041533c866e60fc71b3856446fdc47652dae70"
+      "bytes": 76505,
+      "sha256": "63dcac61338b1d5670bbe5014c3d17b3255c4ee1f5c7a51baa55e2bd3b7596a3"
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1680,6 +1680,6 @@
       "bytes": 359574
     }
   ],
-  "version": 150,
-  "label": "Restore combatant showcase portrait size"
+  "version": 151,
+  "label": "Six combatant classes"
 }
