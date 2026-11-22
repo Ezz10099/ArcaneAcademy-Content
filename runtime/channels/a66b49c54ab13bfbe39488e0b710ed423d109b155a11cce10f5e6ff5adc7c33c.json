@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 130,
-  "label": "Ultimate Ready Glow",
+  "version": 131,
+  "label": "Full-Screen Battle Art",
   "entry": "index.html",
   "files": [
     {
@@ -1443,8 +1443,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 126453,
-      "sha256": "7ed89b63a5bb98cd381d795cab8b4dc179247ded79b1fd803c774393b008a714"
+      "bytes": 126628,
+      "sha256": "dc916b281f8c62dce4350a77267b2f687766cba1f2d72d900914a61b63d295e7"
     },
     {
       "path": "manifest.webmanifest",
@@ -1538,8 +1538,8 @@
     },
     {
       "path": "style.css",
-      "bytes": 352185,
-      "sha256": "5e0d20726e2ac9ba89d3a33441ab49de94cb0ce3a39ecc7b78128dcd672b1b5d"
+      "bytes": 353460,
+      "sha256": "3628c0411e5f484a59be6444a1390a7de61d0266bc2693ea45131e11c055869d"
     }
   ]
 }
