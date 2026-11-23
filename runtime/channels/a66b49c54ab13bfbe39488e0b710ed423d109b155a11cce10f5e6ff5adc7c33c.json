@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 169,
-  "label": "Sera terrace walk pilot",
+  "version": 170,
+  "label": "Restore previous Sera walk",
   "entry": "index.html",
   "files": [
     {
@@ -70,11 +70,6 @@
       "path": "final-assets/academy/moonlit-campus.webp",
       "sha256": "155e69ff05f7fc090918bff082adaa46f04cfa851c5d484e0df81f6d089a71a7",
       "bytes": 318616
-    },
-    {
-      "path": "final-assets/academy/sera-terrace-walk.webp",
-      "sha256": "d09c9246267e89f54856e1cb0d73a7651b46d386cb1c5f1d0fa8551cd8766ec1",
-      "bytes": 27990
     },
     {
       "path": "final-assets/academy/sera-walk.webp",
@@ -1618,8 +1613,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "7621782e8026df5f4423537ae32b62046d415d2e30e3f664aee615c67b9661c1",
-      "bytes": 150736
+      "bytes": 148159,
+      "sha256": "533de5213ef5ace24edd4a04894d0ab57c1444631a256ac107d08f21b15fcf86"
     },
     {
       "path": "manifest.webmanifest",
@@ -1713,8 +1708,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "7166a654065df916f35bc7006984c678747242e7a0123ba4f50d32b55aa7518a",
-      "bytes": 366841
+      "sha256": "9b04999ac6204c5535b5391964ad21e20a9998f9d1aec2eed54fdc1656279545",
+      "bytes": 366957
     }
   ]
 }
