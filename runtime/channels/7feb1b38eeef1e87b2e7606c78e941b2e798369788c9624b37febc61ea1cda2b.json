@@ -1706,10 +1706,10 @@
     },
     {
       "path": "style.css",
-      "bytes": 364371,
-      "sha256": "58e2978b0705e39a717ff8bd082838e0eed9c272173eee89a58f326cc5493549"
+      "sha256": "832489c9c3cb38277faaebec1b9fbc7d8fb96027c8e7dff602ac2b80ca57294e",
+      "bytes": 366399
     }
   ],
-  "version": 166,
-  "label": "Illustrated Recruitment Hall"
+  "version": 167,
+  "label": "Academy campus sprite scale fix"
 }
