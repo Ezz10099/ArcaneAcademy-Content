@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 167,
-  "label": "Academy campus sprite scale fix",
+  "version": 168,
+  "label": "Campus walking weight shift",
   "entry": "index.html",
   "files": [
     {
@@ -1708,8 +1708,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "832489c9c3cb38277faaebec1b9fbc7d8fb96027c8e7dff602ac2b80ca57294e",
-      "bytes": 366399
+      "sha256": "9b04999ac6204c5535b5391964ad21e20a9998f9d1aec2eed54fdc1656279545",
+      "bytes": 366957
     }
   ]
 }
