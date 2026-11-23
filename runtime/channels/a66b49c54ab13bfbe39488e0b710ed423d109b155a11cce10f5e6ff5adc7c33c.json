@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 164,
-  "label": "Natural campus walks and purposeful routes",
+  "version": 165,
+  "label": "Training Grounds ability practice",
   "entry": "index.html",
   "files": [
     {
@@ -80,6 +80,11 @@
       "path": "final-assets/academy/status-crest.webp",
       "sha256": "c17244c27592a5655e06f093035f9fe73b38e02534f550e4096992144607beff",
       "bytes": 25768
+    },
+    {
+      "path": "final-assets/academy/training-grounds.webp",
+      "sha256": "f820fd84295cadda38a5137ec352b6b921bba3e85f6344f44fd1f11cb664e2f6",
+      "bytes": 221136
     },
     {
       "path": "final-assets/archive/aether-drake.webp",
@@ -1598,8 +1603,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 140512,
-      "sha256": "b4c8563b1a3f45571b902bc6b07ea67a43328764817855fa4ad66edec4cc5ae4"
+      "bytes": 148041,
+      "sha256": "e090a9dd155fc48a769bf3d62bcfeecb094fd1f99cbfbc39e68677403c1f7fa6"
     },
     {
       "path": "manifest.webmanifest",
@@ -1693,8 +1698,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "99241ca06a2009a5c76685e689d285996d02d15c993b139e693fd9fe0d9beeb7",
-      "bytes": 361029
+      "sha256": "bc6b76bd5198cfc5f6b34edacd21429ee966866fe4dae4475bd737760363cdf6",
+      "bytes": 364132
     }
   ]
 }
