@@ -55,6 +55,11 @@
       "bytes": 3278
     },
     {
+      "path": "final-assets/academy/dusk-walk.webp",
+      "sha256": "560f2b3c06d5321eabbd1046c97642147e6dcf67b79d34fd11e5cb7afd0eb7ba",
+      "bytes": 12968
+    },
+    {
       "path": "final-assets/academy/hall-crown.webp",
       "sha256": "8a31baed1fab15ed4f54a7c7a64e95e519dba511ae3f2c9755e0862cf30c82f1",
       "bytes": 3612
@@ -63,6 +68,11 @@
       "path": "final-assets/academy/moonlit-campus.webp",
       "sha256": "155e69ff05f7fc090918bff082adaa46f04cfa851c5d484e0df81f6d089a71a7",
       "bytes": 318616
+    },
+    {
+      "path": "final-assets/academy/sera-walk.webp",
+      "sha256": "2e6da628c475577c07967e5d37e152fba81f73e0ce1701d9f3936999787b78e0",
+      "bytes": 15092
     },
     {
       "path": "final-assets/academy/status-crest.webp",
@@ -1586,8 +1596,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 140498,
-      "sha256": "3d45cb97d44e16b056cb6c5bab759b6b74421f342994decc4e33ef9396f0ec5e"
+      "bytes": 140512,
+      "sha256": "b4c8563b1a3f45571b902bc6b07ea67a43328764817855fa4ad66edec4cc5ae4"
     },
     {
       "path": "manifest.webmanifest",
@@ -1681,10 +1691,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "c891b5bcfee8d651b2836cbf95808bf54b67c40af847ac5a4f4a50af4879c334",
-      "bytes": 361897
+      "sha256": "99241ca06a2009a5c76685e689d285996d02d15c993b139e693fd9fe0d9beeb7",
+      "bytes": 361029
     }
   ],
-  "version": 163,
-  "label": "Academy day and night cycle"
+  "version": 164,
+  "label": "Natural campus walks and purposeful routes"
 }
