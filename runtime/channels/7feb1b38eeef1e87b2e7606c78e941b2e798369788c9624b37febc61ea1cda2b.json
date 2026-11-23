@@ -1586,8 +1586,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 139216,
-      "sha256": "df3fa2e1095a92b0ffc8e2e4f0ccb59d55ba117cabcc280f0bed4cffcd57b9a5"
+      "bytes": 140498,
+      "sha256": "3d45cb97d44e16b056cb6c5bab759b6b74421f342994decc4e33ef9396f0ec5e"
     },
     {
       "path": "manifest.webmanifest",
@@ -1681,10 +1681,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "28d14305720cf77efe1bb741c94196834f14dae1e8708a1b913209505a1a5441",
-      "bytes": 361034
+      "sha256": "c891b5bcfee8d651b2836cbf95808bf54b67c40af847ac5a4f4a50af4879c334",
+      "bytes": 361897
     }
   ],
-  "version": 162,
-  "label": "Daytime Academy and trainee activity"
+  "version": 163,
+  "label": "Academy day and night cycle"
 }
