@@ -70,6 +70,11 @@
       "bytes": 318616
     },
     {
+      "path": "final-assets/academy/sera-cutout.webp",
+      "bytes": 11096,
+      "sha256": "1d05c38d1cbe990d061e394c5f551dc667c25fdda7a0845ab272942fa71f0e3a"
+    },
+    {
       "path": "final-assets/academy/sera-walk.webp",
       "sha256": "2e6da628c475577c07967e5d37e152fba81f73e0ce1701d9f3936999787b78e0",
       "bytes": 15092
@@ -1611,8 +1616,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 148159,
-      "sha256": "533de5213ef5ace24edd4a04894d0ab57c1444631a256ac107d08f21b15fcf86"
+      "bytes": 148444,
+      "sha256": "7df97db0bbc48cfe0ddfc8d352b521a855bbf615c7813434bfd8505acf4b64ce"
     },
     {
       "path": "manifest.webmanifest",
@@ -1628,6 +1633,16 @@
       "path": "shared-upper-hud.js",
       "sha256": "8b21579376c7ebbd4eefbf082b69d492360f92dc01be5004563c75ccac0dbc51",
       "bytes": 3337
+    },
+    {
+      "path": "src/animation/campus-walker.js",
+      "bytes": 4747,
+      "sha256": "07142759a5eb03b2cd227a029df57936c0f55464f1e2554a3cc5298fec323868"
+    },
+    {
+      "path": "src/animation/cutout-rig.js",
+      "bytes": 5101,
+      "sha256": "cf47204ba0be5397be46062d935d3739b5b91cd55d972d6fb0efc67ff9472d10"
     },
     {
       "path": "src/battle/location-battle-art.js",
@@ -1706,10 +1721,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "9b04999ac6204c5535b5391964ad21e20a9998f9d1aec2eed54fdc1656279545",
-      "bytes": 366957
+      "bytes": 367271,
+      "sha256": "053df756b2ff1fa08f7fe1a603214f50e432914a47c3592d69ca3728ab162d41"
     }
   ],
-  "version": 170,
-  "label": "Restore previous Sera walk"
+  "version": 171,
+  "label": "Sera cutout walk and run"
 }
