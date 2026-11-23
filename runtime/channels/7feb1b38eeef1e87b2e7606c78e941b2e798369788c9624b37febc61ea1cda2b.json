@@ -1581,8 +1581,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 136896,
-      "sha256": "2426876040641c59433040e7478d8a6e101971fa35cc49b3bdcbd70068b34376"
+      "bytes": 139201,
+      "sha256": "6525cf33db6cec3903bbc87e861725bc38521136cf13458af537e46074d9135b"
     },
     {
       "path": "manifest.webmanifest",
@@ -1676,10 +1676,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "5e07ef8a6e1fb9a678d10d061c7e8c23192c9b896995eed5a81007df07409676",
-      "bytes": 356236
+      "sha256": "9537080dbd85a271e6dc82b891338fc78baaf5512f7343f007085215fd29634a",
+      "bytes": 357881
     }
   ],
-  "version": 160,
-  "label": "Swipe across the Academy campus"
+  "version": 161,
+  "label": "Animated Academy campus"
 }
