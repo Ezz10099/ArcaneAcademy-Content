@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 159,
-  "label": "Combatants roster extends to navigation",
+  "version": 160,
+  "label": "Swipe across the Academy campus",
   "entry": "index.html",
   "files": [
     {
@@ -1583,8 +1583,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 139249,
-      "sha256": "c52732cf33fea62b3173bcc662fec63dde35e4744a790523bdda22c9318338e8"
+      "bytes": 136896,
+      "sha256": "2426876040641c59433040e7478d8a6e101971fa35cc49b3bdcbd70068b34376"
     },
     {
       "path": "manifest.webmanifest",
@@ -1678,8 +1678,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "f18b445063dff57aa4e5edfc8fd54dd93a9526d54094181aff21755dd4fd3c6b",
-      "bytes": 359470
+      "sha256": "5e07ef8a6e1fb9a678d10d061c7e8c23192c9b896995eed5a81007df07409676",
+      "bytes": 356236
     }
   ]
 }
