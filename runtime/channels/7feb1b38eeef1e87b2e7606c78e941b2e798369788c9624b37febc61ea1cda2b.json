@@ -1100,6 +1100,11 @@
       "bytes": 14602
     },
     {
+      "path": "final-assets/battle/rigs/cinder-vale/cinder-locomotion.webp",
+      "sha256": "79ce5b307ccdcd23660e6f77429428aaf3793df98da2547966391684b5339ece",
+      "bytes": 157662
+    },
+    {
       "path": "final-assets/battle/rigs/cinder-vale/front_arm.webp",
       "sha256": "663498d82c33b16de01e8f8db6fad528979d373f73bc206da28f40eb439f1c7b",
       "bytes": 11026
@@ -1651,8 +1656,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "bytes": 113737,
-      "sha256": "60516bd3aab3ce8caf48e8159d12b85bec499f6ed189ec2dd5a16bd5e3a7ab4e"
+      "sha256": "e262fdd9e492c43b4a466ab9370149f4ba833bb1da7b3cea4d5fbd060127446c",
+      "bytes": 114813
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1663,6 +1668,11 @@
       "path": "src/battle/vfx/CharacterRig.js",
       "sha256": "0575e22d47065da729d8ee0208d2a09e2fb23f4e0ddd613391010fcfb99647f4",
       "bytes": 2401
+    },
+    {
+      "path": "src/battle/vfx/CinderLocomotion.js",
+      "sha256": "65c4760f618ae084750062227bb1057598706cf0c29c1b29d410765b538571c3",
+      "bytes": 8682
     },
     {
       "path": "src/battle/vfx/MeleeRun.js",
@@ -1701,8 +1711,8 @@
     },
     {
       "path": "src/platform/game-settings.js",
-      "sha256": "7d9d82f091fc8d5a554f63f4c80b1f4d283d43d036c48206b5b2f623beb936e1",
-      "bytes": 19091
+      "sha256": "fdac18d2e3e60499ee66b5af784e80c3204370310b79453d4cd2da6dc6d5da54",
+      "bytes": 19866
     },
     {
       "path": "src/platform/persistent-storage.js",
@@ -1725,6 +1735,6 @@
       "sha256": "053df756b2ff1fa08f7fe1a603214f50e432914a47c3592d69ca3728ab162d41"
     }
   ],
-  "version": 171,
-  "label": "Sera cutout walk and run"
+  "version": 172,
+  "label": "Cinder Vale animation test"
 }
