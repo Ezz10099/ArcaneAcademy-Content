@@ -1581,8 +1581,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 135329,
-      "sha256": "c2fa9c600bd5a58aa0bd217bf9c8989d5230bae59dac9a4f783ad602179b7e85"
+      "bytes": 139403,
+      "sha256": "5779063bdc17f63890228e18eb2f44a62fb874d9709888db1302d5febe6624f9"
     },
     {
       "path": "manifest.webmanifest",
@@ -1641,8 +1641,8 @@
     },
     {
       "path": "src/game/game.js",
-      "bytes": 81704,
-      "sha256": "38cc86746969ea571cc6e5ce57b86a8dd9f22b458f5ae0b32b1523a507a88047"
+      "bytes": 81485,
+      "sha256": "b4246d78bd593e5eddd7ebe6cbc6283a7c4981a4c8d5cdc6b9bc7b6545c9fd48"
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1676,10 +1676,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "b11a05f12f9b84876f0ae21c75effe7cf402c754630448f06ed7a7882e923bb8",
-      "bytes": 359574
+      "sha256": "f76e66190f3dcbea381878030b007d6dda72e134a35b1bd1ec48cedac635cb33",
+      "bytes": 360035
     }
   ],
-  "version": 156,
-  "label": "Power for every star slot"
+  "version": 157,
+  "label": "Combatants screen and Lesson Scrolls"
 }
