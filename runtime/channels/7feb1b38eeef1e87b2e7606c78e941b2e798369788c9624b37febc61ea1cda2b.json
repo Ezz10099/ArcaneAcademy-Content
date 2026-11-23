@@ -1390,6 +1390,16 @@
       "bytes": 583
     },
     {
+      "path": "final-assets/summon/recruitment-divider.webp",
+      "bytes": 14050,
+      "sha256": "8f0b5b13c2ee67c2be0f45a4e62a034cf041de24f62a202fd540e8fe6e6cb31d"
+    },
+    {
+      "path": "final-assets/summon/recruitment-hall.webp",
+      "bytes": 123290,
+      "sha256": "b9744030dc50d5007437f6993d79c20f532b09128868f617f818190efd6bf0cf"
+    },
+    {
       "path": "final-assets/summon/ritual-chamber.svg",
       "sha256": "289e00e9c6c90f9b86113bd13b673fa12815b2e8d575594406d8d793bc79eca8",
       "bytes": 4375
@@ -1601,8 +1611,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 148041,
-      "sha256": "e090a9dd155fc48a769bf3d62bcfeecb094fd1f99cbfbc39e68677403c1f7fa6"
+      "bytes": 148159,
+      "sha256": "533de5213ef5ace24edd4a04894d0ab57c1444631a256ac107d08f21b15fcf86"
     },
     {
       "path": "manifest.webmanifest",
@@ -1696,10 +1706,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "bc6b76bd5198cfc5f6b34edacd21429ee966866fe4dae4475bd737760363cdf6",
-      "bytes": 364132
+      "bytes": 364371,
+      "sha256": "58e2978b0705e39a717ff8bd082838e0eed9c272173eee89a58f326cc5493549"
     }
   ],
-  "version": 165,
-  "label": "Training Grounds ability practice"
+  "version": 166,
+  "label": "Illustrated Recruitment Hall"
 }
