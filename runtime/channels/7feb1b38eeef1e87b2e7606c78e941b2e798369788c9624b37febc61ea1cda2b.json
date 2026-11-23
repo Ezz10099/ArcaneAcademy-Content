@@ -45,6 +45,11 @@
       "bytes": 3018
     },
     {
+      "path": "final-assets/academy/daylight-campus.webp",
+      "sha256": "3c07a05fe2af50f47679d60a53abed2523fb6fb71945b1acf983f09ad0edaf1b",
+      "bytes": 410584
+    },
+    {
       "path": "final-assets/academy/dormitory-bed.webp",
       "sha256": "012dfe3041c8a911891d67a07a3ed9e87ac1d1287b65e855dc0f032d1a69ea13",
       "bytes": 3278
@@ -1581,8 +1586,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 139201,
-      "sha256": "6525cf33db6cec3903bbc87e861725bc38521136cf13458af537e46074d9135b"
+      "bytes": 139216,
+      "sha256": "df3fa2e1095a92b0ffc8e2e4f0ccb59d55ba117cabcc280f0bed4cffcd57b9a5"
     },
     {
       "path": "manifest.webmanifest",
@@ -1676,10 +1681,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "9537080dbd85a271e6dc82b891338fc78baaf5512f7343f007085215fd29634a",
-      "bytes": 357881
+      "sha256": "28d14305720cf77efe1bb741c94196834f14dae1e8708a1b913209505a1a5441",
+      "bytes": 361034
     }
   ],
-  "version": 161,
-  "label": "Animated Academy campus"
+  "version": 162,
+  "label": "Daytime Academy and trainee activity"
 }
