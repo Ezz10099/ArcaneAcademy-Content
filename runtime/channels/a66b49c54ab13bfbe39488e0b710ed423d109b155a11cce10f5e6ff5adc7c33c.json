@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 158,
-  "label": "More room for the Combatants roster",
+  "version": 159,
+  "label": "Combatants roster extends to navigation",
   "entry": "index.html",
   "files": [
     {
@@ -1678,8 +1678,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "f86861498fcf2b7a2ab42f66c45ffd6c3865a19a33a452949bca3a8a6568049d",
-      "bytes": 359506
+      "sha256": "f18b445063dff57aa4e5edfc8fd54dd93a9526d54094181aff21755dd4fd3c6b",
+      "bytes": 359470
     }
   ]
 }
