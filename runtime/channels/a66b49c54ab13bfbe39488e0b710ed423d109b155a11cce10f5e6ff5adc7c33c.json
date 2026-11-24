@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 187,
-  "label": "Organized formation roster and lowered battlefield",
+  "version": 188,
+  "label": "Cinder stairs and pivot pose atlas",
   "entry": "index.html",
   "files": [
     {
@@ -60,6 +60,11 @@
       "path": "final-assets/academy/cinder-motion-v3.webp",
       "bytes": 291440,
       "sha256": "edc0bf9677ee44c4126e4810bb0a0854e48e1008204599a23926c152e084f322"
+    },
+    {
+      "path": "final-assets/academy/cinder-special-motion.webp",
+      "bytes": 436150,
+      "sha256": "bd9903d98d95141bba7fab1a8a809cd413a2ddd714ae6a476954b3b32cced8d8"
     },
     {
       "path": "final-assets/academy/cinder-walk.webp",
@@ -1793,8 +1798,8 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 19996,
-      "sha256": "3a8c12bea639608a7525ac23800a5420406fa85361ce452d4c148f41cc62c6e5"
+      "bytes": 20598,
+      "sha256": "14cdacced67b55526a8f83056e4027ce93d11bd9760b2360c0d19ef11617e095"
     },
     {
       "path": "src/animation/cinder-frames.js",
