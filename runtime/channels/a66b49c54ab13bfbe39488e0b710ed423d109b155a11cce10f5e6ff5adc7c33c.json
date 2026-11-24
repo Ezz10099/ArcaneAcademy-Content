@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 183,
-  "label": "Campus gait, continuity and depth correction",
+  "version": 184,
+  "label": "Approved combatant rarity frames",
   "entry": "index.html",
   "files": [
     {
@@ -1462,6 +1462,106 @@
       "bytes": 6404
     },
     {
+      "path": "final-assets/trainees/approved-rarity-frames/common-battle-mask.webp",
+      "sha256": "8762e3aa47646affc7abb69cbc390b00c453520cbc126f83d86b623ade1528a9",
+      "bytes": 940
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/common-battle.webp",
+      "sha256": "f53eb9b59f6e83d11fcfa3b8ee1e7b79bbc064be560c3bde6cc8326b9d6196bd",
+      "bytes": 18082
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/common-roster-mask.webp",
+      "sha256": "d4a41f5978923fb4c6223faf253bdf756312da3ac8a5b8c011acf578af4354b7",
+      "bytes": 810
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/common-roster.webp",
+      "sha256": "bb8d66b3381ab191ce6e23f4fe0bc35c05edf320d03871c94541dc54a78b011a",
+      "bytes": 15774
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/epic-battle-mask.webp",
+      "sha256": "c477c26e122af6fdd67996246b70864a3546264a6c11444858ea62dadf71ff77",
+      "bytes": 1368
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/epic-battle.webp",
+      "sha256": "363bead1b2b0358307ea409ea78b1d1a5c4e8e17df41d2f5a4cb772b55f0f6df",
+      "bytes": 32878
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/epic-roster-mask.webp",
+      "sha256": "64790c3303af5d66c429eb4cbd3a171ebc870a0d5b93356c617218894ef1e7ac",
+      "bytes": 1242
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/epic-roster.webp",
+      "sha256": "4486d7d595755168dced461fa5ebfbfb4d555c699cb1ec296524c4ce5a5dc8ec",
+      "bytes": 28372
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/legendary-battle-mask.webp",
+      "sha256": "1b17e4a1d5c0dd0d633c5fcc6c6bad29b965c58aa86a6508ba0f03314b57b998",
+      "bytes": 1964
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/legendary-battle.webp",
+      "sha256": "71c447f92545e1e37289edf8044f08abda54335e6756a135ec0a8a30a4cd1939",
+      "bytes": 45268
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/legendary-roster-mask.webp",
+      "sha256": "7be29dcc6d07bdb8768958dcc715d29408438784f0de3cdb955d8e13fea4ea95",
+      "bytes": 1692
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/legendary-roster.webp",
+      "sha256": "f5d55f7d273d5ae46eeb14002d335a486dd690e87200522e1a1ff0f5db89a3ce",
+      "bytes": 37824
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/rare-battle-mask.webp",
+      "sha256": "b50b099dcc387cf211aa00e9ef0897b92e42fb1bdbc60e2560d31c09ca9d3425",
+      "bytes": 998
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/rare-battle.webp",
+      "sha256": "d35fd2daea0cec83fd90a2c2e4bff00fdb9b76bc5df2c09306e064e695b668b6",
+      "bytes": 28588
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/rare-roster-mask.webp",
+      "sha256": "bfd62aa07977776d0696c7d3abad6605f6952e240cca40be689aaaac49122793",
+      "bytes": 828
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/rare-roster.webp",
+      "sha256": "42420ffa2f7d9505b9e92f976f8094476d5f73024a205ef7a5198d4a898690f8",
+      "bytes": 23550
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/uncommon-battle-mask.webp",
+      "sha256": "119cae6bc6cfff102ba3bf995b2c94addd825c16e6e105f07f37d290b464538a",
+      "bytes": 828
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/uncommon-battle.webp",
+      "sha256": "402b23599395a6683327cb47b0b8dcb0044630fd5cb8deaa9340f9bf48eb79c0",
+      "bytes": 23218
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/uncommon-roster-mask.webp",
+      "sha256": "bf3f2a53076bda21b5659ed30fb7c1cc6e8d0e64564994a00db636f0d150c5ad",
+      "bytes": 758
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/uncommon-roster.webp",
+      "sha256": "4ad60b8fc2e9d4dc0d348a4854b81b42bd40fb5d23fe962548526c897da8390a",
+      "bytes": 20220
+    },
+    {
       "path": "final-assets/trainees/cinder-vale-card.webp",
       "sha256": "cc12e8b0bba9e84ffd018632cacfc23efb54ace50c6ec6a89c0d57c23336bc2f",
       "bytes": 20248
@@ -1668,8 +1768,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "00f242fbe5e2d21e379f9b376f03e3e6b3ca4a7e22f414934722e71b791ed2bb",
-      "bytes": 148681
+      "sha256": "5049949ed1ffcd8aeb9cdd9d6ef4d1ec68902a6f91e4f50883e5f9242462ac2c",
+      "bytes": 148776
     },
     {
       "path": "manifest.webmanifest",
@@ -1743,8 +1843,8 @@
     },
     {
       "path": "src/game/game.js",
-      "bytes": 85557,
-      "sha256": "7e3c326058a1efb7334987d123e7db13b876a3a66dd73c9933bf0250bf15248a"
+      "sha256": "fc6079290bcc85cc0aac8c919ed9ff2e9ea98d8e5dd22163ec74363883749a15",
+      "bytes": 85611
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1778,8 +1878,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "df728d82dda5f9c5053ddfb25b07811cb29361fe273675b77805fa4d5a1984d8",
-      "bytes": 379740
+      "sha256": "8f2d19aec3a1fa18c89c637ad2398d6d3ce638009fb74dd5c0333fa1dd97c102",
+      "bytes": 384204
     }
   ]
 }
