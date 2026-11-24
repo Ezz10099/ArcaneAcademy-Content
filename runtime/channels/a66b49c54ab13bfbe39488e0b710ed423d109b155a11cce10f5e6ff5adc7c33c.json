@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 175,
-  "label": "Restore the Combatants screen",
+  "version": 176,
+  "label": "Campus-wide Cinder navigation",
   "entry": "index.html",
   "files": [
     {
@@ -1648,8 +1648,8 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 3644,
-      "sha256": "318485e5fe7e5bc488761ad3b2f7377345fe2d19bc78c8e3faf4ddf3348f38c3"
+      "bytes": 12005,
+      "sha256": "3556c43a2b87ad9244362f6cfbdd06097e5fdfa281f232cab387e1c3934ce0a0"
     },
     {
       "path": "src/animation/cinder-frames.js",
