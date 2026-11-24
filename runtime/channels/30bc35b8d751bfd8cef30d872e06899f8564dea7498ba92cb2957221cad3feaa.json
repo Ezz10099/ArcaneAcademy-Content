@@ -1796,8 +1796,8 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 20598,
-      "sha256": "14cdacced67b55526a8f83056e4027ce93d11bd9760b2360c0d19ef11617e095"
+      "bytes": 21197,
+      "sha256": "03187065065b0384518f35988bacc33722296ef548752d9e934153deab2e268c"
     },
     {
       "path": "src/animation/cinder-frames.js",
@@ -1890,6 +1890,6 @@
       "bytes": 392159
     }
   ],
-  "version": 192,
-  "label": "Restore Academy movement rendering"
+  "version": 193,
+  "label": "Refined western Academy paths"
 }
