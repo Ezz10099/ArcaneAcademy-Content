@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 176,
-  "label": "Campus-wide Cinder navigation",
+  "version": 177,
+  "label": "Expandable Academy notifications",
   "entry": "index.html",
   "files": [
     {
@@ -1718,8 +1718,8 @@
     },
     {
       "path": "src/platform/game-settings.js",
-      "bytes": 19091,
-      "sha256": "7d9d82f091fc8d5a554f63f4c80b1f4d283d43d036c48206b5b2f623beb936e1"
+      "bytes": 19749,
+      "sha256": "66c5aeaaeeaf0c736121617b86d0f57e4b98b374b0576888c7e9b2b3d38b4d53"
     },
     {
       "path": "src/platform/persistent-storage.js",
