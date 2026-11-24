@@ -45,6 +45,11 @@
       "bytes": 3018
     },
     {
+      "path": "final-assets/academy/cinder-walk.webp",
+      "bytes": 122804,
+      "sha256": "c7ac8da5ce5e581431167790c74b391929c48ca91fb34fbfdedf22e18a5e12a2"
+    },
+    {
       "path": "final-assets/academy/daylight-campus.webp",
       "sha256": "3c07a05fe2af50f47679d60a53abed2523fb6fb71945b1acf983f09ad0edaf1b",
       "bytes": 410584
@@ -1100,9 +1105,9 @@
       "bytes": 14602
     },
     {
-      "path": "final-assets/battle/rigs/cinder-vale/cinder-locomotion.webp",
-      "sha256": "79ce5b307ccdcd23660e6f77429428aaf3793df98da2547966391684b5339ece",
-      "bytes": 157662
+      "path": "final-assets/battle/rigs/cinder-vale/cinder-actions.webp",
+      "bytes": 488414,
+      "sha256": "467f4345db79ca99674bc64cc8ab5275c2bb4bf9361d4d479b5d7e4fce9b9e81"
     },
     {
       "path": "final-assets/battle/rigs/cinder-vale/front_arm.webp",
@@ -1621,8 +1626,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 148444,
-      "sha256": "7df97db0bbc48cfe0ddfc8d352b521a855bbf615c7813434bfd8505acf4b64ce"
+      "bytes": 148029,
+      "sha256": "7b14ab060d30dd43854cd8afa404c33fa6a4c892ce924847f6a9e966f5568193"
     },
     {
       "path": "manifest.webmanifest",
@@ -1641,8 +1646,13 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 4747,
-      "sha256": "07142759a5eb03b2cd227a029df57936c0f55464f1e2554a3cc5298fec323868"
+      "bytes": 3644,
+      "sha256": "318485e5fe7e5bc488761ad3b2f7377345fe2d19bc78c8e3faf4ddf3348f38c3"
+    },
+    {
+      "path": "src/animation/cinder-frames.js",
+      "bytes": 942,
+      "sha256": "fcce5b0d02511785590926509efbf6665f302be0cda29cf02655ff1bc33fab48"
     },
     {
       "path": "src/animation/cutout-rig.js",
@@ -1656,8 +1666,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "e262fdd9e492c43b4a466ab9370149f4ba833bb1da7b3cea4d5fbd060127446c",
-      "bytes": 114813
+      "bytes": 117060,
+      "sha256": "50608511c99de54f8d146b45818447c578a9ab5a8631f101603e76cfe09ab814"
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1668,11 +1678,6 @@
       "path": "src/battle/vfx/CharacterRig.js",
       "sha256": "0575e22d47065da729d8ee0208d2a09e2fb23f4e0ddd613391010fcfb99647f4",
       "bytes": 2401
-    },
-    {
-      "path": "src/battle/vfx/CinderLocomotion.js",
-      "sha256": "65c4760f618ae084750062227bb1057598706cf0c29c1b29d410765b538571c3",
-      "bytes": 8682
     },
     {
       "path": "src/battle/vfx/MeleeRun.js",
@@ -1711,8 +1716,8 @@
     },
     {
       "path": "src/platform/game-settings.js",
-      "sha256": "fdac18d2e3e60499ee66b5af784e80c3204370310b79453d4cd2da6dc6d5da54",
-      "bytes": 19866
+      "bytes": 19091,
+      "sha256": "7d9d82f091fc8d5a554f63f4c80b1f4d283d43d036c48206b5b2f623beb936e1"
     },
     {
       "path": "src/platform/persistent-storage.js",
@@ -1731,10 +1736,10 @@
     },
     {
       "path": "style.css",
-      "bytes": 367271,
-      "sha256": "053df756b2ff1fa08f7fe1a603214f50e432914a47c3592d69ca3728ab162d41"
+      "bytes": 367798,
+      "sha256": "7abfe44fbceadacef6bcb6bdb17f3099ebed048793eed420826b4dd315032239"
     }
   ],
-  "version": 172,
-  "label": "Cinder Vale animation test"
+  "version": 173,
+  "label": "Cinder Vale walks and battle animations"
 }
