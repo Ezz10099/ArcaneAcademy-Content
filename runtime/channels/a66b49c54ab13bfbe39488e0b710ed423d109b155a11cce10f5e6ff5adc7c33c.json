@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 182,
-  "label": "Sharper Cinder campus movement",
+  "version": 183,
+  "label": "Campus gait, continuity and depth correction",
   "entry": "index.html",
   "files": [
     {
@@ -1688,8 +1688,8 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 16695,
-      "sha256": "82f10dc64aabed79675ddef552dc443f7d2419b2abaa4c48622f15dbd50a9613"
+      "bytes": 18845,
+      "sha256": "09a39ef47169747aaf37099502d31199bad113c7fe64423c25f6a9f58d1ab374"
     },
     {
       "path": "src/animation/cinder-frames.js",
