@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 190,
-  "label": "Academy foreground occlusion",
+  "version": 191,
+  "label": "Integrated Wild Forest map",
   "entry": "index.html",
   "files": [
     {
@@ -1778,8 +1778,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "706ba6468db1c925fe9ab68450b2d0bf90939f24bf52562a4c8e2ebcad579ae8",
-      "bytes": 150644
+      "sha256": "503557af891af82e24fd55bd59466016404ccee31fe9f70053cc01938629870c",
+      "bytes": 150237
     },
     {
       "path": "manifest.webmanifest",
@@ -1888,8 +1888,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "88bc019b451903c702517365a73e619dc68eaae39f89fc475b99eda6a8c66263",
-      "bytes": 388613
+      "sha256": "6e7ec25a159879208c70bf45a8b6d0ce88d31cc418cbf069f35fcf8175bfa83c",
+      "bytes": 392159
     }
   ]
 }
