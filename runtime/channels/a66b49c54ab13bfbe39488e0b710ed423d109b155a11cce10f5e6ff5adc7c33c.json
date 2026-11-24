@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 179,
-  "label": "Cinder eight-direction campus walking",
+  "version": 180,
+  "label": "Combatants rarity frames",
   "entry": "index.html",
   "files": [
     {
@@ -1517,6 +1517,36 @@
       "bytes": 13278
     },
     {
+      "path": "final-assets/trainees/rank-frames/ascended.webp",
+      "sha256": "9210a96e04ab57508d52c1b81e5ae159f9b297013794fdf2d860e3a8814420bd",
+      "bytes": 6826
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/common.webp",
+      "sha256": "61d2b31a95cf00d1a85b90c130d418ee7bc0ea9cb51d1c8bcb86f29cb69d37fa",
+      "bytes": 3818
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/epic.webp",
+      "sha256": "28675a5f24af60493e9b1a5e1755b08f37ddbd29db8f98865030901dc19e0131",
+      "bytes": 6240
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/legendary.webp",
+      "sha256": "9d8a81cac11339f74fc5d29154d77387d1a7df3668a4b7e11699c83bcb6a59cb",
+      "bytes": 6480
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/mythic.webp",
+      "sha256": "fd2059b1e54d1e1b9dc1804c489e9c47a914ee484f5d29e0d9fab63d44230af9",
+      "bytes": 7394
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/rare.webp",
+      "sha256": "dd51a59391df356693f33f307dbd5310ed019d4976c37bf228e61fcdcc21b29c",
+      "bytes": 4822
+    },
+    {
       "path": "final-assets/trainees/rating-star.webp",
       "sha256": "95cf0e11b1b57646f84ff95136f747688824b987858908745ba4ba1cd2d2fff5",
       "bytes": 6492
@@ -1633,8 +1663,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 148591,
-      "sha256": "7c60e19b7d7957242881dd8be80bdb1b6b23e2e6073153f29893042a0a77e261"
+      "sha256": "00f242fbe5e2d21e379f9b376f03e3e6b3ca4a7e22f414934722e71b791ed2bb",
+      "bytes": 148681
     },
     {
       "path": "manifest.webmanifest",
@@ -1743,8 +1773,8 @@
     },
     {
       "path": "style.css",
-      "bytes": 378668,
-      "sha256": "995dc7ea24857e2e95cd9365df93d9ba1d81b47f7dc70226e54c98a8d0328a15"
+      "sha256": "df728d82dda5f9c5053ddfb25b07811cb29361fe273675b77805fa4d5a1984d8",
+      "bytes": 379740
     }
   ]
 }
