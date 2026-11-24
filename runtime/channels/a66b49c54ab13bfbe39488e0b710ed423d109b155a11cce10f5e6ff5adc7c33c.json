@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 178,
-  "label": "Arcane Combatants chamber",
+  "version": 179,
+  "label": "Cinder eight-direction campus walking",
   "entry": "index.html",
   "files": [
     {
@@ -45,6 +45,11 @@
       "path": "final-assets/academy/alchemy-flask.webp",
       "sha256": "fba4d67d06697518d149bf5681f94d460f4b6fdf21012ff446c7280bb7c459f1",
       "bytes": 3018
+    },
+    {
+      "path": "final-assets/academy/cinder-directional.webp",
+      "bytes": 8986,
+      "sha256": "4bd95b42f47a4fe0bb219dc2e2682a940bf9f599f2b0b205ecfe8ecdfe2a0464"
     },
     {
       "path": "final-assets/academy/cinder-walk.webp",
@@ -1648,8 +1653,8 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 12005,
-      "sha256": "3556c43a2b87ad9244362f6cfbdd06097e5fdfa281f232cab387e1c3934ce0a0"
+      "bytes": 14458,
+      "sha256": "a79aa76c18131c2e6b6e52b6b2806253ca7fcddd2a0ac19786e36231d20e7674"
     },
     {
       "path": "src/animation/cinder-frames.js",
