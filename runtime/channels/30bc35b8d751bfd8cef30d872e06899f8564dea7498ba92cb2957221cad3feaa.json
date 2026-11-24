@@ -1886,10 +1886,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "2adf9b57e0b8cafb98e52f1b3b301d9675c5f10221d409f37831bef2895daff0",
-      "bytes": 388614
+      "sha256": "88bc019b451903c702517365a73e619dc68eaae39f89fc475b99eda6a8c66263",
+      "bytes": 388613
     }
   ],
-  "version": 188,
-  "label": "Cinder stairs and pivot pose atlas"
+  "version": 189,
+  "label": "Formation ground alignment"
 }
