@@ -1766,8 +1766,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "5049949ed1ffcd8aeb9cdd9d6ef4d1ec68902a6f91e4f50883e5f9242462ac2c",
-      "bytes": 148776
+      "sha256": "f00f1589e213dde13d4499761e6230ee3c5c172c1dfd787e06ccd625c30f7395",
+      "bytes": 149478
     },
     {
       "path": "manifest.webmanifest",
@@ -1876,10 +1876,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "8f2d19aec3a1fa18c89c637ad2398d6d3ce638009fb74dd5c0333fa1dd97c102",
-      "bytes": 384204
+      "sha256": "9bbae8d4ff6dc76fda7b38fecc882468fc9987804b97423a236e8338ac68594e",
+      "bytes": 387071
     }
   ],
-  "version": 184,
-  "label": "Approved combatant rarity frames"
+  "version": 185,
+  "label": "Full-size rarity frames in formation and battle"
 }
