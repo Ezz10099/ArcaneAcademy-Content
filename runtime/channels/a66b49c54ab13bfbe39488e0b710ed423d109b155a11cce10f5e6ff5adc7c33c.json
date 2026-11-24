@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 185,
-  "label": "Full-size rarity frames in formation and battle",
+  "version": 186,
+  "label": "Cinder expanded motion clips",
   "entry": "index.html",
   "files": [
     {
@@ -55,6 +55,11 @@
       "path": "final-assets/academy/cinder-motion-v2.webp",
       "bytes": 144306,
       "sha256": "d34c9214ff40446b01f3e3836a2d6657d7a5b38281538a61874c0388e1392725"
+    },
+    {
+      "path": "final-assets/academy/cinder-motion-v3.webp",
+      "bytes": 291440,
+      "sha256": "edc0bf9677ee44c4126e4810bb0a0854e48e1008204599a23926c152e084f322"
     },
     {
       "path": "final-assets/academy/cinder-walk.webp",
@@ -1788,8 +1793,8 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 18845,
-      "sha256": "09a39ef47169747aaf37099502d31199bad113c7fe64423c25f6a9f58d1ab374"
+      "bytes": 19996,
+      "sha256": "3a8c12bea639608a7525ac23800a5420406fa85361ce452d4c148f41cc62c6e5"
     },
     {
       "path": "src/animation/cinder-frames.js",

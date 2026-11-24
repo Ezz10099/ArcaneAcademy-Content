@@ -55,6 +55,11 @@
       "sha256": "d34c9214ff40446b01f3e3836a2d6657d7a5b38281538a61874c0388e1392725"
     },
     {
+      "path": "final-assets/academy/cinder-motion-v3.webp",
+      "bytes": 291440,
+      "sha256": "edc0bf9677ee44c4126e4810bb0a0854e48e1008204599a23926c152e084f322"
+    },
+    {
       "path": "final-assets/academy/cinder-walk.webp",
       "bytes": 122804,
       "sha256": "c7ac8da5ce5e581431167790c74b391929c48ca91fb34fbfdedf22e18a5e12a2"
@@ -1786,8 +1791,8 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 18845,
-      "sha256": "09a39ef47169747aaf37099502d31199bad113c7fe64423c25f6a9f58d1ab374"
+      "bytes": 19996,
+      "sha256": "3a8c12bea639608a7525ac23800a5420406fa85361ce452d4c148f41cc62c6e5"
     },
     {
       "path": "src/animation/cinder-frames.js",
@@ -1880,6 +1885,6 @@
       "bytes": 387071
     }
   ],
-  "version": 185,
-  "label": "Full-size rarity frames in formation and battle"
+  "version": 186,
+  "label": "Cinder expanded motion clips"
 }
