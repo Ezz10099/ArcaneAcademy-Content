@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 177,
-  "label": "Expandable Academy notifications",
+  "version": 178,
+  "label": "Arcane Combatants chamber",
   "entry": "index.html",
   "files": [
     {
@@ -1628,8 +1628,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 148242,
-      "sha256": "bafa0595e92e6d3c2389f72073a37bbc2085cf682e5d5da5f89d54f66acfcb5f"
+      "bytes": 148591,
+      "sha256": "7c60e19b7d7957242881dd8be80bdb1b6b23e2e6073153f29893042a0a77e261"
     },
     {
       "path": "manifest.webmanifest",
@@ -1738,8 +1738,8 @@
     },
     {
       "path": "style.css",
-      "bytes": 366352,
-      "sha256": "be9a3c320b52dc322ff08702611fd68ba0c71a14992efaa3b962af8dff0ed8c4"
+      "bytes": 378668,
+      "sha256": "995dc7ea24857e2e95cd9365df93d9ba1d81b47f7dc70226e54c98a8d0328a15"
     }
   ]
 }
