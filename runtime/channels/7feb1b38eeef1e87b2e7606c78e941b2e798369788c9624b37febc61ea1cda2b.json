@@ -1626,8 +1626,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 148029,
-      "sha256": "7b14ab060d30dd43854cd8afa404c33fa6a4c892ce924847f6a9e966f5568193"
+      "bytes": 148236,
+      "sha256": "e43a6c2a9c13c160d3ac68c48a8021bda054fae93a3a213294d971f1c34674f0"
     },
     {
       "path": "manifest.webmanifest",
@@ -1696,13 +1696,13 @@
     },
     {
       "path": "src/game/data.js",
-      "bytes": 40242,
-      "sha256": "997def3b82e8cfb8579467812f74afb2892f4170b135782e1eb4f182c1d8eb08"
+      "bytes": 42129,
+      "sha256": "730bb9078469712fe28c4c3dfbcb48e1fcbfa8563f5c1e6f3852f85e33aa459e"
     },
     {
       "path": "src/game/game.js",
-      "bytes": 81485,
-      "sha256": "b4246d78bd593e5eddd7ebe6cbc6283a7c4981a4c8d5cdc6b9bc7b6545c9fd48"
+      "bytes": 85557,
+      "sha256": "7e3c326058a1efb7334987d123e7db13b876a3a66dd73c9933bf0250bf15248a"
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1736,10 +1736,10 @@
     },
     {
       "path": "style.css",
-      "bytes": 367798,
-      "sha256": "7abfe44fbceadacef6bcb6bdb17f3099ebed048793eed420826b4dd315032239"
+      "bytes": 366352,
+      "sha256": "be9a3c320b52dc322ff08702611fd68ba0c71a14992efaa3b962af8dff0ed8c4"
     }
   ],
-  "version": 173,
-  "label": "Cinder Vale walks and battle animations"
+  "version": 174,
+  "label": "Combatant ranks and Active & Passive skills"
 }
