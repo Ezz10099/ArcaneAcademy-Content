@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 174,
-  "label": "Combatant ranks and Active & Passive skills",
+  "version": 175,
+  "label": "Restore the Combatants screen",
   "entry": "index.html",
   "files": [
     {
@@ -1628,8 +1628,8 @@
     },
     {
       "path": "main.js",
-      "bytes": 148236,
-      "sha256": "e43a6c2a9c13c160d3ac68c48a8021bda054fae93a3a213294d971f1c34674f0"
+      "bytes": 148242,
+      "sha256": "bafa0595e92e6d3c2389f72073a37bbc2085cf682e5d5da5f89d54f66acfcb5f"
     },
     {
       "path": "manifest.webmanifest",
