@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 180,
-  "label": "Combatants rarity frames",
+  "version": 181,
+  "label": "Smoother campus steering",
   "entry": "index.html",
   "files": [
     {
@@ -1683,8 +1683,8 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 14458,
-      "sha256": "a79aa76c18131c2e6b6e52b6b2806253ca7fcddd2a0ac19786e36231d20e7674"
+      "bytes": 15807,
+      "sha256": "06f6bea790d49f1828d92d17797a2af8921ea30658815370e55e51c6249fec26"
     },
     {
       "path": "src/animation/cinder-frames.js",
