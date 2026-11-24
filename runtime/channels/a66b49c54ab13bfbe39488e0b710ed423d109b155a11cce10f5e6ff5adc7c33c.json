@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 181,
-  "label": "Smoother campus steering",
+  "version": 182,
+  "label": "Sharper Cinder campus movement",
   "entry": "index.html",
   "files": [
     {
@@ -50,6 +50,11 @@
       "path": "final-assets/academy/cinder-directional.webp",
       "bytes": 8986,
       "sha256": "4bd95b42f47a4fe0bb219dc2e2682a940bf9f599f2b0b205ecfe8ecdfe2a0464"
+    },
+    {
+      "path": "final-assets/academy/cinder-motion-v2.webp",
+      "bytes": 144306,
+      "sha256": "d34c9214ff40446b01f3e3836a2d6657d7a5b38281538a61874c0388e1392725"
     },
     {
       "path": "final-assets/academy/cinder-walk.webp",
@@ -1683,8 +1688,8 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 15807,
-      "sha256": "06f6bea790d49f1828d92d17797a2af8921ea30658815370e55e51c6249fec26"
+      "bytes": 16695,
+      "sha256": "82f10dc64aabed79675ddef552dc443f7d2419b2abaa4c48622f15dbd50a9613"
     },
     {
       "path": "src/animation/cinder-frames.js",
