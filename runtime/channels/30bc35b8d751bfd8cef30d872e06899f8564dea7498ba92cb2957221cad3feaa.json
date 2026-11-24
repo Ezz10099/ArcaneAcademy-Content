@@ -1796,8 +1796,8 @@
     },
     {
       "path": "src/animation/campus-walker.js",
-      "bytes": 20598,
-      "sha256": "14cdacced67b55526a8f83056e4027ce93d11bd9760b2360c0d19ef11617e095"
+      "bytes": 30251,
+      "sha256": "176f99d1a2b160aa30a7b4444311c59ac8ee82c7d7eed7acf3ecfc31781ef590"
     },
     {
       "path": "src/animation/cinder-frames.js",
@@ -1890,6 +1890,6 @@
       "bytes": 388613
     }
   ],
-  "version": 189,
-  "label": "Formation ground alignment"
+  "version": 190,
+  "label": "Academy foreground occlusion"
 }
