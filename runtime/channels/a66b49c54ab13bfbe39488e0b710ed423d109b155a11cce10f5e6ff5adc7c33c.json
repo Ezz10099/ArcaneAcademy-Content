@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 193,
-  "label": "Refined western Academy paths",
+  "version": 194,
+  "label": "New Wild Forest atlas",
   "entry": "index.html",
   "files": [
     {
@@ -1373,8 +1373,8 @@
     },
     {
       "path": "final-assets/expedition/wild-forest-atlas.webp",
-      "sha256": "03f213c02761237f6845b618268d5c0d14917f1456167c14fe9caafa1f14638f",
-      "bytes": 155860
+      "sha256": "1c90b031ea4428b3ca470ccbd096d060d970fe5684adecd079a4511c5414f9d2",
+      "bytes": 444332
     },
     {
       "path": "final-assets/expedition/wild-forest-expedition-bg.jpg",
@@ -1888,8 +1888,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "6e7ec25a159879208c70bf45a8b6d0ce88d31cc418cbf069f35fcf8175bfa83c",
-      "bytes": 392159
+      "sha256": "bf43cda8544738fe81bce8627d57abcc78909a091e97198d28ef75df7bdd8369",
+      "bytes": 392163
     }
   ]
 }
