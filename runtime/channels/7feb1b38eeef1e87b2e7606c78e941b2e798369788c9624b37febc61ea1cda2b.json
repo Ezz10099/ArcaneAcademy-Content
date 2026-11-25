@@ -1846,8 +1846,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "f0045056a8c907a340658fc0838b60894993f8efd159d05dcc1e490e4e1543aa",
-      "bytes": 155190
+      "sha256": "377fcd7f8a2b5856cf14dcab383ce095fdc8254724183947fb729c24c61bcaef",
+      "bytes": 155497
     },
     {
       "path": "manifest.webmanifest",
@@ -1910,6 +1910,11 @@
       "bytes": 5272
     },
     {
+      "path": "src/game/campaign-balance.js",
+      "sha256": "ccaa391e33750a7d4392d94fd3f019797685c16fe990826524fdea015559008f",
+      "bytes": 7560
+    },
+    {
       "path": "src/game/content-schema.js",
       "sha256": "313c6f5a6a3dd37b9b88e518a32bab384e3bb3223212766218554e3dc24840eb",
       "bytes": 10910
@@ -1926,8 +1931,8 @@
     },
     {
       "path": "src/game/equipment-acquisition.js",
-      "sha256": "71c3c8f66e11268e430349d3d73ae8ca1832cc02ca3cdf54b7f918aa227219b4",
-      "bytes": 10793
+      "sha256": "34cfed3f1456335624cd8dcd4b2d221c78e2c02e646e9b7cef76cd4f9466a6c1",
+      "bytes": 10823
     },
     {
       "path": "src/game/equipment-ui.js",
@@ -1941,8 +1946,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "3f56c8987789ef11e6104803462ca882cae00581f2fdd9f4efa7d5eaf8fdb770",
-      "bytes": 88763
+      "sha256": "1eefa09aa4089ba9d69f8154e0cbcc3771433667790468ae3cb4f7e889fc40f5",
+      "bytes": 91110
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1980,6 +1985,6 @@
       "bytes": 394375
     }
   ],
-  "version": 202,
-  "label": "Equipment progression — global rarity gates and gear levels"
+  "version": 203,
+  "label": "Wild Forest balance and training support"
 }
