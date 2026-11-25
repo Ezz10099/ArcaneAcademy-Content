@@ -1846,8 +1846,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "377fcd7f8a2b5856cf14dcab383ce095fdc8254724183947fb729c24c61bcaef",
-      "bytes": 155497
+      "sha256": "89ab44735d4514043f7ef8cc81cef18523fa5ade6bf4365306d17d8da463eb29",
+      "bytes": 155942
     },
     {
       "path": "manifest.webmanifest",
@@ -1911,7 +1911,7 @@
     },
     {
       "path": "src/game/campaign-balance.js",
-      "sha256": "ccaa391e33750a7d4392d94fd3f019797685c16fe990826524fdea015559008f",
+      "sha256": "e0302c99b3947825ab1b012c38bf7a290e5bb21fa6ce420e8e67afe712bf3bfc",
       "bytes": 7560
     },
     {
@@ -1931,8 +1931,8 @@
     },
     {
       "path": "src/game/equipment-acquisition.js",
-      "sha256": "34cfed3f1456335624cd8dcd4b2d221c78e2c02e646e9b7cef76cd4f9466a6c1",
-      "bytes": 10823
+      "sha256": "ee6370be1eeb2f920352efdcd61462097d04882797aac5f4cb74a45f006551ef",
+      "bytes": 12383
     },
     {
       "path": "src/game/equipment-ui.js",
@@ -1946,8 +1946,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "1eefa09aa4089ba9d69f8154e0cbcc3771433667790468ae3cb4f7e889fc40f5",
-      "bytes": 91110
+      "sha256": "ee6b79287375ca882f2116c736a090583117d68d5c1c6124c0d5faf38ed79037",
+      "bytes": 91518
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1985,6 +1985,6 @@
       "bytes": 394375
     }
   ],
-  "version": 203,
-  "label": "Wild Forest balance and training support"
+  "version": 204,
+  "label": "Passive equipment rewards and Wild Forest balance"
 }
