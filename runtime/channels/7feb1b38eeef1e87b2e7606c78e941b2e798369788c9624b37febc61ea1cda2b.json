@@ -345,11 +345,6 @@
       "bytes": 384770
     },
     {
-      "path": "final-assets/audio/README.md",
-      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
-      "bytes": 3382
-    },
-    {
       "path": "final-assets/audio/academy.ogg",
       "sha256": "8b1fdc41b2dce217fc3d42dc8c5355ed26be1130f43f0748c2872d17f37e9470",
       "bytes": 850092
@@ -363,6 +358,11 @@
       "path": "final-assets/audio/expedition.ogg",
       "sha256": "b92f23c4b80ff9abc870c97ba29cc971e89d36457967d482a290e3406e0f60ce",
       "bytes": 423158
+    },
+    {
+      "path": "final-assets/audio/README.md",
+      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
+      "bytes": 3382
     },
     {
       "path": "final-assets/battle/atmosphere/amber-mote.webp",
@@ -1390,11 +1390,6 @@
       "bytes": 16128
     },
     {
-      "path": "final-assets/navigation/bottom-tabs/README.md",
-      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
-      "bytes": 1071
-    },
-    {
       "path": "final-assets/navigation/bottom-tabs/academy-tab.png",
       "sha256": "1bba8a315a811ffa28baf637fd586458584204449cfb45e4e6f0c435bd708899",
       "bytes": 77465
@@ -1413,6 +1408,11 @@
       "path": "final-assets/navigation/bottom-tabs/expedition-tab.png",
       "sha256": "1c9e700104923abceedf07e372db45ef0e89c80d0b50acd67d7378d4a5185aaa",
       "bytes": 74676
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/README.md",
+      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
+      "bytes": 1071
     },
     {
       "path": "final-assets/navigation/bottom-tabs/summon-tab.png",
@@ -1781,8 +1781,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "4d225e08cd766dd3fe9bb9197223b8b59882ae671813fff2fe945b2b0eb29f85",
-      "bytes": 150361
+      "sha256": "0175fffbbbbff751be2fe591e85715d31f5417f98c057cb2896d34a33e69cfd8",
+      "bytes": 150835
     },
     {
       "path": "manifest.webmanifest",
@@ -1821,8 +1821,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "bytes": 117060,
-      "sha256": "50608511c99de54f8d146b45818447c578a9ab5a8631f101603e76cfe09ab814"
+      "sha256": "a8c48e4ec691d2a7d717d52940e19f2f2256c1f158bcde73a8f6b4f67ecd8bc5",
+      "bytes": 117359
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1851,13 +1851,18 @@
     },
     {
       "path": "src/game/data.js",
-      "bytes": 42129,
-      "sha256": "730bb9078469712fe28c4c3dfbcb48e1fcbfa8563f5c1e6f3852f85e33aa459e"
+      "sha256": "d1b7cd03677d5773f1d5b9d87101d0616a313a2aaf2a05ffbaad9308d106e39b",
+      "bytes": 41633
+    },
+    {
+      "path": "src/game/enemy-balance.js",
+      "sha256": "3d6fb8aa4ab97435bfd3f5c6e5b415a62fcb69a6ca32fa7dbceb34ac46696b16",
+      "bytes": 59908
     },
     {
       "path": "src/game/game.js",
-      "sha256": "fc6079290bcc85cc0aac8c919ed9ff2e9ea98d8e5dd22163ec74363883749a15",
-      "bytes": 85611
+      "sha256": "655520d79333d13ed5b4292690d71996b53d4939251316534d75c2773c522d63",
+      "bytes": 85927
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1880,14 +1885,14 @@
       "bytes": 6352
     },
     {
-      "path": "src/vendor/PHASER-LICENSE.txt",
-      "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
-      "bytes": 1100
-    },
-    {
       "path": "src/vendor/phaser-4.2.1.min.js",
       "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
       "bytes": 1375976
+    },
+    {
+      "path": "src/vendor/PHASER-LICENSE.txt",
+      "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
+      "bytes": 1100
     },
     {
       "path": "style.css",
@@ -1895,6 +1900,6 @@
       "bytes": 394141
     }
   ],
-  "version": 197,
-  "label": "Painted Wild Forest night sky"
+  "version": 198,
+  "label": "Unified campaign balance — 82 calibrated stages"
 }
