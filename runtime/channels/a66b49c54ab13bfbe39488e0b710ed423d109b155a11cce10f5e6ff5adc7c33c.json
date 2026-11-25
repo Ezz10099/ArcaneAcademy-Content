@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 194,
-  "label": "New Wild Forest atlas",
+  "version": 195,
+  "label": "Wild Forest completion and transparent labels",
   "entry": "index.html",
   "files": [
     {
@@ -1778,8 +1778,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "503557af891af82e24fd55bd59466016404ccee31fe9f70053cc01938629870c",
-      "bytes": 150237
+      "sha256": "4d225e08cd766dd3fe9bb9197223b8b59882ae671813fff2fe945b2b0eb29f85",
+      "bytes": 150361
     },
     {
       "path": "manifest.webmanifest",
@@ -1888,8 +1888,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "bf43cda8544738fe81bce8627d57abcc78909a091e97198d28ef75df7bdd8369",
-      "bytes": 392163
+      "sha256": "92f7c85dca72bdd8dadfa4fde64b1d95d9b37fe60d52c6aebf23eb62268b1951",
+      "bytes": 393023
     }
   ]
 }
