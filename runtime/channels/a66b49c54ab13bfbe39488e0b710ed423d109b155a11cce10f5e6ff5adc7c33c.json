@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 196,
-  "label": "Full-height Wild Forest map and sky",
+  "version": 197,
+  "label": "Painted Wild Forest night sky",
   "entry": "index.html",
   "files": [
     {
@@ -1382,6 +1382,11 @@
       "bytes": 511496
     },
     {
+      "path": "final-assets/expedition/wild-forest-sky.webp",
+      "sha256": "7b9e3c18319f4169ef455ba3ac0426463d9508642c2dd1478a218cbd56f65975",
+      "bytes": 3974
+    },
+    {
       "path": "final-assets/launch/arcane-launch-crest.webp",
       "sha256": "ef61f57f872c5a6bf89ae45c8c44d4472503551ebdd2120bf83544ae5c63f916",
       "bytes": 16128
@@ -1888,8 +1893,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "6527aff55a148ba42e3155111f181d9513c236419cd35f58c457eda5a14ae228",
-      "bytes": 394091
+      "sha256": "eeafcdcc6f73f00faeba11f1dae038b4dcbefbc828cb8e11ea5599561e40251d",
+      "bytes": 394141
     }
   ]
 }
