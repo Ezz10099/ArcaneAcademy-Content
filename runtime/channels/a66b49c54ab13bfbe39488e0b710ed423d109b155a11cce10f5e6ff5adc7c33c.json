@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 195,
-  "label": "Wild Forest completion and transparent labels",
+  "version": 196,
+  "label": "Full-height Wild Forest map and sky",
   "entry": "index.html",
   "files": [
     {
@@ -1888,8 +1888,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "92f7c85dca72bdd8dadfa4fde64b1d95d9b37fe60d52c6aebf23eb62268b1951",
-      "bytes": 393023
+      "sha256": "6527aff55a148ba42e3155111f181d9513c236419cd35f58c457eda5a14ae228",
+      "bytes": 394091
     }
   ]
 }
