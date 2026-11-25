@@ -26,8 +26,8 @@
     },
     {
       "path": "equipment.css",
-      "sha256": "d60b71e87b74a3adeff6a97179f653ddc9f3a28fe2b015bb2b0b59f3adf2d98a",
-      "bytes": 1739
+      "sha256": "805f54ded65e32e14a00d3a22a938ce02f4a52857437568a1c9f10651d5b85b1",
+      "bytes": 2369
     },
     {
       "path": "expedition-asset-paths.js",
@@ -1846,8 +1846,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "b70d6c0ad14869961ec9acc881992f72df39389d0394266347ea1590e4e56265",
-      "bytes": 150936
+      "sha256": "53de1217d6c58f635ef3d59b58fba76f976cfe34c99d6084353e59a0f3c5d537",
+      "bytes": 155100
     },
     {
       "path": "manifest.webmanifest",
@@ -1916,13 +1916,18 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "576a101e35392b5bf7f59405edd8cb058cc47cf2279f4cc7a63bbb3e8b2fca0d",
-      "bytes": 41655
+      "sha256": "b04d319fe4954ad613f5a9be4841705001ed2c985f78f839f4756ba86b7c1dd2",
+      "bytes": 42405
     },
     {
       "path": "src/game/enemy-balance.js",
       "sha256": "3d6fb8aa4ab97435bfd3f5c6e5b415a62fcb69a6ca32fa7dbceb34ac46696b16",
       "bytes": 59908
+    },
+    {
+      "path": "src/game/equipment-acquisition.js",
+      "sha256": "9cc7cf7b2d0cc074a4edb6c6e43a42122923a2c2128eac1d88bf5de77886774c",
+      "bytes": 8452
     },
     {
       "path": "src/game/equipment-ui.js",
@@ -1931,13 +1936,13 @@
     },
     {
       "path": "src/game/equipment.js",
-      "sha256": "39c79b822270f823a4f1e1e36c924038deb4d937d30fd5a00540832e5d8c47c6",
-      "bytes": 6601
+      "sha256": "f6bf950ecf5522b23df5c8f21d7c5cc74946fc881f0215ec1a8e5d02eb9eb048",
+      "bytes": 6745
     },
     {
       "path": "src/game/game.js",
-      "sha256": "6e68316423dc1bcaaa5140d4e9409967eeea0f1799021a5aac1233fc11a88256",
-      "bytes": 87208
+      "sha256": "585c97de49e2f10f2fd19cdc3ee23b11bc15d2f0cf1f298030ddcf69e97cb83c",
+      "bytes": 88737
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1975,6 +1980,6 @@
       "bytes": 394375
     }
   ],
-  "version": 200,
-  "label": "Equipment — slots, upgrades and recycling"
+  "version": 201,
+  "label": "Equipment acquisition — expedition loot, farming and special challenges"
 }
