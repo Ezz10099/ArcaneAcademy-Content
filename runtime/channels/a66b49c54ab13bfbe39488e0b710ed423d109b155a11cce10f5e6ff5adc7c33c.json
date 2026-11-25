@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 198,
-  "label": "Unified campaign balance — 82 calibrated stages",
+  "version": 199,
+  "label": "Formation — combatants directly above roster",
   "entry": "index.html",
   "files": [
     {
@@ -1898,8 +1898,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "eeafcdcc6f73f00faeba11f1dae038b4dcbefbc828cb8e11ea5599561e40251d",
-      "bytes": 394141
+      "sha256": "f0d24173751447c1a1a781c17f322c582d3fdf3a21c899ccc10f11c17e9f9f9a",
+      "bytes": 394375
     }
   ]
 }
