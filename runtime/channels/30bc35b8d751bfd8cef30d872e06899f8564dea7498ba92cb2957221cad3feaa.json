@@ -25,6 +25,11 @@
       "bytes": 13
     },
     {
+      "path": "equipment.css",
+      "sha256": "d60b71e87b74a3adeff6a97179f653ddc9f3a28fe2b015bb2b0b59f3adf2d98a",
+      "bytes": 1739
+    },
+    {
       "path": "expedition-asset-paths.js",
       "sha256": "5c2d0e1d2f34a563d5a0a3c40431638ebe62d2b4443a3afb64779822df768322",
       "bytes": 952
@@ -345,6 +350,11 @@
       "bytes": 384770
     },
     {
+      "path": "final-assets/audio/README.md",
+      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
+      "bytes": 3382
+    },
+    {
       "path": "final-assets/audio/academy.ogg",
       "sha256": "8b1fdc41b2dce217fc3d42dc8c5355ed26be1130f43f0748c2872d17f37e9470",
       "bytes": 850092
@@ -358,11 +368,6 @@
       "path": "final-assets/audio/expedition.ogg",
       "sha256": "b92f23c4b80ff9abc870c97ba29cc971e89d36457967d482a290e3406e0f60ce",
       "bytes": 423158
-    },
-    {
-      "path": "final-assets/audio/README.md",
-      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
-      "bytes": 3382
     },
     {
       "path": "final-assets/battle/atmosphere/amber-mote.webp",
@@ -1165,6 +1170,66 @@
       "bytes": 6240
     },
     {
+      "path": "final-assets/equipment/heavy-armor.svg",
+      "sha256": "d0441c04899581ba44093ebbd15fdedfde31605cc90ef56a9b795684599fa4a2",
+      "bytes": 606
+    },
+    {
+      "path": "final-assets/equipment/heavy-boots.svg",
+      "sha256": "6cf19337ef98dac78f634d6d5c6a4e23d99362f48f78bb05729cb554174ccb74",
+      "bytes": 583
+    },
+    {
+      "path": "final-assets/equipment/heavy-helmet.svg",
+      "sha256": "c92ba4a882ce1cdb5f0728070876a3eec73a8c841ec0809317f3cc7248866619",
+      "bytes": 588
+    },
+    {
+      "path": "final-assets/equipment/heavy-weapon.svg",
+      "sha256": "0c412d044e798a45c6821d71a10b9c26e9b0d67f10afde7a32a2b667e768a223",
+      "bytes": 619
+    },
+    {
+      "path": "final-assets/equipment/light-armor.svg",
+      "sha256": "0c92a623fb341008a0d38848862de7c5f128598309a32ea081d960712cf8de46",
+      "bytes": 622
+    },
+    {
+      "path": "final-assets/equipment/light-boots.svg",
+      "sha256": "57fc7d619ccfa593b461cf882d265a8fe0265aba99f7f210b189b431df7559b7",
+      "bytes": 623
+    },
+    {
+      "path": "final-assets/equipment/light-helmet.svg",
+      "sha256": "1f0e914da7d3ab6216b9c54bae3604fd8ffc713994d13b393733804296dc052b",
+      "bytes": 596
+    },
+    {
+      "path": "final-assets/equipment/light-weapon.svg",
+      "sha256": "9e93cde80ea10f9f4b69b8ec13d7d843b06db212f6dcbcf4ffb9a2e92a65766a",
+      "bytes": 559
+    },
+    {
+      "path": "final-assets/equipment/magical-armor.svg",
+      "sha256": "d9314a50a74013b665f994337086ea5f88b1fad63baf8252533d840e14875268",
+      "bytes": 612
+    },
+    {
+      "path": "final-assets/equipment/magical-boots.svg",
+      "sha256": "1f322a3148b3a9beaa6ddf7ea0889fe0d9b571bd32a079b14272effde5dfb46a",
+      "bytes": 645
+    },
+    {
+      "path": "final-assets/equipment/magical-helmet.svg",
+      "sha256": "c99ad3923766a52fc72495188b0ea5bdeb7dd3a44df573719131529e6ce0c8aa",
+      "bytes": 605
+    },
+    {
+      "path": "final-assets/equipment/magical-weapon.svg",
+      "sha256": "ebaf293a6a6ea99c4e5aa7f7c29ae171c6003a81225ea9e00f2b56e6b143ff91",
+      "bytes": 603
+    },
+    {
       "path": "final-assets/expedition/academy-master-portrait-v1.png",
       "sha256": "bc4428fe1b55e925e7f8ff7b5da77e962c0d927438dba92cbc0bfbdcaab51bb0",
       "bytes": 72712
@@ -1390,6 +1455,11 @@
       "bytes": 16128
     },
     {
+      "path": "final-assets/navigation/bottom-tabs/README.md",
+      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
+      "bytes": 1071
+    },
+    {
       "path": "final-assets/navigation/bottom-tabs/academy-tab.png",
       "sha256": "1bba8a315a811ffa28baf637fd586458584204449cfb45e4e6f0c435bd708899",
       "bytes": 77465
@@ -1408,11 +1478,6 @@
       "path": "final-assets/navigation/bottom-tabs/expedition-tab.png",
       "sha256": "1c9e700104923abceedf07e372db45ef0e89c80d0b50acd67d7378d4a5185aaa",
       "bytes": 74676
-    },
-    {
-      "path": "final-assets/navigation/bottom-tabs/README.md",
-      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
-      "bytes": 1071
     },
     {
       "path": "final-assets/navigation/bottom-tabs/summon-tab.png",
@@ -1776,13 +1841,13 @@
     },
     {
       "path": "index.html",
-      "sha256": "1448443c9b0cd4bcc8873fce62255dba12bbd6bde3d2bdee282fa6b187427c7b",
-      "bytes": 3691
+      "sha256": "c8a3c401ea3b91775af583f7490d48dff46113ae98eb03cb42a5e9ed9b4c1f1b",
+      "bytes": 3738
     },
     {
       "path": "main.js",
-      "sha256": "0175fffbbbbff751be2fe591e85715d31f5417f98c057cb2896d34a33e69cfd8",
-      "bytes": 150835
+      "sha256": "b70d6c0ad14869961ec9acc881992f72df39389d0394266347ea1590e4e56265",
+      "bytes": 150936
     },
     {
       "path": "manifest.webmanifest",
@@ -1851,8 +1916,8 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "d1b7cd03677d5773f1d5b9d87101d0616a313a2aaf2a05ffbaad9308d106e39b",
-      "bytes": 41633
+      "sha256": "576a101e35392b5bf7f59405edd8cb058cc47cf2279f4cc7a63bbb3e8b2fca0d",
+      "bytes": 41655
     },
     {
       "path": "src/game/enemy-balance.js",
@@ -1860,9 +1925,19 @@
       "bytes": 59908
     },
     {
+      "path": "src/game/equipment-ui.js",
+      "sha256": "fbc28718d44c1279ea17b8d943f3988179719a39d5defa5e4adabe06f3d53324",
+      "bytes": 4332
+    },
+    {
+      "path": "src/game/equipment.js",
+      "sha256": "39c79b822270f823a4f1e1e36c924038deb4d937d30fd5a00540832e5d8c47c6",
+      "bytes": 6601
+    },
+    {
       "path": "src/game/game.js",
-      "sha256": "655520d79333d13ed5b4292690d71996b53d4939251316534d75c2773c522d63",
-      "bytes": 85927
+      "sha256": "6e68316423dc1bcaaa5140d4e9409967eeea0f1799021a5aac1233fc11a88256",
+      "bytes": 87208
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1885,14 +1960,14 @@
       "bytes": 6352
     },
     {
-      "path": "src/vendor/phaser-4.2.1.min.js",
-      "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
-      "bytes": 1375976
-    },
-    {
       "path": "src/vendor/PHASER-LICENSE.txt",
       "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
       "bytes": 1100
+    },
+    {
+      "path": "src/vendor/phaser-4.2.1.min.js",
+      "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
+      "bytes": 1375976
     },
     {
       "path": "style.css",
@@ -1900,6 +1975,6 @@
       "bytes": 394375
     }
   ],
-  "version": 199,
-  "label": "Formation — combatants directly above roster"
+  "version": 200,
+  "label": "Equipment — slots, upgrades and recycling"
 }
