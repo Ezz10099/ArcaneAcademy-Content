@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 201,
-  "label": "Equipment acquisition — expedition loot, farming and special challenges",
+  "version": 202,
+  "label": "Equipment progression — global rarity gates and gear levels",
   "entry": "index.html",
   "files": [
     {
@@ -1848,8 +1848,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "53de1217d6c58f635ef3d59b58fba76f976cfe34c99d6084353e59a0f3c5d537",
-      "bytes": 155100
+      "sha256": "f0045056a8c907a340658fc0838b60894993f8efd159d05dcc1e490e4e1543aa",
+      "bytes": 155190
     },
     {
       "path": "manifest.webmanifest",
@@ -1928,23 +1928,23 @@
     },
     {
       "path": "src/game/equipment-acquisition.js",
-      "sha256": "9cc7cf7b2d0cc074a4edb6c6e43a42122923a2c2128eac1d88bf5de77886774c",
-      "bytes": 8452
+      "sha256": "71c3c8f66e11268e430349d3d73ae8ca1832cc02ca3cdf54b7f918aa227219b4",
+      "bytes": 10793
     },
     {
       "path": "src/game/equipment-ui.js",
-      "sha256": "fbc28718d44c1279ea17b8d943f3988179719a39d5defa5e4adabe06f3d53324",
-      "bytes": 4332
+      "sha256": "ba78f762584a072ba170798afa8bc5bed9e5fb83f2acc9d9bd3c3b2e1ae48cf7",
+      "bytes": 4392
     },
     {
       "path": "src/game/equipment.js",
-      "sha256": "f6bf950ecf5522b23df5c8f21d7c5cc74946fc881f0215ec1a8e5d02eb9eb048",
-      "bytes": 6745
+      "sha256": "0508d8dec3e48ddc62414b049d5ac507823f0306e52d8d607eb45e7b37e69355",
+      "bytes": 7268
     },
     {
       "path": "src/game/game.js",
-      "sha256": "585c97de49e2f10f2fd19cdc3ee23b11bc15d2f0cf1f298030ddcf69e97cb83c",
-      "bytes": 88737
+      "sha256": "3f56c8987789ef11e6104803462ca882cae00581f2fdd9f4efa7d5eaf8fdb770",
+      "bytes": 88763
     },
     {
       "path": "src/platform/content-updates.js",
