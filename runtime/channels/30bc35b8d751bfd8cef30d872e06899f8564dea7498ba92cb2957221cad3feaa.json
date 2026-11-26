@@ -26,8 +26,8 @@
     },
     {
       "path": "equipment.css",
-      "sha256": "fa46d3afad24be62cd85429535ca3bc18b98b6c2491ba0fcd2215f32d9ff3dda",
-      "bytes": 3653
+      "sha256": "d8bd61b780d598dd58f32a2195bdde5e2a3c45f59edd6b2ebcef88033ba62d6e",
+      "bytes": 4083
     },
     {
       "path": "expedition-asset-paths.js",
@@ -1936,8 +1936,8 @@
     },
     {
       "path": "src/game/equipment-ui.js",
-      "sha256": "9deaac571a465bdae831ed9a522bf7b2323ff4037c8e6bd70ab6221f3529e842",
-      "bytes": 8257
+      "sha256": "d114c401bc163fdfaf8d250e36f3c805c8e7e08cccb4c2362321e0e616ecd88a",
+      "bytes": 9150
     },
     {
       "path": "src/game/equipment.js",
@@ -1985,6 +1985,6 @@
       "bytes": 394375
     }
   ],
-  "version": 206,
-  "label": "Forge equipment classification and recycling safety"
+  "version": 207,
+  "label": "Combatant equipment ownership and availability"
 }
