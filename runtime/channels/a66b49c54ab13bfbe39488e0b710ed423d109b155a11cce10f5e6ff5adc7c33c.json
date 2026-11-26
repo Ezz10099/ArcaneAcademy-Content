@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 223,
-  "label": "Cinder Vale battle animation transitions",
+  "version": 224,
+  "label": "Frost Warden Kael battle animations",
   "entry": "index.html",
   "files": [
     {
@@ -530,6 +530,11 @@
       "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-ultimate-right.webp",
       "sha256": "3a8217272f3e1a4e79acb5d76c6032dbd758f96ad661239f109d3d727ff9778e",
       "bytes": 98228
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/kael-actions.webp",
+      "sha256": "19874ba085ab3f962778dea682bcf64456b918b9de1d9b4195d978900e7bec79",
+      "bytes": 558802
     },
     {
       "path": "final-assets/battle/characters/lumen-solis/lumen-solis-attack-right.webp",
@@ -1908,8 +1913,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "367bda0158c2b620615c86570aab164709407108895e47f7833a71cd78be150d",
-      "bytes": 119247
+      "sha256": "a351d861de2fadf37cf306ecd755709fa9f4d1a4eba13075c2c4b78d23caf150",
+      "bytes": 120684
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
