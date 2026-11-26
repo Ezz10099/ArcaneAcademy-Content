@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 204,
-  "label": "Passive equipment rewards and Wild Forest balance",
+  "version": 205,
+  "label": "Academy Forge and campaign balance",
   "entry": "index.html",
   "files": [
     {
@@ -28,8 +28,8 @@
     },
     {
       "path": "equipment.css",
-      "sha256": "805f54ded65e32e14a00d3a22a938ce02f4a52857437568a1c9f10651d5b85b1",
-      "bytes": 2369
+      "sha256": "a7e19605a5daf6ebfb57c50fdef783fd2132e948a68635c1780aa3c31e71a3b0",
+      "bytes": 3071
     },
     {
       "path": "expedition-asset-paths.js",
@@ -1848,8 +1848,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "89ab44735d4514043f7ef8cc81cef18523fa5ade6bf4365306d17d8da463eb29",
-      "bytes": 155942
+      "sha256": "cf65b76f71f3b2f2e45f050d16d17b8cef19874461c768c519d9ab6d7704bae4",
+      "bytes": 157798
     },
     {
       "path": "manifest.webmanifest",
@@ -1913,8 +1913,8 @@
     },
     {
       "path": "src/game/campaign-balance.js",
-      "sha256": "e0302c99b3947825ab1b012c38bf7a290e5bb21fa6ce420e8e67afe712bf3bfc",
-      "bytes": 7560
+      "sha256": "35418de8774570481458cba2433e268cb8076f89ff57a0a1bc46a72603a5cbf8",
+      "bytes": 8286
     },
     {
       "path": "src/game/content-schema.js",
@@ -1933,13 +1933,13 @@
     },
     {
       "path": "src/game/equipment-acquisition.js",
-      "sha256": "ee6370be1eeb2f920352efdcd61462097d04882797aac5f4cb74a45f006551ef",
-      "bytes": 12383
+      "sha256": "65ba83b162ad4b18ec898ec4ae41f27f9a8604030ffbf59dd6e8317978d47ba4",
+      "bytes": 15867
     },
     {
       "path": "src/game/equipment-ui.js",
-      "sha256": "ba78f762584a072ba170798afa8bc5bed9e5fb83f2acc9d9bd3c3b2e1ae48cf7",
-      "bytes": 4392
+      "sha256": "bddc44eb43907aa3b2124db44f3c09107ada91911d49f4b0adc3e48580a55bcc",
+      "bytes": 6764
     },
     {
       "path": "src/game/equipment.js",
@@ -1948,8 +1948,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "ee6b79287375ca882f2116c736a090583117d68d5c1c6124c0d5faf38ed79037",
-      "bytes": 91518
+      "sha256": "a39f6babc2e8545e30cc52f76bdb2bf2e72b3de1cbddc9ff86cbb61c524bf097",
+      "bytes": 91815
     },
     {
       "path": "src/platform/content-updates.js",
