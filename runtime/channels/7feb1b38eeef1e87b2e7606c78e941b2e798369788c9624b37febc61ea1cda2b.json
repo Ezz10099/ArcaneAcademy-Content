@@ -26,8 +26,8 @@
     },
     {
       "path": "equipment.css",
-      "sha256": "018e80286431dc02351086fd14fbf10a2e7e0ae749ae155e2e4e370973f19dfe",
-      "bytes": 5196
+      "sha256": "457d51481088a4997614f8f8e6c2b6cda895aedf286e65b6b61ecfdfb9f32e44",
+      "bytes": 6347
     },
     {
       "path": "expedition-asset-paths.js",
@@ -1846,8 +1846,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "945ce2ea7eaefba09b6132cd5fb78122a2e8394930fded474bd30802aedf0ef6",
-      "bytes": 159764
+      "sha256": "5e61136d97fd22c1513ce52277606441acb9ea093eefeab37aa3be8c4530272a",
+      "bytes": 166560
     },
     {
       "path": "manifest.webmanifest",
@@ -1946,8 +1946,13 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "a39f6babc2e8545e30cc52f76bdb2bf2e72b3de1cbddc9ff86cbb61c524bf097",
-      "bytes": 91815
+      "sha256": "3cfb6149927c774fe446b95e426f28af1f519978ebd30db06d9e8e0769b43622",
+      "bytes": 92654
+    },
+    {
+      "path": "src/game/recurring-quests.js",
+      "sha256": "7dfe70b7adc804e015c5132327b783dab25def934d7c6d9b95b02982ade918f3",
+      "bytes": 6265
     },
     {
       "path": "src/platform/content-updates.js",
@@ -1985,6 +1990,6 @@
       "bytes": 394375
     }
   ],
-  "version": 209,
-  "label": "Auto Equip strongest available gear"
+  "version": 210,
+  "label": "Daily, weekly and monthly quests"
 }
