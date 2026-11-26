@@ -1156,8 +1156,8 @@
     },
     {
       "path": "final-assets/battle/rigs/cinder-vale/cinder-actions.webp",
-      "sha256": "5fefa2f27533042cf99114798bc8cfb12117be61652f152c5cc2e5c165e3b5e5",
-      "bytes": 706692
+      "sha256": "291dc834faac92b964100b210480d94c516024b97b07bc90b293a407103373b2",
+      "bytes": 692604
     },
     {
       "path": "final-assets/battle/rigs/cinder-vale/front_arm.webp",
@@ -1896,8 +1896,8 @@
     },
     {
       "path": "src/animation/cinder-frames.js",
-      "sha256": "6949e1704269f18d8749536d0893433ca6c7763a72b27f9fc0c03f67c92c45dd",
-      "bytes": 1184
+      "sha256": "e961d4a70d1ec822322fa92f140cdbc4a874a9953f1716f1ca80c4614df8ffbe",
+      "bytes": 1455
     },
     {
       "path": "src/animation/cutout-rig.js",
@@ -1911,8 +1911,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "7daa2dfbabbb1d1437694323f2ac41092ecb646d271f1f437628ef34e060bfc2",
-      "bytes": 121526
+      "sha256": "86026c9fd17ce86a828f34ff1fd5cb8d0f786ac5a99765887b48b75a10f0d6fe",
+      "bytes": 122195
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -2015,6 +2015,6 @@
       "bytes": 401696
     }
   ],
-  "version": 225,
-  "label": "Kael sprint and hammer contact"
+  "version": 226,
+  "label": "Cinder grounded run and straight punch"
 }
