@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 210,
-  "label": "Daily, weekly and monthly quests",
+  "version": 211,
+  "label": "Academy inventory bag and quest book",
   "entry": "index.html",
   "files": [
     {
@@ -28,8 +28,8 @@
     },
     {
       "path": "equipment.css",
-      "sha256": "457d51481088a4997614f8f8e6c2b6cda895aedf286e65b6b61ecfdfb9f32e44",
-      "bytes": 6347
+      "sha256": "00b952fdb7363d1ada52bc8f3bd68453102578d777c0b39a9272b19cd2097a2d",
+      "bytes": 7364
     },
     {
       "path": "expedition-asset-paths.js",
@@ -1848,8 +1848,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "5e61136d97fd22c1513ce52277606441acb9ea093eefeab37aa3be8c4530272a",
-      "bytes": 166560
+      "sha256": "2d2b5635142b72010f33e9298bd335ae87c15b50f3b4d225ba793ac6a931f372",
+      "bytes": 168507
     },
     {
       "path": "manifest.webmanifest",
