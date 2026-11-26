@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 207,
-  "label": "Combatant equipment ownership and availability",
+  "version": 208,
+  "label": "Combatant equipment slot navigation",
   "entry": "index.html",
   "files": [
     {
@@ -28,8 +28,8 @@
     },
     {
       "path": "equipment.css",
-      "sha256": "d8bd61b780d598dd58f32a2195bdde5e2a3c45f59edd6b2ebcef88033ba62d6e",
-      "bytes": 4083
+      "sha256": "3ff779d3ee16f509d9ab374b9b6922bf599b3ade1651b1cb49b1bc1726046d1a",
+      "bytes": 4735
     },
     {
       "path": "expedition-asset-paths.js",
@@ -1848,8 +1848,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "3e1c3ebc95b6b27ac78b8b9749f6237b61e27bc00d3aa0a55a2e307b6c2e545d",
-      "bytes": 158668
+      "sha256": "9d258a797c09ff5f4ea19ad14fd03b8456ba8bd53cd1c1f7258b311bdfa91ba3",
+      "bytes": 159210
     },
     {
       "path": "manifest.webmanifest",
@@ -1938,8 +1938,8 @@
     },
     {
       "path": "src/game/equipment-ui.js",
-      "sha256": "d114c401bc163fdfaf8d250e36f3c805c8e7e08cccb4c2362321e0e616ecd88a",
-      "bytes": 9150
+      "sha256": "c3d87b6ed3336b05b9562b4a4e54e9634bf8fc799e07c76d677e6d7e9dc34035",
+      "bytes": 10119
     },
     {
       "path": "src/game/equipment.js",
