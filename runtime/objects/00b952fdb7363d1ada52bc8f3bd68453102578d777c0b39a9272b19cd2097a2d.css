@@ -1,0 +1,52 @@
+.gear-slots{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:5px;width:100%;padding:3px 0}
+.gear-slot{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-width:0;padding:4px 1px;background:linear-gradient(150deg,#29393b,#131f25);border:1px solid var(--gear-rarity);border-radius:7px;color:#e8e6dc;box-shadow:inset 0 0 8px #0005;font-size:clamp(9px,2.5vw,12px);line-height:1.15}
+.gear-slot .gear-art{width:min(100%,54px);aspect-ratio:1;object-fit:contain}
+.gear-slot small{font-size:9px;color:var(--gear-rarity);white-space:nowrap}
+.gear-empty .gear-art{opacity:.48}
+.gear-dialog{max-height:80dvh;overflow:auto;width:min(92vw,420px);box-sizing:border-box}
+.gear-balance{display:flex;justify-content:space-between;gap:8px;font-size:12px;color:#d7bd8a;padding:7px 0}
+.gear-list{display:grid;gap:7px;margin:6px 0;text-align:left}
+.gear-card{padding:8px;border:1px solid var(--gear-rarity);border-radius:8px;background:linear-gradient(135deg,#273337,#152126);color:#eee4d2;min-width:0}
+.gear-card-head{display:flex;align-items:center;gap:9px}
+.gear-card-head .gear-art{width:60px;height:60px;flex:none}
+.gear-card-head strong,.gear-card-head small{display:block;line-height:1.35}
+.gear-card-head small{font-size:11px;color:#d4c9b5}
+.gear-card-head small:first-of-type{color:var(--gear-rarity)}
+.gear-buttons{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
+.gear-buttons .gear-action{flex:1 1 auto;min-height:32px;padding:4px 7px;font-size:11px;color:#eee4d2;background:#34454a;border:1px solid #8c7957;border-radius:5px}
+.gear-buttons .gear-action:disabled{opacity:.42}
+.gear-message{min-height:1em;color:#e4c988;font-size:12px}
+.inventory-items .gear-list{max-height:48dvh;overflow:auto}
+
+.acquisition-launch{position:absolute;z-index:12;top:calc(env(safe-area-inset-top,0px) + 8px);right:8px;min-height:32px;padding:4px 9px;font-size:11px;background:#17282be8;color:#e9d2a6;border:1px solid #a58a60;border-radius:8px}.expedition-location-screen .acquisition-launch{top:102px;min-width:60px}.expedition-trail-screen .acquisition-launch{top:calc((var(--shell-hud-top) + var(--shell-hud-height) + 9) * 1px);max-width:26%}.wolf-den-screen .acquisition-launch{top:calc((var(--shell-hud-top) + var(--shell-hud-height) + 23) * 1px)}.gear-dialog .gear-card{margin:8px 0}.gear-dialog .gear-card p{font-size:12px;margin:6px 0}
+
+.forge-select{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;margin:12px 0}.forge-select label{display:grid;gap:4px;font-size:11px;color:#d7bd8a}.forge-select select{min-width:0;width:100%;background:#19272d;color:#eee4d2;border:1px solid #8c7957;border-radius:5px;padding:7px 3px;font-size:12px}.forge-upgrade{display:flex;flex-wrap:wrap;align-items:center;gap:7px;border-bottom:1px solid #8c795766;padding:8px 0}.forge-upgrade>div{flex:1 1 120px}.forge-upgrade small{display:block;font-size:10px;color:#d7bd8a}.forge-upgrade button{font-size:11px}.forge-upgrade button:disabled{opacity:.45}#academy-forge details{margin:8px 0}#academy-forge summary{color:#e4c988;cursor:pointer}
+
+.forge-equipment-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px;margin:10px 0 4px}.forge-equipment-tabs button{min-width:0;min-height:38px;padding:5px 2px;border:1px solid #766c58;border-radius:6px;background:#203037;color:#d1c6af;font-size:11px;line-height:1.2}.forge-equipment-tabs button[aria-pressed=true]{border-color:#d6b77d;background:#465047;color:#fff1cd}.forge-equipment-tabs b{display:block;font-size:11px}.forge-equipment-help{font-size:11px;color:#c9c5b7;text-align:left;margin:7px 0}.gear-card-head .gear-owner{color:#e5c788;font-weight:600}
+
+.combatant-gear-group{margin:12px 0;text-align:left}.combatant-gear-group h3{display:flex;justify-content:space-between;align-items:center;font-size:12px;color:#e4c988;border-bottom:1px solid #8c795766;padding:0 0 5px;margin:0}.combatant-gear-group h3 span{color:#c9c5b7;font-size:11px}.gear-group-empty,.gear-assigned-note{font-size:11px;color:#c9c5b7;margin:6px 0}.gear-card-head .gear-available{color:#9ed4af;font-weight:600}
+
+.gear-slot-navigation{display:grid;grid-template-columns:44px minmax(0,1fr) 44px;align-items:center;gap:8px;margin:2px 0 8px}.gear-slot-navigation .gear-slot-heading{text-align:center;min-width:0}.gear-slot-navigation .gear-slot-heading h2{margin:0;font-size:18px;line-height:1.2}.gear-slot-heading small{display:block;color:#c9c5b7;font-size:11px;margin-top:3px}.gear-slot-navigation .gear-slot-arrow{min-width:44px;min-height:44px;border:1px solid #a58a60;border-radius:8px;background:#26383b;color:#f0d7a5;font-size:30px;line-height:1;padding:0;touch-action:manipulation}.gear-slot-arrow:focus-visible{outline:2px solid #edcf93;outline-offset:2px}
+
+.gear-auto-equip{display:flex;align-items:center;justify-content:center;gap:7px;width:100%;min-height:40px;padding:7px 10px;border:1px solid #b8a16b;border-radius:7px;background:linear-gradient(135deg,#3b5146,#253c37);color:#f4e4bf;font-weight:600;font-size:13px;touch-action:manipulation}.gear-auto-equip span{font-size:17px}.gear-auto-equip:disabled{opacity:.65;background:#263438}.gear-auto-equip:focus-visible{outline:2px solid #edcf93;outline-offset:2px}
+
+
+/* Compact mission-board shortcuts; leave route artwork and stage nodes intact. */
+.quest-map-footer-actions{display:flex;align-items:center;gap:7px}
+.quest-map-shortcut,.chapter-map-footer .quest-map-shortcut{position:relative;display:grid;place-items:center;box-sizing:border-box;width:44px;height:44px;min-width:44px;min-height:44px;padding:0;background:#0c1925d9;color:#e6cd98;border:1px solid #bba07199;border-radius:10px;cursor:pointer}
+.quest-map-shortcut[data-ready="true"]::after{content:"";position:absolute;top:5px;right:5px;width:8px;height:8px;border-radius:50%;background:#e8b65e;border:1px solid #241c12;pointer-events:none}
+.quest-map-shortcut:focus-visible{outline:2px solid #ffe2a1;outline-offset:2px}
+.expedition-location-screen>.quest-map-shortcut{position:absolute;z-index:12;right:8px;top:142px}
+.expedition-trail-screen>.quest-map-shortcut{top:calc((var(--shell-hud-top) + var(--shell-hud-height) + 49) * 1px)}
+.wolf-den-screen>.quest-map-shortcut{top:calc((var(--shell-hud-top) + var(--shell-hud-height) + 63) * 1px)}
+#academy-quests{margin:auto;overscroll-behavior:contain}
+#academy-quests .system-row small{margin-top:3px}
+
+
+/* Academy pocket shortcuts under the existing Dispatch Log. */
+.academy-campus-screen .campus-dispatch-stack{position:absolute;top:max(99px,calc(env(safe-area-inset-top,0px) + 84px));right:10px;z-index:12;display:flex;flex-direction:column;align-items:flex-end;gap:3px}
+.academy-campus-screen .campus-dispatch-stack>.campus-dispatch{position:static;min-height:39px;align-self:center}
+.campus-pocket-shortcuts{display:flex;align-items:center;gap:3px}
+.campus-pocket-button{position:relative;display:grid;place-items:center;box-sizing:border-box;width:44px;height:44px;min-width:44px;min-height:44px;padding:0;border:1px solid #bba07170;border-radius:10px;background:#0c1925a8;color:#e6cd98;touch-action:manipulation;cursor:pointer}
+.campus-pocket-button svg{filter:drop-shadow(0 2px 2px #0009);pointer-events:none}
+.campus-quest-shortcut[data-ready="true"]::after{content:"";position:absolute;top:4px;right:4px;width:8px;height:8px;border-radius:50%;background:#e8b65e;border:1px solid #241c12;pointer-events:none}
