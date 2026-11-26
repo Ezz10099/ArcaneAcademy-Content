@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 224,
-  "label": "Frost Warden Kael battle animations",
+  "version": 225,
+  "label": "Kael sprint and hammer contact",
   "entry": "index.html",
   "files": [
     {
@@ -533,8 +533,8 @@
     },
     {
       "path": "final-assets/battle/characters/frost-warden-kael/kael-actions.webp",
-      "sha256": "19874ba085ab3f962778dea682bcf64456b918b9de1d9b4195d978900e7bec79",
-      "bytes": 558802
+      "sha256": "611e2bb1cfe1db456c4a905b9724ea2a6b40b6835fd6ad3183878c8ea19c8c5f",
+      "bytes": 528740
     },
     {
       "path": "final-assets/battle/characters/lumen-solis/lumen-solis-attack-right.webp",
@@ -1913,8 +1913,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "a351d861de2fadf37cf306ecd755709fa9f4d1a4eba13075c2c4b78d23caf150",
-      "bytes": 120684
+      "sha256": "7daa2dfbabbb1d1437694323f2ac41092ecb646d271f1f437628ef34e060bfc2",
+      "bytes": 121526
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
