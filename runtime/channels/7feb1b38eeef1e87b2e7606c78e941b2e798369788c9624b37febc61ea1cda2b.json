@@ -395,6 +395,11 @@
       "bytes": 194130
     },
     {
+      "path": "final-assets/battle/backgrounds/deeper-woods-battlefield.webp",
+      "sha256": "6d2807a54239151bfe4533174fc0003ad559979dbefc711c4e16f8696009686e",
+      "bytes": 215978
+    },
+    {
       "path": "final-assets/battle/backgrounds/forest-gate-battlefield.jpg",
       "sha256": "e8742d14361fc67a9f746a092fe5624ac9549661aee5aa9ccf20ce703e68b0ca",
       "bytes": 220690
@@ -1891,13 +1896,13 @@
     },
     {
       "path": "src/battle/location-battle-art.js",
-      "sha256": "84e7a6695dfc81c7e5abe76151a8a708a8dee77154ab5cb1067cc7b2503b334b",
-      "bytes": 2412
+      "sha256": "6195e09d6b1b8aee544e6e62aa399ba5e4dc056ad3757c01d4053788ebf3daee",
+      "bytes": 2489
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "038dbe70f511aa06c270c48ff1dbff3d0f4affe0493255a0491473c777c80072",
-      "bytes": 117705
+      "sha256": "50027b6ebecbe9082056b9efa1c9042318ff3a6c6d422b7de737b36f9f807d46",
+      "bytes": 117743
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1996,10 +2001,10 @@
     },
     {
       "path": "style.css",
-      "sha256": "85033e72c32bf337d10d0c1aa574c2e62798e30f035bdb4057e061b65b8ad54d",
-      "bytes": 399217
+      "sha256": "f76cb99801c6601d6bddf59bcb41f8a2ff34751906b450679ae74ff46fc75d21",
+      "bytes": 400069
     }
   ],
-  "version": 217,
-  "label": "Ancient Roots — seamless portrait battlefield"
+  "version": 218,
+  "label": "Deeper Woods — cursed forest portrait battlefield"
 }
