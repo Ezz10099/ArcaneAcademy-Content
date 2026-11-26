@@ -1,1 +1,2005 @@
-{"schema":2,"engine":2,"shellId":"a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c","version":215,"label":"Ancient Roots — battlefield art","entry":"index.html","files":[{"path":"app-icon.svg","sha256":"254de619ad036ee047fed8fd373ee51dee2c18cb5c04553d7c9d6d8bb251bf00","bytes":1952},{"path":"battle-renderer-proof.html","sha256":"48e75563fc3237c2253a78ec86453dbc9f1bc93ca2cee8d5e6196f5fd4d9a247","bytes":2468},{"path":"content/base.json","sha256":"1022d7ef0ea31c8b8386a4872b34701cdf1c3271a0450386eefb780901b965ff","bytes":26234},{"path":"content/game-data.json","sha256":"6b823fa123b900a4139de2101277275af8329f3a3d34c00ef3bf4fc6bf60287e","bytes":13},{"path":"equipment.css","sha256":"1bb9f38485de673d9aa67ce10ce7247c57b56fdbaa422fe029e86aa86be51b6d","bytes":8057},{"path":"expedition-asset-paths.js","sha256":"5c2d0e1d2f34a563d5a0a3c40431638ebe62d2b4443a3afb64779822df768322","bytes":952},{"path":"expedition-mobile.css","sha256":"833eecf966760babb53fcc58a76d7b64d139b56450f28cf2751bb75e96a4d03e","bytes":5086},{"path":"expedition-mobile.js","sha256":"bb975524134183289186dca68d19ea288022a84652a8d36bf0aade3a231bdf24","bytes":2107},{"path":"final-assets/academy/alchemy-flask.webp","sha256":"fba4d67d06697518d149bf5681f94d460f4b6fdf21012ff446c7280bb7c459f1","bytes":3018},{"path":"final-assets/academy/arcane-forge.svg","sha256":"b47d16c59f6872443b16681c9ef0c489a2176b1b3aa2e6003b6c7d47aa9d50da","bytes":9749},{"path":"final-assets/academy/cinder-directional.webp","bytes":8986,"sha256":"4bd95b42f47a4fe0bb219dc2e2682a940bf9f599f2b0b205ecfe8ecdfe2a0464"},{"path":"final-assets/academy/cinder-motion-v2.webp","bytes":144306,"sha256":"d34c9214ff40446b01f3e3836a2d6657d7a5b38281538a61874c0388e1392725"},{"path":"final-assets/academy/cinder-motion-v3.webp","bytes":291440,"sha256":"edc0bf9677ee44c4126e4810bb0a0854e48e1008204599a23926c152e084f322"},{"path":"final-assets/academy/cinder-special-motion.webp","bytes":436150,"sha256":"bd9903d98d95141bba7fab1a8a809cd413a2ddd714ae6a476954b3b32cced8d8"},{"path":"final-assets/academy/cinder-walk.webp","bytes":122804,"sha256":"c7ac8da5ce5e581431167790c74b391929c48ca91fb34fbfdedf22e18a5e12a2"},{"path":"final-assets/academy/daylight-campus.webp","sha256":"3c07a05fe2af50f47679d60a53abed2523fb6fb71945b1acf983f09ad0edaf1b","bytes":410584},{"path":"final-assets/academy/dormitory-bed.webp","sha256":"012dfe3041c8a911891d67a07a3ed9e87ac1d1287b65e855dc0f032d1a69ea13","bytes":3278},{"path":"final-assets/academy/dusk-walk.webp","sha256":"560f2b3c06d5321eabbd1046c97642147e6dcf67b79d34fd11e5cb7afd0eb7ba","bytes":12968},{"path":"final-assets/academy/hall-crown.webp","sha256":"8a31baed1fab15ed4f54a7c7a64e95e519dba511ae3f2c9755e0862cf30c82f1","bytes":3612},{"path":"final-assets/academy/moonlit-campus.webp","sha256":"155e69ff05f7fc090918bff082adaa46f04cfa851c5d484e0df81f6d089a71a7","bytes":318616},{"path":"final-assets/academy/sera-cutout.webp","bytes":11096,"sha256":"1d05c38d1cbe990d061e394c5f551dc667c25fdda7a0845ab272942fa71f0e3a"},{"path":"final-assets/academy/sera-walk.webp","sha256":"2e6da628c475577c07967e5d37e152fba81f73e0ce1701d9f3936999787b78e0","bytes":15092},{"path":"final-assets/academy/status-crest.webp","sha256":"c17244c27592a5655e06f093035f9fe73b38e02534f550e4096992144607beff","bytes":25768},{"path":"final-assets/academy/training-grounds.webp","sha256":"f820fd84295cadda38a5137ec352b6b921bba3e85f6344f44fd1f11cb664e2f6","bytes":221136},{"path":"final-assets/archive/aether-drake.webp","sha256":"3537b997a3f833c81ae244d205ae08723cd3fe0882a3575fd0903ab18ae2d90a","bytes":29698},{"path":"final-assets/archive/archive-crest.webp","sha256":"f45165abd5bcf7732ffac32bf9d00894cc096a640565040cec710b25c58eaf41","bytes":18194},{"path":"final-assets/archive/briar-guard.webp","sha256":"5d261705ffceb16485fed155c10dd0e5c8aef146dfc21e0438c98143bc76f0d1","bytes":44140},{"path":"final-assets/archive/codex-library.webp","sha256":"ce78c636dcc2bd6152248cd684afecce11bc3072d54210e56d84ac3dcda0db88","bytes":133998},{"path":"final-assets/archive/crystalback.webp","sha256":"e4b93c1c3ea51350e28334e69b3d474ae034bc3f47c27e589f8ccdd97c627369","bytes":29634},{"path":"final-assets/archive/ember-moth.webp","sha256":"aa93987f2c0018f2254a3c29e6b0c167b5164231601e786cb7bf5a7ec82c3aa6","bytes":32346},{"path":"final-assets/archive/forest-scout.webp","sha256":"69fb4e4bacd4883e16da7e563a13db1fabae80921c0d0e55985f207d6349e6e3","bytes":38330},{"path":"final-assets/archive/gatewood-warden.webp","sha256":"f156dd7c1be9313cc7cd7086350aec62476862964e083acda6809b42b1a9720d","bytes":44184},{"path":"final-assets/archive/grove-stag.webp","sha256":"ce0560810c50c10c6f0a38207c45d2f964c1973682e8e4a92c609cac4181d39d","bytes":26712},{"path":"final-assets/archive/lantern-moth.webp","sha256":"66547212c906c631276183cdbc7e7e28382347706e385a4d7b428624868ab670","bytes":32480},{"path":"final-assets/archive/locked-creature-1.webp","sha256":"a6b1587896069853d0be905b14e6258959a6b51f01fd0e5dc4d9708679fa38f7","bytes":2580},{"path":"final-assets/archive/locked-creature-2.webp","sha256":"c937d0ddc6e4e08d83cc3e53939fca3075086c1cc1bcd6d59236329e7e56aa30","bytes":2194},{"path":"final-assets/archive/locked-creature-3.webp","sha256":"9437273e87cfc08cd0161b36190804e8774c96af099f6c865acdb6c2b6569a51","bytes":2266},{"path":"final-assets/archive/luminowl.webp","sha256":"2d9ad1199f29cf4658f93ab355d4ecdc595b35fa2200a97a70b3efaf5780451f","bytes":33234},{"path":"final-assets/archive/mist-lynx.webp","sha256":"60d8a6aa4d276e0e94cc76eb081b17e0354281ffa4cf5617b088bf3dc3c5a392","bytes":32016},{"path":"final-assets/archive/rime-scout.webp","sha256":"f4b28fc3d581991f3976fbe41a323de5f0bba3dc6f49eb195e7fa0f89f1447c9","bytes":43988},{"path":"final-assets/archive/tab-creatures.webp","sha256":"b3c625a5c0a524be6e7517cad9ed94abacc4811e8e8d346a196e1149b77c06b6","bytes":4570},{"path":"final-assets/archive/tab-records.webp","sha256":"ef941636e6b877116750970a6c2ecaba9ab16e6ca8c5cc2dab734774aa73fa43","bytes":3554},{"path":"final-assets/archive/tab-regions.webp","sha256":"225382443bb7534f643ec721948913534456828998e76a32fc33c1d7afc54ca7","bytes":4394},{"path":"final-assets/archive/umbral-wraith.webp","sha256":"a40e1aed60ea0d0e01df01e6b985a2e662f7192fd01de0a049d46734630a2418","bytes":20960},{"path":"final-assets/audio/01_ui_select.ogg","sha256":"8d795c3b210445b80603aacfa5d1896837b4f01d5dc44e951554e3a9659af72e","bytes":5739},{"path":"final-assets/audio/02_melee_hit.ogg","sha256":"b166f03d84d76d383ae4a557f5dad184be0ab720559e234540a97ff42c8cf6a5","bytes":6271},{"path":"final-assets/audio/03_arcane_cast.ogg","sha256":"17b5097e3f7a94178c9344942a9a2a795049825e059a5f8d9210d91daf61baf4","bytes":12154},{"path":"final-assets/audio/04_ultimate_release.ogg","sha256":"f6bd9c5e42b40f0c9026227192de6c471cd36c37db82c888a981b28165ff1f7e","bytes":23781},{"path":"final-assets/audio/05_victory.ogg","sha256":"b7836e7f2a9ada7860f3768322130d916a0e2fea2209eda8e913d3841176f9ec","bytes":21179},{"path":"final-assets/audio/06_defeat.ogg","sha256":"4c22f1089896b04b717170242ab600071f9ea710cbecea1de0c4deac72d7ce44","bytes":14215},{"path":"final-assets/audio/07_summon.ogg","sha256":"2042a049497da3cf9ad849f63b52ba45ec684f24514aa51be63168b20c686bec","bytes":10868},{"path":"final-assets/audio/08_summon_rare.ogg","sha256":"c80e748cfa6a7205a6b86a1a7d7802cb71e68b4b0749abf83db62294aa884ae0","bytes":12166},{"path":"final-assets/audio/09_train.ogg","sha256":"a78d585c6cec70feb065bf2788ec94ed37048976be692c8a595126b86fd7fa51","bytes":5623},{"path":"final-assets/audio/10_reward.ogg","sha256":"02270b4e5b65ab1b782620f4c72798e39c0abd817a4bc37340179e9988d475bd","bytes":6018},{"path":"final-assets/audio/11_formation.ogg","sha256":"9dba2e0d1806df064eaf458a1cd983d6a6f1012e8f8fe181f33d6f04d3146147","bytes":4573},{"path":"final-assets/audio/12_cinder_basic.wav","sha256":"c9690c4b1357f5f9c6aac4dc4cff49e600aa9550f5d9786c6775910bced0167b","bytes":192770},{"path":"final-assets/audio/13_yssa_basic.wav","sha256":"3eafebcc576ad7473c10fb7c5c93e5dfd7140555522fc033d5ee1c137650e931","bytes":192770},{"path":"final-assets/audio/14_lumen_basic.wav","sha256":"edc19e0ac9c51b27253275b3dc234e359ffd2e9d516e5501f23a9f178382f61f","bytes":192770},{"path":"final-assets/audio/15_cinder_ultimate_1.wav","sha256":"a9f3936d61624a264458ab8c4eb7f54358db9c31fbaba4ff33fa8b39a0417756","bytes":384770},{"path":"final-assets/audio/16_cinder_ultimate_2.wav","sha256":"b5eba69674f1df42fa5523b0b2b348f91ec57f5fbd8929177e880b656777d6f2","bytes":384770},{"path":"final-assets/audio/17_cinder_ultimate_3.wav","sha256":"f1d999eb35a8bbaaa3d5400f389fceae0d23c8a585d256bb8f4a8f1d7c57ccd5","bytes":384770},{"path":"final-assets/audio/18_cinder_ultimate_4.wav","sha256":"a3d852140187b3047ce0564099360afb8f13dfc8d7ca20984228e1f24ac740ff","bytes":384770},{"path":"final-assets/audio/19_yssa_ultimate_1.wav","sha256":"17e9bc280fd56677c3ae4992e130a55937ec3cd4648c6be6bf2491f9e69f028b","bytes":384770},{"path":"final-assets/audio/20_yssa_ultimate_2.wav","sha256":"3718e10ecea073a6e38b1564a83ae66005107cb47d75a698dc5ce2fa2cab8920","bytes":384770},{"path":"final-assets/audio/21_yssa_ultimate_3.wav","sha256":"38b1a7931a9ae86733e583811f3fe580dd4733cea5adeab1d2a498f6af08b577","bytes":384770},{"path":"final-assets/audio/22_yssa_ultimate_4.wav","sha256":"7f764739aa6f6b957da282abfcdfd4aae3c7aea89690e9dbc4706c020a262114","bytes":384770},{"path":"final-assets/audio/23_lumen_heal_1.wav","sha256":"da65f401f2599a8fa1af906c9def3982052e7433921a02a486a2d094fa7f4b27","bytes":384770},{"path":"final-assets/audio/24_lumen_heal_2.wav","sha256":"7f696cffeb7e0396efe86eff5e23154cae7f89c85d5e10d86b9f62a6a9aad5ab","bytes":384770},{"path":"final-assets/audio/25_lumen_heal_3.wav","sha256":"3f5981c6c7f991032a7c07a806d2474bb4ae0fc2c05adc14e8dc82e29e5d2463","bytes":384770},{"path":"final-assets/audio/26_lumen_heal_4.wav","sha256":"c701fbf5c29c713517f97e4d6c4cef9e5030ab28a9313aff5adea889b245216f","bytes":384770},{"path":"final-assets/audio/README.md","sha256":"94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632","bytes":3382},{"path":"final-assets/audio/academy.ogg","sha256":"8b1fdc41b2dce217fc3d42dc8c5355ed26be1130f43f0748c2872d17f37e9470","bytes":850092},{"path":"final-assets/audio/battle.ogg","sha256":"f3a1d13eff649780500ec1c4d823d6e5577ebc9017c9cd84a92231a846887413","bytes":124135},{"path":"final-assets/audio/expedition.ogg","sha256":"b92f23c4b80ff9abc870c97ba29cc971e89d36457967d482a290e3406e0f60ce","bytes":423158},{"path":"final-assets/battle/atmosphere/amber-mote.webp","sha256":"1c88dd4ed12db0dcbd2ccb27f71831ae8d37311dae31591307ae7b3d560a7aaf","bytes":1866},{"path":"final-assets/battle/atmosphere/courtyard-mist.webp","sha256":"f37288d062ba2f8c1cf3fd02f0c842e40423f4be71c60421c8dda40a9e3500ef","bytes":16868},{"path":"final-assets/battle/atmosphere/header-trim.webp","sha256":"0d5a5cf69403c42797ca96f4cb8b7e2b4f58a3a78d899234836dd82bacc27d74","bytes":10352},{"path":"final-assets/battle/backgrounds/ancient-roots-battlefield.webp","sha256":"9fe8c89170b26f0553f43a6d9f2c6ce6f48bf19109380b071adb66807832c968","bytes":321968},{"path":"final-assets/battle/backgrounds/forest-gate-battlefield.jpg","sha256":"e8742d14361fc67a9f746a092fe5624ac9549661aee5aa9ccf20ce703e68b0ca","bytes":220690},{"path":"final-assets/battle/backgrounds/sprite-grove-battlefield.webp","sha256":"4fb7d7c5a3900baff3725e1b8f77cccf930b78cb3f188ef24f355c063d871611","bytes":129022},{"path":"final-assets/battle/backgrounds/wolf-den-battlefield.webp","sha256":"2e1e457a982580638773cb43672a797827f0d6ef2a8624c65fd6775ff96cefb4","bytes":122918},{"path":"final-assets/battle/characters/archmage-eloris/archmage-eloris-idle-right.webp","bytes":35082,"sha256":"5fa375ae7353c2e22d1cb5b8a9ef1da7ba38d4ba94d2699886a2af26c167e3ae"},{"path":"final-assets/battle/characters/cinder-vale/cinder-vale-attack-right.png","sha256":"b3e09b7743be5d1da0e1f57c847bdc3ce0dded27896ff10f73803c99925ec0ef","bytes":118217},{"path":"final-assets/battle/characters/cinder-vale/cinder-vale-defeat-right.png","sha256":"7ea2e22ed6b13c0d0c18b610b8cf864b5a7781acb44ee610f11c1dc26a7917f3","bytes":118942},{"path":"final-assets/battle/characters/cinder-vale/cinder-vale-hit-right.png","sha256":"30646a62afbab7f83a52a8d5766dab8dcf55bfa7c0db2b0e20c8c4277a7aa164","bytes":118593},{"path":"final-assets/battle/characters/cinder-vale/cinder-vale-idle-right.png","sha256":"cfaa68ebeaafaffe0bfe3afcbd9bb5504bf957f2b5480790980d50758dabade1","bytes":102628},{"path":"final-assets/battle/characters/cinder-vale/cinder-vale-move-right.png","sha256":"0847bfdb7c4139139394c5f14173f74279b6fee1a8cb584d0f8c59da89fa192b","bytes":126054},{"path":"final-assets/battle/characters/cinder-vale/cinder-vale-skill-right.png","sha256":"6d8e96b9d4c5dcaa297063d3eb8d861d8f319c36f96dfe63c0bf476ff877abce","bytes":120127},{"path":"final-assets/battle/characters/cinder-vale/cinder-vale-ultimate-right.png","sha256":"598c00586994d3fdac38f2240fd2effcba3c07944c7214bc59478e07a9e73613","bytes":115185},{"path":"final-assets/battle/characters/dusk/dusk-attack-right.webp","sha256":"c4d121f4b0a3e258b11c97f9e10bc51c9133af8100f94a520f06e4902e6ec336","bytes":62980},{"path":"final-assets/battle/characters/dusk/dusk-defeat-right.webp","sha256":"c5214b28640a0f9b34503c410aa94afe75ad8500d6c35566d8057c3aa28b9c4e","bytes":51388},{"path":"final-assets/battle/characters/dusk/dusk-hit-right.webp","sha256":"40e2eae0239b2fdf11a06ac81d76b86f8c2b7e540309138aa939d91be67cba5b","bytes":53102},{"path":"final-assets/battle/characters/dusk/dusk-idle-right.webp","sha256":"4a0a84d17dbf06424c8ba5b9272f09f683f1d1ca183a130995914f0c7e10979f","bytes":66338},{"path":"final-assets/battle/characters/dusk/dusk-move-right.webp","sha256":"b6162e382089f122bf383d355a9effca3d1789123e07f1a985e61a6683ae5a76","bytes":60636},{"path":"final-assets/battle/characters/dusk/dusk-skill-right.webp","sha256":"28a1666380b5707ac6fd6e0e8d5bcbe9ddb83d7b993925fcc7fc974331fde0a7","bytes":59948},{"path":"final-assets/battle/characters/dusk/dusk-ultimate-right.webp","sha256":"02d2e809004909c7ce8ebd115f025d5075d3c5c21eb9659f647daf6dd3c993f2","bytes":65470},{"path":"final-assets/battle/characters/frost-warden-kael/frost-warden-kael-attack-right.webp","sha256":"31eadd8b7568dd6f471340ee605db7b11028aa09d1985b2c26e2d5ff38724770","bytes":97460},{"path":"final-assets/battle/characters/frost-warden-kael/frost-warden-kael-defeat-right.webp","sha256":"375ef140cd2648232675f0cf98a6aaa619d4d7a950d237f6a2c562f5f595b70c","bytes":69928},{"path":"final-assets/battle/characters/frost-warden-kael/frost-warden-kael-hit-right.webp","sha256":"886ae56a44319b76b167787fcced517c6c94689c2db13371bf88429b9f1b40fd","bytes":76832},{"path":"final-assets/battle/characters/frost-warden-kael/frost-warden-kael-idle-right.webp","sha256":"c758b7e850372baf9ae15220a22c266c8ffbf7114ec40e492f662b2b1b89f580","bytes":86250},{"path":"final-assets/battle/characters/frost-warden-kael/frost-warden-kael-move-right.webp","sha256":"967a78d337b681e152bfe8d01453170bfb01b31649ad81b416ec8ae51c6f0cca","bytes":85210},{"path":"final-assets/battle/characters/frost-warden-kael/frost-warden-kael-skill-right.webp","sha256":"62c470abc9d647d53bb429d2c1ac26f3873990ae5798dfe69de200202263e59b","bytes":89744},{"path":"final-assets/battle/characters/frost-warden-kael/frost-warden-kael-ultimate-right.webp","sha256":"3a8217272f3e1a4e79acb5d76c6032dbd758f96ad661239f109d3d727ff9778e","bytes":98228},{"path":"final-assets/battle/characters/lumen-solis/lumen-solis-attack-right.webp","sha256":"da479b91993573399f90de01c2636b7b582181a9e3040397e9da1bdc58ad4e06","bytes":112638},{"path":"final-assets/battle/characters/lumen-solis/lumen-solis-defeat-right.webp","sha256":"fe165f71b037d2e59091ca9ce02beb401cb9f780f7aafd9170bce1efca942cc6","bytes":89022},{"path":"final-assets/battle/characters/lumen-solis/lumen-solis-hit-right.webp","sha256":"aeb26898491f542340d962d7f5f60009b35eeb1187ab79e57fe5263fb1bb3605","bytes":106668},{"path":"final-assets/battle/characters/lumen-solis/lumen-solis-idle-right.webp","sha256":"a9446a08012f71af8fae9bf090f488d618492381bb5d698c5b1e56fb65dc2381","bytes":103550},{"path":"final-assets/battle/characters/lumen-solis/lumen-solis-move-right.webp","sha256":"45420c7e89c94cacb99d35575ce164a90e4bd9e8859a07fe451ec1d82780e7e6","bytes":122390},{"path":"final-assets/battle/characters/lumen-solis/lumen-solis-skill-right.webp","sha256":"4da055748fd375030a66309b67656149931ddb4904790ebbc13b74c6f4865989","bytes":118074},{"path":"final-assets/battle/characters/lumen-solis/lumen-solis-ultimate-right.webp","sha256":"0f3fcdb69e84a8924ff552fae956d01779c5b20a4f9ebf38885dcec44702039a","bytes":151524},{"path":"final-assets/battle/characters/neris-rimeweave/neris-rimeweave-idle-right.webp","bytes":17798,"sha256":"0f0f4b935ea1322d05ea34514172c73ea8b7ff468c5c4534f204dfc3884781f1"},{"path":"final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-attack-right.webp","sha256":"0fc987fc5b36b175bf12b3e3c5044cccc583ad9c031ade26d365759ec273b874","bytes":79490},{"path":"final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-defeat-right.webp","sha256":"efd33b29c2e41cb5e44cd79f9e738907169a1c3b6f71228f5d7a7eedc0e4b7e2","bytes":48774},{"path":"final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-hit-right.webp","sha256":"cf8f20121f28413cfbb3158ef8d34b7aeea99db9600a991c6b040cc1c55f4ea1","bytes":61726},{"path":"final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-idle-right.webp","sha256":"bb735fb0d39c423c9fc24fea428c7e4bd1ffbed140aaf1f2bfb3ea026984cb7c","bytes":68952},{"path":"final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-move-right.webp","sha256":"588eaeb874523186571e786fab691370236d635d9d34ff66a4c72ae9f69520ea","bytes":73426},{"path":"final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-skill-right.webp","sha256":"09735914dbe9dfaa2de9cfaa392aae8c2ec831ab92400e683220806ab70af62c","bytes":64812},{"path":"final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-ultimate-right.webp","sha256":"322a6ceefc29e10840bdec8069752eba144d871cd19ce1374ecd7317951cf7ba","bytes":83542},{"path":"final-assets/battle/characters/sera-ashveil/sera-ashveil-attack-right.webp","sha256":"166b26c28ede60fc9351b4a13415a112ee84e374e2ce7aedb2894822f39c60b1","bytes":97244},{"path":"final-assets/battle/characters/sera-ashveil/sera-ashveil-defeat-right.webp","sha256":"23ffd23e5cd8d3fe51c95cc9da0f0946fcf2360193f76fe153a42e162b094907","bytes":56024},{"path":"final-assets/battle/characters/sera-ashveil/sera-ashveil-hit-right.webp","sha256":"8eacca48b691e1ed7154b60ece0b04f73d8a03476ec03d5abea30c4a9f05d7a0","bytes":78146},{"path":"final-assets/battle/characters/sera-ashveil/sera-ashveil-idle-right.webp","sha256":"d7f1f7000c0272159a2fc98a2125adeebaf5170f7135b3adedf17ac34a2f1560","bytes":77354},{"path":"final-assets/battle/characters/sera-ashveil/sera-ashveil-move-right.webp","sha256":"d6935beff59f712f791dfa7605d33fa004494388d2234e02b57a39a36e84fa8e","bytes":82782},{"path":"final-assets/battle/characters/sera-ashveil/sera-ashveil-skill-right.webp","sha256":"0979cce81ebee1f1e851f3ac77bb6ad915d79a02d667e02d6ee7837e734eb47c","bytes":80424},{"path":"final-assets/battle/characters/sera-ashveil/sera-ashveil-ultimate-right.webp","sha256":"ce22d280e4ce8d9a1c16c62798d0119552aa15c8e36cb172608b31064fa98c1c","bytes":94924},{"path":"final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-attack-right.webp","sha256":"e98b18b2213b208c7fd456df856b547089b7a3a27d3b8901bfd4fb89bb4cfd07","bytes":77756},{"path":"final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-defeat-right.webp","sha256":"bc4ed4c5b21e198c5720c03c951ce4475197358f8126ca599e5834ce57b75088","bytes":55314},{"path":"final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-hit-right.webp","sha256":"868455c6b657a32d370798e1a04bdd68d3cf3c773579cc5b640bf53b073c5557","bytes":63968},{"path":"final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-idle-right.webp","sha256":"8e951e78e3a90075c98cc321e37c1e32d6f9fd5fb0889431fef20cba8743a79c","bytes":65638},{"path":"final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-move-right.webp","sha256":"07e3db9fbc170c9dc6e93435e694cb2a40b93175d04712843df95f5943a8a74d","bytes":70698},{"path":"final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-skill-right.webp","sha256":"dcca7292d3c448bd69505ba2da2a18df4be46bf5523acbd2dfe428aa642db064","bytes":62416},{"path":"final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-ultimate-right.webp","sha256":"d4fb40f3e597f855d11b606ecb332722f09e155e6328dcddae1e31722902a095","bytes":72490},{"path":"final-assets/battle/characters/tavian-emberstep/tavian-emberstep-idle-right.webp","bytes":19588,"sha256":"a4d243a8787ac2220b729c41ad2ec47f69ccd921aa8566e4cf76739ee82d57c6"},{"path":"final-assets/battle/characters/yssa-driftborn/yssa-driftborn-attack-right.webp","sha256":"0572ab94e9a4d12d44e7e9ccc244e8b61de531b7c1677f2c34df9e7af08cbb4d","bytes":79314},{"path":"final-assets/battle/characters/yssa-driftborn/yssa-driftborn-defeat-right.webp","sha256":"8747b4d30a7f1208115b78ae265567c27d7e05ca4ac26c681ddca111f332a2b4","bytes":84266},{"path":"final-assets/battle/characters/yssa-driftborn/yssa-driftborn-hit-right.webp","sha256":"488aff702d06be93e7131b561bf0be413725fd6eba9e44f8ff61af28ab764920","bytes":82254},{"path":"final-assets/battle/characters/yssa-driftborn/yssa-driftborn-idle-right.webp","sha256":"40e2894ca89f2b445ffd0a945565011e5847f5085834f71d402473f1a63836b9","bytes":73064},{"path":"final-assets/battle/characters/yssa-driftborn/yssa-driftborn-move-right.webp","sha256":"f99aa17a729f094bc52f79e74d4cdcefa84b3781f914e24e01bd3a86979c1b9c","bytes":84344},{"path":"final-assets/battle/characters/yssa-driftborn/yssa-driftborn-skill-right.webp","sha256":"a06c165e625d245fd7144bc78a96062edf006ad006141af4e4ce0e626f9a2b07","bytes":92244},{"path":"final-assets/battle/characters/yssa-driftborn/yssa-driftborn-ultimate-right.webp","sha256":"99b6a49fc3cb34845b632ae2bea83c22b0244454b4086cda4810d85ebb446826","bytes":183888},{"path":"final-assets/battle/control-icons/auto.webp","sha256":"6d00c7b04afe0f6d4444a7721eb73343cdbe6aa66ea29132e99f7b98bb436077","bytes":9930},{"path":"final-assets/battle/control-icons/back.webp","sha256":"f8ff445e2ae8f882a8a104d8ce94002b7e205fb5c6059905538ffa0acd80f9c5","bytes":9296},{"path":"final-assets/battle/control-icons/exit.webp","sha256":"3d3892e5bf89b016cbefb0fb9fc723c37009769088822e382d38daadccca5483","bytes":10264},{"path":"final-assets/battle/control-icons/pause.webp","sha256":"caf3332ec9ecc2e6f3ca5a553f3109e7c696886ab3070218fe5fb15dc739e19a","bytes":8910},{"path":"final-assets/battle/control-icons/play.webp","sha256":"a431de1b6a2cf999454c272fb1bee19f55d70d8b014ea5b6c89bd2fa74b89ec9","bytes":9140},{"path":"final-assets/battle/control-icons/speed.webp","sha256":"b873ab256208225dc4fa6873fc4aae7cdb9ed231e684a1156fe5b575f32952c2","bytes":9458},{"path":"final-assets/battle/courtyard-ui/altar-console.webp","sha256":"a15a989f4765ea9209ee18a1a73e552b6a644c342c9785ab58621707027493ef","bytes":22134},{"path":"final-assets/battle/courtyard-ui/gate-lintel.webp","sha256":"492e589ae76fcb62e2484cef549f9c6bfa928a4e6f0c75e999e55208c08a54d1","bytes":27708},{"path":"final-assets/battle/courtyard-ui/rune-flagstone.webp","sha256":"0e86d091dd9ed244ab97395cf728b4182cd2038c6dc8ad33984a8f6ef20e4560","bytes":8438},{"path":"final-assets/battle/courtyard-ui/start-battle.svg","sha256":"6d67324d8fda235b92414eab05f32335c87f9323ff3bac4095d6b50dbbd0279f","bytes":2395},{"path":"final-assets/battle/deck-gauges/health.webp","sha256":"76587c8b5990e160366eae169f264dcccd9ad232408c2d373d8159c32c122d7e","bytes":7160},{"path":"final-assets/battle/deck-gauges/ultimate-charge.webp","sha256":"4cc43a328b735ba76f7d079ff06f2696d7e3e2e567cb1b78e9efe47f749fed12","bytes":7760},{"path":"final-assets/battle/deck-gauges/ultimate-ready.webp","sha256":"2329be9a120657762c02e8e44b35cb4250becca4fdc7926eff5d3eda21396c4d","bytes":8246},{"path":"final-assets/battle/deck-gauges/ultimate-seal-ready.webp","sha256":"b1e8ce199ac9a630ef053ee2e502ebbe5f2da1a0b078760c3dcde0094aeb6d8b","bytes":5746},{"path":"final-assets/battle/deck-gauges/ultimate-seal.webp","sha256":"42b2e06e4c15228806684decd13f85718017e82f18560c54750c239c2f4a697f","bytes":5108},{"path":"final-assets/battle/deck-portraits/archmage-eloris.webp","bytes":33606,"sha256":"54c58de5c2229b72448ab86da4e716b3f544f7f51ca3b1916a916e8b631ffd03"},{"path":"final-assets/battle/deck-portraits/cinder-vale.webp","sha256":"05086101226ce060ce8fb25352a13c0e4c883b094a01069091cd15e96377ee0d","bytes":17924},{"path":"final-assets/battle/deck-portraits/dusk.webp","sha256":"f3cea213c6bb538452c8d995f8d31b0a787435ac25342c1052702f9fc7fef437","bytes":16396},{"path":"final-assets/battle/deck-portraits/frost-warden-kael.webp","sha256":"72cee0eb2f820a33c3ba7980d652f99121551010c041ad7745da9b243d18b50e","bytes":18390},{"path":"final-assets/battle/deck-portraits/lumen-solis.webp","sha256":"083568ed5c9e5025587186f86fbccfb60864453cc2f2135a5024cde484a7b4ab","bytes":22990},{"path":"final-assets/battle/deck-portraits/neris-rimeweave.webp","bytes":17000,"sha256":"fd8f1564e5b045238377642b8b14f793fdf3b60362fef7042e87f3620959a309"},{"path":"final-assets/battle/deck-portraits/pyreth-the-branded.webp","sha256":"83426a092d9bef1ea6c0ee64a1218c03dced799d1b33169aa6442b7a7730ea16","bytes":15622},{"path":"final-assets/battle/deck-portraits/sera-ashveil.webp","sha256":"f728f836d74f4543825599c236198b52932f5666ed208d48562db7a7f0ba036e","bytes":19052},{"path":"final-assets/battle/deck-portraits/stone-sentinel-gorr.webp","sha256":"e883f1bb5c12612bcf3b541bdb61f6461dbd9395c142e526a02cb8c2ef3afdda","bytes":17750},{"path":"final-assets/battle/deck-portraits/tavian-emberstep.webp","bytes":18674,"sha256":"7c6bd896d32f4b7e405a767946b34fd5502b4d56e887d0828d44dd31c93b39ff"},{"path":"final-assets/battle/deck-portraits/yssa-driftborn.webp","sha256":"821e63b502a1d0ce5d54f3fdac72d09558eb0794b005707fc89d12480e334d05","bytes":16938},{"path":"final-assets/battle/effects/buff-gold.webp","sha256":"dd538d9a5350ef717ed29f321ec0861a917095a4a9ffad405c832844706a3711","bytes":155450},{"path":"final-assets/battle/effects/debuff-violet.webp","sha256":"53b2fe307c0a8a3954c29f3c977d60260f4a89730cf78d34989225cc71d79b74","bytes":93674},{"path":"final-assets/battle/effects/frost-arrow.webp","sha256":"1e26bad8b7c3182f3b9d1a0b49e8d1725eb1eb885200da0760755d5c1d1bf4d9","bytes":3414},{"path":"final-assets/battle/effects/heal-restorative.webp","sha256":"f4e233ddaca58c879e6a7d59225b78cf3ce3c451506b8fd975444171b98c5b89","bytes":231880},{"path":"final-assets/battle/effects/healing-blossom.webp","sha256":"f7e1b84dab60dbb50cfd3eeac9debd3858e112f94fd435d076da7d264e22ef62","bytes":3830},{"path":"final-assets/battle/effects/spell-bolt.webp","sha256":"cea6eddc0f9654ee9f52184483e95de09a439e124606725d9ee189ddd988bc34","bytes":2906},{"path":"final-assets/battle/effects/stun-spark.webp","sha256":"e69655c691416ad0ef1c7b46179ddc9981326df4a850daeb96971a1efa9f6ffc","bytes":121702},{"path":"final-assets/battle/enemies/briar-guard/briar-guard-attack-left.png","sha256":"eeacafe8dc8ab50125846440a21769f96248ed44381d1e7ac267ab66132ec4db","bytes":38820},{"path":"final-assets/battle/enemies/briar-guard/briar-guard-defeat-left.png","sha256":"6ef8b8626a1d3fd1116b91a3075a6d9cfb832573432cf738d4ef5c1029932049","bytes":46258},{"path":"final-assets/battle/enemies/briar-guard/briar-guard-hit-left.png","sha256":"a778a4262d6e01e8aa69e9911ccf635539a37ff8af18dea12b1fb0cee19d0cf5","bytes":51812},{"path":"final-assets/battle/enemies/briar-guard/briar-guard-idle-left.png","sha256":"510d0de79c9a8df2f8638368c397d4f60c90968b95ac925a683be1b87208d391","bytes":48850},{"path":"final-assets/battle/enemies/briar-guard/briar-guard-move-left.png","sha256":"6296fe2de67f2bcbbf7ffa978f4ac7ad8f18065b7f24be489f31a5d02477fc44","bytes":55987},{"path":"final-assets/battle/enemies/briar-guard/briar-guard-skill-left.png","sha256":"f687269c3ff8861c554941164c5f9951725cc797172cbb4d717b5d2c34beec5d","bytes":50756},{"path":"final-assets/battle/enemies/briar-guard/briar-guard-ultimate-left.png","sha256":"e2859ee5219e51bc51f9aaa1eb49c095c675431ad093a009a4cc832115ead1e0","bytes":54004},{"path":"final-assets/battle/enemies/forest-scout/forest-scout-attack-left.png","sha256":"9d00a1a2e92b6056f97ea62a90c9a7f0cf2cab91720de11b4ac19519c2f7bcc9","bytes":97403},{"path":"final-assets/battle/enemies/forest-scout/forest-scout-defeat-left.png","sha256":"eced11014df68ce9a0047821d57a952dd9b5e0af55c976d3da104ea319c0108c","bytes":84471},{"path":"final-assets/battle/enemies/forest-scout/forest-scout-hit-left.png","sha256":"ef317f89d8b20045a557bc5b24d1e1f34467574d1859d753b4c80248dd789e9f","bytes":83365},{"path":"final-assets/battle/enemies/forest-scout/forest-scout-idle-left.png","sha256":"8c4e375ff8d27882a40ef830dc860190efc975242a8bff468bc07277b402206f","bytes":101503},{"path":"final-assets/battle/enemies/forest-scout/forest-scout-move-left.png","sha256":"7ae13b8e7537d901b7237123f7d98877b95d4716f0715fe3fd83fb988d81d41a","bytes":103985},{"path":"final-assets/battle/enemies/forest-scout/forest-scout-skill-left.png","sha256":"27d7f7a46c410c8e6add27c1455c8b43059a8c8fbe2e30ecd159504981537f1f","bytes":111612},{"path":"final-assets/battle/enemies/forest-scout/forest-scout-ultimate-left.png","sha256":"9754ff69388e9e95c2c6f33de721f8c0340a1e227ff366d8c8345ca09107b97f","bytes":115540},{"path":"final-assets/battle/enemies/gatewood-warden/gatewood-warden-attack-left.png","sha256":"64bc5b122a6776cd2001998d4dbded0bf48b61e273d3803c6fcc7c84b934fa66","bytes":166586},{"path":"final-assets/battle/enemies/gatewood-warden/gatewood-warden-defeat-left.png","sha256":"128671624dff503168cd34afd23d0d274817f963d61a4b9b7e07f6495d27a624","bytes":161657},{"path":"final-assets/battle/enemies/gatewood-warden/gatewood-warden-hit-left.png","sha256":"c054b7a192c49363c4c62500c3119cb8613eac72f27d012410fb2635a5c4a1a0","bytes":164887},{"path":"final-assets/battle/enemies/gatewood-warden/gatewood-warden-idle-left.png","sha256":"12e2361b66f2670b836d0019c71b556bf0566aedd0b02d6c2c8dadeb0bfdd507","bytes":136862},{"path":"final-assets/battle/enemies/gatewood-warden/gatewood-warden-move-left.png","sha256":"adef0487520983c1571f26ce31e5085b8587faf693af122024a1ef977e61a890","bytes":143816},{"path":"final-assets/battle/enemies/gatewood-warden/gatewood-warden-skill-left.png","sha256":"5e64579ea3c685c255b52df1f4be678ea16cf5a777b1fa77da7bde8fab49bbf7","bytes":146363},{"path":"final-assets/battle/enemies/gatewood-warden/gatewood-warden-ultimate-left.png","sha256":"a621208ea1531746a6eb4342bbb429ef7df7a9ee504c4289cba37e860ca51aa8","bytes":147534},{"path":"final-assets/battle/enemies/lantern-moth/lantern-moth-attack-left.png","sha256":"510f84ce8a78352cac45a964fb97750e244c11453a49b3eba1edfe50605864fe","bytes":27968},{"path":"final-assets/battle/enemies/lantern-moth/lantern-moth-defeat-left.png","sha256":"79fc57d2cfe566b1594799aba6e1957d28262e2597e73e6d0ebf0466bc9f7ded","bytes":24281},{"path":"final-assets/battle/enemies/lantern-moth/lantern-moth-hit-left.png","sha256":"8f71f29855b7567c110f72f866fba8460de8066241ef2ed885dc381722bd4347","bytes":35000},{"path":"final-assets/battle/enemies/lantern-moth/lantern-moth-idle-left.png","sha256":"cbd921a96aca25e3319260e92f6e8d5b6d4d87395c38efe2da22dc338a39c3d1","bytes":29768},{"path":"final-assets/battle/enemies/lantern-moth/lantern-moth-move-left.png","sha256":"ba8fa6d06cff08ca04d747c244bcab29c6709a04b248016555974179a0bce977","bytes":34237},{"path":"final-assets/battle/enemies/lantern-moth/lantern-moth-skill-left.png","sha256":"c59926cff50a98ad61582fcb85e0c1edff092a5bab01aa963ee439f48b998cb2","bytes":34521},{"path":"final-assets/battle/enemies/lantern-moth/lantern-moth-ultimate-left.png","sha256":"763330105e62abd9373bcd6d8682ab88a1c4b9335fb90701efde635c08356321","bytes":35394},{"path":"final-assets/battle/enemies/location-roster/buried-seer.webp","sha256":"acbff2315992a82eee1684a186e240584c7f2bcc87fba2cb5979ea82e5186a8a","bytes":57130},{"path":"final-assets/battle/enemies/location-roster/cursed-arcanist.webp","sha256":"7448391f7eaacdcdcc92ba0d3f0daf899273260b5e90b4a04b8f996f4638ba7d","bytes":63220},{"path":"final-assets/battle/enemies/location-roster/cursed-heart-avatar.webp","sha256":"678d52f0fc8f59d2374f059899dbd0c56a3acaff9f39e9ead5a83c4300c80874","bytes":58708},{"path":"final-assets/battle/enemies/location-roster/cursehorn-beast.webp","sha256":"f3cfadf2520fe30cdebf37a60bc91f6fbc57390ceefbcb697c81f810b2dca51b","bytes":62824},{"path":"final-assets/battle/enemies/location-roster/den-keeper.webp","sha256":"4a52f372615835e1816dc58ca3f623bddf8d768dd106a060505fd900cdf4377d","bytes":56626},{"path":"final-assets/battle/enemies/location-roster/denmother-varkai.webp","sha256":"68c81bec5c56d0351fd3b815930b47226ffd2f682eedc27ac51ee7c766417120","bytes":76838},{"path":"final-assets/battle/enemies/location-roster/elder-rootseer.webp","sha256":"afba7dc7c141b203f5dd363369cf59a9600ca022a35eae57e867d547809bc87d","bytes":73636},{"path":"final-assets/battle/enemies/location-roster/forest-wolf.webp","sha256":"a470c8f5111399875874a96def5d3dedf69a5a618b8f885cee814b3b0ef1417f","bytes":35822},{"path":"final-assets/battle/enemies/location-roster/grove-wisp.webp","sha256":"5b66aee97c45be0fe6d628debe82a30db1edc0a76ddce9196dd98c6973014795","bytes":19548},{"path":"final-assets/battle/enemies/location-roster/heartbound-guard.webp","sha256":"18ab8e8b8a4254b2c73e92482fe85875b7aa2b84d4c2d68eebbf3514263cee37","bytes":77796},{"path":"final-assets/battle/enemies/location-roster/heartwood-tyrant.webp","sha256":"f499b5fc61acabbbf3ae2aabb524be7b294b8f03ec446c76286b36f68a7a5993","bytes":120618},{"path":"final-assets/battle/enemies/location-roster/hollow-antler.webp","sha256":"12c7adb4b6c6da1c2d0075f977a2daa3092f080c78368b1d9501ac1b1bda96f2","bytes":39596},{"path":"final-assets/battle/enemies/location-roster/moonfang-hunter.webp","sha256":"525672599d6922af8cd39791e2a48a2b2f3c75ffafdbc88d5dc39f5f10d306a5","bytes":41060},{"path":"final-assets/battle/enemies/location-roster/prism-archer.webp","sha256":"7c87492cfffcb17eb0298dadc396356d34323d3458227e42fc69306ae8eecb20","bytes":63898},{"path":"final-assets/battle/enemies/location-roster/prismheart-dryad.webp","sha256":"63ae0d025d2c4c9809199c09e431630a301c049353a2fbf22f453366902034dd","bytes":121920},{"path":"final-assets/battle/enemies/location-roster/root-crown-colossus.webp","sha256":"f286db650f498064fcebacaa31b44f026e72ba3fa4145c8ed21eb6684e92b08d","bytes":118042},{"path":"final-assets/battle/enemies/location-roster/root-warden.webp","sha256":"1905594fa9d0173d1c7b67f986d63cf3282a0ce523c5aafd360bf37fd8da2a5c","bytes":70950},{"path":"final-assets/battle/enemies/location-roster/rune-sprite.webp","sha256":"b6f3e246365a51b513cd45eb39845ed4901c0eacb5e30feecd2cb9a791d3f25c","bytes":41754},{"path":"final-assets/battle/enemies/location-roster/thornbound-mage.webp","sha256":"aba71ef7733d27be24cac4a0d56a8a1d94327c41fa00a03642c604feccf07e63","bytes":58790},{"path":"final-assets/battle/enemies/location-roster/umbral-keeper.webp","sha256":"e2d83fca8ddc3afb2c1fa3782c0963b2c0e854b7cd5cd8ca489eb5f8330680b5","bytes":43476},{"path":"final-assets/battle/enemies/location-roster/violet-antler-lord.webp","sha256":"eecede3ae20cfb40d8c9edf35e7be926b6f09e6b05de8635d8ed6bbb3ce9302a","bytes":67172},{"path":"final-assets/battle/enemies/location-roster/violet-sovereign.webp","sha256":"e8629922dd970f8ae0317d26819a522013d06da31ae4bc583fee0dd942666706","bytes":129368},{"path":"final-assets/battle/enemies/location-roster/violet-stalker.webp","sha256":"d84faf7e30dcfbde85f105092d9d85784a9d2df812105afe68a62f8b932096a1","bytes":44944},{"path":"final-assets/battle/enemies/location-roster/wild-magic-echo.webp","sha256":"875b8dfb053b3ae15be58025350aa22dadbd8da0863745377b2e9416c47f4cc0","bytes":52926},{"path":"final-assets/battle/formation/courtyard-formation-tile.webp","sha256":"6d6b8278c07192414617276ccc7185c0c83d787b3112cc3c177739bdbd556b9c","bytes":10314},{"path":"final-assets/battle/rigs/cinder-vale/back_arm.webp","sha256":"69654b33e4b079dcc9ee99b3a3bae6dfb0845f51980d2756f55b916da891dc14","bytes":14602},{"path":"final-assets/battle/rigs/cinder-vale/cinder-actions.webp","bytes":488414,"sha256":"467f4345db79ca99674bc64cc8ab5275c2bb4bf9361d4d479b5d7e4fce9b9e81"},{"path":"final-assets/battle/rigs/cinder-vale/front_arm.webp","sha256":"663498d82c33b16de01e8f8db6fad528979d373f73bc206da28f40eb439f1c7b","bytes":11026},{"path":"final-assets/battle/rigs/cinder-vale/head.webp","sha256":"85ba70aa57a015475f0b6d2d3c4625ad482f27578048709560ed6760b6e5db57","bytes":6378},{"path":"final-assets/battle/rigs/cinder-vale/legs.webp","sha256":"1a405974a08ab39bf6be259dc5a2579da2545fcbd1357167642d67a06695f3b5","bytes":38474},{"path":"final-assets/battle/rigs/cinder-vale/torso.webp","sha256":"638fe6a1ac3ca4c89c25cc6b7bc2ea260fda25b6539f3939a23ed5fd63981b4e","bytes":12944},{"path":"final-assets/currencies/lesson-scrolls.webp","sha256":"c2cfc707c3687b9f1d930697196347212654e98f5dc2b6e0a723c039153aeef7","bytes":6844},{"path":"final-assets/currencies/purchase-plaque.webp","sha256":"52127c8667f08c2687378452796c709070cd93790cc26e18faeea93cfe2a7781","bytes":16404},{"path":"final-assets/currencies/training-seal.webp","sha256":"5a22cafa8fb2c6c2598686aff2fcafc90d98cde5883c4281811717666231700d","bytes":6240},{"path":"final-assets/equipment/heavy-armor.svg","sha256":"d0441c04899581ba44093ebbd15fdedfde31605cc90ef56a9b795684599fa4a2","bytes":606},{"path":"final-assets/equipment/heavy-boots.svg","sha256":"6cf19337ef98dac78f634d6d5c6a4e23d99362f48f78bb05729cb554174ccb74","bytes":583},{"path":"final-assets/equipment/heavy-helmet.svg","sha256":"c92ba4a882ce1cdb5f0728070876a3eec73a8c841ec0809317f3cc7248866619","bytes":588},{"path":"final-assets/equipment/heavy-weapon.svg","sha256":"0c412d044e798a45c6821d71a10b9c26e9b0d67f10afde7a32a2b667e768a223","bytes":619},{"path":"final-assets/equipment/light-armor.svg","sha256":"0c92a623fb341008a0d38848862de7c5f128598309a32ea081d960712cf8de46","bytes":622},{"path":"final-assets/equipment/light-boots.svg","sha256":"57fc7d619ccfa593b461cf882d265a8fe0265aba99f7f210b189b431df7559b7","bytes":623},{"path":"final-assets/equipment/light-helmet.svg","sha256":"1f0e914da7d3ab6216b9c54bae3604fd8ffc713994d13b393733804296dc052b","bytes":596},{"path":"final-assets/equipment/light-weapon.svg","sha256":"9e93cde80ea10f9f4b69b8ec13d7d843b06db212f6dcbcf4ffb9a2e92a65766a","bytes":559},{"path":"final-assets/equipment/magical-armor.svg","sha256":"d9314a50a74013b665f994337086ea5f88b1fad63baf8252533d840e14875268","bytes":612},{"path":"final-assets/equipment/magical-boots.svg","sha256":"1f322a3148b3a9beaa6ddf7ea0889fe0d9b571bd32a079b14272effde5dfb46a","bytes":645},{"path":"final-assets/equipment/magical-helmet.svg","sha256":"c99ad3923766a52fc72495188b0ea5bdeb7dd3a44df573719131529e6ce0c8aa","bytes":605},{"path":"final-assets/equipment/magical-weapon.svg","sha256":"ebaf293a6a6ea99c4e5aa7f7c29ae171c6003a81225ea9e00f2b56e6b143ff91","bytes":603},{"path":"final-assets/expedition/academy-master-portrait-v1.png","sha256":"bc4428fe1b55e925e7f8ff7b5da77e962c0d927438dba92cbc0bfbdcaab51bb0","bytes":72712},{"path":"final-assets/expedition/location-backgrounds/ancient-roots-route.webp","sha256":"0e74e6d0f0e36e5ffc2e2461d8234f6d194ab7ead03161b1468ec59091ad8eb2","bytes":275118},{"path":"final-assets/expedition/location-backgrounds/deeper-woods-route.webp","sha256":"a102b6853455fae04b9931031dc793506c54de39d82e1781735745fbd5aa692b","bytes":260182},{"path":"final-assets/expedition/location-backgrounds/forest-gate-1-1.jpg","sha256":"283d96be88894a58af0061257fb75dd2f161bceec6eef3115622ee14e98a161b","bytes":277795},{"path":"final-assets/expedition/location-backgrounds/forest-gate-emissive-1.svg","sha256":"0b7a6d33d2d66c9427c5efdf3edb225efc3537f1f6739d1b9be4f316722d99a5","bytes":70109},{"path":"final-assets/expedition/location-backgrounds/forest-gate-emissive-2.svg","sha256":"db73a8e886b7cac070c8e8404a86b96cbf46d6ff833649f04ebea5ad5337de27","bytes":76641},{"path":"final-assets/expedition/location-backgrounds/forest-gate-emissive-3.svg","sha256":"982456f4d136bd1bb5b12d841592b8d59aba3f53e0ae4f4ebfb3a547c277058c","bytes":49925},{"path":"final-assets/expedition/location-backgrounds/forest-gate-route.webp","sha256":"8e8d52b21691ea9417e3b39b2fa7078b0f66b8471ce1646dab53b63da0df8581","bytes":350644},{"path":"final-assets/expedition/location-backgrounds/heart-of-the-curse-route.webp","sha256":"a53d14de83a4724d7dbfe9e4481f8d9a84dcfae63707180bab51849f8d489295","bytes":325056},{"path":"final-assets/expedition/location-backgrounds/sprite-grove-route.webp","sha256":"1e4395796e26d7181ef1a11b0f996d04967395823a1dca7ad29b0366176fa867","bytes":330634},{"path":"final-assets/expedition/location-backgrounds/wolf-den-route.webp","sha256":"ca65c9209e84dd468b42473534976ba026eebefbab16ae09c4a4d0f9b794fb47","bytes":370784},{"path":"final-assets/expedition/location-nodes/ancient-roots.png","sha256":"1d16f4d787721c2e2eda8132dca43b661a585406569378bce41ca7b22842f60a","bytes":82680},{"path":"final-assets/expedition/location-nodes/deeper-woods.png","sha256":"9104af06881494fcc4acbe9c02b2f0ba6638bb784b5e7ee2c788b9c63a5ce309","bytes":68974},{"path":"final-assets/expedition/location-nodes/forest-gate.png","sha256":"66e3eb81cd1d15396ad26dc56e198dc616c4cd6c9c390c03ba68f7bd43c3d4e9","bytes":53934},{"path":"final-assets/expedition/location-nodes/heart-of-the-curse.png","sha256":"39190efb70756d3ff644926e5664faabd86b052a4398a3d177b080e6b80e2d04","bytes":73896},{"path":"final-assets/expedition/location-nodes/sprite-grove.png","sha256":"b513bba591b0f17b9dbbd148ae2ed564410d3ea389dccb349a98f373d2286625","bytes":55879},{"path":"final-assets/expedition/location-nodes/wolf-den.png","sha256":"b305b9622d3d81f4b7f101f658ef302277b5f0b0feb59d3f43e851f324a82fb2","bytes":88115},{"path":"final-assets/expedition/location-preview/ancient-roots.jpg","sha256":"df3b29f70742575b15d1e6866b163975bf01ff453ab62155f8faba1120fd8909","bytes":476148},{"path":"final-assets/expedition/location-preview/deeper-woods.jpg","sha256":"c3f1b4cde683a3f709db219b400d698051fda4c16c8c440ea34dab5445dd6316","bytes":349624},{"path":"final-assets/expedition/location-preview/heart-of-the-curse.jpg","sha256":"33657d69bd63c39bf97e83b6cf14dbb13088e11c66d2c138fdb33f9f5b6aef1e","bytes":406884},{"path":"final-assets/expedition/location-preview/sprite-grove.jpg","sha256":"df8a04d6ca72b0559cb69c57fde5c38ce0237a9a41a61d4411e2e6ee5e7e2921","bytes":494189},{"path":"final-assets/expedition/location-preview/wolf-den.jpg","sha256":"9625f4fb471daa059fe2f2f4d0a95641f18cee9cf95e9730661e45bf1624216c","bytes":465178},{"path":"final-assets/expedition/stage-info-panel/academy-exp-reward-icon.png","sha256":"9f305cf950678fc650aa065c2210d24863d88cf5d6341874e02d34b5bbdecc76","bytes":50759},{"path":"final-assets/expedition/stage-info-panel/challenge-button.png","sha256":"0a56baea83491c27e8f798b1cb7de6549ebadb1403278dbc333850a149d65b57","bytes":211929},{"path":"final-assets/expedition/stage-info-panel/gold-reward-icon.png","sha256":"a5ebe3c2fe761877435d648275d664327933435ca9c9a69e5f2da4eb61e2b37b","bytes":92063},{"path":"final-assets/expedition/stage-info-panel/lumen-reward-icon.png","sha256":"e5f97618f89fb1d94e1e8fa3af12ec5217a2a77b3cc40947acd0c4acc023b318","bytes":23749},{"path":"final-assets/expedition/stage-info-panel/suggested-power-icon.png","sha256":"590db1b1f4ee2530039bcf92f2aa72008b631864fa420a7eed071cb02c4dad4a","bytes":31742},{"path":"final-assets/expedition/stage-nodes/ancient-roots-waystone.webp","sha256":"1677a1dc102854281d3a4b0646d3d760dac59c1e011eae1f437b1928b5830bdb","bytes":28578},{"path":"final-assets/expedition/stage-nodes/deeper-woods-waystone.webp","sha256":"e0ea55cf1fa2a5eed8adfad05b243cf7cc7278baf1e168235c234752add5768e","bytes":17978},{"path":"final-assets/expedition/stage-nodes/heart-of-the-curse-waystone.webp","sha256":"116407fb5673b18d7635c7c94497384e32dc0399fbb8787b23ce756c78748c44","bytes":20402},{"path":"final-assets/expedition/stage-nodes/sprite-grove-waystone.webp","sha256":"141f588d1c364dede0657d64e7f01a46892953fbba4955d8a2a280c779e397c2","bytes":12690},{"path":"final-assets/expedition/stage-nodes/stage-node-boss-available.png","sha256":"07bcb0612650d3eac30a5a100ad8840c7f6c2a77943909f0d86956dfb17d1e49","bytes":131272},{"path":"final-assets/expedition/stage-nodes/stage-node-boss-locked.png","sha256":"94b90db943baf9bad1b122de6908a7b09577a68c855ddc5ba57bc7d9d316af9a","bytes":88539},{"path":"final-assets/expedition/stage-nodes/stage-node-cleared-mark.png","sha256":"a751ec0ec45a6b1ab1b7b1fb0bb28fa26c4e03fa629202d351b909a6fd48e7bd","bytes":16899},{"path":"final-assets/expedition/stage-nodes/stage-node-normal-available.png","sha256":"a231fc6626425c4c2697fbff00821048d33d12ce12395bf733a710f8e880c17d","bytes":90029},{"path":"final-assets/expedition/stage-nodes/stage-node-normal-locked.png","sha256":"283c39f060ab647125af4576be48d6d3f1f66751f193914f657f3a38e6beb231","bytes":64582},{"path":"final-assets/expedition/stage-nodes/stage-node-strong-available.png","sha256":"58000d6a1e263a562b97a6bc9ff926cf2317177e95ba2f3a349a5719acfafc42","bytes":108481},{"path":"final-assets/expedition/stage-nodes/stage-node-strong-locked.png","sha256":"7ec4fdb801bd574c5e4aee6c6739ed984c3a314a201901cd40bda476e4e17d06","bytes":87301},{"path":"final-assets/expedition/stage-nodes/wolf-den-waystone.webp","sha256":"99b94c8d8a703abe34c8208410f5b75285cc7072cd291ad35266dcd6ade1fd3e","bytes":14328},{"path":"final-assets/expedition/upper-hud/energy-icon.png","sha256":"fc88a9427be3d8ee691aec871dddeed1a1d363fa185951ed776818f17ef66613","bytes":39256},{"path":"final-assets/expedition/upper-hud/title-divider-ornament.png","sha256":"3c4aa85bf8f2ad5fcd362e4e8fdf546657caa5a2ea1a1ad5c8cf51f2a35490fd","bytes":28154},{"path":"final-assets/expedition/wild-forest-atlas.webp","sha256":"1c90b031ea4428b3ca470ccbd096d060d970fe5684adecd079a4511c5414f9d2","bytes":444332},{"path":"final-assets/expedition/wild-forest-expedition-bg.jpg","sha256":"0cbf84eb9e293ef89ae7f618ad522e92ee4c280107f8d3cbd269792f544cec37","bytes":511496},{"path":"final-assets/expedition/wild-forest-sky.webp","sha256":"7b9e3c18319f4169ef455ba3ac0426463d9508642c2dd1478a218cbd56f65975","bytes":3974},{"path":"final-assets/launch/arcane-launch-crest.webp","sha256":"ef61f57f872c5a6bf89ae45c8c44d4472503551ebdd2120bf83544ae5c63f916","bytes":16128},{"path":"final-assets/navigation/bottom-tabs/README.md","sha256":"182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4","bytes":1071},{"path":"final-assets/navigation/bottom-tabs/academy-tab.png","sha256":"1bba8a315a811ffa28baf637fd586458584204449cfb45e4e6f0c435bd708899","bytes":77465},{"path":"final-assets/navigation/bottom-tabs/archive-tab.png","sha256":"5d9189e860f10d9bd005e870dbd695d8b8a3a1c371c5d027a07bafe5ce62f72a","bytes":74383},{"path":"final-assets/navigation/bottom-tabs/asset-manifest.json","sha256":"f57f16ecd1ea66ca568fe72b6b84231c5b24d3acdd094a6d92dd7ba97156c5da","bytes":5030},{"path":"final-assets/navigation/bottom-tabs/expedition-tab.png","sha256":"1c9e700104923abceedf07e372db45ef0e89c80d0b50acd67d7378d4a5185aaa","bytes":74676},{"path":"final-assets/navigation/bottom-tabs/summon-tab.png","sha256":"1d83970bfe8dde605b71538500831ecf4ca88ec5e830d9c1c1d826c0cc37a5a7","bytes":70727},{"path":"final-assets/navigation/bottom-tabs/trainees-tab.png","sha256":"e81e5c5fe92d21772ef850d2cd5307e0b5d786ab81a1392d5483cd1d8f51fdac","bytes":68600},{"path":"final-assets/summon/aether-crystal.svg","sha256":"86b5c2fe881e58f076abfdcc249b8792c0940ce1d5e7dabff28ce1626b2017cb","bytes":583},{"path":"final-assets/summon/recruitment-divider.webp","bytes":14050,"sha256":"8f0b5b13c2ee67c2be0f45a4e62a034cf041de24f62a202fd540e8fe6e6cb31d"},{"path":"final-assets/summon/recruitment-hall.webp","bytes":123290,"sha256":"b9744030dc50d5007437f6993d79c20f532b09128868f617f818190efd6bf0cf"},{"path":"final-assets/summon/ritual-chamber.svg","sha256":"289e00e9c6c90f9b86113bd13b673fa12815b2e8d575594406d8d793bc79eca8","bytes":4375},{"path":"final-assets/summon/ritual-sigil.svg","sha256":"b891298a5131bd78e7fcc6de271afb8aea0ff4d63d4c88abef4e9158cd339780","bytes":1536},{"path":"final-assets/trainees/action-gold.webp","sha256":"3aa59e537107d6767795efe25339ae5b30ac9b015b416aa85f938001755bc3d3","bytes":5612},{"path":"final-assets/trainees/action-navy.webp","sha256":"d13c1d4aa0328aa61d89fabfc887ac1b2fff6be3256900130d0c5b8feab04d50","bytes":4376},{"path":"final-assets/trainees/affinity-arcane.webp","sha256":"955a78b537aabdc3c3ffdf20d1d0f74f22ec42c74f2fe00d2f0d726f92958a13","bytes":6452},{"path":"final-assets/trainees/affinity-flame.webp","sha256":"fc6049611b8d66558330334803c30cd1c91c0664690a25e2661703e29337f375","bytes":6550},{"path":"final-assets/trainees/affinity-frost.webp","sha256":"838a3e7a699f31f67bd7de2f65a25b773b558dd174bb0a030551f40c8f0e067a","bytes":6404},{"path":"final-assets/trainees/approved-rarity-frames/common-battle-mask.webp","sha256":"8762e3aa47646affc7abb69cbc390b00c453520cbc126f83d86b623ade1528a9","bytes":940},{"path":"final-assets/trainees/approved-rarity-frames/common-battle.webp","sha256":"f53eb9b59f6e83d11fcfa3b8ee1e7b79bbc064be560c3bde6cc8326b9d6196bd","bytes":18082},{"path":"final-assets/trainees/approved-rarity-frames/common-roster-mask.webp","sha256":"d4a41f5978923fb4c6223faf253bdf756312da3ac8a5b8c011acf578af4354b7","bytes":810},{"path":"final-assets/trainees/approved-rarity-frames/common-roster.webp","sha256":"bb8d66b3381ab191ce6e23f4fe0bc35c05edf320d03871c94541dc54a78b011a","bytes":15774},{"path":"final-assets/trainees/approved-rarity-frames/epic-battle-mask.webp","sha256":"c477c26e122af6fdd67996246b70864a3546264a6c11444858ea62dadf71ff77","bytes":1368},{"path":"final-assets/trainees/approved-rarity-frames/epic-battle.webp","sha256":"363bead1b2b0358307ea409ea78b1d1a5c4e8e17df41d2f5a4cb772b55f0f6df","bytes":32878},{"path":"final-assets/trainees/approved-rarity-frames/epic-roster-mask.webp","sha256":"64790c3303af5d66c429eb4cbd3a171ebc870a0d5b93356c617218894ef1e7ac","bytes":1242},{"path":"final-assets/trainees/approved-rarity-frames/epic-roster.webp","sha256":"4486d7d595755168dced461fa5ebfbfb4d555c699cb1ec296524c4ce5a5dc8ec","bytes":28372},{"path":"final-assets/trainees/approved-rarity-frames/legendary-battle-mask.webp","sha256":"1b17e4a1d5c0dd0d633c5fcc6c6bad29b965c58aa86a6508ba0f03314b57b998","bytes":1964},{"path":"final-assets/trainees/approved-rarity-frames/legendary-battle.webp","sha256":"71c447f92545e1e37289edf8044f08abda54335e6756a135ec0a8a30a4cd1939","bytes":45268},{"path":"final-assets/trainees/approved-rarity-frames/legendary-roster-mask.webp","sha256":"7be29dcc6d07bdb8768958dcc715d29408438784f0de3cdb955d8e13fea4ea95","bytes":1692},{"path":"final-assets/trainees/approved-rarity-frames/legendary-roster.webp","sha256":"f5d55f7d273d5ae46eeb14002d335a486dd690e87200522e1a1ff0f5db89a3ce","bytes":37824},{"path":"final-assets/trainees/approved-rarity-frames/rare-battle-mask.webp","sha256":"b50b099dcc387cf211aa00e9ef0897b92e42fb1bdbc60e2560d31c09ca9d3425","bytes":998},{"path":"final-assets/trainees/approved-rarity-frames/rare-battle.webp","sha256":"d35fd2daea0cec83fd90a2c2e4bff00fdb9b76bc5df2c09306e064e695b668b6","bytes":28588},{"path":"final-assets/trainees/approved-rarity-frames/rare-roster-mask.webp","sha256":"bfd62aa07977776d0696c7d3abad6605f6952e240cca40be689aaaac49122793","bytes":828},{"path":"final-assets/trainees/approved-rarity-frames/rare-roster.webp","sha256":"42420ffa2f7d9505b9e92f976f8094476d5f73024a205ef7a5198d4a898690f8","bytes":23550},{"path":"final-assets/trainees/approved-rarity-frames/uncommon-battle-mask.webp","sha256":"119cae6bc6cfff102ba3bf995b2c94addd825c16e6e105f07f37d290b464538a","bytes":828},{"path":"final-assets/trainees/approved-rarity-frames/uncommon-battle.webp","sha256":"402b23599395a6683327cb47b0b8dcb0044630fd5cb8deaa9340f9bf48eb79c0","bytes":23218},{"path":"final-assets/trainees/approved-rarity-frames/uncommon-roster-mask.webp","sha256":"bf3f2a53076bda21b5659ed30fb7c1cc6e8d0e64564994a00db636f0d150c5ad","bytes":758},{"path":"final-assets/trainees/approved-rarity-frames/uncommon-roster.webp","sha256":"4ad60b8fc2e9d4dc0d348a4854b81b42bd40fb5d23fe962548526c897da8390a","bytes":20220},{"path":"final-assets/trainees/cinder-vale-card.webp","sha256":"cc12e8b0bba9e84ffd018632cacfc23efb54ace50c6ec6a89c0d57c23336bc2f","bytes":20248},{"path":"final-assets/trainees/cinder-vale-showcase.webp","sha256":"8bae4b2b45068c38c6dd690a6a9f1c9290c2772e5773dae3a6f489b682876cd3","bytes":98502},{"path":"final-assets/trainees/dispatch-scroll.webp","sha256":"41d4c465e8817547f0911ebfec785886d1a7ba61c4fcf4319069ddc13399c685","bytes":8542},{"path":"final-assets/trainees/dusk-card.webp","sha256":"cc12dd82b42fbb5b84864ec83f107e742067e3626d82e06c14cc496feecc9ef9","bytes":12770},{"path":"final-assets/trainees/forest-gate-shield.webp","sha256":"cf7c88eb9cc854f36f65ebe848c28d298a7e8186c6474c01dcbc9b81ad3c7349","bytes":8468},{"path":"final-assets/trainees/formation-party.webp","sha256":"9072b46c34a31180b340547557731f09a1fd22cd1eca2a203bacc2d882cd6ead","bytes":6998},{"path":"final-assets/trainees/frost-warden-kael-card.webp","sha256":"3a226e8d4502b2b894173e8615abb2e8d34dabc50a598a6ddb0502a784ca90be","bytes":15512},{"path":"final-assets/trainees/lumen-solis-card.webp","sha256":"dfb73339f58d883497d928ff58a62afd145babf8f2424736e3667686e8d95467","bytes":15464},{"path":"final-assets/trainees/panel-trim.webp","sha256":"67f7790e3dec6d508cc3b456a0d9b806bbfc1ea5494c0f478586e0ee4e69ee34","bytes":7962},{"path":"final-assets/trainees/power-fist.webp","sha256":"39612415f91841cda8c4f774d48e7424c81b21e6bfb24925b3d778075609b1fe","bytes":7896},{"path":"final-assets/trainees/profile-crest.webp","sha256":"9cb9eafe7aa60eadfee27b2588bf5c6dda0bb7a27946a5a59b36dcc749e196b6","bytes":30858},{"path":"final-assets/trainees/pyreth-the-branded-card.webp","sha256":"a658cc75d40962835297a7b8b10e6cdd984ccff52a9ae4a6072c70f44f0e7e8a","bytes":13278},{"path":"final-assets/trainees/rank-frames/ascended.webp","sha256":"9210a96e04ab57508d52c1b81e5ae159f9b297013794fdf2d860e3a8814420bd","bytes":6826},{"path":"final-assets/trainees/rank-frames/common.webp","sha256":"61d2b31a95cf00d1a85b90c130d418ee7bc0ea9cb51d1c8bcb86f29cb69d37fa","bytes":3818},{"path":"final-assets/trainees/rank-frames/epic.webp","sha256":"28675a5f24af60493e9b1a5e1755b08f37ddbd29db8f98865030901dc19e0131","bytes":6240},{"path":"final-assets/trainees/rank-frames/legendary.webp","sha256":"9d8a81cac11339f74fc5d29154d77387d1a7df3668a4b7e11699c83bcb6a59cb","bytes":6480},{"path":"final-assets/trainees/rank-frames/mythic.webp","sha256":"fd2059b1e54d1e1b9dc1804c489e9c47a914ee484f5d29e0d9fab63d44230af9","bytes":7394},{"path":"final-assets/trainees/rank-frames/rare.webp","sha256":"dd51a59391df356693f33f307dbd5310ed019d4976c37bf228e61fcdcc21b29c","bytes":4822},{"path":"final-assets/trainees/rating-star.webp","sha256":"95cf0e11b1b57646f84ff95136f747688824b987858908745ba4ba1cd2d2fff5","bytes":6492},{"path":"final-assets/trainees/role-compass.webp","sha256":"ae6228d8d3987afe1b7f4203ae42e6eb7e1dcf4d33de473c2f75c1949dee20c5","bytes":10048},{"path":"final-assets/trainees/sera-ashveil-card.webp","sha256":"204ad333c7cd2bc83d3b28619f5ecedc3c74d13ec1b51d2cf06bad569be24c91","bytes":16854},{"path":"final-assets/trainees/skill-rift.webp","sha256":"89bfc449baf19e0036aae6bbe219ca3d4b0d8e489130fbe4e1944fc18c9a76af","bytes":7210},{"path":"final-assets/trainees/skill-shards.webp","sha256":"2eb3951a5f437c75b1b0bfd41843e5cb993ee57ea9e475144c2f920ef5dd5b67","bytes":7576},{"path":"final-assets/trainees/skill-strike.webp","sha256":"1d43147635a4cbaf3e1f7af3343d42d4846774f1a03f6af40753d11778672402","bytes":7680},{"path":"final-assets/trainees/skill-ward.webp","sha256":"7a22802b4a333c3631762a4bbec80986e5cacd9d5259e42d795c885b8a347856","bytes":8020},{"path":"final-assets/trainees/slot-lock.webp","sha256":"395c6b236392c545cd9019ea9610d9ea0a947bf06140ec5766f01ab26e9d262d","bytes":7252},{"path":"final-assets/trainees/stats-medallion.webp","sha256":"a299a3b4b2440e8e4256e0fd60e747f1580388418d1fd2cffcc26dc8a76029f2","bytes":7402},{"path":"final-assets/trainees/stone-sentinel-gorr-card.webp","sha256":"9b22090d6872a4cedebeab1702dd071ff2ca9777a2f663887db66bf6de62f14d","bytes":12258},{"path":"final-assets/trainees/training-library.webp","sha256":"9bb8b1bb071fa53dfc72b9725f7f9714893f961cd0b5ef531fa58368fc2fe9ee","bytes":119442},{"path":"final-assets/trainees/yssa-driftborn-card.webp","sha256":"ebb04b6d23bbcef49d185478b50dfbf02c74aee787501c17e8ff79c9c357c9fc","bytes":11526},{"path":"final-assets/upper-hud/blue-crystal.png","sha256":"5f479735f3866a49c9c80ea7c8149737e030bb98787d393fafef90bca0851ec1","bytes":38088},{"path":"final-assets/upper-hud/gold-coin.png","sha256":"ab922b4c4b66445b7890d13474bf8742cd3913ad136e8b0f8fdf02aad056f608","bytes":114569},{"path":"final-assets/upper-hud/level-iv-badge.png","sha256":"2bbb8c1bff3f0e93924600edf823843aa947f5237f4e1d0f4f3a9d724d73acb5","bytes":3317},{"path":"final-assets/upper-hud/player-side-banner.png","sha256":"318d4d73ab51775888229cf6735f090047d1794bb9205734b39d98d229ef0b25","bytes":86165},{"path":"final-assets/upper-hud/plus-button.png","sha256":"6745154c9f8e5886b74a8d536e8821cedd00e372ce1e4eee056331b92368c636","bytes":78777},{"path":"final-assets/upper-hud/profile-avatar-frame.png","sha256":"ce0e3b1b57d264932dd82c7cfc5e3eb3c05c2fcb0777c90edd4c37aec7d4cc2b","bytes":7370},{"path":"final-assets/upper-hud/purple-crystal.png","sha256":"5e4449f7161004e424d29d761984141add3e0c3d9bf93acb68274dca3bc0ad7a","bytes":40590},{"path":"final-assets/upper-hud/resource-bar-frame.png","sha256":"492600650c2dc1cfc59152bae8777bb2c54a7ba87ee1d5f04f97576a598d874c","bytes":51459},{"path":"forest-gate-map.css","sha256":"847d518c4e6a1bc4b3863a8273463104e618af4a8a77bc4b3d77ed015072e6b7","bytes":7398},{"path":"forest-gate-map.js","bytes":7644,"sha256":"528b0650ed029897e76060034f79009a2841e602ac5283c42a05cca4b44aeb4d"},{"path":"index.html","sha256":"c8a3c401ea3b91775af583f7490d48dff46113ae98eb03cb42a5e9ed9b4c1f1b","bytes":3738},{"path":"main.js","sha256":"4d70ef5bdb69eb62080370ad5a862452b8c67052ee18da0715cebf27f81d3e04","bytes":171381},{"path":"manifest.webmanifest","sha256":"4930a8e2addcdb3b373f63359848ec54eaac18dde0d31bb0a8d2c56b6e28326f","bytes":504},{"path":"shared-upper-hud.css","sha256":"eea575874b0bb566dedc81a8a36c28c117f4a7fdf4b07def4bd51970cea909ed","bytes":7836},{"path":"shared-upper-hud.js","sha256":"8b21579376c7ebbd4eefbf082b69d492360f92dc01be5004563c75ccac0dbc51","bytes":3337},{"path":"src/animation/campus-walker.js","bytes":21197,"sha256":"03187065065b0384518f35988bacc33722296ef548752d9e934153deab2e268c"},{"path":"src/animation/cinder-frames.js","bytes":942,"sha256":"fcce5b0d02511785590926509efbf6665f302be0cda29cf02655ff1bc33fab48"},{"path":"src/animation/cutout-rig.js","bytes":5101,"sha256":"cf47204ba0be5397be46062d935d3739b5b91cd55d972d6fb0efc67ff9472d10"},{"path":"src/battle/location-battle-art.js","sha256":"84e7a6695dfc81c7e5abe76151a8a708a8dee77154ab5cb1067cc7b2503b334b","bytes":2412},{"path":"src/battle/phaser-battle-renderer.js","sha256":"4a34d9a6dd2c2e3792d72283c6a4bc197222b66150e7b2941b385ed05d33fdad","bytes":117573},{"path":"src/battle/phaser-renderer-proof.js","sha256":"c3b6e90b97f9a94244e98968b82d9c16680a9bdf54ae5c017f8493c7ff127e6a","bytes":11500},{"path":"src/battle/vfx/CharacterRig.js","sha256":"0575e22d47065da729d8ee0208d2a09e2fb23f4e0ddd613391010fcfb99647f4","bytes":2401},{"path":"src/battle/vfx/MeleeRun.js","sha256":"5e3ad6d3a9797b10b57e815ea19252454a8a8ae6211e70eb991a46793d9c80d2","bytes":12084},{"path":"src/game/archive.js","sha256":"a0ccf61caeb6fd8c59cd89d37539cce4aac212a3332962ff0e49e24e479a376d","bytes":5272},{"path":"src/game/campaign-balance.js","sha256":"35418de8774570481458cba2433e268cb8076f89ff57a0a1bc46a72603a5cbf8","bytes":8286},{"path":"src/game/content-schema.js","sha256":"313c6f5a6a3dd37b9b88e518a32bab384e3bb3223212766218554e3dc24840eb","bytes":10910},{"path":"src/game/data.js","sha256":"b04d319fe4954ad613f5a9be4841705001ed2c985f78f839f4756ba86b7c1dd2","bytes":42405},{"path":"src/game/enemy-balance.js","sha256":"3d6fb8aa4ab97435bfd3f5c6e5b415a62fcb69a6ca32fa7dbceb34ac46696b16","bytes":59908},{"path":"src/game/equipment-acquisition.js","sha256":"65ba83b162ad4b18ec898ec4ae41f27f9a8604030ffbf59dd6e8317978d47ba4","bytes":15867},{"path":"src/game/equipment-ui.js","sha256":"67204f0884942c91740ddc323cf98f0210839896ad8b63dd6af4295d10ba8a4a","bytes":10953},{"path":"src/game/equipment.js","sha256":"3d2e699bacb1d0f547e77519ece4035c4823625622f16ccfa8d8dc4db2ad97b6","bytes":8697},{"path":"src/game/game.js","sha256":"3cfb6149927c774fe446b95e426f28af1f519978ebd30db06d9e8e0769b43622","bytes":92654},{"path":"src/game/recurring-quests.js","sha256":"7dfe70b7adc804e015c5132327b783dab25def934d7c6d9b95b02982ade918f3","bytes":6265},{"path":"src/platform/content-updates.js","sha256":"1aa4c1cd1cfa28e5aaa73b4c33aa1c4c227f140284baa9d831252709d1ccd86b","bytes":14681},{"path":"src/platform/game-audio.js","sha256":"9d924be91832bc623c247cc85328478936606a8460e44d137e4db53cacd77ee9","bytes":15175},{"path":"src/platform/game-settings.js","bytes":19749,"sha256":"66c5aeaaeeaf0c736121617b86d0f57e4b98b374b0576888c7e9b2b3d38b4d53"},{"path":"src/platform/persistent-storage.js","sha256":"73b76125efcd37df5b2a56230ec5d29d87054067445237db41eda2cd64e145bb","bytes":6352},{"path":"src/vendor/PHASER-LICENSE.txt","sha256":"6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d","bytes":1100},{"path":"src/vendor/phaser-4.2.1.min.js","sha256":"66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de","bytes":1375976},{"path":"style.css","sha256":"ab39621d45e0fe58bc50caf3f74bf2b330d402068c12954ec6d52be54d73bf57","bytes":399539}]}
+{
+  "schema": 2,
+  "engine": 2,
+  "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
+  "version": 216,
+  "label": "Centered formations — all locations",
+  "entry": "index.html",
+  "files": [
+    {
+      "path": "app-icon.svg",
+      "sha256": "254de619ad036ee047fed8fd373ee51dee2c18cb5c04553d7c9d6d8bb251bf00",
+      "bytes": 1952
+    },
+    {
+      "path": "battle-renderer-proof.html",
+      "sha256": "48e75563fc3237c2253a78ec86453dbc9f1bc93ca2cee8d5e6196f5fd4d9a247",
+      "bytes": 2468
+    },
+    {
+      "path": "content/base.json",
+      "sha256": "1022d7ef0ea31c8b8386a4872b34701cdf1c3271a0450386eefb780901b965ff",
+      "bytes": 26234
+    },
+    {
+      "path": "content/game-data.json",
+      "sha256": "6b823fa123b900a4139de2101277275af8329f3a3d34c00ef3bf4fc6bf60287e",
+      "bytes": 13
+    },
+    {
+      "path": "equipment.css",
+      "sha256": "1bb9f38485de673d9aa67ce10ce7247c57b56fdbaa422fe029e86aa86be51b6d",
+      "bytes": 8057
+    },
+    {
+      "path": "expedition-asset-paths.js",
+      "sha256": "5c2d0e1d2f34a563d5a0a3c40431638ebe62d2b4443a3afb64779822df768322",
+      "bytes": 952
+    },
+    {
+      "path": "expedition-mobile.css",
+      "sha256": "833eecf966760babb53fcc58a76d7b64d139b56450f28cf2751bb75e96a4d03e",
+      "bytes": 5086
+    },
+    {
+      "path": "expedition-mobile.js",
+      "sha256": "bb975524134183289186dca68d19ea288022a84652a8d36bf0aade3a231bdf24",
+      "bytes": 2107
+    },
+    {
+      "path": "final-assets/academy/alchemy-flask.webp",
+      "sha256": "fba4d67d06697518d149bf5681f94d460f4b6fdf21012ff446c7280bb7c459f1",
+      "bytes": 3018
+    },
+    {
+      "path": "final-assets/academy/arcane-forge.svg",
+      "sha256": "b47d16c59f6872443b16681c9ef0c489a2176b1b3aa2e6003b6c7d47aa9d50da",
+      "bytes": 9749
+    },
+    {
+      "path": "final-assets/academy/cinder-directional.webp",
+      "bytes": 8986,
+      "sha256": "4bd95b42f47a4fe0bb219dc2e2682a940bf9f599f2b0b205ecfe8ecdfe2a0464"
+    },
+    {
+      "path": "final-assets/academy/cinder-motion-v2.webp",
+      "bytes": 144306,
+      "sha256": "d34c9214ff40446b01f3e3836a2d6657d7a5b38281538a61874c0388e1392725"
+    },
+    {
+      "path": "final-assets/academy/cinder-motion-v3.webp",
+      "bytes": 291440,
+      "sha256": "edc0bf9677ee44c4126e4810bb0a0854e48e1008204599a23926c152e084f322"
+    },
+    {
+      "path": "final-assets/academy/cinder-special-motion.webp",
+      "bytes": 436150,
+      "sha256": "bd9903d98d95141bba7fab1a8a809cd413a2ddd714ae6a476954b3b32cced8d8"
+    },
+    {
+      "path": "final-assets/academy/cinder-walk.webp",
+      "bytes": 122804,
+      "sha256": "c7ac8da5ce5e581431167790c74b391929c48ca91fb34fbfdedf22e18a5e12a2"
+    },
+    {
+      "path": "final-assets/academy/daylight-campus.webp",
+      "sha256": "3c07a05fe2af50f47679d60a53abed2523fb6fb71945b1acf983f09ad0edaf1b",
+      "bytes": 410584
+    },
+    {
+      "path": "final-assets/academy/dormitory-bed.webp",
+      "sha256": "012dfe3041c8a911891d67a07a3ed9e87ac1d1287b65e855dc0f032d1a69ea13",
+      "bytes": 3278
+    },
+    {
+      "path": "final-assets/academy/dusk-walk.webp",
+      "sha256": "560f2b3c06d5321eabbd1046c97642147e6dcf67b79d34fd11e5cb7afd0eb7ba",
+      "bytes": 12968
+    },
+    {
+      "path": "final-assets/academy/hall-crown.webp",
+      "sha256": "8a31baed1fab15ed4f54a7c7a64e95e519dba511ae3f2c9755e0862cf30c82f1",
+      "bytes": 3612
+    },
+    {
+      "path": "final-assets/academy/moonlit-campus.webp",
+      "sha256": "155e69ff05f7fc090918bff082adaa46f04cfa851c5d484e0df81f6d089a71a7",
+      "bytes": 318616
+    },
+    {
+      "path": "final-assets/academy/sera-cutout.webp",
+      "bytes": 11096,
+      "sha256": "1d05c38d1cbe990d061e394c5f551dc667c25fdda7a0845ab272942fa71f0e3a"
+    },
+    {
+      "path": "final-assets/academy/sera-walk.webp",
+      "sha256": "2e6da628c475577c07967e5d37e152fba81f73e0ce1701d9f3936999787b78e0",
+      "bytes": 15092
+    },
+    {
+      "path": "final-assets/academy/status-crest.webp",
+      "sha256": "c17244c27592a5655e06f093035f9fe73b38e02534f550e4096992144607beff",
+      "bytes": 25768
+    },
+    {
+      "path": "final-assets/academy/training-grounds.webp",
+      "sha256": "f820fd84295cadda38a5137ec352b6b921bba3e85f6344f44fd1f11cb664e2f6",
+      "bytes": 221136
+    },
+    {
+      "path": "final-assets/archive/aether-drake.webp",
+      "sha256": "3537b997a3f833c81ae244d205ae08723cd3fe0882a3575fd0903ab18ae2d90a",
+      "bytes": 29698
+    },
+    {
+      "path": "final-assets/archive/archive-crest.webp",
+      "sha256": "f45165abd5bcf7732ffac32bf9d00894cc096a640565040cec710b25c58eaf41",
+      "bytes": 18194
+    },
+    {
+      "path": "final-assets/archive/briar-guard.webp",
+      "sha256": "5d261705ffceb16485fed155c10dd0e5c8aef146dfc21e0438c98143bc76f0d1",
+      "bytes": 44140
+    },
+    {
+      "path": "final-assets/archive/codex-library.webp",
+      "sha256": "ce78c636dcc2bd6152248cd684afecce11bc3072d54210e56d84ac3dcda0db88",
+      "bytes": 133998
+    },
+    {
+      "path": "final-assets/archive/crystalback.webp",
+      "sha256": "e4b93c1c3ea51350e28334e69b3d474ae034bc3f47c27e589f8ccdd97c627369",
+      "bytes": 29634
+    },
+    {
+      "path": "final-assets/archive/ember-moth.webp",
+      "sha256": "aa93987f2c0018f2254a3c29e6b0c167b5164231601e786cb7bf5a7ec82c3aa6",
+      "bytes": 32346
+    },
+    {
+      "path": "final-assets/archive/forest-scout.webp",
+      "sha256": "69fb4e4bacd4883e16da7e563a13db1fabae80921c0d0e55985f207d6349e6e3",
+      "bytes": 38330
+    },
+    {
+      "path": "final-assets/archive/gatewood-warden.webp",
+      "sha256": "f156dd7c1be9313cc7cd7086350aec62476862964e083acda6809b42b1a9720d",
+      "bytes": 44184
+    },
+    {
+      "path": "final-assets/archive/grove-stag.webp",
+      "sha256": "ce0560810c50c10c6f0a38207c45d2f964c1973682e8e4a92c609cac4181d39d",
+      "bytes": 26712
+    },
+    {
+      "path": "final-assets/archive/lantern-moth.webp",
+      "sha256": "66547212c906c631276183cdbc7e7e28382347706e385a4d7b428624868ab670",
+      "bytes": 32480
+    },
+    {
+      "path": "final-assets/archive/locked-creature-1.webp",
+      "sha256": "a6b1587896069853d0be905b14e6258959a6b51f01fd0e5dc4d9708679fa38f7",
+      "bytes": 2580
+    },
+    {
+      "path": "final-assets/archive/locked-creature-2.webp",
+      "sha256": "c937d0ddc6e4e08d83cc3e53939fca3075086c1cc1bcd6d59236329e7e56aa30",
+      "bytes": 2194
+    },
+    {
+      "path": "final-assets/archive/locked-creature-3.webp",
+      "sha256": "9437273e87cfc08cd0161b36190804e8774c96af099f6c865acdb6c2b6569a51",
+      "bytes": 2266
+    },
+    {
+      "path": "final-assets/archive/luminowl.webp",
+      "sha256": "2d9ad1199f29cf4658f93ab355d4ecdc595b35fa2200a97a70b3efaf5780451f",
+      "bytes": 33234
+    },
+    {
+      "path": "final-assets/archive/mist-lynx.webp",
+      "sha256": "60d8a6aa4d276e0e94cc76eb081b17e0354281ffa4cf5617b088bf3dc3c5a392",
+      "bytes": 32016
+    },
+    {
+      "path": "final-assets/archive/rime-scout.webp",
+      "sha256": "f4b28fc3d581991f3976fbe41a323de5f0bba3dc6f49eb195e7fa0f89f1447c9",
+      "bytes": 43988
+    },
+    {
+      "path": "final-assets/archive/tab-creatures.webp",
+      "sha256": "b3c625a5c0a524be6e7517cad9ed94abacc4811e8e8d346a196e1149b77c06b6",
+      "bytes": 4570
+    },
+    {
+      "path": "final-assets/archive/tab-records.webp",
+      "sha256": "ef941636e6b877116750970a6c2ecaba9ab16e6ca8c5cc2dab734774aa73fa43",
+      "bytes": 3554
+    },
+    {
+      "path": "final-assets/archive/tab-regions.webp",
+      "sha256": "225382443bb7534f643ec721948913534456828998e76a32fc33c1d7afc54ca7",
+      "bytes": 4394
+    },
+    {
+      "path": "final-assets/archive/umbral-wraith.webp",
+      "sha256": "a40e1aed60ea0d0e01df01e6b985a2e662f7192fd01de0a049d46734630a2418",
+      "bytes": 20960
+    },
+    {
+      "path": "final-assets/audio/01_ui_select.ogg",
+      "sha256": "8d795c3b210445b80603aacfa5d1896837b4f01d5dc44e951554e3a9659af72e",
+      "bytes": 5739
+    },
+    {
+      "path": "final-assets/audio/02_melee_hit.ogg",
+      "sha256": "b166f03d84d76d383ae4a557f5dad184be0ab720559e234540a97ff42c8cf6a5",
+      "bytes": 6271
+    },
+    {
+      "path": "final-assets/audio/03_arcane_cast.ogg",
+      "sha256": "17b5097e3f7a94178c9344942a9a2a795049825e059a5f8d9210d91daf61baf4",
+      "bytes": 12154
+    },
+    {
+      "path": "final-assets/audio/04_ultimate_release.ogg",
+      "sha256": "f6bd9c5e42b40f0c9026227192de6c471cd36c37db82c888a981b28165ff1f7e",
+      "bytes": 23781
+    },
+    {
+      "path": "final-assets/audio/05_victory.ogg",
+      "sha256": "b7836e7f2a9ada7860f3768322130d916a0e2fea2209eda8e913d3841176f9ec",
+      "bytes": 21179
+    },
+    {
+      "path": "final-assets/audio/06_defeat.ogg",
+      "sha256": "4c22f1089896b04b717170242ab600071f9ea710cbecea1de0c4deac72d7ce44",
+      "bytes": 14215
+    },
+    {
+      "path": "final-assets/audio/07_summon.ogg",
+      "sha256": "2042a049497da3cf9ad849f63b52ba45ec684f24514aa51be63168b20c686bec",
+      "bytes": 10868
+    },
+    {
+      "path": "final-assets/audio/08_summon_rare.ogg",
+      "sha256": "c80e748cfa6a7205a6b86a1a7d7802cb71e68b4b0749abf83db62294aa884ae0",
+      "bytes": 12166
+    },
+    {
+      "path": "final-assets/audio/09_train.ogg",
+      "sha256": "a78d585c6cec70feb065bf2788ec94ed37048976be692c8a595126b86fd7fa51",
+      "bytes": 5623
+    },
+    {
+      "path": "final-assets/audio/10_reward.ogg",
+      "sha256": "02270b4e5b65ab1b782620f4c72798e39c0abd817a4bc37340179e9988d475bd",
+      "bytes": 6018
+    },
+    {
+      "path": "final-assets/audio/11_formation.ogg",
+      "sha256": "9dba2e0d1806df064eaf458a1cd983d6a6f1012e8f8fe181f33d6f04d3146147",
+      "bytes": 4573
+    },
+    {
+      "path": "final-assets/audio/12_cinder_basic.wav",
+      "sha256": "c9690c4b1357f5f9c6aac4dc4cff49e600aa9550f5d9786c6775910bced0167b",
+      "bytes": 192770
+    },
+    {
+      "path": "final-assets/audio/13_yssa_basic.wav",
+      "sha256": "3eafebcc576ad7473c10fb7c5c93e5dfd7140555522fc033d5ee1c137650e931",
+      "bytes": 192770
+    },
+    {
+      "path": "final-assets/audio/14_lumen_basic.wav",
+      "sha256": "edc19e0ac9c51b27253275b3dc234e359ffd2e9d516e5501f23a9f178382f61f",
+      "bytes": 192770
+    },
+    {
+      "path": "final-assets/audio/15_cinder_ultimate_1.wav",
+      "sha256": "a9f3936d61624a264458ab8c4eb7f54358db9c31fbaba4ff33fa8b39a0417756",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/16_cinder_ultimate_2.wav",
+      "sha256": "b5eba69674f1df42fa5523b0b2b348f91ec57f5fbd8929177e880b656777d6f2",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/17_cinder_ultimate_3.wav",
+      "sha256": "f1d999eb35a8bbaaa3d5400f389fceae0d23c8a585d256bb8f4a8f1d7c57ccd5",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/18_cinder_ultimate_4.wav",
+      "sha256": "a3d852140187b3047ce0564099360afb8f13dfc8d7ca20984228e1f24ac740ff",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/19_yssa_ultimate_1.wav",
+      "sha256": "17e9bc280fd56677c3ae4992e130a55937ec3cd4648c6be6bf2491f9e69f028b",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/20_yssa_ultimate_2.wav",
+      "sha256": "3718e10ecea073a6e38b1564a83ae66005107cb47d75a698dc5ce2fa2cab8920",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/21_yssa_ultimate_3.wav",
+      "sha256": "38b1a7931a9ae86733e583811f3fe580dd4733cea5adeab1d2a498f6af08b577",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/22_yssa_ultimate_4.wav",
+      "sha256": "7f764739aa6f6b957da282abfcdfd4aae3c7aea89690e9dbc4706c020a262114",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/23_lumen_heal_1.wav",
+      "sha256": "da65f401f2599a8fa1af906c9def3982052e7433921a02a486a2d094fa7f4b27",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/24_lumen_heal_2.wav",
+      "sha256": "7f696cffeb7e0396efe86eff5e23154cae7f89c85d5e10d86b9f62a6a9aad5ab",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/25_lumen_heal_3.wav",
+      "sha256": "3f5981c6c7f991032a7c07a806d2474bb4ae0fc2c05adc14e8dc82e29e5d2463",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/26_lumen_heal_4.wav",
+      "sha256": "c701fbf5c29c713517f97e4d6c4cef9e5030ab28a9313aff5adea889b245216f",
+      "bytes": 384770
+    },
+    {
+      "path": "final-assets/audio/README.md",
+      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
+      "bytes": 3382
+    },
+    {
+      "path": "final-assets/audio/academy.ogg",
+      "sha256": "8b1fdc41b2dce217fc3d42dc8c5355ed26be1130f43f0748c2872d17f37e9470",
+      "bytes": 850092
+    },
+    {
+      "path": "final-assets/audio/battle.ogg",
+      "sha256": "f3a1d13eff649780500ec1c4d823d6e5577ebc9017c9cd84a92231a846887413",
+      "bytes": 124135
+    },
+    {
+      "path": "final-assets/audio/expedition.ogg",
+      "sha256": "b92f23c4b80ff9abc870c97ba29cc971e89d36457967d482a290e3406e0f60ce",
+      "bytes": 423158
+    },
+    {
+      "path": "final-assets/battle/atmosphere/amber-mote.webp",
+      "sha256": "1c88dd4ed12db0dcbd2ccb27f71831ae8d37311dae31591307ae7b3d560a7aaf",
+      "bytes": 1866
+    },
+    {
+      "path": "final-assets/battle/atmosphere/courtyard-mist.webp",
+      "sha256": "f37288d062ba2f8c1cf3fd02f0c842e40423f4be71c60421c8dda40a9e3500ef",
+      "bytes": 16868
+    },
+    {
+      "path": "final-assets/battle/atmosphere/header-trim.webp",
+      "sha256": "0d5a5cf69403c42797ca96f4cb8b7e2b4f58a3a78d899234836dd82bacc27d74",
+      "bytes": 10352
+    },
+    {
+      "path": "final-assets/battle/backgrounds/ancient-roots-battlefield.webp",
+      "sha256": "9fe8c89170b26f0553f43a6d9f2c6ce6f48bf19109380b071adb66807832c968",
+      "bytes": 321968
+    },
+    {
+      "path": "final-assets/battle/backgrounds/forest-gate-battlefield.jpg",
+      "sha256": "e8742d14361fc67a9f746a092fe5624ac9549661aee5aa9ccf20ce703e68b0ca",
+      "bytes": 220690
+    },
+    {
+      "path": "final-assets/battle/backgrounds/sprite-grove-battlefield.webp",
+      "sha256": "4fb7d7c5a3900baff3725e1b8f77cccf930b78cb3f188ef24f355c063d871611",
+      "bytes": 129022
+    },
+    {
+      "path": "final-assets/battle/backgrounds/wolf-den-battlefield.webp",
+      "sha256": "2e1e457a982580638773cb43672a797827f0d6ef2a8624c65fd6775ff96cefb4",
+      "bytes": 122918
+    },
+    {
+      "path": "final-assets/battle/characters/archmage-eloris/archmage-eloris-idle-right.webp",
+      "bytes": 35082,
+      "sha256": "5fa375ae7353c2e22d1cb5b8a9ef1da7ba38d4ba94d2699886a2af26c167e3ae"
+    },
+    {
+      "path": "final-assets/battle/characters/cinder-vale/cinder-vale-attack-right.png",
+      "sha256": "b3e09b7743be5d1da0e1f57c847bdc3ce0dded27896ff10f73803c99925ec0ef",
+      "bytes": 118217
+    },
+    {
+      "path": "final-assets/battle/characters/cinder-vale/cinder-vale-defeat-right.png",
+      "sha256": "7ea2e22ed6b13c0d0c18b610b8cf864b5a7781acb44ee610f11c1dc26a7917f3",
+      "bytes": 118942
+    },
+    {
+      "path": "final-assets/battle/characters/cinder-vale/cinder-vale-hit-right.png",
+      "sha256": "30646a62afbab7f83a52a8d5766dab8dcf55bfa7c0db2b0e20c8c4277a7aa164",
+      "bytes": 118593
+    },
+    {
+      "path": "final-assets/battle/characters/cinder-vale/cinder-vale-idle-right.png",
+      "sha256": "cfaa68ebeaafaffe0bfe3afcbd9bb5504bf957f2b5480790980d50758dabade1",
+      "bytes": 102628
+    },
+    {
+      "path": "final-assets/battle/characters/cinder-vale/cinder-vale-move-right.png",
+      "sha256": "0847bfdb7c4139139394c5f14173f74279b6fee1a8cb584d0f8c59da89fa192b",
+      "bytes": 126054
+    },
+    {
+      "path": "final-assets/battle/characters/cinder-vale/cinder-vale-skill-right.png",
+      "sha256": "6d8e96b9d4c5dcaa297063d3eb8d861d8f319c36f96dfe63c0bf476ff877abce",
+      "bytes": 120127
+    },
+    {
+      "path": "final-assets/battle/characters/cinder-vale/cinder-vale-ultimate-right.png",
+      "sha256": "598c00586994d3fdac38f2240fd2effcba3c07944c7214bc59478e07a9e73613",
+      "bytes": 115185
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-attack-right.webp",
+      "sha256": "c4d121f4b0a3e258b11c97f9e10bc51c9133af8100f94a520f06e4902e6ec336",
+      "bytes": 62980
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-defeat-right.webp",
+      "sha256": "c5214b28640a0f9b34503c410aa94afe75ad8500d6c35566d8057c3aa28b9c4e",
+      "bytes": 51388
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-hit-right.webp",
+      "sha256": "40e2eae0239b2fdf11a06ac81d76b86f8c2b7e540309138aa939d91be67cba5b",
+      "bytes": 53102
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-idle-right.webp",
+      "sha256": "4a0a84d17dbf06424c8ba5b9272f09f683f1d1ca183a130995914f0c7e10979f",
+      "bytes": 66338
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-move-right.webp",
+      "sha256": "b6162e382089f122bf383d355a9effca3d1789123e07f1a985e61a6683ae5a76",
+      "bytes": 60636
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-skill-right.webp",
+      "sha256": "28a1666380b5707ac6fd6e0e8d5bcbe9ddb83d7b993925fcc7fc974331fde0a7",
+      "bytes": 59948
+    },
+    {
+      "path": "final-assets/battle/characters/dusk/dusk-ultimate-right.webp",
+      "sha256": "02d2e809004909c7ce8ebd115f025d5075d3c5c21eb9659f647daf6dd3c993f2",
+      "bytes": 65470
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-attack-right.webp",
+      "sha256": "31eadd8b7568dd6f471340ee605db7b11028aa09d1985b2c26e2d5ff38724770",
+      "bytes": 97460
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-defeat-right.webp",
+      "sha256": "375ef140cd2648232675f0cf98a6aaa619d4d7a950d237f6a2c562f5f595b70c",
+      "bytes": 69928
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-hit-right.webp",
+      "sha256": "886ae56a44319b76b167787fcced517c6c94689c2db13371bf88429b9f1b40fd",
+      "bytes": 76832
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-idle-right.webp",
+      "sha256": "c758b7e850372baf9ae15220a22c266c8ffbf7114ec40e492f662b2b1b89f580",
+      "bytes": 86250
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-move-right.webp",
+      "sha256": "967a78d337b681e152bfe8d01453170bfb01b31649ad81b416ec8ae51c6f0cca",
+      "bytes": 85210
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-skill-right.webp",
+      "sha256": "62c470abc9d647d53bb429d2c1ac26f3873990ae5798dfe69de200202263e59b",
+      "bytes": 89744
+    },
+    {
+      "path": "final-assets/battle/characters/frost-warden-kael/frost-warden-kael-ultimate-right.webp",
+      "sha256": "3a8217272f3e1a4e79acb5d76c6032dbd758f96ad661239f109d3d727ff9778e",
+      "bytes": 98228
+    },
+    {
+      "path": "final-assets/battle/characters/lumen-solis/lumen-solis-attack-right.webp",
+      "sha256": "da479b91993573399f90de01c2636b7b582181a9e3040397e9da1bdc58ad4e06",
+      "bytes": 112638
+    },
+    {
+      "path": "final-assets/battle/characters/lumen-solis/lumen-solis-defeat-right.webp",
+      "sha256": "fe165f71b037d2e59091ca9ce02beb401cb9f780f7aafd9170bce1efca942cc6",
+      "bytes": 89022
+    },
+    {
+      "path": "final-assets/battle/characters/lumen-solis/lumen-solis-hit-right.webp",
+      "sha256": "aeb26898491f542340d962d7f5f60009b35eeb1187ab79e57fe5263fb1bb3605",
+      "bytes": 106668
+    },
+    {
+      "path": "final-assets/battle/characters/lumen-solis/lumen-solis-idle-right.webp",
+      "sha256": "a9446a08012f71af8fae9bf090f488d618492381bb5d698c5b1e56fb65dc2381",
+      "bytes": 103550
+    },
+    {
+      "path": "final-assets/battle/characters/lumen-solis/lumen-solis-move-right.webp",
+      "sha256": "45420c7e89c94cacb99d35575ce164a90e4bd9e8859a07fe451ec1d82780e7e6",
+      "bytes": 122390
+    },
+    {
+      "path": "final-assets/battle/characters/lumen-solis/lumen-solis-skill-right.webp",
+      "sha256": "4da055748fd375030a66309b67656149931ddb4904790ebbc13b74c6f4865989",
+      "bytes": 118074
+    },
+    {
+      "path": "final-assets/battle/characters/lumen-solis/lumen-solis-ultimate-right.webp",
+      "sha256": "0f3fcdb69e84a8924ff552fae956d01779c5b20a4f9ebf38885dcec44702039a",
+      "bytes": 151524
+    },
+    {
+      "path": "final-assets/battle/characters/neris-rimeweave/neris-rimeweave-idle-right.webp",
+      "bytes": 17798,
+      "sha256": "0f0f4b935ea1322d05ea34514172c73ea8b7ff468c5c4534f204dfc3884781f1"
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-attack-right.webp",
+      "sha256": "0fc987fc5b36b175bf12b3e3c5044cccc583ad9c031ade26d365759ec273b874",
+      "bytes": 79490
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-defeat-right.webp",
+      "sha256": "efd33b29c2e41cb5e44cd79f9e738907169a1c3b6f71228f5d7a7eedc0e4b7e2",
+      "bytes": 48774
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-hit-right.webp",
+      "sha256": "cf8f20121f28413cfbb3158ef8d34b7aeea99db9600a991c6b040cc1c55f4ea1",
+      "bytes": 61726
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-idle-right.webp",
+      "sha256": "bb735fb0d39c423c9fc24fea428c7e4bd1ffbed140aaf1f2bfb3ea026984cb7c",
+      "bytes": 68952
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-move-right.webp",
+      "sha256": "588eaeb874523186571e786fab691370236d635d9d34ff66a4c72ae9f69520ea",
+      "bytes": 73426
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-skill-right.webp",
+      "sha256": "09735914dbe9dfaa2de9cfaa392aae8c2ec831ab92400e683220806ab70af62c",
+      "bytes": 64812
+    },
+    {
+      "path": "final-assets/battle/characters/pyreth-the-branded/pyreth-the-branded-ultimate-right.webp",
+      "sha256": "322a6ceefc29e10840bdec8069752eba144d871cd19ce1374ecd7317951cf7ba",
+      "bytes": 83542
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-attack-right.webp",
+      "sha256": "166b26c28ede60fc9351b4a13415a112ee84e374e2ce7aedb2894822f39c60b1",
+      "bytes": 97244
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-defeat-right.webp",
+      "sha256": "23ffd23e5cd8d3fe51c95cc9da0f0946fcf2360193f76fe153a42e162b094907",
+      "bytes": 56024
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-hit-right.webp",
+      "sha256": "8eacca48b691e1ed7154b60ece0b04f73d8a03476ec03d5abea30c4a9f05d7a0",
+      "bytes": 78146
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-idle-right.webp",
+      "sha256": "d7f1f7000c0272159a2fc98a2125adeebaf5170f7135b3adedf17ac34a2f1560",
+      "bytes": 77354
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-move-right.webp",
+      "sha256": "d6935beff59f712f791dfa7605d33fa004494388d2234e02b57a39a36e84fa8e",
+      "bytes": 82782
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-skill-right.webp",
+      "sha256": "0979cce81ebee1f1e851f3ac77bb6ad915d79a02d667e02d6ee7837e734eb47c",
+      "bytes": 80424
+    },
+    {
+      "path": "final-assets/battle/characters/sera-ashveil/sera-ashveil-ultimate-right.webp",
+      "sha256": "ce22d280e4ce8d9a1c16c62798d0119552aa15c8e36cb172608b31064fa98c1c",
+      "bytes": 94924
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-attack-right.webp",
+      "sha256": "e98b18b2213b208c7fd456df856b547089b7a3a27d3b8901bfd4fb89bb4cfd07",
+      "bytes": 77756
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-defeat-right.webp",
+      "sha256": "bc4ed4c5b21e198c5720c03c951ce4475197358f8126ca599e5834ce57b75088",
+      "bytes": 55314
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-hit-right.webp",
+      "sha256": "868455c6b657a32d370798e1a04bdd68d3cf3c773579cc5b640bf53b073c5557",
+      "bytes": 63968
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-idle-right.webp",
+      "sha256": "8e951e78e3a90075c98cc321e37c1e32d6f9fd5fb0889431fef20cba8743a79c",
+      "bytes": 65638
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-move-right.webp",
+      "sha256": "07e3db9fbc170c9dc6e93435e694cb2a40b93175d04712843df95f5943a8a74d",
+      "bytes": 70698
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-skill-right.webp",
+      "sha256": "dcca7292d3c448bd69505ba2da2a18df4be46bf5523acbd2dfe428aa642db064",
+      "bytes": 62416
+    },
+    {
+      "path": "final-assets/battle/characters/stone-sentinel-gorr/stone-sentinel-gorr-ultimate-right.webp",
+      "sha256": "d4fb40f3e597f855d11b606ecb332722f09e155e6328dcddae1e31722902a095",
+      "bytes": 72490
+    },
+    {
+      "path": "final-assets/battle/characters/tavian-emberstep/tavian-emberstep-idle-right.webp",
+      "bytes": 19588,
+      "sha256": "a4d243a8787ac2220b729c41ad2ec47f69ccd921aa8566e4cf76739ee82d57c6"
+    },
+    {
+      "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-attack-right.webp",
+      "sha256": "0572ab94e9a4d12d44e7e9ccc244e8b61de531b7c1677f2c34df9e7af08cbb4d",
+      "bytes": 79314
+    },
+    {
+      "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-defeat-right.webp",
+      "sha256": "8747b4d30a7f1208115b78ae265567c27d7e05ca4ac26c681ddca111f332a2b4",
+      "bytes": 84266
+    },
+    {
+      "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-hit-right.webp",
+      "sha256": "488aff702d06be93e7131b561bf0be413725fd6eba9e44f8ff61af28ab764920",
+      "bytes": 82254
+    },
+    {
+      "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-idle-right.webp",
+      "sha256": "40e2894ca89f2b445ffd0a945565011e5847f5085834f71d402473f1a63836b9",
+      "bytes": 73064
+    },
+    {
+      "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-move-right.webp",
+      "sha256": "f99aa17a729f094bc52f79e74d4cdcefa84b3781f914e24e01bd3a86979c1b9c",
+      "bytes": 84344
+    },
+    {
+      "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-skill-right.webp",
+      "sha256": "a06c165e625d245fd7144bc78a96062edf006ad006141af4e4ce0e626f9a2b07",
+      "bytes": 92244
+    },
+    {
+      "path": "final-assets/battle/characters/yssa-driftborn/yssa-driftborn-ultimate-right.webp",
+      "sha256": "99b6a49fc3cb34845b632ae2bea83c22b0244454b4086cda4810d85ebb446826",
+      "bytes": 183888
+    },
+    {
+      "path": "final-assets/battle/control-icons/auto.webp",
+      "sha256": "6d00c7b04afe0f6d4444a7721eb73343cdbe6aa66ea29132e99f7b98bb436077",
+      "bytes": 9930
+    },
+    {
+      "path": "final-assets/battle/control-icons/back.webp",
+      "sha256": "f8ff445e2ae8f882a8a104d8ce94002b7e205fb5c6059905538ffa0acd80f9c5",
+      "bytes": 9296
+    },
+    {
+      "path": "final-assets/battle/control-icons/exit.webp",
+      "sha256": "3d3892e5bf89b016cbefb0fb9fc723c37009769088822e382d38daadccca5483",
+      "bytes": 10264
+    },
+    {
+      "path": "final-assets/battle/control-icons/pause.webp",
+      "sha256": "caf3332ec9ecc2e6f3ca5a553f3109e7c696886ab3070218fe5fb15dc739e19a",
+      "bytes": 8910
+    },
+    {
+      "path": "final-assets/battle/control-icons/play.webp",
+      "sha256": "a431de1b6a2cf999454c272fb1bee19f55d70d8b014ea5b6c89bd2fa74b89ec9",
+      "bytes": 9140
+    },
+    {
+      "path": "final-assets/battle/control-icons/speed.webp",
+      "sha256": "b873ab256208225dc4fa6873fc4aae7cdb9ed231e684a1156fe5b575f32952c2",
+      "bytes": 9458
+    },
+    {
+      "path": "final-assets/battle/courtyard-ui/altar-console.webp",
+      "sha256": "a15a989f4765ea9209ee18a1a73e552b6a644c342c9785ab58621707027493ef",
+      "bytes": 22134
+    },
+    {
+      "path": "final-assets/battle/courtyard-ui/gate-lintel.webp",
+      "sha256": "492e589ae76fcb62e2484cef549f9c6bfa928a4e6f0c75e999e55208c08a54d1",
+      "bytes": 27708
+    },
+    {
+      "path": "final-assets/battle/courtyard-ui/rune-flagstone.webp",
+      "sha256": "0e86d091dd9ed244ab97395cf728b4182cd2038c6dc8ad33984a8f6ef20e4560",
+      "bytes": 8438
+    },
+    {
+      "path": "final-assets/battle/courtyard-ui/start-battle.svg",
+      "sha256": "6d67324d8fda235b92414eab05f32335c87f9323ff3bac4095d6b50dbbd0279f",
+      "bytes": 2395
+    },
+    {
+      "path": "final-assets/battle/deck-gauges/health.webp",
+      "sha256": "76587c8b5990e160366eae169f264dcccd9ad232408c2d373d8159c32c122d7e",
+      "bytes": 7160
+    },
+    {
+      "path": "final-assets/battle/deck-gauges/ultimate-charge.webp",
+      "sha256": "4cc43a328b735ba76f7d079ff06f2696d7e3e2e567cb1b78e9efe47f749fed12",
+      "bytes": 7760
+    },
+    {
+      "path": "final-assets/battle/deck-gauges/ultimate-ready.webp",
+      "sha256": "2329be9a120657762c02e8e44b35cb4250becca4fdc7926eff5d3eda21396c4d",
+      "bytes": 8246
+    },
+    {
+      "path": "final-assets/battle/deck-gauges/ultimate-seal-ready.webp",
+      "sha256": "b1e8ce199ac9a630ef053ee2e502ebbe5f2da1a0b078760c3dcde0094aeb6d8b",
+      "bytes": 5746
+    },
+    {
+      "path": "final-assets/battle/deck-gauges/ultimate-seal.webp",
+      "sha256": "42b2e06e4c15228806684decd13f85718017e82f18560c54750c239c2f4a697f",
+      "bytes": 5108
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/archmage-eloris.webp",
+      "bytes": 33606,
+      "sha256": "54c58de5c2229b72448ab86da4e716b3f544f7f51ca3b1916a916e8b631ffd03"
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/cinder-vale.webp",
+      "sha256": "05086101226ce060ce8fb25352a13c0e4c883b094a01069091cd15e96377ee0d",
+      "bytes": 17924
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/dusk.webp",
+      "sha256": "f3cea213c6bb538452c8d995f8d31b0a787435ac25342c1052702f9fc7fef437",
+      "bytes": 16396
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/frost-warden-kael.webp",
+      "sha256": "72cee0eb2f820a33c3ba7980d652f99121551010c041ad7745da9b243d18b50e",
+      "bytes": 18390
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/lumen-solis.webp",
+      "sha256": "083568ed5c9e5025587186f86fbccfb60864453cc2f2135a5024cde484a7b4ab",
+      "bytes": 22990
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/neris-rimeweave.webp",
+      "bytes": 17000,
+      "sha256": "fd8f1564e5b045238377642b8b14f793fdf3b60362fef7042e87f3620959a309"
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/pyreth-the-branded.webp",
+      "sha256": "83426a092d9bef1ea6c0ee64a1218c03dced799d1b33169aa6442b7a7730ea16",
+      "bytes": 15622
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/sera-ashveil.webp",
+      "sha256": "f728f836d74f4543825599c236198b52932f5666ed208d48562db7a7f0ba036e",
+      "bytes": 19052
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/stone-sentinel-gorr.webp",
+      "sha256": "e883f1bb5c12612bcf3b541bdb61f6461dbd9395c142e526a02cb8c2ef3afdda",
+      "bytes": 17750
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/tavian-emberstep.webp",
+      "bytes": 18674,
+      "sha256": "7c6bd896d32f4b7e405a767946b34fd5502b4d56e887d0828d44dd31c93b39ff"
+    },
+    {
+      "path": "final-assets/battle/deck-portraits/yssa-driftborn.webp",
+      "sha256": "821e63b502a1d0ce5d54f3fdac72d09558eb0794b005707fc89d12480e334d05",
+      "bytes": 16938
+    },
+    {
+      "path": "final-assets/battle/effects/buff-gold.webp",
+      "sha256": "dd538d9a5350ef717ed29f321ec0861a917095a4a9ffad405c832844706a3711",
+      "bytes": 155450
+    },
+    {
+      "path": "final-assets/battle/effects/debuff-violet.webp",
+      "sha256": "53b2fe307c0a8a3954c29f3c977d60260f4a89730cf78d34989225cc71d79b74",
+      "bytes": 93674
+    },
+    {
+      "path": "final-assets/battle/effects/frost-arrow.webp",
+      "sha256": "1e26bad8b7c3182f3b9d1a0b49e8d1725eb1eb885200da0760755d5c1d1bf4d9",
+      "bytes": 3414
+    },
+    {
+      "path": "final-assets/battle/effects/heal-restorative.webp",
+      "sha256": "f4e233ddaca58c879e6a7d59225b78cf3ce3c451506b8fd975444171b98c5b89",
+      "bytes": 231880
+    },
+    {
+      "path": "final-assets/battle/effects/healing-blossom.webp",
+      "sha256": "f7e1b84dab60dbb50cfd3eeac9debd3858e112f94fd435d076da7d264e22ef62",
+      "bytes": 3830
+    },
+    {
+      "path": "final-assets/battle/effects/spell-bolt.webp",
+      "sha256": "cea6eddc0f9654ee9f52184483e95de09a439e124606725d9ee189ddd988bc34",
+      "bytes": 2906
+    },
+    {
+      "path": "final-assets/battle/effects/stun-spark.webp",
+      "sha256": "e69655c691416ad0ef1c7b46179ddc9981326df4a850daeb96971a1efa9f6ffc",
+      "bytes": 121702
+    },
+    {
+      "path": "final-assets/battle/enemies/briar-guard/briar-guard-attack-left.png",
+      "sha256": "eeacafe8dc8ab50125846440a21769f96248ed44381d1e7ac267ab66132ec4db",
+      "bytes": 38820
+    },
+    {
+      "path": "final-assets/battle/enemies/briar-guard/briar-guard-defeat-left.png",
+      "sha256": "6ef8b8626a1d3fd1116b91a3075a6d9cfb832573432cf738d4ef5c1029932049",
+      "bytes": 46258
+    },
+    {
+      "path": "final-assets/battle/enemies/briar-guard/briar-guard-hit-left.png",
+      "sha256": "a778a4262d6e01e8aa69e9911ccf635539a37ff8af18dea12b1fb0cee19d0cf5",
+      "bytes": 51812
+    },
+    {
+      "path": "final-assets/battle/enemies/briar-guard/briar-guard-idle-left.png",
+      "sha256": "510d0de79c9a8df2f8638368c397d4f60c90968b95ac925a683be1b87208d391",
+      "bytes": 48850
+    },
+    {
+      "path": "final-assets/battle/enemies/briar-guard/briar-guard-move-left.png",
+      "sha256": "6296fe2de67f2bcbbf7ffa978f4ac7ad8f18065b7f24be489f31a5d02477fc44",
+      "bytes": 55987
+    },
+    {
+      "path": "final-assets/battle/enemies/briar-guard/briar-guard-skill-left.png",
+      "sha256": "f687269c3ff8861c554941164c5f9951725cc797172cbb4d717b5d2c34beec5d",
+      "bytes": 50756
+    },
+    {
+      "path": "final-assets/battle/enemies/briar-guard/briar-guard-ultimate-left.png",
+      "sha256": "e2859ee5219e51bc51f9aaa1eb49c095c675431ad093a009a4cc832115ead1e0",
+      "bytes": 54004
+    },
+    {
+      "path": "final-assets/battle/enemies/forest-scout/forest-scout-attack-left.png",
+      "sha256": "9d00a1a2e92b6056f97ea62a90c9a7f0cf2cab91720de11b4ac19519c2f7bcc9",
+      "bytes": 97403
+    },
+    {
+      "path": "final-assets/battle/enemies/forest-scout/forest-scout-defeat-left.png",
+      "sha256": "eced11014df68ce9a0047821d57a952dd9b5e0af55c976d3da104ea319c0108c",
+      "bytes": 84471
+    },
+    {
+      "path": "final-assets/battle/enemies/forest-scout/forest-scout-hit-left.png",
+      "sha256": "ef317f89d8b20045a557bc5b24d1e1f34467574d1859d753b4c80248dd789e9f",
+      "bytes": 83365
+    },
+    {
+      "path": "final-assets/battle/enemies/forest-scout/forest-scout-idle-left.png",
+      "sha256": "8c4e375ff8d27882a40ef830dc860190efc975242a8bff468bc07277b402206f",
+      "bytes": 101503
+    },
+    {
+      "path": "final-assets/battle/enemies/forest-scout/forest-scout-move-left.png",
+      "sha256": "7ae13b8e7537d901b7237123f7d98877b95d4716f0715fe3fd83fb988d81d41a",
+      "bytes": 103985
+    },
+    {
+      "path": "final-assets/battle/enemies/forest-scout/forest-scout-skill-left.png",
+      "sha256": "27d7f7a46c410c8e6add27c1455c8b43059a8c8fbe2e30ecd159504981537f1f",
+      "bytes": 111612
+    },
+    {
+      "path": "final-assets/battle/enemies/forest-scout/forest-scout-ultimate-left.png",
+      "sha256": "9754ff69388e9e95c2c6f33de721f8c0340a1e227ff366d8c8345ca09107b97f",
+      "bytes": 115540
+    },
+    {
+      "path": "final-assets/battle/enemies/gatewood-warden/gatewood-warden-attack-left.png",
+      "sha256": "64bc5b122a6776cd2001998d4dbded0bf48b61e273d3803c6fcc7c84b934fa66",
+      "bytes": 166586
+    },
+    {
+      "path": "final-assets/battle/enemies/gatewood-warden/gatewood-warden-defeat-left.png",
+      "sha256": "128671624dff503168cd34afd23d0d274817f963d61a4b9b7e07f6495d27a624",
+      "bytes": 161657
+    },
+    {
+      "path": "final-assets/battle/enemies/gatewood-warden/gatewood-warden-hit-left.png",
+      "sha256": "c054b7a192c49363c4c62500c3119cb8613eac72f27d012410fb2635a5c4a1a0",
+      "bytes": 164887
+    },
+    {
+      "path": "final-assets/battle/enemies/gatewood-warden/gatewood-warden-idle-left.png",
+      "sha256": "12e2361b66f2670b836d0019c71b556bf0566aedd0b02d6c2c8dadeb0bfdd507",
+      "bytes": 136862
+    },
+    {
+      "path": "final-assets/battle/enemies/gatewood-warden/gatewood-warden-move-left.png",
+      "sha256": "adef0487520983c1571f26ce31e5085b8587faf693af122024a1ef977e61a890",
+      "bytes": 143816
+    },
+    {
+      "path": "final-assets/battle/enemies/gatewood-warden/gatewood-warden-skill-left.png",
+      "sha256": "5e64579ea3c685c255b52df1f4be678ea16cf5a777b1fa77da7bde8fab49bbf7",
+      "bytes": 146363
+    },
+    {
+      "path": "final-assets/battle/enemies/gatewood-warden/gatewood-warden-ultimate-left.png",
+      "sha256": "a621208ea1531746a6eb4342bbb429ef7df7a9ee504c4289cba37e860ca51aa8",
+      "bytes": 147534
+    },
+    {
+      "path": "final-assets/battle/enemies/lantern-moth/lantern-moth-attack-left.png",
+      "sha256": "510f84ce8a78352cac45a964fb97750e244c11453a49b3eba1edfe50605864fe",
+      "bytes": 27968
+    },
+    {
+      "path": "final-assets/battle/enemies/lantern-moth/lantern-moth-defeat-left.png",
+      "sha256": "79fc57d2cfe566b1594799aba6e1957d28262e2597e73e6d0ebf0466bc9f7ded",
+      "bytes": 24281
+    },
+    {
+      "path": "final-assets/battle/enemies/lantern-moth/lantern-moth-hit-left.png",
+      "sha256": "8f71f29855b7567c110f72f866fba8460de8066241ef2ed885dc381722bd4347",
+      "bytes": 35000
+    },
+    {
+      "path": "final-assets/battle/enemies/lantern-moth/lantern-moth-idle-left.png",
+      "sha256": "cbd921a96aca25e3319260e92f6e8d5b6d4d87395c38efe2da22dc338a39c3d1",
+      "bytes": 29768
+    },
+    {
+      "path": "final-assets/battle/enemies/lantern-moth/lantern-moth-move-left.png",
+      "sha256": "ba8fa6d06cff08ca04d747c244bcab29c6709a04b248016555974179a0bce977",
+      "bytes": 34237
+    },
+    {
+      "path": "final-assets/battle/enemies/lantern-moth/lantern-moth-skill-left.png",
+      "sha256": "c59926cff50a98ad61582fcb85e0c1edff092a5bab01aa963ee439f48b998cb2",
+      "bytes": 34521
+    },
+    {
+      "path": "final-assets/battle/enemies/lantern-moth/lantern-moth-ultimate-left.png",
+      "sha256": "763330105e62abd9373bcd6d8682ab88a1c4b9335fb90701efde635c08356321",
+      "bytes": 35394
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/buried-seer.webp",
+      "sha256": "acbff2315992a82eee1684a186e240584c7f2bcc87fba2cb5979ea82e5186a8a",
+      "bytes": 57130
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/cursed-arcanist.webp",
+      "sha256": "7448391f7eaacdcdcc92ba0d3f0daf899273260b5e90b4a04b8f996f4638ba7d",
+      "bytes": 63220
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/cursed-heart-avatar.webp",
+      "sha256": "678d52f0fc8f59d2374f059899dbd0c56a3acaff9f39e9ead5a83c4300c80874",
+      "bytes": 58708
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/cursehorn-beast.webp",
+      "sha256": "f3cfadf2520fe30cdebf37a60bc91f6fbc57390ceefbcb697c81f810b2dca51b",
+      "bytes": 62824
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/den-keeper.webp",
+      "sha256": "4a52f372615835e1816dc58ca3f623bddf8d768dd106a060505fd900cdf4377d",
+      "bytes": 56626
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/denmother-varkai.webp",
+      "sha256": "68c81bec5c56d0351fd3b815930b47226ffd2f682eedc27ac51ee7c766417120",
+      "bytes": 76838
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/elder-rootseer.webp",
+      "sha256": "afba7dc7c141b203f5dd363369cf59a9600ca022a35eae57e867d547809bc87d",
+      "bytes": 73636
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/forest-wolf.webp",
+      "sha256": "a470c8f5111399875874a96def5d3dedf69a5a618b8f885cee814b3b0ef1417f",
+      "bytes": 35822
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/grove-wisp.webp",
+      "sha256": "5b66aee97c45be0fe6d628debe82a30db1edc0a76ddce9196dd98c6973014795",
+      "bytes": 19548
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/heartbound-guard.webp",
+      "sha256": "18ab8e8b8a4254b2c73e92482fe85875b7aa2b84d4c2d68eebbf3514263cee37",
+      "bytes": 77796
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/heartwood-tyrant.webp",
+      "sha256": "f499b5fc61acabbbf3ae2aabb524be7b294b8f03ec446c76286b36f68a7a5993",
+      "bytes": 120618
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/hollow-antler.webp",
+      "sha256": "12c7adb4b6c6da1c2d0075f977a2daa3092f080c78368b1d9501ac1b1bda96f2",
+      "bytes": 39596
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/moonfang-hunter.webp",
+      "sha256": "525672599d6922af8cd39791e2a48a2b2f3c75ffafdbc88d5dc39f5f10d306a5",
+      "bytes": 41060
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/prism-archer.webp",
+      "sha256": "7c87492cfffcb17eb0298dadc396356d34323d3458227e42fc69306ae8eecb20",
+      "bytes": 63898
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/prismheart-dryad.webp",
+      "sha256": "63ae0d025d2c4c9809199c09e431630a301c049353a2fbf22f453366902034dd",
+      "bytes": 121920
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/root-crown-colossus.webp",
+      "sha256": "f286db650f498064fcebacaa31b44f026e72ba3fa4145c8ed21eb6684e92b08d",
+      "bytes": 118042
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/root-warden.webp",
+      "sha256": "1905594fa9d0173d1c7b67f986d63cf3282a0ce523c5aafd360bf37fd8da2a5c",
+      "bytes": 70950
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/rune-sprite.webp",
+      "sha256": "b6f3e246365a51b513cd45eb39845ed4901c0eacb5e30feecd2cb9a791d3f25c",
+      "bytes": 41754
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/thornbound-mage.webp",
+      "sha256": "aba71ef7733d27be24cac4a0d56a8a1d94327c41fa00a03642c604feccf07e63",
+      "bytes": 58790
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/umbral-keeper.webp",
+      "sha256": "e2d83fca8ddc3afb2c1fa3782c0963b2c0e854b7cd5cd8ca489eb5f8330680b5",
+      "bytes": 43476
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/violet-antler-lord.webp",
+      "sha256": "eecede3ae20cfb40d8c9edf35e7be926b6f09e6b05de8635d8ed6bbb3ce9302a",
+      "bytes": 67172
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/violet-sovereign.webp",
+      "sha256": "e8629922dd970f8ae0317d26819a522013d06da31ae4bc583fee0dd942666706",
+      "bytes": 129368
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/violet-stalker.webp",
+      "sha256": "d84faf7e30dcfbde85f105092d9d85784a9d2df812105afe68a62f8b932096a1",
+      "bytes": 44944
+    },
+    {
+      "path": "final-assets/battle/enemies/location-roster/wild-magic-echo.webp",
+      "sha256": "875b8dfb053b3ae15be58025350aa22dadbd8da0863745377b2e9416c47f4cc0",
+      "bytes": 52926
+    },
+    {
+      "path": "final-assets/battle/formation/courtyard-formation-tile.webp",
+      "sha256": "6d6b8278c07192414617276ccc7185c0c83d787b3112cc3c177739bdbd556b9c",
+      "bytes": 10314
+    },
+    {
+      "path": "final-assets/battle/rigs/cinder-vale/back_arm.webp",
+      "sha256": "69654b33e4b079dcc9ee99b3a3bae6dfb0845f51980d2756f55b916da891dc14",
+      "bytes": 14602
+    },
+    {
+      "path": "final-assets/battle/rigs/cinder-vale/cinder-actions.webp",
+      "bytes": 488414,
+      "sha256": "467f4345db79ca99674bc64cc8ab5275c2bb4bf9361d4d479b5d7e4fce9b9e81"
+    },
+    {
+      "path": "final-assets/battle/rigs/cinder-vale/front_arm.webp",
+      "sha256": "663498d82c33b16de01e8f8db6fad528979d373f73bc206da28f40eb439f1c7b",
+      "bytes": 11026
+    },
+    {
+      "path": "final-assets/battle/rigs/cinder-vale/head.webp",
+      "sha256": "85ba70aa57a015475f0b6d2d3c4625ad482f27578048709560ed6760b6e5db57",
+      "bytes": 6378
+    },
+    {
+      "path": "final-assets/battle/rigs/cinder-vale/legs.webp",
+      "sha256": "1a405974a08ab39bf6be259dc5a2579da2545fcbd1357167642d67a06695f3b5",
+      "bytes": 38474
+    },
+    {
+      "path": "final-assets/battle/rigs/cinder-vale/torso.webp",
+      "sha256": "638fe6a1ac3ca4c89c25cc6b7bc2ea260fda25b6539f3939a23ed5fd63981b4e",
+      "bytes": 12944
+    },
+    {
+      "path": "final-assets/currencies/lesson-scrolls.webp",
+      "sha256": "c2cfc707c3687b9f1d930697196347212654e98f5dc2b6e0a723c039153aeef7",
+      "bytes": 6844
+    },
+    {
+      "path": "final-assets/currencies/purchase-plaque.webp",
+      "sha256": "52127c8667f08c2687378452796c709070cd93790cc26e18faeea93cfe2a7781",
+      "bytes": 16404
+    },
+    {
+      "path": "final-assets/currencies/training-seal.webp",
+      "sha256": "5a22cafa8fb2c6c2598686aff2fcafc90d98cde5883c4281811717666231700d",
+      "bytes": 6240
+    },
+    {
+      "path": "final-assets/equipment/heavy-armor.svg",
+      "sha256": "d0441c04899581ba44093ebbd15fdedfde31605cc90ef56a9b795684599fa4a2",
+      "bytes": 606
+    },
+    {
+      "path": "final-assets/equipment/heavy-boots.svg",
+      "sha256": "6cf19337ef98dac78f634d6d5c6a4e23d99362f48f78bb05729cb554174ccb74",
+      "bytes": 583
+    },
+    {
+      "path": "final-assets/equipment/heavy-helmet.svg",
+      "sha256": "c92ba4a882ce1cdb5f0728070876a3eec73a8c841ec0809317f3cc7248866619",
+      "bytes": 588
+    },
+    {
+      "path": "final-assets/equipment/heavy-weapon.svg",
+      "sha256": "0c412d044e798a45c6821d71a10b9c26e9b0d67f10afde7a32a2b667e768a223",
+      "bytes": 619
+    },
+    {
+      "path": "final-assets/equipment/light-armor.svg",
+      "sha256": "0c92a623fb341008a0d38848862de7c5f128598309a32ea081d960712cf8de46",
+      "bytes": 622
+    },
+    {
+      "path": "final-assets/equipment/light-boots.svg",
+      "sha256": "57fc7d619ccfa593b461cf882d265a8fe0265aba99f7f210b189b431df7559b7",
+      "bytes": 623
+    },
+    {
+      "path": "final-assets/equipment/light-helmet.svg",
+      "sha256": "1f0e914da7d3ab6216b9c54bae3604fd8ffc713994d13b393733804296dc052b",
+      "bytes": 596
+    },
+    {
+      "path": "final-assets/equipment/light-weapon.svg",
+      "sha256": "9e93cde80ea10f9f4b69b8ec13d7d843b06db212f6dcbcf4ffb9a2e92a65766a",
+      "bytes": 559
+    },
+    {
+      "path": "final-assets/equipment/magical-armor.svg",
+      "sha256": "d9314a50a74013b665f994337086ea5f88b1fad63baf8252533d840e14875268",
+      "bytes": 612
+    },
+    {
+      "path": "final-assets/equipment/magical-boots.svg",
+      "sha256": "1f322a3148b3a9beaa6ddf7ea0889fe0d9b571bd32a079b14272effde5dfb46a",
+      "bytes": 645
+    },
+    {
+      "path": "final-assets/equipment/magical-helmet.svg",
+      "sha256": "c99ad3923766a52fc72495188b0ea5bdeb7dd3a44df573719131529e6ce0c8aa",
+      "bytes": 605
+    },
+    {
+      "path": "final-assets/equipment/magical-weapon.svg",
+      "sha256": "ebaf293a6a6ea99c4e5aa7f7c29ae171c6003a81225ea9e00f2b56e6b143ff91",
+      "bytes": 603
+    },
+    {
+      "path": "final-assets/expedition/academy-master-portrait-v1.png",
+      "sha256": "bc4428fe1b55e925e7f8ff7b5da77e962c0d927438dba92cbc0bfbdcaab51bb0",
+      "bytes": 72712
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/ancient-roots-route.webp",
+      "sha256": "0e74e6d0f0e36e5ffc2e2461d8234f6d194ab7ead03161b1468ec59091ad8eb2",
+      "bytes": 275118
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/deeper-woods-route.webp",
+      "sha256": "a102b6853455fae04b9931031dc793506c54de39d82e1781735745fbd5aa692b",
+      "bytes": 260182
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/forest-gate-1-1.jpg",
+      "sha256": "283d96be88894a58af0061257fb75dd2f161bceec6eef3115622ee14e98a161b",
+      "bytes": 277795
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/forest-gate-emissive-1.svg",
+      "sha256": "0b7a6d33d2d66c9427c5efdf3edb225efc3537f1f6739d1b9be4f316722d99a5",
+      "bytes": 70109
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/forest-gate-emissive-2.svg",
+      "sha256": "db73a8e886b7cac070c8e8404a86b96cbf46d6ff833649f04ebea5ad5337de27",
+      "bytes": 76641
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/forest-gate-emissive-3.svg",
+      "sha256": "982456f4d136bd1bb5b12d841592b8d59aba3f53e0ae4f4ebfb3a547c277058c",
+      "bytes": 49925
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/forest-gate-route.webp",
+      "sha256": "8e8d52b21691ea9417e3b39b2fa7078b0f66b8471ce1646dab53b63da0df8581",
+      "bytes": 350644
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/heart-of-the-curse-route.webp",
+      "sha256": "a53d14de83a4724d7dbfe9e4481f8d9a84dcfae63707180bab51849f8d489295",
+      "bytes": 325056
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/sprite-grove-route.webp",
+      "sha256": "1e4395796e26d7181ef1a11b0f996d04967395823a1dca7ad29b0366176fa867",
+      "bytes": 330634
+    },
+    {
+      "path": "final-assets/expedition/location-backgrounds/wolf-den-route.webp",
+      "sha256": "ca65c9209e84dd468b42473534976ba026eebefbab16ae09c4a4d0f9b794fb47",
+      "bytes": 370784
+    },
+    {
+      "path": "final-assets/expedition/location-nodes/ancient-roots.png",
+      "sha256": "1d16f4d787721c2e2eda8132dca43b661a585406569378bce41ca7b22842f60a",
+      "bytes": 82680
+    },
+    {
+      "path": "final-assets/expedition/location-nodes/deeper-woods.png",
+      "sha256": "9104af06881494fcc4acbe9c02b2f0ba6638bb784b5e7ee2c788b9c63a5ce309",
+      "bytes": 68974
+    },
+    {
+      "path": "final-assets/expedition/location-nodes/forest-gate.png",
+      "sha256": "66e3eb81cd1d15396ad26dc56e198dc616c4cd6c9c390c03ba68f7bd43c3d4e9",
+      "bytes": 53934
+    },
+    {
+      "path": "final-assets/expedition/location-nodes/heart-of-the-curse.png",
+      "sha256": "39190efb70756d3ff644926e5664faabd86b052a4398a3d177b080e6b80e2d04",
+      "bytes": 73896
+    },
+    {
+      "path": "final-assets/expedition/location-nodes/sprite-grove.png",
+      "sha256": "b513bba591b0f17b9dbbd148ae2ed564410d3ea389dccb349a98f373d2286625",
+      "bytes": 55879
+    },
+    {
+      "path": "final-assets/expedition/location-nodes/wolf-den.png",
+      "sha256": "b305b9622d3d81f4b7f101f658ef302277b5f0b0feb59d3f43e851f324a82fb2",
+      "bytes": 88115
+    },
+    {
+      "path": "final-assets/expedition/location-preview/ancient-roots.jpg",
+      "sha256": "df3b29f70742575b15d1e6866b163975bf01ff453ab62155f8faba1120fd8909",
+      "bytes": 476148
+    },
+    {
+      "path": "final-assets/expedition/location-preview/deeper-woods.jpg",
+      "sha256": "c3f1b4cde683a3f709db219b400d698051fda4c16c8c440ea34dab5445dd6316",
+      "bytes": 349624
+    },
+    {
+      "path": "final-assets/expedition/location-preview/heart-of-the-curse.jpg",
+      "sha256": "33657d69bd63c39bf97e83b6cf14dbb13088e11c66d2c138fdb33f9f5b6aef1e",
+      "bytes": 406884
+    },
+    {
+      "path": "final-assets/expedition/location-preview/sprite-grove.jpg",
+      "sha256": "df8a04d6ca72b0559cb69c57fde5c38ce0237a9a41a61d4411e2e6ee5e7e2921",
+      "bytes": 494189
+    },
+    {
+      "path": "final-assets/expedition/location-preview/wolf-den.jpg",
+      "sha256": "9625f4fb471daa059fe2f2f4d0a95641f18cee9cf95e9730661e45bf1624216c",
+      "bytes": 465178
+    },
+    {
+      "path": "final-assets/expedition/stage-info-panel/academy-exp-reward-icon.png",
+      "sha256": "9f305cf950678fc650aa065c2210d24863d88cf5d6341874e02d34b5bbdecc76",
+      "bytes": 50759
+    },
+    {
+      "path": "final-assets/expedition/stage-info-panel/challenge-button.png",
+      "sha256": "0a56baea83491c27e8f798b1cb7de6549ebadb1403278dbc333850a149d65b57",
+      "bytes": 211929
+    },
+    {
+      "path": "final-assets/expedition/stage-info-panel/gold-reward-icon.png",
+      "sha256": "a5ebe3c2fe761877435d648275d664327933435ca9c9a69e5f2da4eb61e2b37b",
+      "bytes": 92063
+    },
+    {
+      "path": "final-assets/expedition/stage-info-panel/lumen-reward-icon.png",
+      "sha256": "e5f97618f89fb1d94e1e8fa3af12ec5217a2a77b3cc40947acd0c4acc023b318",
+      "bytes": 23749
+    },
+    {
+      "path": "final-assets/expedition/stage-info-panel/suggested-power-icon.png",
+      "sha256": "590db1b1f4ee2530039bcf92f2aa72008b631864fa420a7eed071cb02c4dad4a",
+      "bytes": 31742
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/ancient-roots-waystone.webp",
+      "sha256": "1677a1dc102854281d3a4b0646d3d760dac59c1e011eae1f437b1928b5830bdb",
+      "bytes": 28578
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/deeper-woods-waystone.webp",
+      "sha256": "e0ea55cf1fa2a5eed8adfad05b243cf7cc7278baf1e168235c234752add5768e",
+      "bytes": 17978
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/heart-of-the-curse-waystone.webp",
+      "sha256": "116407fb5673b18d7635c7c94497384e32dc0399fbb8787b23ce756c78748c44",
+      "bytes": 20402
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/sprite-grove-waystone.webp",
+      "sha256": "141f588d1c364dede0657d64e7f01a46892953fbba4955d8a2a280c779e397c2",
+      "bytes": 12690
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/stage-node-boss-available.png",
+      "sha256": "07bcb0612650d3eac30a5a100ad8840c7f6c2a77943909f0d86956dfb17d1e49",
+      "bytes": 131272
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/stage-node-boss-locked.png",
+      "sha256": "94b90db943baf9bad1b122de6908a7b09577a68c855ddc5ba57bc7d9d316af9a",
+      "bytes": 88539
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/stage-node-cleared-mark.png",
+      "sha256": "a751ec0ec45a6b1ab1b7b1fb0bb28fa26c4e03fa629202d351b909a6fd48e7bd",
+      "bytes": 16899
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/stage-node-normal-available.png",
+      "sha256": "a231fc6626425c4c2697fbff00821048d33d12ce12395bf733a710f8e880c17d",
+      "bytes": 90029
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/stage-node-normal-locked.png",
+      "sha256": "283c39f060ab647125af4576be48d6d3f1f66751f193914f657f3a38e6beb231",
+      "bytes": 64582
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/stage-node-strong-available.png",
+      "sha256": "58000d6a1e263a562b97a6bc9ff926cf2317177e95ba2f3a349a5719acfafc42",
+      "bytes": 108481
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/stage-node-strong-locked.png",
+      "sha256": "7ec4fdb801bd574c5e4aee6c6739ed984c3a314a201901cd40bda476e4e17d06",
+      "bytes": 87301
+    },
+    {
+      "path": "final-assets/expedition/stage-nodes/wolf-den-waystone.webp",
+      "sha256": "99b94c8d8a703abe34c8208410f5b75285cc7072cd291ad35266dcd6ade1fd3e",
+      "bytes": 14328
+    },
+    {
+      "path": "final-assets/expedition/upper-hud/energy-icon.png",
+      "sha256": "fc88a9427be3d8ee691aec871dddeed1a1d363fa185951ed776818f17ef66613",
+      "bytes": 39256
+    },
+    {
+      "path": "final-assets/expedition/upper-hud/title-divider-ornament.png",
+      "sha256": "3c4aa85bf8f2ad5fcd362e4e8fdf546657caa5a2ea1a1ad5c8cf51f2a35490fd",
+      "bytes": 28154
+    },
+    {
+      "path": "final-assets/expedition/wild-forest-atlas.webp",
+      "sha256": "1c90b031ea4428b3ca470ccbd096d060d970fe5684adecd079a4511c5414f9d2",
+      "bytes": 444332
+    },
+    {
+      "path": "final-assets/expedition/wild-forest-expedition-bg.jpg",
+      "sha256": "0cbf84eb9e293ef89ae7f618ad522e92ee4c280107f8d3cbd269792f544cec37",
+      "bytes": 511496
+    },
+    {
+      "path": "final-assets/expedition/wild-forest-sky.webp",
+      "sha256": "7b9e3c18319f4169ef455ba3ac0426463d9508642c2dd1478a218cbd56f65975",
+      "bytes": 3974
+    },
+    {
+      "path": "final-assets/launch/arcane-launch-crest.webp",
+      "sha256": "ef61f57f872c5a6bf89ae45c8c44d4472503551ebdd2120bf83544ae5c63f916",
+      "bytes": 16128
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/README.md",
+      "sha256": "182e024d492ad47a4a3973f1bc1cbfe1897450c0663a831a98a04b54c471e6f4",
+      "bytes": 1071
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/academy-tab.png",
+      "sha256": "1bba8a315a811ffa28baf637fd586458584204449cfb45e4e6f0c435bd708899",
+      "bytes": 77465
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/archive-tab.png",
+      "sha256": "5d9189e860f10d9bd005e870dbd695d8b8a3a1c371c5d027a07bafe5ce62f72a",
+      "bytes": 74383
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/asset-manifest.json",
+      "sha256": "f57f16ecd1ea66ca568fe72b6b84231c5b24d3acdd094a6d92dd7ba97156c5da",
+      "bytes": 5030
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/expedition-tab.png",
+      "sha256": "1c9e700104923abceedf07e372db45ef0e89c80d0b50acd67d7378d4a5185aaa",
+      "bytes": 74676
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/summon-tab.png",
+      "sha256": "1d83970bfe8dde605b71538500831ecf4ca88ec5e830d9c1c1d826c0cc37a5a7",
+      "bytes": 70727
+    },
+    {
+      "path": "final-assets/navigation/bottom-tabs/trainees-tab.png",
+      "sha256": "e81e5c5fe92d21772ef850d2cd5307e0b5d786ab81a1392d5483cd1d8f51fdac",
+      "bytes": 68600
+    },
+    {
+      "path": "final-assets/summon/aether-crystal.svg",
+      "sha256": "86b5c2fe881e58f076abfdcc249b8792c0940ce1d5e7dabff28ce1626b2017cb",
+      "bytes": 583
+    },
+    {
+      "path": "final-assets/summon/recruitment-divider.webp",
+      "bytes": 14050,
+      "sha256": "8f0b5b13c2ee67c2be0f45a4e62a034cf041de24f62a202fd540e8fe6e6cb31d"
+    },
+    {
+      "path": "final-assets/summon/recruitment-hall.webp",
+      "bytes": 123290,
+      "sha256": "b9744030dc50d5007437f6993d79c20f532b09128868f617f818190efd6bf0cf"
+    },
+    {
+      "path": "final-assets/summon/ritual-chamber.svg",
+      "sha256": "289e00e9c6c90f9b86113bd13b673fa12815b2e8d575594406d8d793bc79eca8",
+      "bytes": 4375
+    },
+    {
+      "path": "final-assets/summon/ritual-sigil.svg",
+      "sha256": "b891298a5131bd78e7fcc6de271afb8aea0ff4d63d4c88abef4e9158cd339780",
+      "bytes": 1536
+    },
+    {
+      "path": "final-assets/trainees/action-gold.webp",
+      "sha256": "3aa59e537107d6767795efe25339ae5b30ac9b015b416aa85f938001755bc3d3",
+      "bytes": 5612
+    },
+    {
+      "path": "final-assets/trainees/action-navy.webp",
+      "sha256": "d13c1d4aa0328aa61d89fabfc887ac1b2fff6be3256900130d0c5b8feab04d50",
+      "bytes": 4376
+    },
+    {
+      "path": "final-assets/trainees/affinity-arcane.webp",
+      "sha256": "955a78b537aabdc3c3ffdf20d1d0f74f22ec42c74f2fe00d2f0d726f92958a13",
+      "bytes": 6452
+    },
+    {
+      "path": "final-assets/trainees/affinity-flame.webp",
+      "sha256": "fc6049611b8d66558330334803c30cd1c91c0664690a25e2661703e29337f375",
+      "bytes": 6550
+    },
+    {
+      "path": "final-assets/trainees/affinity-frost.webp",
+      "sha256": "838a3e7a699f31f67bd7de2f65a25b773b558dd174bb0a030551f40c8f0e067a",
+      "bytes": 6404
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/common-battle-mask.webp",
+      "sha256": "8762e3aa47646affc7abb69cbc390b00c453520cbc126f83d86b623ade1528a9",
+      "bytes": 940
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/common-battle.webp",
+      "sha256": "f53eb9b59f6e83d11fcfa3b8ee1e7b79bbc064be560c3bde6cc8326b9d6196bd",
+      "bytes": 18082
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/common-roster-mask.webp",
+      "sha256": "d4a41f5978923fb4c6223faf253bdf756312da3ac8a5b8c011acf578af4354b7",
+      "bytes": 810
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/common-roster.webp",
+      "sha256": "bb8d66b3381ab191ce6e23f4fe0bc35c05edf320d03871c94541dc54a78b011a",
+      "bytes": 15774
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/epic-battle-mask.webp",
+      "sha256": "c477c26e122af6fdd67996246b70864a3546264a6c11444858ea62dadf71ff77",
+      "bytes": 1368
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/epic-battle.webp",
+      "sha256": "363bead1b2b0358307ea409ea78b1d1a5c4e8e17df41d2f5a4cb772b55f0f6df",
+      "bytes": 32878
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/epic-roster-mask.webp",
+      "sha256": "64790c3303af5d66c429eb4cbd3a171ebc870a0d5b93356c617218894ef1e7ac",
+      "bytes": 1242
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/epic-roster.webp",
+      "sha256": "4486d7d595755168dced461fa5ebfbfb4d555c699cb1ec296524c4ce5a5dc8ec",
+      "bytes": 28372
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/legendary-battle-mask.webp",
+      "sha256": "1b17e4a1d5c0dd0d633c5fcc6c6bad29b965c58aa86a6508ba0f03314b57b998",
+      "bytes": 1964
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/legendary-battle.webp",
+      "sha256": "71c447f92545e1e37289edf8044f08abda54335e6756a135ec0a8a30a4cd1939",
+      "bytes": 45268
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/legendary-roster-mask.webp",
+      "sha256": "7be29dcc6d07bdb8768958dcc715d29408438784f0de3cdb955d8e13fea4ea95",
+      "bytes": 1692
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/legendary-roster.webp",
+      "sha256": "f5d55f7d273d5ae46eeb14002d335a486dd690e87200522e1a1ff0f5db89a3ce",
+      "bytes": 37824
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/rare-battle-mask.webp",
+      "sha256": "b50b099dcc387cf211aa00e9ef0897b92e42fb1bdbc60e2560d31c09ca9d3425",
+      "bytes": 998
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/rare-battle.webp",
+      "sha256": "d35fd2daea0cec83fd90a2c2e4bff00fdb9b76bc5df2c09306e064e695b668b6",
+      "bytes": 28588
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/rare-roster-mask.webp",
+      "sha256": "bfd62aa07977776d0696c7d3abad6605f6952e240cca40be689aaaac49122793",
+      "bytes": 828
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/rare-roster.webp",
+      "sha256": "42420ffa2f7d9505b9e92f976f8094476d5f73024a205ef7a5198d4a898690f8",
+      "bytes": 23550
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/uncommon-battle-mask.webp",
+      "sha256": "119cae6bc6cfff102ba3bf995b2c94addd825c16e6e105f07f37d290b464538a",
+      "bytes": 828
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/uncommon-battle.webp",
+      "sha256": "402b23599395a6683327cb47b0b8dcb0044630fd5cb8deaa9340f9bf48eb79c0",
+      "bytes": 23218
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/uncommon-roster-mask.webp",
+      "sha256": "bf3f2a53076bda21b5659ed30fb7c1cc6e8d0e64564994a00db636f0d150c5ad",
+      "bytes": 758
+    },
+    {
+      "path": "final-assets/trainees/approved-rarity-frames/uncommon-roster.webp",
+      "sha256": "4ad60b8fc2e9d4dc0d348a4854b81b42bd40fb5d23fe962548526c897da8390a",
+      "bytes": 20220
+    },
+    {
+      "path": "final-assets/trainees/cinder-vale-card.webp",
+      "sha256": "cc12e8b0bba9e84ffd018632cacfc23efb54ace50c6ec6a89c0d57c23336bc2f",
+      "bytes": 20248
+    },
+    {
+      "path": "final-assets/trainees/cinder-vale-showcase.webp",
+      "sha256": "8bae4b2b45068c38c6dd690a6a9f1c9290c2772e5773dae3a6f489b682876cd3",
+      "bytes": 98502
+    },
+    {
+      "path": "final-assets/trainees/dispatch-scroll.webp",
+      "sha256": "41d4c465e8817547f0911ebfec785886d1a7ba61c4fcf4319069ddc13399c685",
+      "bytes": 8542
+    },
+    {
+      "path": "final-assets/trainees/dusk-card.webp",
+      "sha256": "cc12dd82b42fbb5b84864ec83f107e742067e3626d82e06c14cc496feecc9ef9",
+      "bytes": 12770
+    },
+    {
+      "path": "final-assets/trainees/forest-gate-shield.webp",
+      "sha256": "cf7c88eb9cc854f36f65ebe848c28d298a7e8186c6474c01dcbc9b81ad3c7349",
+      "bytes": 8468
+    },
+    {
+      "path": "final-assets/trainees/formation-party.webp",
+      "sha256": "9072b46c34a31180b340547557731f09a1fd22cd1eca2a203bacc2d882cd6ead",
+      "bytes": 6998
+    },
+    {
+      "path": "final-assets/trainees/frost-warden-kael-card.webp",
+      "sha256": "3a226e8d4502b2b894173e8615abb2e8d34dabc50a598a6ddb0502a784ca90be",
+      "bytes": 15512
+    },
+    {
+      "path": "final-assets/trainees/lumen-solis-card.webp",
+      "sha256": "dfb73339f58d883497d928ff58a62afd145babf8f2424736e3667686e8d95467",
+      "bytes": 15464
+    },
+    {
+      "path": "final-assets/trainees/panel-trim.webp",
+      "sha256": "67f7790e3dec6d508cc3b456a0d9b806bbfc1ea5494c0f478586e0ee4e69ee34",
+      "bytes": 7962
+    },
+    {
+      "path": "final-assets/trainees/power-fist.webp",
+      "sha256": "39612415f91841cda8c4f774d48e7424c81b21e6bfb24925b3d778075609b1fe",
+      "bytes": 7896
+    },
+    {
+      "path": "final-assets/trainees/profile-crest.webp",
+      "sha256": "9cb9eafe7aa60eadfee27b2588bf5c6dda0bb7a27946a5a59b36dcc749e196b6",
+      "bytes": 30858
+    },
+    {
+      "path": "final-assets/trainees/pyreth-the-branded-card.webp",
+      "sha256": "a658cc75d40962835297a7b8b10e6cdd984ccff52a9ae4a6072c70f44f0e7e8a",
+      "bytes": 13278
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/ascended.webp",
+      "sha256": "9210a96e04ab57508d52c1b81e5ae159f9b297013794fdf2d860e3a8814420bd",
+      "bytes": 6826
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/common.webp",
+      "sha256": "61d2b31a95cf00d1a85b90c130d418ee7bc0ea9cb51d1c8bcb86f29cb69d37fa",
+      "bytes": 3818
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/epic.webp",
+      "sha256": "28675a5f24af60493e9b1a5e1755b08f37ddbd29db8f98865030901dc19e0131",
+      "bytes": 6240
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/legendary.webp",
+      "sha256": "9d8a81cac11339f74fc5d29154d77387d1a7df3668a4b7e11699c83bcb6a59cb",
+      "bytes": 6480
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/mythic.webp",
+      "sha256": "fd2059b1e54d1e1b9dc1804c489e9c47a914ee484f5d29e0d9fab63d44230af9",
+      "bytes": 7394
+    },
+    {
+      "path": "final-assets/trainees/rank-frames/rare.webp",
+      "sha256": "dd51a59391df356693f33f307dbd5310ed019d4976c37bf228e61fcdcc21b29c",
+      "bytes": 4822
+    },
+    {
+      "path": "final-assets/trainees/rating-star.webp",
+      "sha256": "95cf0e11b1b57646f84ff95136f747688824b987858908745ba4ba1cd2d2fff5",
+      "bytes": 6492
+    },
+    {
+      "path": "final-assets/trainees/role-compass.webp",
+      "sha256": "ae6228d8d3987afe1b7f4203ae42e6eb7e1dcf4d33de473c2f75c1949dee20c5",
+      "bytes": 10048
+    },
+    {
+      "path": "final-assets/trainees/sera-ashveil-card.webp",
+      "sha256": "204ad333c7cd2bc83d3b28619f5ecedc3c74d13ec1b51d2cf06bad569be24c91",
+      "bytes": 16854
+    },
+    {
+      "path": "final-assets/trainees/skill-rift.webp",
+      "sha256": "89bfc449baf19e0036aae6bbe219ca3d4b0d8e489130fbe4e1944fc18c9a76af",
+      "bytes": 7210
+    },
+    {
+      "path": "final-assets/trainees/skill-shards.webp",
+      "sha256": "2eb3951a5f437c75b1b0bfd41843e5cb993ee57ea9e475144c2f920ef5dd5b67",
+      "bytes": 7576
+    },
+    {
+      "path": "final-assets/trainees/skill-strike.webp",
+      "sha256": "1d43147635a4cbaf3e1f7af3343d42d4846774f1a03f6af40753d11778672402",
+      "bytes": 7680
+    },
+    {
+      "path": "final-assets/trainees/skill-ward.webp",
+      "sha256": "7a22802b4a333c3631762a4bbec80986e5cacd9d5259e42d795c885b8a347856",
+      "bytes": 8020
+    },
+    {
+      "path": "final-assets/trainees/slot-lock.webp",
+      "sha256": "395c6b236392c545cd9019ea9610d9ea0a947bf06140ec5766f01ab26e9d262d",
+      "bytes": 7252
+    },
+    {
+      "path": "final-assets/trainees/stats-medallion.webp",
+      "sha256": "a299a3b4b2440e8e4256e0fd60e747f1580388418d1fd2cffcc26dc8a76029f2",
+      "bytes": 7402
+    },
+    {
+      "path": "final-assets/trainees/stone-sentinel-gorr-card.webp",
+      "sha256": "9b22090d6872a4cedebeab1702dd071ff2ca9777a2f663887db66bf6de62f14d",
+      "bytes": 12258
+    },
+    {
+      "path": "final-assets/trainees/training-library.webp",
+      "sha256": "9bb8b1bb071fa53dfc72b9725f7f9714893f961cd0b5ef531fa58368fc2fe9ee",
+      "bytes": 119442
+    },
+    {
+      "path": "final-assets/trainees/yssa-driftborn-card.webp",
+      "sha256": "ebb04b6d23bbcef49d185478b50dfbf02c74aee787501c17e8ff79c9c357c9fc",
+      "bytes": 11526
+    },
+    {
+      "path": "final-assets/upper-hud/blue-crystal.png",
+      "sha256": "5f479735f3866a49c9c80ea7c8149737e030bb98787d393fafef90bca0851ec1",
+      "bytes": 38088
+    },
+    {
+      "path": "final-assets/upper-hud/gold-coin.png",
+      "sha256": "ab922b4c4b66445b7890d13474bf8742cd3913ad136e8b0f8fdf02aad056f608",
+      "bytes": 114569
+    },
+    {
+      "path": "final-assets/upper-hud/level-iv-badge.png",
+      "sha256": "2bbb8c1bff3f0e93924600edf823843aa947f5237f4e1d0f4f3a9d724d73acb5",
+      "bytes": 3317
+    },
+    {
+      "path": "final-assets/upper-hud/player-side-banner.png",
+      "sha256": "318d4d73ab51775888229cf6735f090047d1794bb9205734b39d98d229ef0b25",
+      "bytes": 86165
+    },
+    {
+      "path": "final-assets/upper-hud/plus-button.png",
+      "sha256": "6745154c9f8e5886b74a8d536e8821cedd00e372ce1e4eee056331b92368c636",
+      "bytes": 78777
+    },
+    {
+      "path": "final-assets/upper-hud/profile-avatar-frame.png",
+      "sha256": "ce0e3b1b57d264932dd82c7cfc5e3eb3c05c2fcb0777c90edd4c37aec7d4cc2b",
+      "bytes": 7370
+    },
+    {
+      "path": "final-assets/upper-hud/purple-crystal.png",
+      "sha256": "5e4449f7161004e424d29d761984141add3e0c3d9bf93acb68274dca3bc0ad7a",
+      "bytes": 40590
+    },
+    {
+      "path": "final-assets/upper-hud/resource-bar-frame.png",
+      "sha256": "492600650c2dc1cfc59152bae8777bb2c54a7ba87ee1d5f04f97576a598d874c",
+      "bytes": 51459
+    },
+    {
+      "path": "forest-gate-map.css",
+      "sha256": "847d518c4e6a1bc4b3863a8273463104e618af4a8a77bc4b3d77ed015072e6b7",
+      "bytes": 7398
+    },
+    {
+      "path": "forest-gate-map.js",
+      "bytes": 7644,
+      "sha256": "528b0650ed029897e76060034f79009a2841e602ac5283c42a05cca4b44aeb4d"
+    },
+    {
+      "path": "index.html",
+      "sha256": "c8a3c401ea3b91775af583f7490d48dff46113ae98eb03cb42a5e9ed9b4c1f1b",
+      "bytes": 3738
+    },
+    {
+      "path": "main.js",
+      "sha256": "4d70ef5bdb69eb62080370ad5a862452b8c67052ee18da0715cebf27f81d3e04",
+      "bytes": 171381
+    },
+    {
+      "path": "manifest.webmanifest",
+      "sha256": "4930a8e2addcdb3b373f63359848ec54eaac18dde0d31bb0a8d2c56b6e28326f",
+      "bytes": 504
+    },
+    {
+      "path": "shared-upper-hud.css",
+      "sha256": "eea575874b0bb566dedc81a8a36c28c117f4a7fdf4b07def4bd51970cea909ed",
+      "bytes": 7836
+    },
+    {
+      "path": "shared-upper-hud.js",
+      "sha256": "8b21579376c7ebbd4eefbf082b69d492360f92dc01be5004563c75ccac0dbc51",
+      "bytes": 3337
+    },
+    {
+      "path": "src/animation/campus-walker.js",
+      "bytes": 21197,
+      "sha256": "03187065065b0384518f35988bacc33722296ef548752d9e934153deab2e268c"
+    },
+    {
+      "path": "src/animation/cinder-frames.js",
+      "bytes": 942,
+      "sha256": "fcce5b0d02511785590926509efbf6665f302be0cda29cf02655ff1bc33fab48"
+    },
+    {
+      "path": "src/animation/cutout-rig.js",
+      "bytes": 5101,
+      "sha256": "cf47204ba0be5397be46062d935d3739b5b91cd55d972d6fb0efc67ff9472d10"
+    },
+    {
+      "path": "src/battle/location-battle-art.js",
+      "sha256": "84e7a6695dfc81c7e5abe76151a8a708a8dee77154ab5cb1067cc7b2503b334b",
+      "bytes": 2412
+    },
+    {
+      "path": "src/battle/phaser-battle-renderer.js",
+      "sha256": "4a34d9a6dd2c2e3792d72283c6a4bc197222b66150e7b2941b385ed05d33fdad",
+      "bytes": 117573
+    },
+    {
+      "path": "src/battle/phaser-renderer-proof.js",
+      "sha256": "c3b6e90b97f9a94244e98968b82d9c16680a9bdf54ae5c017f8493c7ff127e6a",
+      "bytes": 11500
+    },
+    {
+      "path": "src/battle/vfx/CharacterRig.js",
+      "sha256": "0575e22d47065da729d8ee0208d2a09e2fb23f4e0ddd613391010fcfb99647f4",
+      "bytes": 2401
+    },
+    {
+      "path": "src/battle/vfx/MeleeRun.js",
+      "sha256": "5e3ad6d3a9797b10b57e815ea19252454a8a8ae6211e70eb991a46793d9c80d2",
+      "bytes": 12084
+    },
+    {
+      "path": "src/game/archive.js",
+      "sha256": "a0ccf61caeb6fd8c59cd89d37539cce4aac212a3332962ff0e49e24e479a376d",
+      "bytes": 5272
+    },
+    {
+      "path": "src/game/campaign-balance.js",
+      "sha256": "35418de8774570481458cba2433e268cb8076f89ff57a0a1bc46a72603a5cbf8",
+      "bytes": 8286
+    },
+    {
+      "path": "src/game/content-schema.js",
+      "sha256": "313c6f5a6a3dd37b9b88e518a32bab384e3bb3223212766218554e3dc24840eb",
+      "bytes": 10910
+    },
+    {
+      "path": "src/game/data.js",
+      "sha256": "b04d319fe4954ad613f5a9be4841705001ed2c985f78f839f4756ba86b7c1dd2",
+      "bytes": 42405
+    },
+    {
+      "path": "src/game/enemy-balance.js",
+      "sha256": "3d6fb8aa4ab97435bfd3f5c6e5b415a62fcb69a6ca32fa7dbceb34ac46696b16",
+      "bytes": 59908
+    },
+    {
+      "path": "src/game/equipment-acquisition.js",
+      "sha256": "65ba83b162ad4b18ec898ec4ae41f27f9a8604030ffbf59dd6e8317978d47ba4",
+      "bytes": 15867
+    },
+    {
+      "path": "src/game/equipment-ui.js",
+      "sha256": "67204f0884942c91740ddc323cf98f0210839896ad8b63dd6af4295d10ba8a4a",
+      "bytes": 10953
+    },
+    {
+      "path": "src/game/equipment.js",
+      "sha256": "3d2e699bacb1d0f547e77519ece4035c4823625622f16ccfa8d8dc4db2ad97b6",
+      "bytes": 8697
+    },
+    {
+      "path": "src/game/game.js",
+      "sha256": "3cfb6149927c774fe446b95e426f28af1f519978ebd30db06d9e8e0769b43622",
+      "bytes": 92654
+    },
+    {
+      "path": "src/game/recurring-quests.js",
+      "sha256": "7dfe70b7adc804e015c5132327b783dab25def934d7c6d9b95b02982ade918f3",
+      "bytes": 6265
+    },
+    {
+      "path": "src/platform/content-updates.js",
+      "sha256": "1aa4c1cd1cfa28e5aaa73b4c33aa1c4c227f140284baa9d831252709d1ccd86b",
+      "bytes": 14681
+    },
+    {
+      "path": "src/platform/game-audio.js",
+      "sha256": "9d924be91832bc623c247cc85328478936606a8460e44d137e4db53cacd77ee9",
+      "bytes": 15175
+    },
+    {
+      "path": "src/platform/game-settings.js",
+      "bytes": 19749,
+      "sha256": "66c5aeaaeeaf0c736121617b86d0f57e4b98b374b0576888c7e9b2b3d38b4d53"
+    },
+    {
+      "path": "src/platform/persistent-storage.js",
+      "sha256": "73b76125efcd37df5b2a56230ec5d29d87054067445237db41eda2cd64e145bb",
+      "bytes": 6352
+    },
+    {
+      "path": "src/vendor/PHASER-LICENSE.txt",
+      "sha256": "6a1f3ef386ec4f48d3ad25f61469afc004ddfb2b6598e5af1e0f79933f9d4c8d",
+      "bytes": 1100
+    },
+    {
+      "path": "src/vendor/phaser-4.2.1.min.js",
+      "sha256": "66348b1b5141e49b7d5ebbe688cddcb502eab1cb00f21c538686a5b2c5abe4de",
+      "bytes": 1375976
+    },
+    {
+      "path": "style.css",
+      "sha256": "3bbc056dad00a8ae7ea498ea16aba4a9a2cf16db2e3038b73fac12a8c1336f48",
+      "bytes": 399374
+    }
+  ]
+}
