@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 208,
-  "label": "Combatant equipment slot navigation",
+  "version": 209,
+  "label": "Auto Equip strongest available gear",
   "entry": "index.html",
   "files": [
     {
@@ -28,8 +28,8 @@
     },
     {
       "path": "equipment.css",
-      "sha256": "3ff779d3ee16f509d9ab374b9b6922bf599b3ade1651b1cb49b1bc1726046d1a",
-      "bytes": 4735
+      "sha256": "018e80286431dc02351086fd14fbf10a2e7e0ae749ae155e2e4e370973f19dfe",
+      "bytes": 5196
     },
     {
       "path": "expedition-asset-paths.js",
@@ -1848,8 +1848,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "9d258a797c09ff5f4ea19ad14fd03b8456ba8bd53cd1c1f7258b311bdfa91ba3",
-      "bytes": 159210
+      "sha256": "945ce2ea7eaefba09b6132cd5fb78122a2e8394930fded474bd30802aedf0ef6",
+      "bytes": 159764
     },
     {
       "path": "manifest.webmanifest",
@@ -1938,13 +1938,13 @@
     },
     {
       "path": "src/game/equipment-ui.js",
-      "sha256": "c3d87b6ed3336b05b9562b4a4e54e9634bf8fc799e07c76d677e6d7e9dc34035",
-      "bytes": 10119
+      "sha256": "58dbc898324884644ab51050cb2a3adc673940b75a663fea21f3a116065c2dd7",
+      "bytes": 10562
     },
     {
       "path": "src/game/equipment.js",
-      "sha256": "0508d8dec3e48ddc62414b049d5ac507823f0306e52d8d607eb45e7b37e69355",
-      "bytes": 7268
+      "sha256": "3d2e699bacb1d0f547e77519ece4035c4823625622f16ccfa8d8dc4db2ad97b6",
+      "bytes": 8697
     },
     {
       "path": "src/game/game.js",
