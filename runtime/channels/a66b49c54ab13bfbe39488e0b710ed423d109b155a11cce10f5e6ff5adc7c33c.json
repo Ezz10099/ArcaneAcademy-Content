@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 205,
-  "label": "Academy Forge and campaign balance",
+  "version": 206,
+  "label": "Forge equipment classification and recycling safety",
   "entry": "index.html",
   "files": [
     {
@@ -28,8 +28,8 @@
     },
     {
       "path": "equipment.css",
-      "sha256": "a7e19605a5daf6ebfb57c50fdef783fd2132e948a68635c1780aa3c31e71a3b0",
-      "bytes": 3071
+      "sha256": "fa46d3afad24be62cd85429535ca3bc18b98b6c2491ba0fcd2215f32d9ff3dda",
+      "bytes": 3653
     },
     {
       "path": "expedition-asset-paths.js",
@@ -1848,8 +1848,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "cf65b76f71f3b2f2e45f050d16d17b8cef19874461c768c519d9ab6d7704bae4",
-      "bytes": 157798
+      "sha256": "3e1c3ebc95b6b27ac78b8b9749f6237b61e27bc00d3aa0a55a2e307b6c2e545d",
+      "bytes": 158668
     },
     {
       "path": "manifest.webmanifest",
@@ -1938,8 +1938,8 @@
     },
     {
       "path": "src/game/equipment-ui.js",
-      "sha256": "bddc44eb43907aa3b2124db44f3c09107ada91911d49f4b0adc3e48580a55bcc",
-      "bytes": 6764
+      "sha256": "9deaac571a465bdae831ed9a522bf7b2323ff4037c8e6bd70ab6221f3529e842",
+      "bytes": 8257
     },
     {
       "path": "src/game/equipment.js",
