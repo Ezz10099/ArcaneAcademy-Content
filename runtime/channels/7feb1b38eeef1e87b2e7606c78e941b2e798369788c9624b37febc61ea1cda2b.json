@@ -375,6 +375,26 @@
       "bytes": 423158
     },
     {
+      "path": "final-assets/battle/approved-rigs/cinder-vale-idle.svg",
+      "sha256": "4d3785b8e087d091d7d9a3b547f7eaef58bb88de0a77739eaeec528c0922ff31",
+      "bytes": 132933
+    },
+    {
+      "path": "final-assets/battle/approved-rigs/cinder-vale-portrait.svg",
+      "sha256": "0ebe3516ad73ff2fd11f701c1e762a9e88e30fffc2fb42af267f30f5aad3b833",
+      "bytes": 132891
+    },
+    {
+      "path": "final-assets/battle/approved-rigs/forest-scout-idle.svg",
+      "sha256": "67e879f703663ffa8853f86298eac1fa78205fce2531558455464d462135b8a1",
+      "bytes": 240672
+    },
+    {
+      "path": "final-assets/battle/approved-rigs/forest-scout-portrait.svg",
+      "sha256": "25167b1f53fb42600ddd0459daba755ea82e1386bdf6849e165b05c1093fd005",
+      "bytes": 240631
+    },
+    {
       "path": "final-assets/battle/atmosphere/amber-mote.webp",
       "sha256": "1c88dd4ed12db0dcbd2ccb27f71831ae8d37311dae31591307ae7b3d560a7aaf",
       "bytes": 1866
@@ -1871,8 +1891,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "4d70ef5bdb69eb62080370ad5a862452b8c67052ee18da0715cebf27f81d3e04",
-      "bytes": 171381
+      "sha256": "0df1b46e346c75199c8c91300be0fc2e57f482f9cd3ff831036ed2eef7b4ed8b",
+      "bytes": 171886
     },
     {
       "path": "manifest.webmanifest",
@@ -1905,14 +1925,19 @@
       "sha256": "cf47204ba0be5397be46062d935d3739b5b91cd55d972d6fb0efc67ff9472d10"
     },
     {
+      "path": "src/battle/approved-character-art.js",
+      "sha256": "1ab845a332bccddb15ac3278284be3921105c9e1510f933d9511bd358a07ee13",
+      "bytes": 1098
+    },
+    {
       "path": "src/battle/location-battle-art.js",
       "sha256": "9f2c45963a233173a08dd4b5c2c6e3e06ad2dbed691496c637179dbdba1f6f33",
       "bytes": 2578
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "9055635b561992e9e53a01cc7078210eb56c377fca1031719d7a51a71b7bab67",
-      "bytes": 133703
+      "sha256": "cc99c4ead16a60497cc42a1944038ee8faf9a51eb4a447f3e8d3e472ef01419f",
+      "bytes": 136792
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1936,8 +1961,8 @@
     },
     {
       "path": "src/battle/stage1-rig-view.js",
-      "sha256": "3452a78b7518afeceec7b20e47481e9ba261e2e4bfba4d8de5258adb1c1e7355",
-      "bytes": 3113
+      "sha256": "e137fd370aa64e165040e6019385726301436e45a1fdb6f4b4f8f7223adcb4fd",
+      "bytes": 3340
     },
     {
       "path": "src/battle/vfx/CharacterRig.js",
@@ -1951,8 +1976,8 @@
     },
     {
       "path": "src/game/archive.js",
-      "sha256": "a0ccf61caeb6fd8c59cd89d37539cce4aac212a3332962ff0e49e24e479a376d",
-      "bytes": 5272
+      "sha256": "12faf6b02494fa844016d969d75d2ec871b655289f409e2da1dec4140ea1722d",
+      "bytes": 5373
     },
     {
       "path": "src/game/campaign-balance.js",
@@ -2035,6 +2060,6 @@
       "bytes": 401696
     }
   ],
-  "version": 228,
-  "label": "Stage 1 - approved rig for all abilities"
+  "version": 229,
+  "label": "Cinder Vale and Forest Scout - all stages and screens"
 }
