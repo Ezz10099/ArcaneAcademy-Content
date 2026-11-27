@@ -375,9 +375,14 @@
       "bytes": 423158
     },
     {
+      "path": "final-assets/battle/approved-rigs/cinder-vale-idle-animated.svg",
+      "sha256": "44481354a7730114a9885b6ab482e65e5403dd4eead7d9789a62278bf5275258",
+      "bytes": 199958
+    },
+    {
       "path": "final-assets/battle/approved-rigs/cinder-vale-idle.svg",
-      "sha256": "4d3785b8e087d091d7d9a3b547f7eaef58bb88de0a77739eaeec528c0922ff31",
-      "bytes": 132933
+      "sha256": "abf7a22fb3ffb8dc68b8a15d42dc9b7b4de6ebdfd96e585ff66e8b4877bbca2e",
+      "bytes": 177507
     },
     {
       "path": "final-assets/battle/approved-rigs/cinder-vale-portrait.svg",
@@ -1686,8 +1691,8 @@
     },
     {
       "path": "final-assets/trainees/cinder-vale-card.webp",
-      "sha256": "cc12e8b0bba9e84ffd018632cacfc23efb54ace50c6ec6a89c0d57c23336bc2f",
-      "bytes": 20248
+      "sha256": "cdfb8708a51e0670000f9c25309a8974beeaaca308b6ce8ec158e32a18a94094",
+      "bytes": 24328
     },
     {
       "path": "final-assets/trainees/cinder-vale-showcase.webp",
@@ -1891,8 +1896,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "0df1b46e346c75199c8c91300be0fc2e57f482f9cd3ff831036ed2eef7b4ed8b",
-      "bytes": 171886
+      "sha256": "6d5d7e5303b0cdf6fc8eadc846ec430bba26a2d2f2ff13c5c36ba5a6e28060b5",
+      "bytes": 168733
     },
     {
       "path": "manifest.webmanifest",
@@ -1926,8 +1931,8 @@
     },
     {
       "path": "src/battle/approved-character-art.js",
-      "sha256": "1ab845a332bccddb15ac3278284be3921105c9e1510f933d9511bd358a07ee13",
-      "bytes": 1098
+      "sha256": "43093c8f9d27afe3d013076f96de571b9fcbd48e65aa32f6d30f7b1f394a3973",
+      "bytes": 1160
     },
     {
       "path": "src/battle/location-battle-art.js",
@@ -1936,8 +1941,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "ab584739c42e23a2a14e1159194bec78896280d556af3349be1d78a2bbfa38d7",
-      "bytes": 144513
+      "sha256": "60d5e8d4319f1a7abf64c2f1d253362074d300ab0e5f760028c12fb2c1e03ce6",
+      "bytes": 144610
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1956,8 +1961,8 @@
     },
     {
       "path": "src/battle/stage1-rig-data.js",
-      "sha256": "dc3bde91ce00ae98ae9edf61cd3d51ec8aee1144a5aa2aa0706b9e4a232e0f62",
-      "bytes": 402218
+      "sha256": "d0e2c628221e23987a7639c44b17c73039f92ff7e21afe0b9b355e8e3dfc0eba",
+      "bytes": 446374
     },
     {
       "path": "src/battle/stage1-rig-view.js",
@@ -2060,6 +2065,6 @@
       "bytes": 401696
     }
   ],
-  "version": 231,
-  "label": "Earlier battle entrances and slower running"
+  "version": 232,
+  "label": "Cinder Vale - fire sword and corrected shield"
 }
