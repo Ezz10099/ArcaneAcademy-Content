@@ -356,8 +356,8 @@
     },
     {
       "path": "final-assets/audio/README.md",
-      "sha256": "94006401a1365daeb89380658332c1e742e6e784b5783de8b2fa8fcaa06b6632",
-      "bytes": 3382
+      "sha256": "ef5d903084f5ac9f9744dbde5eb9608cd2a802444a86747ffac2c22d823cf894",
+      "bytes": 3340
     },
     {
       "path": "final-assets/audio/academy.ogg",
@@ -370,9 +370,69 @@
       "bytes": 124135
     },
     {
+      "path": "final-assets/audio/cinder-blazing-charge.mp3",
+      "sha256": "1f3b9d79af9db6bd6d0c08a06795b0821263c7788882e16c0980be38a82e6dc1",
+      "bytes": 18852
+    },
+    {
+      "path": "final-assets/audio/cinder-defeat.mp3",
+      "sha256": "74fbce9a1ee5625afe420854c66a283a751d720e876a42d11fbc481b9a5bb5c6",
+      "bytes": 8821
+    },
+    {
+      "path": "final-assets/audio/cinder-heated-guard.mp3",
+      "sha256": "bff07cdaf6dbaf36feeb871ce172e49a386678a4fe7c90b453b30676d53b3ab4",
+      "bytes": 21359
+    },
+    {
+      "path": "final-assets/audio/cinder-hit-armor.mp3",
+      "sha256": "3589d849d6d7a9216c5a1ff34733107669c296a803f35e3275de971ee2cb6b41",
+      "bytes": 9239
+    },
+    {
+      "path": "final-assets/audio/cinder-shield-block.mp3",
+      "sha256": "6f5fceea2fb86bae9eef235d7e99f9ef6b6c286e6b0c74e8fce17e37916017b5",
+      "bytes": 7567
+    },
+    {
+      "path": "final-assets/audio/cinder-sword-slash.mp3",
+      "sha256": "dc3a30b0dad27655a37c8376c356e365d54b93b9099de7d683fab842d2d88328",
+      "bytes": 13000
+    },
+    {
       "path": "final-assets/audio/expedition.ogg",
       "sha256": "b92f23c4b80ff9abc870c97ba29cc971e89d36457967d482a290e3406e0f60ce",
       "bytes": 423158
+    },
+    {
+      "path": "final-assets/audio/footstep-grass.mp3",
+      "sha256": "7f1e8c5c6c1e19e820a3b51c494b86cd45c7e32e89394bcff72b9ead49891c75",
+      "bytes": 3805
+    },
+    {
+      "path": "final-assets/audio/scout-assault.mp3",
+      "sha256": "d46ee758fba9c15150c09ba3256967727fff2cbea3b0df76a53b17f10c54c67d",
+      "bytes": 10911
+    },
+    {
+      "path": "final-assets/audio/scout-claw-strike.mp3",
+      "sha256": "8f3438b74d398169d3d1b355642dd3f65440c1c54b63182075cd361eed11303e",
+      "bytes": 5477
+    },
+    {
+      "path": "final-assets/audio/scout-defeat.mp3",
+      "sha256": "aad9086fe7b56dfa8a36d26807b2a833e257357d0b3a49f098d5e1e8456b20ea",
+      "bytes": 10493
+    },
+    {
+      "path": "final-assets/audio/scout-hit-bark.mp3",
+      "sha256": "5d2a3de17c65e693a58545c82b9185588dd443171742550cb2ab7523e742e7c3",
+      "bytes": 7985
+    },
+    {
+      "path": "final-assets/audio/scout-surge.mp3",
+      "sha256": "69f05e3dd36be8742acd3936e0dcba968e4c82a9d877cb7a4e1d53a0b1bb14d6",
+      "bytes": 15508
     },
     {
       "path": "final-assets/battle/approved-rigs/cinder-vale-idle-animated.svg",
@@ -1695,6 +1755,11 @@
       "bytes": 24328
     },
     {
+      "path": "final-assets/trainees/cinder-vale-portrait.jpg",
+      "sha256": "85fdbcaec332df276c56c501bca3d39fa9e32b8e1c88c9a3db424a7c5d741d93",
+      "bytes": 791187
+    },
+    {
       "path": "final-assets/trainees/cinder-vale-showcase.webp",
       "sha256": "8bae4b2b45068c38c6dd690a6a9f1c9290c2772e5773dae3a6f489b682876cd3",
       "bytes": 98502
@@ -1896,8 +1961,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "25d2c1dce5ec171b4d91e28dede3d716a8e3b66042b13e475c86a5e4aed13984",
-      "bytes": 168789
+      "sha256": "44479becb90cd80ee52a11a52e7a937edb4fde9bf851d1ae701d861a4b28500c",
+      "bytes": 168864
     },
     {
       "path": "manifest.webmanifest",
@@ -1931,8 +1996,8 @@
     },
     {
       "path": "src/battle/approved-character-art.js",
-      "sha256": "43093c8f9d27afe3d013076f96de571b9fcbd48e65aa32f6d30f7b1f394a3973",
-      "bytes": 1160
+      "sha256": "c59355d6b08d7aad01b324f7964bf52aab9d863fe4a2d0cecea19542a86ad255",
+      "bytes": 1163
     },
     {
       "path": "src/battle/location-battle-art.js",
@@ -1941,8 +2006,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "3784fe7544374ccff2fa4cbcf8597455791f98c38ee144bfd9f9b56adc05c41f",
-      "bytes": 150478
+      "sha256": "03c95f4404efa037cadb5f7dc1b4997c214308e410d548bb38bbac829a58137b",
+      "bytes": 155169
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1961,8 +2026,8 @@
     },
     {
       "path": "src/battle/stage1-rig-data.js",
-      "sha256": "18ad8ce661f13523b183798c545f034b0802cdd845b1fe568c7ca3cb1b79e2b9",
-      "bytes": 446414
+      "sha256": "3c45d9bd0487a1dc355e90ecf753d4867a4260ed366c7bd5d1896cf139c3411b",
+      "bytes": 448114
     },
     {
       "path": "src/battle/stage1-rig-view.js",
@@ -2036,8 +2101,8 @@
     },
     {
       "path": "src/platform/game-audio.js",
-      "sha256": "9d924be91832bc623c247cc85328478936606a8460e44d137e4db53cacd77ee9",
-      "bytes": 15175
+      "sha256": "fbe82efb56fbfdcb0867b3cca70d15683272b7a965f51adcdc1b506de6f7cd0f",
+      "bytes": 15678
     },
     {
       "path": "src/platform/game-settings.js",
@@ -2065,6 +2130,6 @@
       "bytes": 401696
     }
   ],
-  "version": 236,
-  "label": "Cinder Vale - solar shield blessing"
+  "version": 237,
+  "label": "Cinder and Forest Scout weapon effects and audio"
 }
