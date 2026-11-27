@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 230,
-  "label": "Gemini stress-test effects",
+  "version": 231,
+  "label": "Earlier battle entrances and slower running",
   "entry": "index.html",
   "files": [
     {
@@ -1938,8 +1938,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "10d2a3f9b463e34da5049024b0d7d91e1055fd41684871d3caf986a6b6e067e8",
-      "bytes": 144423
+      "sha256": "ab584739c42e23a2a14e1159194bec78896280d556af3349be1d78a2bbfa38d7",
+      "bytes": 144513
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
