@@ -1936,8 +1936,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "cc99c4ead16a60497cc42a1944038ee8faf9a51eb4a447f3e8d3e472ef01419f",
-      "bytes": 136792
+      "sha256": "10d2a3f9b463e34da5049024b0d7d91e1055fd41684871d3caf986a6b6e067e8",
+      "bytes": 144423
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -2060,6 +2060,6 @@
       "bytes": 401696
     }
   ],
-  "version": 229,
-  "label": "Cinder Vale and Forest Scout - all stages and screens"
+  "version": 230,
+  "label": "Gemini stress-test effects"
 }
