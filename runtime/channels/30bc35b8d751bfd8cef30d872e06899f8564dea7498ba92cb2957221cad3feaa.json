@@ -376,12 +376,12 @@
     },
     {
       "path": "final-assets/battle/approved-rigs/cinder-vale-idle-animated.svg",
-      "sha256": "44481354a7730114a9885b6ab482e65e5403dd4eead7d9789a62278bf5275258",
-      "bytes": 199958
+      "sha256": "2d2c9a0b7a33682168744ed2551b3640bf9d10c51b5ae22ef7d9e4cfc22bc338",
+      "bytes": 199995
     },
     {
       "path": "final-assets/battle/approved-rigs/cinder-vale-idle.svg",
-      "sha256": "abf7a22fb3ffb8dc68b8a15d42dc9b7b4de6ebdfd96e585ff66e8b4877bbca2e",
+      "sha256": "456fdcba2aaac51386c11d05353e83f6c3cfa2fcb3813bbcffe86c6ea7a17f4a",
       "bytes": 177507
     },
     {
@@ -1941,8 +1941,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "6cfe5955a38edbff01127adea29612fdebbdc4b7cff6115b252843d98fbfd1a3",
-      "bytes": 147465
+      "sha256": "3784fe7544374ccff2fa4cbcf8597455791f98c38ee144bfd9f9b56adc05c41f",
+      "bytes": 150478
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1961,8 +1961,8 @@
     },
     {
       "path": "src/battle/stage1-rig-data.js",
-      "sha256": "d0e2c628221e23987a7639c44b17c73039f92ff7e21afe0b9b355e8e3dfc0eba",
-      "bytes": 446374
+      "sha256": "18ad8ce661f13523b183798c545f034b0802cdd845b1fe568c7ca3cb1b79e2b9",
+      "bytes": 446414
     },
     {
       "path": "src/battle/stage1-rig-view.js",
@@ -2065,6 +2065,6 @@
       "bytes": 401696
     }
   ],
-  "version": 235,
-  "label": "Blazing Charge - no self-shield"
+  "version": 236,
+  "label": "Cinder Vale - solar shield blessing"
 }
