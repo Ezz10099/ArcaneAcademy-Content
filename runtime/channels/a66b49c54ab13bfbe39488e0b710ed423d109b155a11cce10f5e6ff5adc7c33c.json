@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 227,
-  "label": "Gemini Stage 1 battle - phone test",
+  "version": 228,
+  "label": "Stage 1 - approved rig for all abilities",
   "entry": "index.html",
   "files": [
     {
@@ -1913,8 +1913,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "71d4cb1923e8cbe2a62c997258462a581bd7408256b8f5a0ba5ff5032a2bb3ed",
-      "bytes": 129668
+      "sha256": "9055635b561992e9e53a01cc7078210eb56c377fca1031719d7a51a71b7bab67",
+      "bytes": 133703
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
