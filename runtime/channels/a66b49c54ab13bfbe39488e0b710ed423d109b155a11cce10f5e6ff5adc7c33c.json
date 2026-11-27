@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 232,
-  "label": "Cinder Vale - fire sword and corrected shield",
+  "version": 233,
+  "label": "Blazing Charge - enemy knockdown",
   "entry": "index.html",
   "files": [
     {
@@ -1943,8 +1943,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "60d5e8d4319f1a7abf64c2f1d253362074d300ab0e5f760028c12fb2c1e03ce6",
-      "bytes": 144610
+      "sha256": "776e31062d986d6e817a9113542107fa2595c927805a552862a8544efc4aa9a0",
+      "bytes": 147301
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
