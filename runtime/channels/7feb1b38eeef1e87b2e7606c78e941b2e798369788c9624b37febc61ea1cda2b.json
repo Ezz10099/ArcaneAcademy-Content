@@ -1896,8 +1896,8 @@
     },
     {
       "path": "main.js",
-      "sha256": "6d5d7e5303b0cdf6fc8eadc846ec430bba26a2d2f2ff13c5c36ba5a6e28060b5",
-      "bytes": 168733
+      "sha256": "25d2c1dce5ec171b4d91e28dede3d716a8e3b66042b13e475c86a5e4aed13984",
+      "bytes": 168789
     },
     {
       "path": "manifest.webmanifest",
@@ -1941,8 +1941,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "6063d611b6493d22a0641673e2d7e62768768cbb0aa21abec1f2cb1ebe49a6e7",
-      "bytes": 147499
+      "sha256": "6cfe5955a38edbff01127adea29612fdebbdc4b7cff6115b252843d98fbfd1a3",
+      "bytes": 147465
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
@@ -1996,8 +1996,8 @@
     },
     {
       "path": "src/game/data.js",
-      "sha256": "b04d319fe4954ad613f5a9be4841705001ed2c985f78f839f4756ba86b7c1dd2",
-      "bytes": 42405
+      "sha256": "086b8fdae7be64fb3d9b4d29223278d0cbc6c917d5ef8e4e088f657a7cb3d179",
+      "bytes": 42378
     },
     {
       "path": "src/game/enemy-balance.js",
@@ -2021,8 +2021,8 @@
     },
     {
       "path": "src/game/game.js",
-      "sha256": "3cfb6149927c774fe446b95e426f28af1f519978ebd30db06d9e8e0769b43622",
-      "bytes": 92654
+      "sha256": "edcab76e27ea6e92b79893ea6541e4c8333b1534121b4fd1c27a450f1aa1fac2",
+      "bytes": 92790
     },
     {
       "path": "src/game/recurring-quests.js",
@@ -2065,6 +2065,6 @@
       "bytes": 401696
     }
   ],
-  "version": 234,
-  "label": "Heated Guard circle only"
+  "version": 235,
+  "label": "Blazing Charge - no self-shield"
 }
