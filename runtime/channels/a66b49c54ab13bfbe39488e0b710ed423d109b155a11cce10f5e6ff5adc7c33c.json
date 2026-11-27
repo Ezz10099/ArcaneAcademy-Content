@@ -2,8 +2,8 @@
   "schema": 2,
   "engine": 2,
   "shellId": "a66b49c54ab13bfbe39488e0b710ed423d109b155a11cce10f5e6ff5adc7c33c",
-  "version": 233,
-  "label": "Blazing Charge - enemy knockdown",
+  "version": 234,
+  "label": "Heated Guard circle only",
   "entry": "index.html",
   "files": [
     {
@@ -1943,8 +1943,8 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "776e31062d986d6e817a9113542107fa2595c927805a552862a8544efc4aa9a0",
-      "bytes": 147301
+      "sha256": "6063d611b6493d22a0641673e2d7e62768768cbb0aa21abec1f2cb1ebe49a6e7",
+      "bytes": 147499
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
