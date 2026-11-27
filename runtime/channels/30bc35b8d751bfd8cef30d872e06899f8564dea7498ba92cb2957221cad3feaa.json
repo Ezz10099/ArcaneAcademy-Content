@@ -1911,13 +1911,33 @@
     },
     {
       "path": "src/battle/phaser-battle-renderer.js",
-      "sha256": "86026c9fd17ce86a828f34ff1fd5cb8d0f786ac5a99765887b48b75a10f0d6fe",
-      "bytes": 122195
+      "sha256": "71d4cb1923e8cbe2a62c997258462a581bd7408256b8f5a0ba5ff5032a2bb3ed",
+      "bytes": 129668
     },
     {
       "path": "src/battle/phaser-renderer-proof.js",
       "sha256": "c3b6e90b97f9a94244e98968b82d9c16680a9bdf54ae5c017f8493c7ff127e6a",
       "bytes": 11500
+    },
+    {
+      "path": "src/battle/stage1-animation-player.js",
+      "sha256": "9db11ae5a65c1901b4ee6036f862221de761e6a2ab329531833c8caf1a5fbd20",
+      "bytes": 7254
+    },
+    {
+      "path": "src/battle/stage1-rig-core.js",
+      "sha256": "5a0c58e7f19cbb23fad63e5da7b80f199740d4caad94a8c0a98daafa3341a5eb",
+      "bytes": 5289
+    },
+    {
+      "path": "src/battle/stage1-rig-data.js",
+      "sha256": "dc3bde91ce00ae98ae9edf61cd3d51ec8aee1144a5aa2aa0706b9e4a232e0f62",
+      "bytes": 402218
+    },
+    {
+      "path": "src/battle/stage1-rig-view.js",
+      "sha256": "3452a78b7518afeceec7b20e47481e9ba261e2e4bfba4d8de5258adb1c1e7355",
+      "bytes": 3113
     },
     {
       "path": "src/battle/vfx/CharacterRig.js",
@@ -2015,6 +2035,6 @@
       "bytes": 401696
     }
   ],
-  "version": 226,
-  "label": "Cinder grounded run and straight punch"
+  "version": 227,
+  "label": "Gemini Stage 1 battle - phone test"
 }
